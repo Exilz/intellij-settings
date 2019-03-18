@@ -1,0 +1,5 @@
+<application>
+  <component name="PomodoroSettings">
+    <option pomodoroLengthInMinutes="pomodoroDuration" value="20" />
+  </component>
+</application>

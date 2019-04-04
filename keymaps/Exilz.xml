@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+<keymap version="1" name="Exilz" parent="Mac OS X 10.5+">
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
     <keyboard-shortcut first-keystroke="shift alt back_space" />
@@ -60,6 +60,9 @@
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="meta numpad0" />
   </action>
+  <action id="EditorSplitLine">
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
   <action id="EditorTextEnd">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
@@ -88,6 +91,12 @@
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta l" />

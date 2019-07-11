@@ -77,6 +77,7 @@
   </action>
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="meta equals" />
+    <keyboard-shortcut first-keystroke="meta semicolon" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />

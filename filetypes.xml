@@ -11,6 +11,7 @@
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
+      <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
       <mapping pattern="Podfile" type="PLAIN_TEXT" />
       <mapping pattern="Matchfile" type="PLAIN_TEXT" />
       <mapping ext="style" type="PLAIN_TEXT" />

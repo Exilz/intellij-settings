@@ -104,9 +104,7 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
   <action id="GotoRelated" />
-  <action id="GotoSymbol">
-    <keyboard-shortcut first-keystroke="shift meta r" />
-  </action>
+  <action id="GotoSymbol" />
   <action id="Images.Editor.ZoomIn">
     <keyboard-shortcut first-keystroke="meta equals" />
   </action>
@@ -139,6 +137,9 @@
   <action id="Replace" />
   <action id="ReplaceInPath" />
   <action id="Rerun" />
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="RunDashboard.CopyConfiguration">
     <keyboard-shortcut first-keystroke="meta j" />
   </action>

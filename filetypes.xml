@@ -19,7 +19,6 @@
       <mapping ext="style" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
-      <mapping ext="ejs" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

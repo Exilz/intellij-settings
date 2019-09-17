@@ -1,10 +1,10 @@
 <scheme name="_@user_Atom One Dark" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-06-13T16:10:13</property>
+    <property name="created">2019-09-17T09:39:43</property>
     <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-09-16T10:44:48</property>
+    <property name="ideVersion">2019.2.1.0.0</property>
+    <property name="modified">2019-09-17T10:29:02</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -42,9 +42,6 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff79c6" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff79c6" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff79c6" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="50fa7b" />
     <option name="FILESTATUS_MERGED" value="bd93f9" />
     <option name="FILESTATUS_MODIFIED" value="8be9fd" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="8be9fd" />
@@ -1024,11 +1021,15 @@
         <option name="FOREGROUND" value="61aeef" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
+    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value>
         <option name="FOREGROUND" value="e06c75" />
       </value>
     </option>
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.MODULE_KEYWORD">
       <value>
         <option name="FOREGROUND" value="e06c75" />
@@ -1039,6 +1040,7 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
+    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JS.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="e06c75" />
@@ -1060,6 +1062,11 @@
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
+    <option name="JUPYTER_SELECTED_CELL">
+      <value>
+        <option name="BACKGROUND" value="3a3f4b" />
+      </value>
+    </option>
     <option name="KOTLIN_ANNOTATION">
       <value>
         <option name="FOREGROUND" value="c679dd" />
@@ -2115,7 +2122,12 @@
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="12404b" />
+        <option name="BACKGROUND" value="6b727d" />
+      </value>
+    </option>
+    <option name="NOT_USED_ELEMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="6b727d" />
       </value>
     </option>
     <option name="OC.CLASS_REFERENCE">
@@ -2741,7 +2753,6 @@
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="e06c75" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="XPATH.KEYWORD">

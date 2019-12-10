@@ -4,18 +4,12 @@
     <property name="created">2018-12-20T11:28:58</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2019-08-19T17:54:06</property>
+    <property name="modified">2019-12-10T19:57:12</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.9" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Hack" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
-  </font>
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Fira Code Light" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
@@ -484,6 +478,11 @@
     <option name="JS.KEYWORD">
       <value>
         <option name="FOREGROUND" value="ff79c6" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="JS.PARAMETER">

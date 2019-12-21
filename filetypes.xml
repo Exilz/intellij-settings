@@ -10,13 +10,13 @@
       <mapping pattern=".env.staging" type="PLAIN_TEXT" />
       <mapping pattern=".lintstagedrc" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
+      <mapping pattern="Matchfile" type="PLAIN_TEXT" />
       <mapping pattern=".sentryclirc" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="Matchfile" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="docker/mailcatcher/Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping ext="style" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />

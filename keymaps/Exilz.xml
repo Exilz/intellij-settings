@@ -31,7 +31,6 @@
   <action id="Console.TableResult.NavigateAction">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
-  <action id="Console.TableResult.Reload" />
   <action id="DatabaseView.CopyAction">
     <keyboard-shortcut first-keystroke="meta j" />
   </action>
@@ -133,7 +132,9 @@
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
-  <action id="Refresh" />
+  <action id="Refresh">
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
   <action id="Replace" />
   <action id="ReplaceInPath" />
   <action id="Rerun" />

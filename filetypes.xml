@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Fastfile" type="Ruby" />
+      <mapping pattern="Appfile" type="Ruby" />
+      <mapping pattern="Matchfile" type="Ruby" />
+    </extensionMap>
+  </component>
+</application>

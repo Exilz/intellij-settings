@@ -1,0 +1,137 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>done</entry>
+        <entry>this.store</entry>
+        <entry>settin</entry>
+        <entry>extends</entry>
+        <entry>didMount</entry>
+        <entry>DidMount</entry>
+      </history-search>
+      <history-cmd>
+        <entry>gwip</entry>
+        <entry>marks</entry>
+        <entry>w</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/exerciseVideos/get.test.ts" timestamp="1590765093949">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="31" column="14" />
+        <mark key="]" line="31" column="15" />
+        <mark key="^" line="31" column="15" />
+        <mark key="." line="31" column="14" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590766726596">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/oneSignal.ts" timestamp="1590765828486">
+        <mark key="a" line="69" column="2" />
+        <mark key="j" line="70" column="18" />
+        <mark key="[" line="148" column="78" />
+        <mark key="k" line="96" column="16" />
+        <mark key="]" line="148" column="90" />
+        <mark key="m" line="96" column="16" />
+        <mark key="." line="148" column="89" />
+        <mark key="^" line="148" column="90" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/package.json" timestamp="1590766234369" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/package.json" timestamp="1590766413507">
+        <mark key="[" line="100" column="42" />
+        <mark key="k" line="100" column="3" />
+        <mark key="]" line="100" column="43" />
+        <mark key="m" line="100" column="3" />
+        <mark key="^" line="100" column="43" />
+        <mark key="." line="100" column="42" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/.eslintrc.js" timestamp="1590766585956">
+        <mark key="'" line="37" column="21" />
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="31" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="7" column="30" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/.eslintignore" timestamp="1590766271254">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/index.tsx" timestamp="1590766780226">
+        <mark key="'" line="180" column="0" />
+        <mark key="[" line="164" column="37" />
+        <mark key="]" line="164" column="51" />
+        <mark key="." line="164" column="50" />
+        <mark key="^" line="164" column="51" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="8" column="0" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/exerciseVideos/get.test.ts" />
+      <jump line="12" column="0" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/exerciseVideos/get.test.ts" />
+      <jump line="21" column="0" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/exerciseVideos/get.test.ts" />
+      <jump line="38" column="0" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/exerciseVideos/get.test.ts" />
+      <jump line="29" column="0" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/exerciseVideos/get.test.ts" />
+      <jump line="33" column="60" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/exerciseVideos/get.test.ts" />
+      <jump line="30" column="33" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/exerciseVideos/get.test.ts" />
+      <jump line="43" column="91" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/exerciseVideos/get.test.ts" />
+      <jump line="13" column="17" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/exerciseVideos/get.test.ts" />
+      <jump line="19" column="4" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/exerciseVideos/get.test.ts" />
+      <jump line="22" column="16" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/exerciseVideos/get.test.ts" />
+      <jump line="27" column="23" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/exerciseVideos/get.test.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/exerciseVideos/get.test.ts" />
+      <jump line="48" column="0" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/exerciseVideos/get.test.ts" />
+      <jump line="165" column="70" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="493" column="33" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="29" column="48" filename="$USER_HOME$/Development/api.meliorence.com/.eslintrc.js" />
+      <jump line="39" column="21" filename="$USER_HOME$/Development/api.meliorence.com/.eslintrc.js" />
+      <jump line="180" column="0" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Lm5leHQK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y292ZXJhZ2UK</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">Pg==</text>
+      </register>
+      <register name="/" type="4">
+        <text>DidMount</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>DidMount</last-search>
+      <last-offset />
+      <last-pattern>DidMount</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="true" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>

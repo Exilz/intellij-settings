@@ -72,11 +72,6 @@
         <mark key="^" line="7" column="31" />
         <mark key="." line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/.eslintignore" timestamp="1590766271254">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/app.nuli/src/components/Header.tsx" timestamp="1590770044326" />
       <file name="$USER_HOME$/Development/app.nuli/src/components/Blog/BlogCarousel.tsx" timestamp="1590769271137">
         <mark key="[" line="1" column="7" />
@@ -130,6 +125,12 @@
         <mark key="]" line="78" column="66" />
         <mark key="." line="78" column="66" />
         <mark key="^" line="78" column="70" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/components/OngoingWorkoutBadge.tsx" timestamp="1590770069331">
+        <mark key="[" line="111" column="45" />
+        <mark key="]" line="111" column="60" />
+        <mark key="^" line="111" column="60" />
+        <mark key="." line="111" column="59" />
       </file>
     </filemarks>
     <jumps>

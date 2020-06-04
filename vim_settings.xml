@@ -40,19 +40,26 @@
       <file name="/console" timestamp="1591191155465">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/SubscriptionManager.ts" timestamp="1591261688895">
+        <mark key="'" line="57" column="25" />
+        <mark key="[" line="131" column="34" />
+        <mark key="]" line="131" column="53" />
+        <mark key="." line="131" column="52" />
+        <mark key="^" line="131" column="53" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1591257184637">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/setting [MySQL - @localhost]" timestamp="1591257125800">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/user_subscription [MySQL - @localhost]" timestamp="1591259084325">
+      <file name="/user_subscription [MySQL - @localhost]" timestamp="1591259483253">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dev.article_i18n" timestamp="1591191155470">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1591259230852">
+      <file name="/JavaScript Console" timestamp="1591259343128">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/migrations/005-genflow-users.js" timestamp="1591191170741">
@@ -73,13 +80,10 @@
       <file name="/dev.setting" timestamp="1591257125827">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dev.SequelizeMeta" timestamp="1591191155456">
+      <file name="/foo.bar" timestamp="1591259483304">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1591259084353">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dev.user_subscription" timestamp="1591259084341">
+      <file name="/dev.user_subscription" timestamp="1591259483280">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1591257149661">
@@ -89,11 +93,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="252e5c1f-189a-4e5c-86d1-2566f707d91f/schema/dev/table/progress_picture.sql" timestamp="1591191436694" />
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/mailchimp.ts" timestamp="1591259339175">
-        <mark key="[" line="62" column="65" />
-        <mark key="]" line="62" column="56" />
-        <mark key="^" line="62" column="56" />
-        <mark key="." line="62" column="55" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/mailchimp.ts" timestamp="1591261910129">
+        <mark key="[" line="72" column="8" />
+        <mark key="]" line="65" column="31" />
+        <mark key="." line="65" column="30" />
+        <mark key="^" line="65" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -126,48 +130,51 @@
       <jump line="132" column="12" filename="$USER_HOME$/Development/app.nuli/src/components/Header.tsx" />
       <jump line="126" column="33" filename="$USER_HOME$/Development/app.nuli/src/components/Header.tsx" />
       <jump line="5" column="15" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
+      <jump line="107" column="3" filename="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/SubscriptionManager.ts" />
+      <jump line="135" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/SubscriptionManager.ts" />
+      <jump line="56" column="25" filename="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/SubscriptionManager.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Former genflow users length</text>
+        <text>InTrialPeriod</text>
       </register>
       <register name="-" type="4">
-        <text>Former genflow users length</text>
+        <text>InTrialPeriod</text>
       </register>
       <register name="/" type="4">
         <text>navigate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICdAdHlwZXNjcmlwdC1lc2xpbnQvbm8tZW1wdHktaW50ZXJmYWNlJzogMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVyZ2VGaWVsZHNbJ1NVQlNUQVRVUyddID0gJ0luVHJpYWxQZXJpb2QnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdAdHlwZXNjcmlwdC0nCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc2lkZTogKF8sIGNoaWxkcmVuLCBjb252ZXJ0ZWRDU1NTdHlsZXMsIHBhc3NQcm9wcykgPT4gewo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW1hZ2VOb2RlPzogYW55Owo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIEB0cy1pZ25vcmUK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZj17KGM6IGFueSkgPT4gKHRoaXMuaW1hZ2VOb2RlID0gYyl9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsvKiAvLyBAdHMtaWdub3JlICovfSAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW50ZXJmYWNlIElQcm9wcyB7fQo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWVyZ2VGaWVsZHNbXQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Lm5leHQK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQ2FuY2VsbGVkIHN1YnNjcmlwdGlvbiA6IGF0IGxlYXN0IG9uZSBzdWJzY3JpcHRpb24gdGhhdCBsYXN0ZWQgbW9yZSB0aGFuIDggZGF5cwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gQ2FuY2VsbGVkIGZyZWUgdHJpYWwgOiBvbmUgc3Vic2NyaXB0aW9uIHRoYXQgbGFzdGVkIGxlc3MgdGhhbiA4IGRheXMK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIE1pc3NpbmdTdWJzY3JpcHRpb24sCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGxldCAK</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">dmFjdGl2ZSA9IGZhbHNlOwogICAgZm9yIChsZXQgaSA9IDA7IGkgPCBzdWJzY3JpcHRpb25zLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgY29uc3QgYWN0aXZlID0gaXNTdWJzY3JpcHRpb25BY3RpdmUoc3Vic2NyaXB0aW9uc1tpXSk7CiAgICAgICAgaWYgKGFjdGl2ZSkgewogICAgICAgICAgICBhY3QKICAgICAgICB9CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -184,7 +191,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />

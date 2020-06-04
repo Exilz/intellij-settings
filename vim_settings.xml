@@ -34,127 +34,66 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/Popup.tsx" timestamp="1590943679608">
-        <mark key="[" line="170" column="50" />
-        <mark key="]" line="170" column="51" />
-        <mark key="^" line="170" column="51" />
-        <mark key="." line="170" column="50" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/Paywall.tsx" timestamp="1590943525441">
-        <mark key="[" line="158" column="40" />
-        <mark key="]" line="158" column="46" />
-        <mark key="^" line="158" column="46" />
-        <mark key="." line="158" column="45" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/ArticlePlaceholder.tsx" timestamp="1590769096845">
-        <mark key="[" line="29" column="22" />
-        <mark key="]" line="29" column="29" />
-        <mark key="^" line="29" column="29" />
-        <mark key="." line="29" column="28" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/Popups/ConfirmPayment.tsx" timestamp="1590943706602">
-        <mark key="[" line="408" column="44" />
-        <mark key="]" line="408" column="60" />
-        <mark key="^" line="408" column="60" />
-        <mark key="." line="408" column="59" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/Blog/BlogCarousel.tsx" timestamp="1590769271137">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="1" column="54" />
-        <mark key="^" line="1" column="54" />
-        <mark key="." line="1" column="53" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/Popups/ExerciseHistory.tsx" timestamp="1590943779802">
-        <mark key="[" line="101" column="27" />
-        <mark key="]" line="101" column="33" />
-        <mark key="^" line="101" column="33" />
-        <mark key="." line="101" column="32" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/.eslintrc.js" timestamp="1590943449806">
-        <mark key="[" line="32" column="29" />
-        <mark key="]" line="32" column="30" />
-        <mark key="." line="32" column="29" />
-        <mark key="^" line="32" column="30" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/Payment/RestoreButton.tsx" timestamp="1590943486997">
-        <mark key="[" line="224" column="44" />
-        <mark key="l" line="224" column="24" />
-        <mark key="]" line="224" column="60" />
-        <mark key="^" line="224" column="60" />
-        <mark key="." line="224" column="59" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/FadeInImage.tsx" timestamp="1590769678986">
-        <mark key="[" line="78" column="66" />
-        <mark key="]" line="78" column="66" />
-        <mark key="." line="78" column="66" />
-        <mark key="^" line="78" column="70" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/OngoingWorkoutBadge.tsx" timestamp="1590770069331">
-        <mark key="[" line="111" column="45" />
-        <mark key="]" line="111" column="60" />
-        <mark key="^" line="111" column="60" />
-        <mark key="." line="111" column="59" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/Popups/CrashPopup.tsx" timestamp="1590943752618">
-        <mark key="[" line="235" column="44" />
-        <mark key="]" line="235" column="60" />
-        <mark key="^" line="235" column="60" />
-        <mark key="." line="235" column="59" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/AppDrawer.tsx" timestamp="1590768991777">
-        <mark key="[" line="517" column="44" />
-        <mark key="]" line="517" column="60" />
-        <mark key="^" line="517" column="60" />
-        <mark key="." line="517" column="59" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/HTMLRenderer.tsx" timestamp="1590943302664">
-        <mark key="'" line="48" column="10" />
-        <mark key="[" line="31" column="33" />
-        <mark key="l" line="31" column="26" />
-        <mark key="]" line="31" column="39" />
-        <mark key="." line="31" column="38" />
-        <mark key="^" line="31" column="39" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/Header.tsx" timestamp="1590943331685">
-        <mark key="'" line="126" column="33" />
-        <mark key="[" line="106" column="27" />
-        <mark key="]" line="106" column="33" />
-        <mark key="^" line="106" column="33" />
-        <mark key="." line="106" column="32" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/ErrorMessage.tsx" timestamp="1590943969772">
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="178" column="43" />
-        <mark key="^" line="178" column="43" />
-        <mark key="." line="178" column="42" />
-      </file>
-      <file name="/" timestamp="1590836469120">
+      <file name="/progress_picture [MySQL - @localhost]" timestamp="1591191411566">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/styles/views/Settings.style.ts" timestamp="1590768724452">
-        <mark key="[" line="21" column="38" />
-        <mark key="]" line="21" column="38" />
-        <mark key="^" line="21" column="38" />
-        <mark key="." line="21" column="37" />
+      <file name="/console" timestamp="1591191155465">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/CardFlip.tsx" timestamp="1590769420727">
-        <mark key="'" line="116" column="0" />
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="9" />
-        <mark key="^" line="1" column="9" />
-        <mark key="." line="1" column="8" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1591257184637">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/Payment/PlanButton.tsx" timestamp="1590943468032">
-        <mark key="[" line="325" column="44" />
-        <mark key="]" line="325" column="60" />
-        <mark key="^" line="325" column="60" />
-        <mark key="." line="325" column="59" />
+      <file name="/setting [MySQL - @localhost]" timestamp="1591257125800">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/AppleSignIn.tsx" timestamp="1590769079708">
-        <mark key="[" line="39" column="24" />
-        <mark key="]" line="39" column="60" />
-        <mark key="^" line="39" column="60" />
-        <mark key="." line="39" column="59" />
+      <file name="/user_subscription [MySQL - @localhost]" timestamp="1591259084325">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dev.article_i18n" timestamp="1591191155470">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1591259230852">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/005-genflow-users.js" timestamp="1591191170741">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="23" />
+        <mark key="." line="9" column="22" />
+        <mark key="^" line="9" column="23" />
+      </file>
+      <file name="/dummy.sql" timestamp="1591191155470">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/article_i18n [MySQL - @localhost]" timestamp="1591191155469">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591258809873">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dev.setting" timestamp="1591257125827">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dev.SequelizeMeta" timestamp="1591191155456">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1591259084353">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dev.user_subscription" timestamp="1591259084341">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1591257149661">
+        <mark key="'" line="5" column="15" />
+      </file>
+      <file name="/dev.progress_picture" timestamp="1591191411604">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="252e5c1f-189a-4e5c-86d1-2566f707d91f/schema/dev/table/progress_picture.sql" timestamp="1591191436694" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/mailchimp.ts" timestamp="1591259339175">
+        <mark key="[" line="62" column="65" />
+        <mark key="]" line="62" column="56" />
+        <mark key="^" line="62" column="56" />
+        <mark key="." line="62" column="55" />
       </file>
     </filemarks>
     <jumps>
@@ -186,15 +125,16 @@
       <jump line="192" column="30" filename="$USER_HOME$/Development/app.nuli/src/components/Header.tsx" />
       <jump line="132" column="12" filename="$USER_HOME$/Development/app.nuli/src/components/Header.tsx" />
       <jump line="126" column="33" filename="$USER_HOME$/Development/app.nuli/src/components/Header.tsx" />
+      <jump line="5" column="15" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ignore</text>
+        <text>Former genflow users length</text>
       </register>
       <register name="-" type="4">
-        <text>ignore</text>
+        <text>Former genflow users length</text>
       </register>
       <register name="/" type="4">
         <text>navigate</text>
@@ -244,7 +184,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />

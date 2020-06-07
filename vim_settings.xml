@@ -23,6 +23,13 @@
         <entry>32</entry>
         <entry>107</entry>
         <entry>w</entry>
+        <entry>14</entry>
+        <entry>10</entry>
+        <entry>1</entry>
+        <entry>set keymap=accents</entry>
+        <entry>set nu! rnu!</entry>
+        <entry>set nu!</entry>
+        <entry>set rnu!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -34,10 +41,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1591258809873">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/progress_picture [MySQL - @localhost]" timestamp="1591191411566">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console" timestamp="1591191155465">
+      <file name="/dev.setting" timestamp="1591257125827">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/SubscriptionManager.ts" timestamp="1591261688895">
@@ -46,6 +56,9 @@
         <mark key="]" line="131" column="53" />
         <mark key="." line="131" column="52" />
         <mark key="^" line="131" column="53" />
+      </file>
+      <file name="/dev.circuit_exercises" timestamp="1591486770052">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1591257184637">
         <mark key="[" line="0" column="0" />
@@ -56,31 +69,7 @@
       <file name="/user_subscription [MySQL - @localhost]" timestamp="1591259483253">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dev.article_i18n" timestamp="1591191155470">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1591259343128">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/005-genflow-users.js" timestamp="1591191170741">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="9" column="23" />
-        <mark key="." line="9" column="22" />
-        <mark key="^" line="9" column="23" />
-      </file>
-      <file name="/dummy.sql" timestamp="1591191155470">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/article_i18n [MySQL - @localhost]" timestamp="1591191155469">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591258809873">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dev.setting" timestamp="1591257125827">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/foo.bar" timestamp="1591259483304">
+      <file name="/foo.bar" timestamp="1591486770053">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dev.user_subscription" timestamp="1591259483280">
@@ -89,15 +78,37 @@
       <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1591257149661">
         <mark key="'" line="5" column="15" />
       </file>
+      <file name="/JavaScript Console" timestamp="1591259343128">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/dev.progress_picture" timestamp="1591191411604">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="252e5c1f-189a-4e5c-86d1-2566f707d91f/schema/dev/table/progress_picture.sql" timestamp="1591191436694" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/005-genflow-users.js" timestamp="1591191170741">
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="23" />
+        <mark key="." line="9" column="22" />
+        <mark key="^" line="9" column="23" />
+      </file>
+      <file name="/circuit_exercises [MySQL - @localhost]" timestamp="1591486770043">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/services/mailchimp.ts" timestamp="1591261910129">
         <mark key="[" line="72" column="8" />
         <mark key="]" line="65" column="31" />
         <mark key="." line="65" column="30" />
         <mark key="^" line="65" column="31" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/crons/rotateWorkoutList.ts" timestamp="1591521671448">
+        <mark key="'" line="5" column="27" />
+        <mark key="[" line="9" column="0" />
+        <mark key="m" line="7" column="2" />
+        <mark key="]" line="9" column="8" />
+        <mark key="^" line="19" column="12" />
+        <mark key="." line="9" column="8" />
+      </file>
+      <file name="/dummy.sql" timestamp="1591191155470">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -133,15 +144,19 @@
       <jump line="107" column="3" filename="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/SubscriptionManager.ts" />
       <jump line="135" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/SubscriptionManager.ts" />
       <jump line="56" column="25" filename="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/SubscriptionManager.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/crons/rotateWorkoutList.ts" />
+      <jump line="29" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/crons/rotateWorkoutList.ts" />
+      <jump line="27" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/crons/rotateWorkoutList.ts" />
+      <jump line="5" column="27" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/crons/rotateWorkoutList.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>InTrialPeriod</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>InTrialPeriod</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>navigate</text>
@@ -177,7 +192,7 @@
         <text encoding="base64">dmFjdGl2ZSA9IGZhbHNlOwogICAgZm9yIChsZXQgaSA9IDA7IGkgPCBzdWJzY3JpcHRpb25zLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgY29uc3QgYWN0aXZlID0gaXNTdWJzY3JpcHRpb25BY3RpdmUoc3Vic2NyaXB0aW9uc1tpXSk7CiAgICAgICAgaWYgKGFjdGl2ZSkgewogICAgICAgICAgICBhY3QKICAgICAgICB9CiAgICB9</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set rnu!</text>
       </register>
     </registers>
   </component>
@@ -191,7 +206,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />

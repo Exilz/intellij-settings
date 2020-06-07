@@ -50,13 +50,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/workout.ts" timestamp="1591541676582" />
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/SubscriptionManager.ts" timestamp="1591261688895">
-        <mark key="'" line="57" column="25" />
-        <mark key="[" line="131" column="34" />
-        <mark key="]" line="131" column="53" />
-        <mark key="." line="131" column="52" />
-        <mark key="^" line="131" column="53" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/models/workout.ts" timestamp="1591545617154">
+        <mark key="[" line="140" column="35" />
+        <mark key="]" line="141" column="39" />
+        <mark key="^" line="141" column="39" />
+        <mark key="." line="141" column="38" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/workout.ts" timestamp="1591546161447">
+        <mark key="[" line="37" column="45" />
+        <mark key="]" line="38" column="41" />
+        <mark key="^" line="38" column="41" />
+        <mark key="." line="38" column="40" />
       </file>
       <file name="/dev.circuit_exercises" timestamp="1591486770052">
         <mark key="[" line="0" column="0" />
@@ -97,6 +101,12 @@
         <mark key="." line="66" column="22" />
         <mark key="^" line="66" column="23" />
       </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/schemas/workoutList.ts" timestamp="1591545546509">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="46" />
+        <mark key="^" line="7" column="46" />
+        <mark key="." line="7" column="45" />
+      </file>
       <file name="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" timestamp="1591543935819">
         <mark key="'" line="187" column="34" />
         <mark key="[" line="296" column="13" />
@@ -110,10 +120,8 @@
         <mark key="." line="51" column="31" />
         <mark key="^" line="31" column="31" />
       </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/getItem.ts" timestamp="1591545739080" />
       <file name="/foo.bar" timestamp="1591486770053">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dev.user_subscription" timestamp="1591259483280">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/utils/navigation.ts" timestamp="1591543948252">
@@ -122,14 +130,11 @@
         <mark key="^" line="21" column="40" />
         <mark key="." line="21" column="39" />
       </file>
-      <file name="/circuit_exercises [MySQL - @localhost]" timestamp="1591486770043">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/mailchimp.ts" timestamp="1591261910129">
-        <mark key="[" line="72" column="8" />
-        <mark key="]" line="65" column="31" />
-        <mark key="." line="65" column="30" />
-        <mark key="^" line="65" column="31" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/workoutList.ts" timestamp="1591546548587">
+        <mark key="[" line="45" column="89" />
+        <mark key="]" line="45" column="111" />
+        <mark key="." line="45" column="110" />
+        <mark key="^" line="45" column="111" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/crons/rotateWorkoutList.ts" timestamp="1591521671448">
         <mark key="'" line="5" column="27" />
@@ -230,8 +235,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -240,41 +245,34 @@
         <text>navigation.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHZhbGlkYXRlRW5kcG9pbnQoCiAgICAgICAgc2VydmVyLAogICAgICAgIHsgbWV0aG9kOiAnR0VUJywgdXJsOiAnL2FwaS92MS93b3Jrb3V0c0xpc3RzJywgaGVhZGVyczogeyBBdXRob3JpemF0aW9uOiB0b2tlbiB9IH0sCiAgICAgICAgZ2V0Q29sbGVjdGlvblNjaGVtYSh3b3Jrb3V0TGlzdE91dHB1dFNjaGVtYSksCiAgICAgICAgMjAwCiAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbW9kZWw6IFdvcmtvdXRDaXJjdWl0LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbW9kZWw6IFdvcmtvdXRDaXJjdWl0LAogICAgICAgICAgICAgICAgaW5jbHVkZTogW3sgbW9kZWw6IENpcmN1aXQsIGluY2x1ZGU6IENpcmN1aXRSZXBvLmluY2x1ZGVSZWFkQXNzb2NpYXRpb24ocmVxKSB9XQogICAgICAgICAgICB9LAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>onst workoutId = workoutRes.id;
-
-    // 3 - Fetch all workoutsLists that have this category slug assigned
-    const validationReq = await server.inject({
-        method: 'GET',
-        url: `/api/v1/workoutsLists/slug/${workoutCategorySlug}`,
-        headers: { Authorization: token }
-    })</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCgoSlNPTi5wYXJzZSh2YWxpZGF0aW9uUmVxLnBheWxvYWQpIGFzIGFueSkuc29tZSgoZmV0Y2hlZFdvcmtvdXQpID0+IGZldGNoZWRXb3Jrb3V0LmlkID09PSB3b3Jrb3V0SWQpKS50b0JlKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluY2x1ZGU6IFt7IG1vZGVsOiBDaXJjdWl0LCBpbmNsdWRlOiBDaXJjdWl0UmVwby5pbmNsdWRlUmVhZEFzc29jaWF0aW9uKHJlcSkgfV0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIDQgLSBNYWtlIHN1cmUgYXQgbGVhc3Qgb25lIG9mIHRob3NlIHdvcmtvdXRzIGlzIHRoZSBvbmUgd2UgZmV0Y2hlZCBpbiB0aGUgZmlyc3Qgc3RlcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vZGVsOiBXb3Jrb3V0Q2lyY3VpdCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHdvcmtvdXQgPSBhd2FpdCBXb3Jrb3V0LmZpbmRPbmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aXQoJ0dFVCAvd29ya291dHMve3dvcmtvdXRJZH0nLCBhc3luYyAoKSA9PiB7CiAgICBjb25zdCB3b3Jrb3V0ID0gYXdhaXQgV29ya291dC5maW5kT25lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyBtb2RlbDogV29ya291dCB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aXQoJ0dFVCAvd29ya291dHM/bGltaXQ9MScsIGFzeQo=</text>
+        <text encoding="base64">ICAgIGM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -291,7 +289,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />

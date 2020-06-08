@@ -50,6 +50,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/workout_category [MySQL - @localhost]" timestamp="1591604207274">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dev.workout_list" timestamp="1591604207283">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/models/workout.ts" timestamp="1591545617154">
         <mark key="[" line="140" column="35" />
         <mark key="]" line="141" column="39" />
@@ -61,45 +67,6 @@
         <mark key="]" line="38" column="41" />
         <mark key="^" line="38" column="41" />
         <mark key="." line="38" column="40" />
-      </file>
-      <file name="/dev.circuit_exercises" timestamp="1591486770052">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/models/workoutCircuit.ts" timestamp="1591544556273">
-        <mark key="[" line="35" column="53" />
-        <mark key="]" line="35" column="54" />
-        <mark key="^" line="35" column="54" />
-        <mark key="." line="35" column="53" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1591544206207">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="19" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="12" column="19" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.json" timestamp="1591541747542">
-        <mark key="'" line="3642" column="6" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1591544561419">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/helpers/validateEndpoint.ts" timestamp="1591542715461">
-        <mark key="[" line="10" column="66" />
-        <mark key="]" line="10" column="52" />
-        <mark key="^" line="10" column="52" />
-        <mark key="." line="10" column="51" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/Training/WeeklyChallenge.tsx" timestamp="1591545044683">
-        <mark key="[" line="114" column="57" />
-        <mark key="]" line="114" column="59" />
-        <mark key="^" line="114" column="59" />
-        <mark key="." line="114" column="58" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/workouts/get.test.ts" timestamp="1591542808386">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="66" column="23" />
-        <mark key="." line="66" column="22" />
-        <mark key="^" line="66" column="23" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/schemas/workoutList.ts" timestamp="1591545546509">
         <mark key="[" line="7" column="34" />
@@ -120,8 +87,28 @@
         <mark key="." line="51" column="31" />
         <mark key="^" line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/getItem.ts" timestamp="1591545739080" />
-      <file name="/foo.bar" timestamp="1591486770053">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/models/workoutCircuit.ts" timestamp="1591544556273">
+        <mark key="[" line="35" column="53" />
+        <mark key="]" line="35" column="54" />
+        <mark key="^" line="35" column="54" />
+        <mark key="." line="35" column="53" />
+      </file>
+      <file name="/foo.bar" timestamp="1591604207284">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1591544206207">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="19" />
+      </file>
+      <file name="/workout_list [MySQL - @localhost]" timestamp="1591604207283">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dev.workout_category" timestamp="1591604207281">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1591544561419">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/utils/navigation.ts" timestamp="1591543948252">
@@ -136,13 +123,23 @@
         <mark key="." line="45" column="110" />
         <mark key="^" line="45" column="111" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/crons/rotateWorkoutList.ts" timestamp="1591521671448">
-        <mark key="'" line="5" column="27" />
-        <mark key="[" line="9" column="0" />
-        <mark key="m" line="7" column="2" />
-        <mark key="]" line="9" column="8" />
-        <mark key="^" line="19" column="12" />
-        <mark key="." line="9" column="8" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/helpers/validateEndpoint.ts" timestamp="1591542715461">
+        <mark key="[" line="10" column="66" />
+        <mark key="]" line="10" column="52" />
+        <mark key="^" line="10" column="52" />
+        <mark key="." line="10" column="51" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/components/Training/WeeklyChallenge.tsx" timestamp="1591545044683">
+        <mark key="[" line="114" column="57" />
+        <mark key="]" line="114" column="59" />
+        <mark key="^" line="114" column="59" />
+        <mark key="." line="114" column="58" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/workouts/get.test.ts" timestamp="1591542808386">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="66" column="23" />
+        <mark key="." line="66" column="22" />
+        <mark key="^" line="66" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -236,7 +233,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBxdWV1ZQo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -248,31 +245,65 @@
         <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbW9kZWw6IFdvcmtvdXRDaXJjdWl0LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBxdWV1ZQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbW9kZWw6IFdvcmtvdXRDaXJjdWl0LAogICAgICAgICAgICAgICAgaW5jbHVkZTogW3sgbW9kZWw6IENpcmN1aXQsIGluY2x1ZGU6IENpcmN1aXRSZXBvLmluY2x1ZGVSZWFkQXNzb2NpYXRpb24ocmVxKSB9XQogICAgICAgICAgICB9LAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">OgogICAgaW1hZ2U6IHJvcmliaW8xNi9hbHBpbmUtc3FzCiAgICBwb3J0czoKICAgICAgLSAiOTMyNDo5MzI0IgogICAgICAtICI5MzI1OjkzMjUiCiAgICBzdGRpbl9vcGVuOiB0cnVlCiAgICB0dHk6IHRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtICI2Mzc5OjYzNzkiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluY2x1ZGU6IFt7IG1vZGVsOiBDaXJjdWl0LCBpbmNsdWRlOiBDaXJjdWl0UmVwby5pbmNsdWRlUmVhZEFzc29jaWF0aW9uKHJlcSkgfV0K</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1vZGVsOiBXb3Jrb3V0Q2lyY3VpdCwK</text>
+        <text encoding="base64">ICAgICAgUkVESVNfSE9TVDogcmVkaXMK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+      <register name="6" type="4">
+        <text>#  webapp:
+#    image: nuli
+#    ports:
+#      - &quot;3000:3000&quot;
+#    environment:
+#      API_PREFIX: /api/v1
+#      API_PORT: 3000
+#      API_DOMAIN: &quot;localhost&quot;
+#      MARIADB_HOST: mariadb
+#      MARIADB_USER: root
+#      MARIADB_PWD: root
+#</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyBtb2RlbDogV29ya291dCB9Cg==</text>
+      <register name="7" type="4">
+        <text>#  webapp:
+#    image: nuli
+#    ports:
+#      - &quot;3000:3000&quot;
+#    environment:
+#      API_PREFIX: /api/v1
+#      API_PORT: 3000
+#      API_DOMAIN: &quot;localhost&quot;
+#      MARIADB_HOST: mariadb
+#      MARIADB_USER: root
+#      MARIADB_PWD: root
+#</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSAiNjM3OTo2Mzc5IgogICAgICBSRURJU19IT1NUOiByZWRpcwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGM7Cg==</text>
+      <register name="9" type="4">
+        <text>#
+#  webapp:
+#    image: nuli
+#    ports:
+#      - &quot;3000:3000&quot;
+#    environment:
+#      API_PREFIX: /api/v1
+#      API_PORT: 3000
+#      API_DOMAIN: &quot;localhost&quot;
+#      MARIADB_HOST: mariadb
+#      MARIADB_USER: root
+#      MARIADB_PWD: root
+#</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -289,7 +320,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />

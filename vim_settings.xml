@@ -23,6 +23,7 @@
         <entry>.map</entry>
         <entry>getParm</entry>
         <entry>navigation.</entry>
+        <entry>FREE</entry>
       </history-search>
       <history-cmd>
         <entry>gwip</entry>
@@ -38,6 +39,7 @@
         <entry>set nu! rnu!</entry>
         <entry>set nu!</entry>
         <entry>set rnu!</entry>
+        <entry>set rnu</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -50,96 +52,84 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/workout_category [MySQL - @localhost]" timestamp="1591604207274">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/queue/index.ts" timestamp="1591954256840" />
+      <file name="/dev.user" timestamp="1591955980516">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/SubscriptionManager.ts" timestamp="1591956369458">
+        <mark key="[" line="123" column="76" />
+        <mark key="]" line="167" column="0" />
+        <mark key="^" line="167" column="0" />
+        <mark key="." line="167" column="0" />
+      </file>
+      <file name="/setting [MySQL - @localhost]" timestamp="1591955949965">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/user_subscription [MySQL - @localhost]" timestamp="1591954917773">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1591956297516">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1591954150634">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dev.workout_list" timestamp="1591604207283">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/models/workout.ts" timestamp="1591545617154">
-        <mark key="[" line="140" column="35" />
-        <mark key="]" line="141" column="39" />
-        <mark key="^" line="141" column="39" />
-        <mark key="." line="141" column="38" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/bootstrap.ts" timestamp="1591956292797">
+        <mark key="[" line="30" column="3" />
+        <mark key="]" line="31" column="32" />
+        <mark key="." line="31" column="31" />
+        <mark key="^" line="31" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/workout.ts" timestamp="1591546161447">
-        <mark key="[" line="37" column="45" />
-        <mark key="]" line="38" column="41" />
-        <mark key="^" line="38" column="41" />
-        <mark key="." line="38" column="40" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/schemas/workoutList.ts" timestamp="1591545546509">
-        <mark key="[" line="7" column="34" />
-        <mark key="]" line="7" column="46" />
-        <mark key="^" line="7" column="46" />
-        <mark key="." line="7" column="45" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" timestamp="1591543935819">
-        <mark key="'" line="187" column="34" />
-        <mark key="[" line="296" column="13" />
-        <mark key="]" line="296" column="13" />
-        <mark key="." line="296" column="12" />
-        <mark key="^" line="296" column="13" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/workoutLists/get.test.ts" timestamp="1591545498039">
-        <mark key="[" line="51" column="31" />
-        <mark key="]" line="51" column="31" />
-        <mark key="." line="51" column="31" />
-        <mark key="^" line="31" column="31" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/models/workoutCircuit.ts" timestamp="1591544556273">
-        <mark key="[" line="35" column="53" />
-        <mark key="]" line="35" column="54" />
-        <mark key="^" line="35" column="54" />
-        <mark key="." line="35" column="53" />
-      </file>
-      <file name="/foo.bar" timestamp="1591604207284">
+      <file name="/dev.setting" timestamp="1591955949977">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1591544206207">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="19" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="12" column="19" />
+      <file name="/IOSSubscriptionManager.ts" timestamp="1591954488452">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="57" />
       </file>
-      <file name="/workout_list [MySQL - @localhost]" timestamp="1591604207283">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/hooks/user.ts" timestamp="1591955723472">
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="13" column="57" />
+        <mark key="^" line="13" column="57" />
+        <mark key="." line="13" column="56" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/IOSSubscriptionManager.ts" timestamp="1591954516363">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="57" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="67" column="4" />
+      </file>
+      <file name="/user [MySQL - @localhost]" timestamp="1591955980505">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dev.workout_category" timestamp="1591604207281">
+      <file name="/foo.bar" timestamp="1591955980525">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1591544561419">
+      <file name="/dev.user_subscription" timestamp="1591954917784">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/navigation.ts" timestamp="1591543948252">
-        <mark key="[" line="20" column="5" />
-        <mark key="]" line="21" column="40" />
-        <mark key="^" line="21" column="40" />
-        <mark key="." line="21" column="39" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/utils/appConfig.ts" timestamp="1591955830087">
+        <mark key="[" line="32" column="26" />
+        <mark key="]" line="33" column="71" />
+        <mark key="^" line="33" column="71" />
+        <mark key="." line="33" column="70" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/workoutList.ts" timestamp="1591546548587">
-        <mark key="[" line="45" column="89" />
-        <mark key="]" line="45" column="111" />
-        <mark key="." line="45" column="110" />
-        <mark key="^" line="45" column="111" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1591955927573">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/helpers/validateEndpoint.ts" timestamp="1591542715461">
-        <mark key="[" line="10" column="66" />
-        <mark key="]" line="10" column="52" />
-        <mark key="^" line="10" column="52" />
-        <mark key="." line="10" column="51" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/Training/WeeklyChallenge.tsx" timestamp="1591545044683">
-        <mark key="[" line="114" column="57" />
-        <mark key="]" line="114" column="59" />
-        <mark key="^" line="114" column="59" />
-        <mark key="." line="114" column="58" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/workouts/get.test.ts" timestamp="1591542808386">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="66" column="23" />
-        <mark key="." line="66" column="22" />
-        <mark key="^" line="66" column="23" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" timestamp="1591955877846">
+        <mark key="'" line="108" column="8" />
+        <mark key="[" line="57" column="51" />
+        <mark key="k" line="47" column="80" />
+        <mark key="]" line="57" column="98" />
+        <mark key="^" line="57" column="98" />
+        <mark key="." line="57" column="97" />
       </file>
     </filemarks>
     <jumps>
@@ -228,50 +218,42 @@
       <jump line="131" column="40" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
       <jump line="132" column="41" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
       <jump line="187" column="34" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
+      <jump line="56" column="12" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
+      <jump line="44" column="95" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
+      <jump line="99" column="8" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBxdWV1ZQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHVzZXIgPSBVc2VyLmZpbmRPbmUoeyB3aGVyZTogeyBlbWFpbDogJ25ld1VzZXIxQHVzZXIuaW8nIH0gfSkK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
-        <text>navigation.</text>
+        <text>FREE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbW9kZWw6IFdvcmtvdXRDaXJjdWl0LAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGV2ZW50OiBJT1NSZWFsVGltZUV2ZW50ID0gKHJlcSBhcyBhbnkpLnBheWxvYWQ7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHVzZXIgPSBVc2VyLmZpbmRPbmUoeyB3aGVyZTogeyBlbWFpbDogJ25ld1VzZXIxQHVzZXIuaW8nIH0gfSkK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICBxdWV1ZQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">OgogICAgaW1hZ2U6IHJvcmliaW8xNi9hbHBpbmUtc3FzCiAgICBwb3J0czoKICAgICAgLSAiOTMyNDo5MzI0IgogICAgICAtICI5MzI1OjkzMjUiCiAgICBzdGRpbl9vcGVuOiB0cnVlCiAgICB0dHk6IHRydWUK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtICI2Mzc5OjYzNzkiCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Iwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgUkVESVNfSE9TVDogcmVkaXMK</text>
-      </register>
-      <register name="6" type="4">
-        <text>#  webapp:
-#    image: nuli
-#    ports:
-#      - &quot;3000:3000&quot;
-#    environment:
-#      API_PREFIX: /api/v1
-#      API_PORT: 3000
-#      API_DOMAIN: &quot;localhost&quot;
-#      MARIADB_HOST: mariadb
-#      MARIADB_USER: root
-#      MARIADB_PWD: root
-#</text>
       </register>
       <register name="7" type="4">
         <text>#  webapp:
@@ -287,12 +269,8 @@
 #      MARIADB_PWD: root
 #</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLSAiNjM3OTo2Mzc5IgogICAgICBSRURJU19IT1NUOiByZWRpcwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>#
-#  webapp:
+      <register name="8" type="4">
+        <text>#  webapp:
 #    image: nuli
 #    ports:
 #      - &quot;3000:3000&quot;
@@ -305,6 +283,9 @@
 #      MARIADB_PWD: root
 #</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgLSAiNjM3OTo2Mzc5IgogICAgICBSRURJU19IT1NUOiByZWRpcwo=</text>
+      </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
@@ -312,9 +293,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>navigation.</last-search>
+      <last-search>FREE</last-search>
       <last-offset />
-      <last-pattern>navigation.</last-pattern>
+      <last-pattern>FREE</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

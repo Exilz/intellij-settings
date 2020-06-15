@@ -38,9 +38,11 @@
         <entry>set keymap=accents</entry>
         <entry>set nu! rnu!</entry>
         <entry>set nu!</entry>
-        <entry>set rnu!</entry>
         <entry>set rnu</entry>
+        <entry>set rnu!</entry>
+        <entry>;w</entry>
         <entry>w</entry>
+        <entry>x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -52,85 +54,80 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/dev.user" timestamp="1591955980516">
+      <file name="/dev.user" timestamp="1592232293101">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/SubscriptionManager.ts" timestamp="1591956369458">
-        <mark key="[" line="123" column="76" />
-        <mark key="]" line="167" column="0" />
-        <mark key="^" line="167" column="0" />
-        <mark key="." line="167" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/nuli.infrastructure/conf/production.json" timestamp="1592211934678">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="7" column="35" />
-        <mark key="^" line="7" column="35" />
-        <mark key="." line="7" column="34" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1592209226853" />
-      <file name="/setting [MySQL - @localhost]" timestamp="1591955949965">
+      <file name="/dev.workout_recovery" timestamp="1592231548444">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/user_subscription [MySQL - @localhost]" timestamp="1592209211281">
+      <file name="$USER_HOME$/Development/app.nuli/src/index.tsx" timestamp="1592230810843">
+        <mark key="[" line="382" column="61" />
+        <mark key="]" line="382" column="41" />
+        <mark key="^" line="382" column="41" />
+        <mark key="." line="382" column="40" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1592229144388">
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="17" column="43" />
+        <mark key="." line="17" column="42" />
+        <mark key="^" line="17" column="43" />
+      </file>
+      <file name="/workout_list [MySQL - @localhost]" timestamp="1592232863609">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1592229089463">
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="17" column="52" />
-        <mark key="." line="17" column="51" />
-        <mark key="^" line="17" column="52" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/014-warmup-stretching.js" timestamp="1592234452729">
+        <mark key="[" line="14" column="60" />
+        <mark key="]" line="14" column="60" />
+        <mark key="^" line="14" column="301" />
+        <mark key="." line="14" column="60" />
       </file>
-      <file name="/JavaScript Console" timestamp="1591978385240">
+      <file name="/dev.workout_generic" timestamp="1592231555954">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/nuli.infrastructure/database.tf" timestamp="1592211870662" />
-      <file name="/Dummy.txt" timestamp="1592228492292">
+      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103630-workout.js" timestamp="1592232594713">
+        <mark key="[" line="25" column="163" />
+        <mark key="]" line="25" column="162" />
+        <mark key="^" line="25" column="162" />
+        <mark key="." line="25" column="161" />
+      </file>
+      <file name="/SequelizeMeta [MySQL - @localhost]" timestamp="1592233455581">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/bootstrap.ts" timestamp="1591956292797">
-        <mark key="[" line="30" column="3" />
-        <mark key="]" line="31" column="32" />
-        <mark key="." line="31" column="31" />
-        <mark key="^" line="31" column="32" />
-      </file>
-      <file name="/dev.setting" timestamp="1591955949977">
+      <file name="/workout_recovery [MySQL - @localhost]" timestamp="1592231548426">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/hooks/user.ts" timestamp="1591955723472">
-        <mark key="[" line="13" column="9" />
-        <mark key="]" line="13" column="57" />
-        <mark key="^" line="13" column="57" />
-        <mark key="." line="13" column="56" />
-      </file>
-      <file name="/user [MySQL - @localhost]" timestamp="1591955980505">
+      <file name="/dev.workout_list" timestamp="1592232863625">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1592209211626">
+      <file name="/workout_category [MySQL - @localhost]" timestamp="1592232393354">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dev.user_subscription" timestamp="1592209211560">
+      <file name="/workout_category_i18n [MySQL - @localhost]" timestamp="1592232988862">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/utils/appConfig.ts" timestamp="1591955830087">
-        <mark key="[" line="32" column="26" />
-        <mark key="]" line="33" column="71" />
-        <mark key="^" line="33" column="71" />
-        <mark key="." line="33" column="70" />
+      <file name="/dev.SequelizeMeta" timestamp="1592233455599">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1591979041965">
-        <mark key="'" line="29" column="2" />
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="4" column="34" />
-        <mark key="^" line="4" column="34" />
-        <mark key="." line="4" column="33" />
+      <file name="/dev.workout_category_i18n" timestamp="1592232988879">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" timestamp="1591979026816">
-        <mark key="'" line="108" column="8" />
-        <mark key="[" line="56" column="26" />
-        <mark key="k" line="47" column="80" />
-        <mark key="]" line="56" column="27" />
-        <mark key="^" line="56" column="27" />
-        <mark key="." line="56" column="26" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103760-workoutList.js" timestamp="1592232837528">
+        <mark key="[" line="45" column="3" />
+        <mark key="]" line="45" column="3" />
+        <mark key="." line="45" column="3" />
+        <mark key="^" line="44" column="94" />
+      </file>
+      <file name="/user [MySQL - @localhost]" timestamp="1592232293086">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1592233455611">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dev.workout_category" timestamp="1592232393368">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/workout_generic [MySQL - @localhost]" timestamp="1592231555934">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -223,73 +220,67 @@
       <jump line="44" column="95" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
       <jump line="99" column="8" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
       <jump line="29" column="2" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
+      <jump line="1" column="29" filename="$USER_HOME$/Development/api.meliorence.com/migrations/014-warmup-stretching.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/Development/api.meliorence.com/migrations/014-warmup-stretching.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>https://api.staging.nuli.app/api/v1/</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>https://api.staging.nuli.app/api/v1/</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>FREE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bGV0IGJhc2VVUkw6IHN0cmluZyA9ICdodHRwczovL2FwaS5zdGFnaW5nLm51bGkuYXBwL2FwaS92MS8nOwo=</text>
+        <text encoding="base64">ICB7CiAgICBpZDogdXVpZHY0KCksCiAgICBzbHVnOiAnd2FybXVwJywKICAgIHdvcmtvdXRDYXRlZ29yeUlkOiB3b3Jrb3V0Q2F0ZWdvcmllcy5yb3dzLmZpbmQoKGNhdGVnb3J5KSA9PiBjYXRlZ29yeS5zbHVnID09PSAnd2FybXVwJykuaWQKICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVzZXIgPSBVc2VyLmZpbmRPbmUoeyB3aGVyZTogeyBlbWFpbDogJ25ld1VzZXIxQHVzZXIuaW8nIH0gfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBxdWV1ZQo=</text>
+        <text encoding="base64">ICAgICAgIGApOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">OgogICAgaW1hZ2U6IHJvcmliaW8xNi9hbHBpbmUtc3FzCiAgICBwb3J0czoKICAgICAgLSAiOTMyNDo5MzI0IgogICAgICAtICI5MzI1OjkzMjUiCiAgICBzdGRpbl9vcGVuOiB0cnVlCiAgICB0dHk6IHRydWUK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIGF3YWl0IHF1ZXJ5SW50ZXJmYWNlLnNlcXVlbGl6ZS5xdWVyeShgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtICI2Mzc5OjYzNzkiCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2FscmVhZHlJbnNlcnRlZCcsIGFscmVhZHlJbnNlcnRlZCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEVycm9yKCdzdG9wJykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgUkVESVNfSE9TVDogcmVkaXMK</text>
+        <text encoding="base64">fTsKCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>#  webapp:
-#    image: nuli
-#    ports:
-#      - &quot;3000:3000&quot;
-#    environment:
-#      API_PREFIX: /api/v1
-#      API_PORT: 3000
-#      API_DOMAIN: &quot;localhost&quot;
-#      MARIADB_HOST: mariadb
-#      MARIADB_USER: root
-#      MARIADB_PWD: root
-#</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>#  webapp:
-#    image: nuli
-#    ports:
-#      - &quot;3000:3000&quot;
-#    environment:
-#      API_PREFIX: /api/v1
-#      API_PORT: 3000
-#      API_DOMAIN: &quot;localhost&quot;
-#      MARIADB_HOST: mariadb
-#      MARIADB_USER: root
-#      MARIADB_PWD: root
-#</text>
+        <text>INSERT INTO workout_category (id, slug, color, targetedArea, createdAt, updatedAt) VALUES ('3664c6da-7333-491a-92e1-caf6d9c33625', 'warmup', '#1f3b76', 0, '2020-06-15 14:54:08', '2020-06-15 14:54:08');
+INSERT INTO workout_category (id, slug, color, targetedArea, createdAt, updatedAt) VALUES ('8c047cf3-8f02-4867-adae-2119ab51b47e', 'stretching', '#482348', 0, '2020-06-15 14:54:08', '2020-06-15 14:54:08');
+INSERT INTO workout_category_i18n (id, sourceId, locale, title) VALUES ('edf48ff1-acd0-11ea-a446-0242ac120004', '3664c6da-7333-491a-92e1-caf6d9c33625', 'en-US', 'Warm up');
+INSERT INTO workout_category_i18n (id, sourceId, locale, title) VALUES ('edf4909d-acd0-11ea-a446-0242ac120004', '3664c6da-7333-491a-92e1-caf6d9c33625', 'zh-TW', '(TW) Warm up');
+INSERT INTO workout_category_i18n (id, sourceId, locale, title) VALUES ('edf4914a-acd0-11ea-a446-0242ac120004', '8c047cf3-8f02-4867-adae-2119ab51b47e', 'en-US', 'Stretching');
+INSERT INTO workout_category_i18n (id, sourceId, locale, title) VALUES ('edf491d9-acd0-11ea-a446-0242ac120004', '8c047cf3-8f02-4867-adae-2119ab51b47e', 'zh-TW', '(TW) Stretching');
+INSERT INTO workout_list (id, slug, currentWorkoutId, workoutCategoryId, createdAt, updatedAt) VALUES ('10a800d9-4a6e-47a1-b5f4-53fc58306344', 'warmup', null, '3664c6da-7333-491a-92e1-caf6d9c33625', '2020-06-15 14:54:08', '2020-06-15 14:54:08');
+INSERT INTO workout_list (id, slug, currentWorkoutId, workoutCategoryId, createdAt, updatedAt) VALUES ('216999f3-d8d4-424b-926f-cd6473a57c6d', 'recovery', null, 'cf471777-82e8-48f1-8c58-c2342943ffe7', '2020-06-15 14:54:08', '2020-06-15 14:54:08');</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLSAiNjM3OTo2Mzc5IgogICAgICBSRURJU19IT1NUOiByZWRpcwo=</text>
+      <register name="9" type="8">
+        <text>dev.
+dev.
+dev.
+dev.
+dev.
+dev.
+dev.
+dev.</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>x</text>
       </register>
     </registers>
   </component>

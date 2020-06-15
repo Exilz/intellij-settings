@@ -52,17 +52,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/nuli.infrastructure/database.tf" timestamp="1592211870662" />
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/bootstrap.ts" timestamp="1591956292797">
-        <mark key="[" line="30" column="3" />
-        <mark key="]" line="31" column="32" />
-        <mark key="." line="31" column="31" />
-        <mark key="^" line="31" column="32" />
-      </file>
       <file name="/dev.user" timestamp="1591955980516">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dev.setting" timestamp="1591955949977">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/SubscriptionManager.ts" timestamp="1591956369458">
@@ -78,11 +68,32 @@
         <mark key="." line="7" column="34" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1592209226853" />
-      <file name="/IOSSubscriptionManager.ts" timestamp="1591954488452">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="57" />
-      </file>
       <file name="/setting [MySQL - @localhost]" timestamp="1591955949965">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/user_subscription [MySQL - @localhost]" timestamp="1592209211281">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1592229089463">
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="52" />
+        <mark key="." line="17" column="51" />
+        <mark key="^" line="17" column="52" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1591978385240">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/nuli.infrastructure/database.tf" timestamp="1592211870662" />
+      <file name="/Dummy.txt" timestamp="1592228492292">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/bootstrap.ts" timestamp="1591956292797">
+        <mark key="[" line="30" column="3" />
+        <mark key="]" line="31" column="32" />
+        <mark key="." line="31" column="31" />
+        <mark key="^" line="31" column="32" />
+      </file>
+      <file name="/dev.setting" timestamp="1591955949977">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/hooks/user.ts" timestamp="1591955723472">
@@ -90,15 +101,6 @@
         <mark key="]" line="13" column="57" />
         <mark key="^" line="13" column="57" />
         <mark key="." line="13" column="56" />
-      </file>
-      <file name="/user_subscription [MySQL - @localhost]" timestamp="1592209211281">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/IOSSubscriptionManager.ts" timestamp="1591954516363">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="57" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="67" column="4" />
       </file>
       <file name="/user [MySQL - @localhost]" timestamp="1591955980505">
         <mark key="[" line="0" column="0" />
@@ -121,9 +123,6 @@
         <mark key="]" line="4" column="34" />
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="33" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1591978385240">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" timestamp="1591979026816">
         <mark key="'" line="108" column="8" />
@@ -229,16 +228,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>small</text>
+        <text>https://api.staging.nuli.app/api/v1/</text>
       </register>
       <register name="-" type="4">
-        <text>small</text>
+        <text>https://api.staging.nuli.app/api/v1/</text>
       </register>
       <register name="/" type="4">
         <text>FREE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGV2ZW50OiBJT1NSZWFsVGltZUV2ZW50ID0gKHJlcSBhcyBhbnkpLnBheWxvYWQ7Cg==</text>
+        <text encoding="base64">bGV0IGJhc2VVUkw6IHN0cmluZyA9ICdodHRwczovL2FwaS5zdGFnaW5nLm51bGkuYXBwL2FwaS92MS8nOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHVzZXIgPSBVc2VyLmZpbmRPbmUoeyB3aGVyZTogeyBlbWFpbDogJ25ld1VzZXIxQHVzZXIuaW8nIH0gfSkK</text>

@@ -52,8 +52,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/queue/index.ts" timestamp="1591954256840" />
+      <file name="$USER_HOME$/Development/nuli.infrastructure/database.tf" timestamp="1592211870662" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/bootstrap.ts" timestamp="1591956292797">
+        <mark key="[" line="30" column="3" />
+        <mark key="]" line="31" column="32" />
+        <mark key="." line="31" column="31" />
+        <mark key="^" line="31" column="32" />
+      </file>
       <file name="/dev.user" timestamp="1591955980516">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dev.setting" timestamp="1591955949977">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/SubscriptionManager.ts" timestamp="1591956369458">
@@ -62,39 +71,28 @@
         <mark key="^" line="167" column="0" />
         <mark key="." line="167" column="0" />
       </file>
-      <file name="/setting [MySQL - @localhost]" timestamp="1591955949965">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Development/nuli.infrastructure/conf/production.json" timestamp="1592211934678">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+        <mark key="." line="7" column="34" />
       </file>
-      <file name="/user_subscription [MySQL - @localhost]" timestamp="1591954917773">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1591956297516">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1591954150634">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dev.workout_list" timestamp="1591604207283">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/bootstrap.ts" timestamp="1591956292797">
-        <mark key="[" line="30" column="3" />
-        <mark key="]" line="31" column="32" />
-        <mark key="." line="31" column="31" />
-        <mark key="^" line="31" column="32" />
-      </file>
-      <file name="/dev.setting" timestamp="1591955949977">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1592209226853" />
       <file name="/IOSSubscriptionManager.ts" timestamp="1591954488452">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="57" />
+      </file>
+      <file name="/setting [MySQL - @localhost]" timestamp="1591955949965">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/hooks/user.ts" timestamp="1591955723472">
         <mark key="[" line="13" column="9" />
         <mark key="]" line="13" column="57" />
         <mark key="^" line="13" column="57" />
         <mark key="." line="13" column="56" />
+      </file>
+      <file name="/user_subscription [MySQL - @localhost]" timestamp="1592209211281">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/IOSSubscriptionManager.ts" timestamp="1591954516363">
         <mark key="[" line="63" column="0" />
@@ -105,10 +103,10 @@
       <file name="/user [MySQL - @localhost]" timestamp="1591955980505">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1591955980525">
+      <file name="/foo.bar" timestamp="1592209211626">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dev.user_subscription" timestamp="1591954917784">
+      <file name="/dev.user_subscription" timestamp="1592209211560">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/utils/appConfig.ts" timestamp="1591955830087">
@@ -117,19 +115,23 @@
         <mark key="^" line="33" column="71" />
         <mark key="." line="33" column="70" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1591955927573">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1591979041965">
+        <mark key="'" line="29" column="2" />
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" timestamp="1591955877846">
+      <file name="/JavaScript Console" timestamp="1591978385240">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" timestamp="1591979026816">
         <mark key="'" line="108" column="8" />
-        <mark key="[" line="57" column="51" />
+        <mark key="[" line="56" column="26" />
         <mark key="k" line="47" column="80" />
-        <mark key="]" line="57" column="98" />
-        <mark key="^" line="57" column="98" />
-        <mark key="." line="57" column="97" />
+        <mark key="]" line="56" column="27" />
+        <mark key="^" line="56" column="27" />
+        <mark key="." line="56" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -221,15 +223,16 @@
       <jump line="56" column="12" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
       <jump line="44" column="95" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
       <jump line="99" column="8" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
+      <jump line="29" column="2" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVzZXIgPSBVc2VyLmZpbmRPbmUoeyB3aGVyZTogeyBlbWFpbDogJ25ld1VzZXIxQHVzZXIuaW8nIH0gfSkK</text>
+      <register name="&quot;" type="4">
+        <text>small</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>small</text>
       </register>
       <register name="/" type="4">
         <text>FREE</text>
@@ -301,7 +304,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />

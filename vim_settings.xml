@@ -93,14 +93,16 @@
       <file name="/SequelizeMeta [MySQL - @localhost]" timestamp="1592233455581">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/workout_recovery [MySQL - @localhost]" timestamp="1592231548426">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/dev.workout_list" timestamp="1592232863625">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/workout_category [MySQL - @localhost]" timestamp="1592232393354">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592235976960">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/workout_category_i18n [MySQL - @localhost]" timestamp="1592232988862">
         <mark key="[" line="0" column="0" />
@@ -226,8 +228,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Q2hhbGxlbmdlcyAmIHJlY292ZXJ5</text>
+      <register name="&quot;" type="2">
+        <text>fix(WorkoutCircuitsDND): use proper circuit id after latest API rework</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Q2hhbGxlbmdlcyAmIHJlY292ZXJ5</text>
@@ -239,38 +241,31 @@
         <text encoding="base64">ICB7CiAgICBpZDogdXVpZHY0KCksCiAgICBzbHVnOiAnd2FybXVwJywKICAgIHdvcmtvdXRDYXRlZ29yeUlkOiB3b3Jrb3V0Q2F0ZWdvcmllcy5yb3dzLmZpbmQoKGNhdGVnb3J5KSA9PiBjYXRlZ29yeS5zbHVnID09PSAnd2FybXVwJykuaWQKICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsgd29ya291dC5pbWFnZSAmJiA8QXZhdGFyIHNyYz17d29ya291dCAmJiB3b3Jrb3V0LmltYWdlLnRodW1ibmFpbFVybH0vPiAgfQo=</text>
+        <text>fix(WorkoutCircuitsDND): use proper circuit id after latest API rework</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>refactor(time): use UTC dates for subscriptions</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIGApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsgd29ya291dC5pbWFnZSAmJiA8QXZhdGFyIHNyYz17d29ya291dCAmJiB3b3Jrb3V0LmltYWdlLnRodW1ibmFpbFVybH0vPiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIGF3YWl0IHF1ZXJ5SW50ZXJmYWNlLnNlcXVlbGl6ZS5xdWVyeShgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2FscmVhZHlJbnNlcnRlZCcsIGFscmVhZHlJbnNlcnRlZCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEVycm9yKCdzdG9wJykK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">fTsKCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>INSERT INTO workout_category (id, slug, color, targetedArea, createdAt, updatedAt) VALUES ('3664c6da-7333-491a-92e1-caf6d9c33625', 'warmup', '#1f3b76', 0, '2020-06-15 14:54:08', '2020-06-15 14:54:08');
-INSERT INTO workout_category (id, slug, color, targetedArea, createdAt, updatedAt) VALUES ('8c047cf3-8f02-4867-adae-2119ab51b47e', 'stretching', '#482348', 0, '2020-06-15 14:54:08', '2020-06-15 14:54:08');
-INSERT INTO workout_category_i18n (id, sourceId, locale, title) VALUES ('edf48ff1-acd0-11ea-a446-0242ac120004', '3664c6da-7333-491a-92e1-caf6d9c33625', 'en-US', 'Warm up');
-INSERT INTO workout_category_i18n (id, sourceId, locale, title) VALUES ('edf4909d-acd0-11ea-a446-0242ac120004', '3664c6da-7333-491a-92e1-caf6d9c33625', 'zh-TW', '(TW) Warm up');
-INSERT INTO workout_category_i18n (id, sourceId, locale, title) VALUES ('edf4914a-acd0-11ea-a446-0242ac120004', '8c047cf3-8f02-4867-adae-2119ab51b47e', 'en-US', 'Stretching');
-INSERT INTO workout_category_i18n (id, sourceId, locale, title) VALUES ('edf491d9-acd0-11ea-a446-0242ac120004', '8c047cf3-8f02-4867-adae-2119ab51b47e', 'zh-TW', '(TW) Stretching');
-INSERT INTO workout_list (id, slug, currentWorkoutId, workoutCategoryId, createdAt, updatedAt) VALUES ('10a800d9-4a6e-47a1-b5f4-53fc58306344', 'warmup', null, '3664c6da-7333-491a-92e1-caf6d9c33625', '2020-06-15 14:54:08', '2020-06-15 14:54:08');
-INSERT INTO workout_list (id, slug, currentWorkoutId, workoutCategoryId, createdAt, updatedAt) VALUES ('216999f3-d8d4-424b-926f-cd6473a57c6d', 'recovery', null, 'cf471777-82e8-48f1-8c58-c2342943ffe7', '2020-06-15 14:54:08', '2020-06-15 14:54:08');</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgIGApOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgIGF3YWl0IHF1ZXJ5SW50ZXJmYWNlLnNlcXVlbGl6ZS5xdWVyeShgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2FscmVhZHlJbnNlcnRlZCcsIGFscmVhZHlJbnNlcnRlZCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEVycm9yKCdzdG9wJykK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">fTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>x</text>

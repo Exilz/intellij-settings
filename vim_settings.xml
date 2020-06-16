@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>handler</entry>
         <entry>navigate</entry>
         <entry>value</entry>
         <entry>position</entry>
@@ -25,6 +24,7 @@
         <entry>api.</entry>
         <entry>onRegistered</entry>
         <entry>onrergistered</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry>gwip</entry>
@@ -100,19 +100,19 @@
       <file name="/setting [MySQL - @localhost]" timestamp="1592315547225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/index.tsx" timestamp="1592299535247">
-        <mark key="'" line="439" column="8" />
-        <mark key="[" line="393" column="8" />
-        <mark key="]" line="393" column="14" />
-        <mark key="^" line="393" column="14" />
-        <mark key="." line="393" column="13" />
+      <file name="$USER_HOME$/Development/app.nuli/src/index.tsx" timestamp="1592316631781">
+        <mark key="'" line="79" column="94" />
+        <mark key="[" line="395" column="90" />
+        <mark key="]" line="395" column="116" />
+        <mark key="^" line="395" column="116" />
+        <mark key="." line="395" column="115" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" timestamp="1592299553656">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="109" column="8" />
-        <mark key="]" line="109" column="14" />
-        <mark key="^" line="109" column="14" />
-        <mark key="." line="109" column="13" />
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" timestamp="1592316960834">
+        <mark key="'" line="15" column="86" />
+        <mark key="[" line="11" column="21" />
+        <mark key="]" line="11" column="20" />
+        <mark key="." line="11" column="19" />
+        <mark key="^" line="11" column="20" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/migrations/014-warmup-stretching.js" timestamp="1592234452729">
         <mark key="[" line="14" column="60" />
@@ -123,11 +123,14 @@
       <file name="/SequelizeMeta [MySQL - @localhost]" timestamp="1592233455581">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/store/modules/influencers.ts" timestamp="1592298974844">
+      <file name="$USER_HOME$/Development/app.nuli/src/store/modules/influencers.ts" timestamp="1592316225078">
         <mark key="'" line="33" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="42" column="43" />
+        <mark key="l" line="45" column="21" />
+        <mark key="]" line="42" column="54" />
+        <mark key="m" line="45" column="21" />
+        <mark key="." line="42" column="53" />
+        <mark key="^" line="42" column="54" />
       </file>
       <file name="/Dummy.txt" timestamp="1592315817053">
         <mark key="[" line="0" column="0" />
@@ -142,14 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="21" filename="$USER_HOME$/Development/api.meliorence.com/.eslintrc.js" />
-      <jump line="180" column="0" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
-      <jump line="116" column="31" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
-      <jump line="103" column="22" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
-      <jump line="69" column="68" filename="$USER_HOME$/Development/app.nuli/src/components/CardFlip.tsx" />
-      <jump line="116" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/CardFlip.tsx" />
-      <jump line="48" column="10" filename="$USER_HOME$/Development/app.nuli/src/components/HTMLRenderer.tsx" />
-      <jump line="141" column="8" filename="$USER_HOME$/Development/app.nuli/src/components/Header.tsx" />
       <jump line="192" column="30" filename="$USER_HOME$/Development/app.nuli/src/components/Header.tsx" />
       <jump line="132" column="12" filename="$USER_HOME$/Development/app.nuli/src/components/Header.tsx" />
       <jump line="126" column="33" filename="$USER_HOME$/Development/app.nuli/src/components/Header.tsx" />
@@ -242,48 +237,61 @@
       <jump line="714" column="24" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
       <jump line="550" column="12" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
+      <jump line="558" column="21" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="615" column="0" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="579" column="0" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="67" column="27" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="74" column="16" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="79" column="94" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="15" column="86" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5wcm9wcy5zZXRMYXN0VG91Y2hVcGRhdGVUaW1lc3RhbXAoRGF0ZS5ub3coKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>lastTouchLink</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>lastTouchLink</text>
       </register>
       <register name="/" type="4">
-        <text>onrergistered</text>
+        <text>update</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y29uc3QgbWFwU3RhdGVUb1Byb3BzID0gKHN0YXRlOiBJUmVkdXhTdGF0ZSkgPT4gKHsKICAgIHVzZXJJZDogc3RhdGUudXNlclByb2ZpbGUuaWQKfSk7</text>
+        <text encoding="base64">IHN0b3JlLmRpc3BhdGNoKHNldExhc3RUb3VjaElkKGxhc3RUb3VjaElkKSk7CiAgICAgICAgICAgIHN0b3JlLmRpc3BhdGNoKHNldExhc3RUb3VjaExpbmsobGFzdFRvdWNoTGluaykpOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5wcm9wcy5zZXRMYXN0VG91Y2hVcGRhdGVUaW1lc3RhbXAoRGF0ZS5ub3coKSk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coeyB1c2VySWQsIGxhc3RUb3VjaElkOiBwYXlsb2FkLmxhc3RUb3VjaElkLCBsYXN0VG91Y2hMaW5rOiBwYXlsb2FkLmxhc3RUb3VjaExpbmsgfSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBkZWxheUV4cGlyZWQgPSBEYXRlLm5vdygpIC0gbGFzdFRvdWNoVXBkYXRlVGltZXN0YW1wID49IEtFRVBfVE9VQ0hfRFVSQVRJT047Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBkZWxheUV4cGlyZWQgPSBEYXRlLm5vdygpIC0gbGFzdFRvdWNoVXBkYXRlVGltZXN0YW1wID49IEtFRVBfVE9VQ0hfRFVSQVRJT047Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VySWQgPSA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VySWQgPSBzdGF0ZT8udXNlclByb2ZpbGU/LmlkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VySWQgPSBzdGF0ZT8udXNlclByb2ZpbGU/LmlkOwo=</text>
+      <register name="6" type="4">
+        <text>lay: number;
+        if (isDebugBundleID() || isStagingBundleID()) {
+            delay = LAST_TOUCH_UPDATE_DELAY_DEBUG;
+        } else {
+            delay = LAST_TOUCH_UPDATE_DELAY;
+        }</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aWYgKGxhc3RUb3VjaElkICYmIGxhc3RUb3VjaExpbmspIHsKICAgICAgICAgICAgY29uc3QgdXNlcklkID0gc3RhdGU/LnVzZXJQcm9maWxlPy5pZDsKICAgICAgICAgICAgYXdhaXQgYXBpLnB1dChFTkRQT0lOVFMudXNlcnMgKyAnLycgKyB1c2VySWQsIHsgbGFzdFRvdWNoSWQsIGxhc3RUb3VjaExpbmsgfSk7CiAgICAgICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5wcm9wcy5zZXRMYXN0VG91Y2hVcGRhdGVUaW1lc3RhbXAoRGF0ZS5ub3coKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc2V0Rmlyc3RUb3VjaElkLCBzZXRGaXJzdFRvdWNoTGluaywgc2V0TGFzdFRvdWNoSWQsIHNldExhc3RUb3VjaExpbmssIHNldExhc3RUb3VjaFVwZGF0ZVBlbmRpbmcgfSBmcm9tICcuL3N0b3JlL21vZHVsZXMvaW5mbHVlbmNlcnMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coeyB1c2VySWQsIGxhc3RUb3VjaElkOiBwYXlsb2FkLmxhc3RUb3VjaElkLCBsYXN0VG91Y2hMaW5rOiBwYXlsb2FkLmxhc3RUb3VjaExpbmsgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxhc3RUb3VjaFVwZGF0ZVBlbmRpbmc6IGJvb2xlYW47Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -292,9 +300,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onrergistered</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>onrergistered</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

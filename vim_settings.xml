@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>didMount</entry>
-        <entry>DidMount</entry>
-        <entry>IProps</entry>
         <entry>handler</entry>
         <entry>navigate</entry>
         <entry>value</entry>
@@ -25,6 +22,9 @@
         <entry>handleDyna</entry>
         <entry>pending</entry>
         <entry>Pending</entry>
+        <entry>api.</entry>
+        <entry>onRegistered</entry>
+        <entry>onrergistered</entry>
       </history-search>
       <history-cmd>
         <entry>gwip</entry>
@@ -42,8 +42,8 @@
         <entry>set rnu</entry>
         <entry>set rnu!</entry>
         <entry>;w</entry>
-        <entry>w</entry>
         <entry>x</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -55,6 +55,36 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Development/app.nuli/src/store/modules/auth.ts" timestamp="1592315498305">
+        <mark key="[" line="446" column="14" />
+        <mark key="]" line="447" column="46" />
+        <mark key="^" line="447" column="46" />
+        <mark key="." line="447" column="45" />
+      </file>
+      <file name="/user_subscription [MySQL - @localhost]" timestamp="1592315583845">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/005-genflow-users.js" timestamp="1592299633486">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="38" column="17" />
+        <mark key="]" line="38" column="76" />
+      </file>
+      <file name="/dev.setting" timestamp="1592315547243">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dev.SequelizeMeta" timestamp="1592233455599">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dev.workout_category_i18n" timestamp="1592232988879">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" timestamp="1592316006493">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="551" column="0" />
+        <mark key="]" line="553" column="45" />
+        <mark key="." line="551" column="0" />
+        <mark key="^" line="590" column="12" />
+      </file>
       <file name="$USER_HOME$/Development/admin.meliorence.com/pages/workoutLists/workoutListDetails.tsx" timestamp="1592235497285">
         <mark key="[" line="119" column="0" />
         <mark key="]" line="130" column="82" />
@@ -67,6 +97,9 @@
         <mark key="^" line="9" column="25" />
         <mark key="." line="9" column="24" />
       </file>
+      <file name="/setting [MySQL - @localhost]" timestamp="1592315547225">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/app.nuli/src/index.tsx" timestamp="1592299535247">
         <mark key="'" line="439" column="8" />
         <mark key="[" line="393" column="8" />
@@ -74,15 +107,12 @@
         <mark key="^" line="393" column="14" />
         <mark key="." line="393" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" timestamp="1592299423404">
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" timestamp="1592299553656">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="^" line="107" column="65" />
-        <mark key="." line="109" column="0" />
-      </file>
-      <file name="/workout_list [MySQL - @localhost]" timestamp="1592232863609">
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="109" column="8" />
+        <mark key="]" line="109" column="14" />
+        <mark key="^" line="109" column="14" />
+        <mark key="." line="109" column="13" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/migrations/014-warmup-stretching.js" timestamp="1592234452729">
         <mark key="[" line="14" column="60" />
@@ -90,19 +120,8 @@
         <mark key="^" line="14" column="301" />
         <mark key="." line="14" column="60" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103630-workout.js" timestamp="1592232594713">
-        <mark key="[" line="25" column="163" />
-        <mark key="]" line="25" column="162" />
-        <mark key="^" line="25" column="162" />
-        <mark key="." line="25" column="161" />
-      </file>
       <file name="/SequelizeMeta [MySQL - @localhost]" timestamp="1592233455581">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/005-genflow-users.js" timestamp="1592297292633">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="38" column="17" />
-        <mark key="]" line="38" column="76" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/store/modules/influencers.ts" timestamp="1592298974844">
         <mark key="'" line="33" column="0" />
@@ -110,54 +129,19 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/dev.workout_list" timestamp="1592232863625">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/workout_category [MySQL - @localhost]" timestamp="1592232393354">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592235976960">
+      <file name="/Dummy.txt" timestamp="1592315817053">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/workout_category_i18n [MySQL - @localhost]" timestamp="1592232988862">
+      <file name="/foo.bar" timestamp="1592315583870">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dev.SequelizeMeta" timestamp="1592233455599">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dev.workout_category_i18n" timestamp="1592232988879">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/GoogleSignIn.tsx" timestamp="1592298310907">
-        <mark key="'" line="164" column="68" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103760-workoutList.js" timestamp="1592232837528">
-        <mark key="[" line="45" column="3" />
-        <mark key="]" line="45" column="3" />
-        <mark key="." line="45" column="3" />
-        <mark key="^" line="44" column="94" />
-      </file>
-      <file name="/foo.bar" timestamp="1592233455611">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dev.workout_category" timestamp="1592232393368">
+      <file name="/dev.user_subscription" timestamp="1592315583859">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="33" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/exerciseVideos/get.test.ts" />
-      <jump line="43" column="91" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/exerciseVideos/get.test.ts" />
-      <jump line="13" column="17" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/exerciseVideos/get.test.ts" />
-      <jump line="19" column="4" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/exerciseVideos/get.test.ts" />
-      <jump line="22" column="16" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/exerciseVideos/get.test.ts" />
-      <jump line="27" column="23" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/exerciseVideos/get.test.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/exerciseVideos/get.test.ts" />
-      <jump line="48" column="0" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/exerciseVideos/get.test.ts" />
-      <jump line="165" column="70" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
-      <jump line="493" column="33" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
-      <jump line="29" column="48" filename="$USER_HOME$/Development/api.meliorence.com/.eslintrc.js" />
       <jump line="39" column="21" filename="$USER_HOME$/Development/api.meliorence.com/.eslintrc.js" />
       <jump line="180" column="0" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
       <jump line="116" column="31" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
@@ -247,59 +231,70 @@
       <jump line="8" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
       <jump line="72" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
+      <jump line="171" column="31" filename="$USER_HOME$/Development/app.nuli/src/components/GoogleSignIn.tsx" />
+      <jump line="24" column="19" filename="$USER_HOME$/Development/app.nuli/src/components/GoogleSignIn.tsx" />
+      <jump line="141" column="37" filename="$USER_HOME$/Development/app.nuli/src/components/FacebookSignIn.tsx" />
+      <jump line="42" column="18" filename="$USER_HOME$/Development/app.nuli/src/components/FacebookSignIn.tsx" />
+      <jump line="547" column="10" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
+      <jump line="592" column="17" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
+      <jump line="684" column="43" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
+      <jump line="695" column="43" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
+      <jump line="714" column="24" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
+      <jump line="550" column="12" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5wcm9wcy5zZXRMYXN0VG91Y2hVcGRhdGVUaW1lc3RhbXAoRGF0ZS5ub3coKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>state?.userProfile?.id</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>Pending</text>
+        <text>onrergistered</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VySWQgPSBzdGF0ZT8udXNlclByb2ZpbGU/LmlkOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">Y29uc3QgbWFwU3RhdGVUb1Byb3BzID0gKHN0YXRlOiBJUmVkdXhTdGF0ZSkgPT4gKHsKICAgIHVzZXJJZDogc3RhdGUudXNlclByb2ZpbGUuaWQKfSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5wcm9wcy5zZXRMYXN0VG91Y2hVcGRhdGVUaW1lc3RhbXAoRGF0ZS5ub3coKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VySWQgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coeyB1c2VySWQsIGxhc3RUb3VjaElkOiBwYXlsb2FkLmxhc3RUb3VjaElkLCBsYXN0VG91Y2hMaW5rOiBwYXlsb2FkLmxhc3RUb3VjaExpbmsgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VySWQgPSBzdGF0ZT8udXNlclByb2ZpbGU/LmlkOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VySWQgPSA7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCB1c2VySWQgPSBzdGF0ZT8udXNlclByb2ZpbGU/LmlkOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCB1c2VySWQgPSBzdGF0ZT8udXNlclByb2ZpbGU/LmlkOwo=</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">aWYgKGxhc3RUb3VjaElkICYmIGxhc3RUb3VjaExpbmspIHsKICAgICAgICAgICAgY29uc3QgdXNlcklkID0gc3RhdGU/LnVzZXJQcm9maWxlPy5pZDsKICAgICAgICAgICAgYXdhaXQgYXBpLnB1dChFTkRQT0lOVFMudXNlcnMgKyAnLycgKyB1c2VySWQsIHsgbGFzdFRvdWNoSWQsIGxhc3RUb3VjaExpbmsgfSk7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IHsgc2V0Rmlyc3RUb3VjaElkLCBzZXRGaXJzdFRvdWNoTGluaywgc2V0TGFzdFRvdWNoSWQsIHNldExhc3RUb3VjaExpbmssIHNldExhc3RUb3VjaFVwZGF0ZVBlbmRpbmcgfSBmcm9tICcuL3N0b3JlL21vZHVsZXMvaW5mbHVlbmNlcnMnOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGxhc3RUb3VjaFVwZGF0ZVBlbmRpbmc6IGJvb2xlYW47Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFtDT05TVEFOVFMuU0VUX0xBU1QK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">X1RPVUNIX1VQREFURV9QRU5ESU5HXTogKHN0YXRlOiBJSW5mbHVlbmNlcnNTdGF0ZSwgeyBwYXlsb2FkIH06IHsgcGF5bG9hZDogYm9vbGVhbiB9KSA9PiAoewogICAgICAgIC4uLnN0YXRlLAogICAgICAgIGxhc3RUb3VjaFVwZGF0ZVBlbmRpbmc6IHBheWxvYWQKICAgIH0pLA==</text>
-      </register>
       <register name=":" type="4">
-        <text>x</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Pending</last-search>
+      <last-search>onrergistered</last-search>
       <last-offset />
-      <last-pattern>Pending</last-pattern>
+      <last-pattern>onrergistered</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

@@ -69,12 +69,12 @@
         <mark key="[" line="38" column="17" />
         <mark key="]" line="38" column="76" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" timestamp="1592385128207">
-        <mark key="'" line="60" column="4" />
-        <mark key="[" line="134" column="16" />
-        <mark key="]" line="134" column="58" />
-        <mark key="^" line="134" column="58" />
-        <mark key="." line="134" column="57" />
+      <file name="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" timestamp="1592386001114">
+        <mark key="'" line="821" column="0" />
+        <mark key="[" line="133" column="70" />
+        <mark key="]" line="133" column="74" />
+        <mark key="." line="133" column="73" />
+        <mark key="^" line="133" column="74" />
       </file>
       <file name="/dev.setting" timestamp="1592315547243">
         <mark key="[" line="0" column="0" />
@@ -121,12 +121,6 @@
         <mark key="." line="43" column="74" />
         <mark key="^" line="43" column="75" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/014-warmup-stretching.js" timestamp="1592234452729">
-        <mark key="[" line="14" column="60" />
-        <mark key="]" line="14" column="60" />
-        <mark key="^" line="14" column="301" />
-        <mark key="." line="14" column="60" />
-      </file>
       <file name="$USER_HOME$/Development/app.nuli/src/store/modules/influencers.ts" timestamp="1592316225078">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="42" column="43" />
@@ -147,11 +141,9 @@
       <file name="/dev.user_subscription" timestamp="1592315583859">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/views/AddCollage.tsx" timestamp="1592385912493" />
     </filemarks>
     <jumps>
-      <jump line="107" column="3" filename="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/SubscriptionManager.ts" />
-      <jump line="135" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/SubscriptionManager.ts" />
-      <jump line="56" column="25" filename="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/SubscriptionManager.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/crons/rotateWorkoutList.ts" />
       <jump line="29" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/crons/rotateWorkoutList.ts" />
       <jump line="27" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/crons/rotateWorkoutList.ts" />
@@ -249,15 +241,18 @@
       <jump line="774" column="29" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
       <jump line="816" column="36" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
       <jump line="60" column="4" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
+      <jump line="134" column="57" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
+      <jump line="681" column="13" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
+      <jump line="820" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Last</text>
+        <text>props</text>
       </register>
       <register name="-" type="4">
-        <text>Last</text>
+        <text>props</text>
       </register>
       <register name="/" type="4">
         <text>lastTouchId</text>
@@ -266,31 +261,31 @@
         <text encoding="base64">ICAgICAgICBhbGVydChgTGFzdCB0b3VjaCBsaW5rIDogJHtsYXN0VG91Y2hMaW5rfSwgbGFzdFRvdWNoSWQ6ICAke2xhc3RUb3VjaElkfWApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxhc3RUb3VjaElkPzogc3RyaW5nOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgIH0pCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGxhc3RUb3VjaElkOiBzdGF0ZS51c2VyUHJvZmlsZT8ubGFzdFRvdWNoSWQK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhc3RUb3VjaFVwZGF0ZVRpbWVzdGFtcDogbnVtYmVyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkZWxheUV4cGlyZWQgPSBEYXRlLm5vdygpIC0gbGFzdFRvdWNoVXBkYXRlVGltZXN0YW1wID49IEtFRVBfVE9VQ0hfRFVSQVRJT047Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkZWxheUV4cGlyZWQgPSBEYXRlLm5vdygpIC0gbGFzdFRvdWNoVXBkYXRlVGltZXN0YW1wID49IEtFRVBfVE9VQ0hfRFVSQVRJT047Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhc3RUb3VjaFVwZGF0ZVRpbWVzdGFtcDogbnVtYmVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkZWxheUV4cGlyZWQgPSBEYXRlLm5vdygpIC0gbGFzdFRvdWNoVXBkYXRlVGltZXN0YW1wID49IEtFRVBfVE9VQ0hfRFVSQVRJT047Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

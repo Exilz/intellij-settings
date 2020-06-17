@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>navigate</entry>
         <entry>value</entry>
         <entry>position</entry>
         <entry>api</entry>
@@ -25,6 +24,7 @@
         <entry>onRegistered</entry>
         <entry>onrergistered</entry>
         <entry>update</entry>
+        <entry>lastTouchId</entry>
       </history-search>
       <history-cmd>
         <entry>gwip</entry>
@@ -69,10 +69,14 @@
         <mark key="[" line="38" column="17" />
         <mark key="]" line="38" column="76" />
       </file>
-      <file name="/dev.setting" timestamp="1592315547243">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" timestamp="1592385128207">
+        <mark key="'" line="60" column="4" />
+        <mark key="[" line="134" column="16" />
+        <mark key="]" line="134" column="58" />
+        <mark key="^" line="134" column="58" />
+        <mark key="." line="134" column="57" />
       </file>
-      <file name="/dev.SequelizeMeta" timestamp="1592233455599">
+      <file name="/dev.setting" timestamp="1592315547243">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" timestamp="1592316006493">
@@ -145,9 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="12" filename="$USER_HOME$/Development/app.nuli/src/components/Header.tsx" />
-      <jump line="126" column="33" filename="$USER_HOME$/Development/app.nuli/src/components/Header.tsx" />
-      <jump line="5" column="15" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
       <jump line="107" column="3" filename="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/SubscriptionManager.ts" />
       <jump line="135" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/SubscriptionManager.ts" />
       <jump line="56" column="25" filename="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/SubscriptionManager.ts" />
@@ -245,6 +246,9 @@
       <jump line="15" column="86" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
       <jump line="31" column="30" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
+      <jump line="774" column="29" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
+      <jump line="816" column="36" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
+      <jump line="60" column="4" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -256,7 +260,7 @@
         <text>Last</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>lastTouchId</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhbGVydChgTGFzdCB0b3VjaCBsaW5rIDogJHtsYXN0VG91Y2hMaW5rfSwgbGFzdFRvdWNoSWQ6ICAke2xhc3RUb3VjaElkfWApOwo=</text>
@@ -295,9 +299,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>update</last-search>
+      <last-search>lastTouchId</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern>lastTouchId</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

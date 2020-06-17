@@ -107,12 +107,12 @@
         <mark key="^" line="395" column="116" />
         <mark key="." line="395" column="115" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" timestamp="1592316960834">
-        <mark key="'" line="15" column="86" />
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="19" />
-        <mark key="^" line="11" column="20" />
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" timestamp="1592383003518">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="109" column="65" />
+        <mark key="." line="109" column="64" />
+        <mark key="^" line="109" column="65" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/migrations/014-warmup-stretching.js" timestamp="1592234452729">
         <mark key="[" line="14" column="60" />
@@ -132,7 +132,7 @@
         <mark key="." line="42" column="53" />
         <mark key="^" line="42" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592315817053">
+      <file name="/Dummy.txt" timestamp="1592382973867">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -145,7 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="30" filename="$USER_HOME$/Development/app.nuli/src/components/Header.tsx" />
       <jump line="132" column="12" filename="$USER_HOME$/Development/app.nuli/src/components/Header.tsx" />
       <jump line="126" column="33" filename="$USER_HOME$/Development/app.nuli/src/components/Header.tsx" />
       <jump line="5" column="15" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
@@ -225,7 +224,6 @@
       <jump line="33" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/influencers.ts" />
       <jump line="8" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
       <jump line="72" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
       <jump line="171" column="31" filename="$USER_HOME$/Development/app.nuli/src/components/GoogleSignIn.tsx" />
       <jump line="24" column="19" filename="$USER_HOME$/Development/app.nuli/src/components/GoogleSignIn.tsx" />
       <jump line="141" column="37" filename="$USER_HOME$/Development/app.nuli/src/components/FacebookSignIn.tsx" />
@@ -245,12 +243,14 @@
       <jump line="74" column="16" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
       <jump line="79" column="94" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
       <jump line="15" column="86" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
+      <jump line="31" column="30" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>lastTouchLink</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhc3RUb3VjaFVwZGF0ZVRpbWVzdGFtcDogbnVtYmVyCg==</text>
       </register>
       <register name="-" type="4">
         <text>lastTouchLink</text>
@@ -262,21 +262,24 @@
         <text encoding="base64">IHN0b3JlLmRpc3BhdGNoKHNldExhc3RUb3VjaElkKGxhc3RUb3VjaElkKSk7CiAgICAgICAgICAgIHN0b3JlLmRpc3BhdGNoKHNldExhc3RUb3VjaExpbmsobGFzdFRvdWNoTGluaykpOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxhc3RUb3VjaFVwZGF0ZVRpbWVzdGFtcDogbnVtYmVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkZWxheUV4cGlyZWQgPSBEYXRlLm5vdygpIC0gbGFzdFRvdWNoVXBkYXRlVGltZXN0YW1wID49IEtFRVBfVE9VQ0hfRFVSQVRJT047Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBkZWxheUV4cGlyZWQgPSBEYXRlLm5vdygpIC0gbGFzdFRvdWNoVXBkYXRlVGltZXN0YW1wID49IEtFRVBfVE9VQ0hfRFVSQVRJT047Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBkZWxheUV4cGlyZWQgPSBEYXRlLm5vdygpIC0gbGFzdFRvdWNoVXBkYXRlVGltZXN0YW1wID49IEtFRVBfVE9VQ0hfRFVSQVRJT047Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>lay: number;
         if (isDebugBundleID() || isStagingBundleID()) {
             delay = LAST_TOUCH_UPDATE_DELAY_DEBUG;
@@ -284,14 +287,11 @@
             delay = LAST_TOUCH_UPDATE_DELAY;
         }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5wcm9wcy5zZXRMYXN0VG91Y2hVcGRhdGVUaW1lc3RhbXAoRGF0ZS5ub3coKSk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coeyB1c2VySWQsIGxhc3RUb3VjaElkOiBwYXlsb2FkLmxhc3RUb3VjaElkLCBsYXN0VG91Y2hMaW5rOiBwYXlsb2FkLmxhc3RUb3VjaExpbmsgfSk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coeyB1c2VySWQsIGxhc3RUb3VjaElkOiBwYXlsb2FkLmxhc3RUb3VjaElkLCBsYXN0VG91Y2hMaW5rOiBwYXlsb2FkLmxhc3RUb3VjaExpbmsgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

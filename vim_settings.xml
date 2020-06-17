@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>filter</entry>
-        <entry>alreadyCompl</entry>
         <entry>.map</entry>
         <entry>getParm</entry>
         <entry>navigation.</entry>
@@ -25,6 +23,8 @@
         <entry>handleDynamic</entry>
         <entry>handleDyn</entry>
         <entry>lastTouch</entry>
+        <entry>constr</entry>
+        <entry>remote</entry>
       </history-search>
       <history-cmd>
         <entry>gwip</entry>
@@ -55,19 +55,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/app.nuli/src/store/modules/auth.ts" timestamp="1592315498305">
-        <mark key="[" line="446" column="14" />
-        <mark key="]" line="447" column="46" />
-        <mark key="^" line="447" column="46" />
-        <mark key="." line="447" column="45" />
-      </file>
       <file name="/user_subscription [MySQL - @localhost]" timestamp="1592315583845">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/005-genflow-users.js" timestamp="1592299633486">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="38" column="17" />
-        <mark key="]" line="38" column="76" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" timestamp="1592387704361">
         <mark key="'" line="821" column="0" />
@@ -75,6 +64,13 @@
         <mark key="]" line="135" column="0" />
         <mark key="^" line="107" column="49" />
         <mark key="." line="135" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/views/Onboarding.tsx" timestamp="1592400601271">
+        <mark key="'" line="38" column="17" />
+        <mark key="[" line="162" column="99" />
+        <mark key="]" line="163" column="56" />
+        <mark key="." line="163" column="55" />
+        <mark key="^" line="163" column="56" />
       </file>
       <file name="/dev.setting" timestamp="1592315547243">
         <mark key="[" line="0" column="0" />
@@ -101,12 +97,12 @@
       <file name="/setting [MySQL - @localhost]" timestamp="1592315547225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/index.tsx" timestamp="1592387769907">
-        <mark key="'" line="210" column="52" />
-        <mark key="[" line="64" column="45" />
-        <mark key="]" line="64" column="46" />
-        <mark key="^" line="64" column="46" />
-        <mark key="." line="64" column="45" />
+      <file name="$USER_HOME$/Development/app.nuli/src/index.tsx" timestamp="1592400282382">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="148" column="8" />
+        <mark key="]" line="148" column="8" />
+        <mark key="^" line="148" column="34" />
+        <mark key="." line="148" column="8" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" timestamp="1592388075574">
         <mark key="'" line="27" column="13" />
@@ -124,7 +120,7 @@
         <mark key="." line="42" column="53" />
         <mark key="^" line="42" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592388113417">
+      <file name="/Dummy.txt" timestamp="1592388803990">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -143,10 +139,14 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/views/AddCollage.tsx" timestamp="1592385912493" />
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/remoteConfig.ts" timestamp="1592400623956">
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="22" column="41" />
+        <mark key="^" line="22" column="41" />
+        <mark key="." line="22" column="40" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="720" column="12" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
-      <jump line="749" column="19" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
       <jump line="750" column="38" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
       <jump line="754" column="19" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
       <jump line="755" column="38" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
@@ -245,48 +245,50 @@
       <jump line="322" column="35" filename="$USER_HOME$/Development/app.nuli/src/components/AppDrawer.tsx" />
       <jump line="35" column="4" filename="$USER_HOME$/Development/app.nuli/src/components/AppDrawer.tsx" />
       <jump line="128" column="47" filename="$USER_HOME$/Development/app.nuli/src/components/AppDrawer.tsx" />
+      <jump line="70" column="0" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="38" column="17" filename="$USER_HOME$/Development/app.nuli/src/views/Onboarding.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAoYExhc3QgdG91Y2ggbGluayA6ICR7bGFzdFRvdWNoTGlua30sIGxhc3RUb3VjaElkOiAgJHtsYXN0VG91Y2hJZH1gKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>alert</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>lastTouch</text>
+        <text>remote</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhbGVydChgTGFzdCB0b3VjaCBsaW5rIDogJHtsYXN0VG91Y2hMaW5rfSwgbGFzdFRvdWNoSWQ6ICAke2xhc3RUb3VjaElkfWApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAoYExhc3QgdG91Y2ggbGluayA6ICR7bGFzdFRvdWNoTGlua30sIGxhc3RUb3VjaElkOiAgJHtsYXN0VG91Y2hJZH1gKTsK</text>
+        <text encoding="base64">ICAgICAgIGF3YWl0IGZldGNoUmVtb3RlQ29uZmlnKCk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydChgRmlyc3QgdG91Y2ggbGluayA6ICR7Zmlyc3RUb3VjaExpbmt9LCBmaXJzdFRvdWNoSWQ6ICAke2ZpcnN0VG91Y2hJZH1gKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgICAvLyBXQVJOSU5HOiB0aGUgcmVtb3RlIGNvbmZpZyBzaG91bGQgYmUgZmV0Y2ggYXQgYXBwJ3MgdG9wIGxldmVsCiAgICAgICAgLy8gSG93ZXZlciwgaXQgbWlnaHQgbm90IGJlIHJldHJpZXZlZCB5ZXQgb24gdGhlIHZlcnkgZmlyc3QgbGF1bmNoIGFuZCB3ZSBuZWVkIGl0IHJpZ2h0IGF3YXkKICAgICAgICAvLyBJbiB0aGUgZnV0dXJlLCB3aGVuIG90aGVyIHJlbW90ZSBjb25maWcgZWxlbWVudHMgYXJlIGFkZGVkLCB3ZSBuZWVkIHRvIGZpbmQgYSB3YXkgdG8gZG8gaXQKICAgICAgICAvLyBpbiBzcmMvaW5kZXgudHN4IGFuZCB3YWl0IGZvciBpdCB0byBiZSBjb21wbGV0ZSBpbiB2aWV3cyBhbmQgc3ViLWNvbXBvbmVudHMKIA==</text>
       </register>
       <register name="3" type="2">
-        <text>WIP: refactor(app): format code with eslint, fix typescript errors</text>
+        <text encoding="base64">ICAgICAgICAoYExhc3QgdG91Y2ggbGluayA6ICR7bGFzdFRvdWNoTGlua30sIGxhc3RUb3VjaElkOiAgJHtsYXN0VG91Y2hJZH1gKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKGBpbmZsdWVuY2VyaW5kZXggOiAke2luZmx1ZW5jZXJJbmRleH1gKTsK</text>
+        <text encoding="base64">ICAgICAgICBhbGVydChgRmlyc3QgdG91Y2ggbGluayA6ICR7Zmlyc3RUb3VjaExpbmt9LCBmaXJzdFRvdWNoSWQ6ICAke2ZpcnN0VG91Y2hJZH1gKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhbGVydChgTGFzdCB0b3VjaCBpZCA6ICR7dGhpcy50b3VjaElkfWApKTsK</text>
+        <text>WIP: refactor(app): format code with eslint, fix typescript errors</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbml0aWFsTGluayA9IGxpbms7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKGBpbmZsdWVuY2VyaW5kZXggOiAke2luZmx1ZW5jZXJJbmRleH1gKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW5pdGlhbExpbms6IHsgdXJsOiBzdHJpbmcgfTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhbGVydChgTGFzdCB0b3VjaCBpZCA6ICR7dGhpcy50b3VjaElkfWApKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gV0FSTklORzogZXZlcnl0aGluZyByZWxhdGVkIHRvIHRoZSB2ZXJ5IGZpcnN0IGxhdW5jaCBpcyBjcml0aWNhbAovLyBUaGlzIGlzIHdoZXJlIHdlJ2xsIGRldGVybWluZSBpZiB0aGUgdXNlciBjb21lcyBmcm9tIGEgc3BlY2lmaWMgaW5mbHVlbmNlciBsaW5rCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbml0aWFsTGluayA9IGxpbms7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBsYXN0VG91Y2hVcGRhdGVUaW1lc3RhbXAgPSBpbmZsdWVuY2Vycz8ubGFzdFRvdWNoVXBkYXRlVGltZXN0YW1wOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW5pdGlhbExpbms6IHsgdXJsOiBzdHJpbmcgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -295,9 +297,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>lastTouch</last-search>
+      <last-search>remote</last-search>
       <last-offset />
-      <last-pattern>lastTouch</last-pattern>
+      <last-pattern>remote</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

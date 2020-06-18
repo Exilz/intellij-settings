@@ -65,12 +65,12 @@
         <mark key="^" line="107" column="49" />
         <mark key="." line="135" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/views/Onboarding.tsx" timestamp="1592400601271">
+      <file name="$USER_HOME$/Development/app.nuli/src/views/Onboarding.tsx" timestamp="1592403038974">
         <mark key="'" line="38" column="17" />
-        <mark key="[" line="162" column="99" />
-        <mark key="]" line="163" column="56" />
-        <mark key="." line="163" column="55" />
-        <mark key="^" line="163" column="56" />
+        <mark key="[" line="161" column="56" />
+        <mark key="]" line="162" column="34" />
+        <mark key="." line="162" column="33" />
+        <mark key="^" line="162" column="34" />
       </file>
       <file name="/dev.setting" timestamp="1592315547243">
         <mark key="[" line="0" column="0" />
@@ -124,13 +124,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/AppDrawer.tsx" timestamp="1592388611386">
-        <mark key="'" line="128" column="47" />
-        <mark key="[" line="34" column="47" />
-        <mark key="]" line="35" column="25" />
-        <mark key="^" line="35" column="25" />
-        <mark key="." line="35" column="24" />
       </file>
       <file name="/foo.bar" timestamp="1592383248676">
         <mark key="[" line="0" column="0" />
@@ -252,7 +245,9 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>this.appContainerRef.current.dispatch(
+                StackActions.replace({ routeName: 'Onboarding' })
+            );</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -260,8 +255,10 @@
       <register name="/" type="4">
         <text>remote</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydChgTGFzdCB0b3VjaCBsaW5rIDogJHtsYXN0VG91Y2hMaW5rfSwgbGFzdFRvdWNoSWQ6ICAke2xhc3RUb3VjaElkfWApOwo=</text>
+      <register name="0" type="4">
+        <text>this.appContainerRef.current.dispatch(
+                StackActions.replace({ routeName: 'Onboarding' })
+            );</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgIGF3YWl0IGZldGNoUmVtb3RlQ29uZmlnKCk7Cg==</text>
@@ -305,7 +302,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />

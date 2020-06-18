@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>.map</entry>
         <entry>getParm</entry>
         <entry>navigation.</entry>
         <entry>FREE</entry>
@@ -25,6 +24,7 @@
         <entry>lastTouch</entry>
         <entry>constr</entry>
         <entry>remote</entry>
+        <entry>remain</entry>
       </history-search>
       <history-cmd>
         <entry>gwip</entry>
@@ -55,7 +55,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/user_subscription [MySQL - @localhost]" timestamp="1592315583845">
+      <file name="/user_subscription [MySQL - @localhost]" timestamp="1592489965740">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" timestamp="1592387704361">
@@ -65,15 +65,19 @@
         <mark key="^" line="107" column="49" />
         <mark key="." line="135" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/views/Onboarding.tsx" timestamp="1592403038974">
+      <file name="$USER_HOME$/Development/app.nuli/src/views/Onboarding.tsx" timestamp="1592490597567">
         <mark key="'" line="38" column="17" />
-        <mark key="[" line="161" column="56" />
-        <mark key="]" line="162" column="34" />
-        <mark key="." line="162" column="33" />
-        <mark key="^" line="162" column="34" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="." line="164" column="0" />
+        <mark key="^" line="11" column="55" />
       </file>
-      <file name="/dev.setting" timestamp="1592315547243">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" timestamp="1592491294802">
+        <mark key="'" line="176" column="14" />
+        <mark key="[" line="177" column="22" />
+        <mark key="]" line="177" column="62" />
+        <mark key="." line="177" column="61" />
+        <mark key="^" line="177" column="62" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" timestamp="1592386384185">
         <mark key="'" line="0" column="0" />
@@ -82,27 +86,30 @@
         <mark key="." line="546" column="125" />
         <mark key="^" line="546" column="126" />
       </file>
-      <file name="/user [MySQL - @localhost]" timestamp="1592383248648">
+      <file name="/user [MySQL - @localhost]" timestamp="1592489965732">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1592387800746">
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="26" column="35" />
-        <mark key="." line="26" column="34" />
-        <mark key="^" line="26" column="35" />
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1592491383258">
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="212" column="0" />
+        <mark key="." line="212" column="0" />
+        <mark key="^" line="216" column="78" />
       </file>
-      <file name="/dev.user" timestamp="1592383248665">
+      <file name="/dev.progress_picture" timestamp="1592489965701">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/setting [MySQL - @localhost]" timestamp="1592315547225">
+      <file name="/progress_picture [MySQL - @localhost]" timestamp="1592489965689">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/index.tsx" timestamp="1592400282382">
+      <file name="/dev.user" timestamp="1592489965735">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/index.tsx" timestamp="1592491401138">
         <mark key="'" line="71" column="0" />
-        <mark key="[" line="148" column="8" />
-        <mark key="]" line="148" column="8" />
-        <mark key="^" line="148" column="34" />
-        <mark key="." line="148" column="8" />
+        <mark key="[" line="64" column="8" />
+        <mark key="]" line="64" column="26" />
+        <mark key="^" line="64" column="26" />
+        <mark key="." line="64" column="25" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" timestamp="1592388075574">
         <mark key="'" line="27" column="13" />
@@ -111,45 +118,31 @@
         <mark key="." line="76" column="0" />
         <mark key="^" line="28" column="14" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/store/modules/influencers.ts" timestamp="1592316225078">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="42" column="43" />
-        <mark key="l" line="45" column="21" />
-        <mark key="]" line="42" column="54" />
-        <mark key="m" line="45" column="21" />
-        <mark key="." line="42" column="53" />
-        <mark key="^" line="42" column="54" />
+      <file name="/dummy.sql" timestamp="1592489965747">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592388803990">
+      <file name="/Dummy.txt" timestamp="1592491200897">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/locales/enUS.ts" timestamp="1592490192869" />
       <file name="/foo.bar" timestamp="1592383248676">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dev.user_subscription" timestamp="1592315583859">
+      <file name="/dev.user_subscription" timestamp="1592489965744">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/views/AddCollage.tsx" timestamp="1592385912493" />
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/remoteConfig.ts" timestamp="1592402744726">
-        <mark key="[" line="23" column="1" />
-        <mark key="]" line="26" column="33" />
-        <mark key="^" line="26" column="33" />
-        <mark key="." line="26" column="32" />
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/remoteConfig.ts" timestamp="1592490770833">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="24" column="33" />
+        <mark key="." line="27" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="750" column="38" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
-      <jump line="754" column="19" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
-      <jump line="755" column="38" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
-      <jump line="756" column="51" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
-      <jump line="769" column="94" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
-      <jump line="780" column="35" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
-      <jump line="781" column="43" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
-      <jump line="794" column="38" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
-      <jump line="805" column="47" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
-      <jump line="848" column="23" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
       <jump line="1117" column="37" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
       <jump line="1233" column="5" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
       <jump line="1242" column="22" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
@@ -240,20 +233,28 @@
       <jump line="128" column="47" filename="$USER_HOME$/Development/app.nuli/src/components/AppDrawer.tsx" />
       <jump line="70" column="0" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
       <jump line="38" column="17" filename="$USER_HOME$/Development/app.nuli/src/views/Onboarding.tsx" />
+      <jump line="144" column="27" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="502" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
+      <jump line="39" column="55" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="61" column="4" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="156" column="81" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="157" column="38" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="158" column="40" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="161" column="88" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="176" column="14" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>this.appContainerRef.current.dispatch(
-                StackActions.replace({ routeName: 'Onboarding' })
-            );</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkaWZmJywgZGlmZik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>console</text>
       </register>
       <register name="/" type="4">
-        <text>remote</text>
+        <text>remain</text>
       </register>
       <register name="0" type="4">
         <text>this.appContainerRef.current.dispatch(
@@ -261,31 +262,31 @@
             );</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIGF3YWl0IGZldGNoUmVtb3RlQ29uZmlnKCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkaWZmJywgZGlmZik7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAvLyBXQVJOSU5HOiB0aGUgcmVtb3RlIGNvbmZpZyBzaG91bGQgYmUgZmV0Y2ggYXQgYXBwJ3MgdG9wIGxldmVsCiAgICAgICAgLy8gSG93ZXZlciwgaXQgbWlnaHQgbm90IGJlIHJldHJpZXZlZCB5ZXQgb24gdGhlIHZlcnkgZmlyc3QgbGF1bmNoIGFuZCB3ZSBuZWVkIGl0IHJpZ2h0IGF3YXkKICAgICAgICAvLyBJbiB0aGUgZnV0dXJlLCB3aGVuIG90aGVyIHJlbW90ZSBjb25maWcgZWxlbWVudHMgYXJlIGFkZGVkLCB3ZSBuZWVkIHRvIGZpbmQgYSB3YXkgdG8gZG8gaXQKICAgICAgICAvLyBpbiBzcmMvaW5kZXgudHN4IGFuZCB3YWl0IGZvciBpdCB0byBiZSBjb21wbGV0ZSBpbiB2aWV3cyBhbmQgc3ViLWNvbXBvbmVudHMKIA==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAoYExhc3QgdG91Y2ggbGluayA6ICR7bGFzdFRvdWNoTGlua30sIGxhc3RUb3VjaElkOiAgJHtsYXN0VG91Y2hJZH1gKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydChgRmlyc3QgdG91Y2ggbGluayA6ICR7Zmlyc3RUb3VjaExpbmt9LCBmaXJzdFRvdWNoSWQ6ICAke2ZpcnN0VG91Y2hJZH1gKTsK</text>
-      </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
         <text>WIP: refactor(app): format code with eslint, fix typescript errors</text>
       </register>
+      <register name="3" type="2">
+        <text>WIP: refactor(app): format code with eslint, fix typescript errors</text>
+      </register>
+      <register name="4" type="2">
+        <text>WIP: refactor(app)i: format code with eslint, fix typescript errors</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdGZXRjaGVkIGFuZCBhY3RpdmF0ZWQnKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKGBpbmZsdWVuY2VyaW5kZXggOiAke2luZmx1ZW5jZXJJbmRleH1gKTsK</text>
+        <text encoding="base64">ICAgIC5sb2coJ0RlZmF1bHRzIHNldCcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhbGVydChgTGFzdCB0b3VjaCBpZCA6ICR7dGhpcy50b3VjaElkfWApKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pbml0aWFsTGluayA9IGxpbms7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtJU3Vic2NyaXB0aW9uU3RhdGV9IGZyb20gIi4uL3R5cGVzL3VzZXJTdWJzY3JpcHRpb24iOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW5pdGlhbExpbms6IHsgdXJsOiBzdHJpbmcgfTsK</text>
+        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -294,15 +295,15 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>remote</last-search>
+      <last-search>remain</last-search>
       <last-offset />
-      <last-pattern>remote</last-pattern>
+      <last-pattern>remain</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />

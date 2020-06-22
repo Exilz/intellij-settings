@@ -55,22 +55,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/dev.user" timestamp="1592555572605">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/console" timestamp="1592555642705">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/setting [MySQL - @localhost]" timestamp="1592817981731">
+      <file name="/setting [MySQL - @localhost]" timestamp="1592821016612">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1592817057872">
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="21" column="36" />
-        <mark key="." line="21" column="35" />
-        <mark key="^" line="21" column="36" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1592821238955">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="139" />
+        <mark key="." line="16" column="138" />
+        <mark key="^" line="16" column="139" />
       </file>
-      <file name="/JavaScript Console" timestamp="1592818982797">
+      <file name="/JavaScript Console" timestamp="1592820896134">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.json" timestamp="1592816830233">
@@ -79,6 +76,18 @@
         <mark key="]" line="63" column="24" />
         <mark key="." line="63" column="23" />
         <mark key="^" line="63" column="24" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592819186035">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/bootstrap.ts" timestamp="1592820982544">
+        <mark key="[" line="27" column="42" />
+        <mark key="]" line="30" column="103" />
+        <mark key="^" line="30" column="103" />
+        <mark key="." line="30" column="102" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/onesignal.ts" timestamp="1592819004875">
         <mark key="[" line="55" column="0" />
@@ -89,25 +98,22 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/dev.setting" timestamp="1592817981756">
+      <file name="/dev.setting" timestamp="1592821016623">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/webhook.ts" timestamp="1592818972001">
-        <mark key="[" line="38" column="16" />
-        <mark key="]" line="39" column="45" />
-        <mark key="^" line="39" column="45" />
-        <mark key="." line="39" column="44" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/webhook.ts" timestamp="1592821578403">
+        <mark key="[" line="63" column="43" />
+        <mark key="]" line="66" column="38" />
+        <mark key="^" line="66" column="38" />
+        <mark key="." line="66" column="37" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" timestamp="1592817330529">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" timestamp="1592821228392">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/.env" timestamp="1592818156112" />
-      <file name="/user [MySQL - @localhost]" timestamp="1592555572583">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/foo.bar" timestamp="1592817981767">
+      <file name="/foo.bar" timestamp="1592821016632">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1592814927934">
@@ -237,10 +243,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>scheduleUpdatingPlayers</text>
+        <text>await</text>
       </register>
       <register name="-" type="4">
-        <text>scheduleUpdatingPlayers</text>
+        <text>await</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -249,31 +255,31 @@
         <text encoding="base64">ICAgIHJlcS5zZXJ2ZXIubG9nKFsnaW5mbycsICdPbmVTaWduYWwgc2VydmljZScsICdzY2hlZHVsZVVwZGF0aW5nUGxheWVycyddLCBtc2cpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnsKICAibm90aWZpY2F0aW9ucyI6IHsKICAgICJwdXNoTm90aWZpY2F0aW9ucyI6IHsKICAgICAgInRlbXBsYXRlSWRzIjoge30KICAgIH0sCiAgICAiZW1haWxzIjogewogICAgICAiZW5hYmxlUHJvZ3JhbVByb2dyZXNzaW9uRW1haWxzIjogZmFsc2UKICAgIH0KICB9Cn0=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnUmF0ZWxpbWl0IFJlcXVlc3QgTGltaXQ6ICcgKyBlcnIubGltaXQpOwogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdSZW1haW5pbmcgUmVxdWVzdHM6ICcgKyBlcnIucmVtYWluaW5nKTsKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnVGltZSB1bnRpbCBSZXNldDogJyArIGVyci5yZXNldCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQoK</text>
+        <text>fix(collage/progressPicture): only count processed items, fix headers</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JzE5NDE4NjU2LTdiOWYtNDA3Yy1hZWQ0LWRiZjk2MTlkMjlmZicsJzQ2ZThhNjU0LTY4MzAtNGIzNS1hZGM3LWM0ZGI5NDRiYjNkNicsJzU5NWU0M2UyLWQ2MTYtNDc2My05MTQyLWYwMWI4OGE3MzZiMCcsJzVjZWY4OWZmLWQzODMtNDU2Ni05MDFiLTlkYzRkN2VhMzdkMScsJzc0YzZlOWVhLTc0OGMtNGYwYS1iZjQ2LWFmNzNkYThmZDU0MScsJzlmNjIzZjgxLTVkZWEtNDA3ZC1iNjdmLTg1NWE0MmZlYTYyMycsJ2FiMjhkNGI2LThhNGMtNDRhZi1iN2YxLWU5NjY5YjIxZjQ1MicsCg==</text>
+        <text encoding="base64">CnsKICAibm90aWZpY2F0aW9ucyI6IHsKICAgICJwdXNoTm90aWZpY2F0aW9ucyI6IHsKICAgICAgInRlbXBsYXRlSWRzIjoge30KICAgIH0sCiAgICAiZW1haWxzIjogewogICAgICAiZW5hYmxlUHJvZ3JhbVByb2dyZXNzaW9uRW1haWxzIjogZmFsc2UKICAgIH0KICB9Cn0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VMRUNUCiAgICB1c2VySWQKRlJPTQogICAgdXNlcl9zdWJzY3JpcHRpb24KR1JPVVAgQlkgbGF0ZXN0UmVjZWlwdCwgcHJvZHVjdElkCkhBVklORyBDT1VOVChsYXRlc3RSZWNlaXB0KSA+IDE7Cg==</text>
+        <text encoding="base64">fQoK</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">CTFkODQ5YmMyLWNjYzItNDBmZS05ZmYyLWQ5OGEzNzM1NzU2MwkzMzJmNzY0ZS0xMjFiLTQ3YWEtOGM3Ny03MTdiNTkwMGY0OGYJNDZkNTI3ODYtOWYzNi00NDg1LTg1MmQtYTIyNTUzZDk3MjQwCWE5MWFkNThmLTRlMzgtNGE4NS1hZjM4LWRiNmU0YjE5YTBkMAkyCXJlcHMJcmVndWxhcgkyMDIwLTA2LTAyIDEzOjAyOjQ0CTIwMjAtMDYtMDIgMTM6MDI6NDQKCTFkODQ5YmMyLWNjYzItNDBmZS05ZmYyLWQ5OGEzNzM1NzU2MwlmZjNjYTFjYy00NmU5LTQ2M2QtYTI1Ny1kYzk1MGI5ZDQwNjQJZDBlNTI4ZDgtNTEyNC00MDY5LWEyMDYtZmQzNzU3NTg1ZjU5CWE5MWFkNThmLTRlMzgtNGE4NS1hZjM4LWRiNmU0YjE5YTBkMAkxCXJlcHMJcmVndWxhcgkyMDIwLTA2LTAyIDEzOjAyOjQ0CTIwMjAtMDYtMDIgMTM6MDI6NDQKCTFkODQ5YmMyLWNjYzItNDBmZS05ZmYyLWQ5OGEzNzM1NzU2MwkxMWFmNzY3Ni02OGI0LTQxNzUtYWUzZC0yM2Y3NjRiY2ZjNDAJNGNjZmU1YzEtMGI4Zi00MGYyLTlhZTgtNmNmNmQ4YTk4Yjk1CWE5MWFkNThmLTRlMzgtNGE4NS1hZjM4LWRiNmU0YjE5YTBkMAk1CXJlcHMJcmVndWxhcgkyMDIwLTA2LTAyIDEzOjAyOjQ0CTIwMjAtMDYtMDIgMTM6MDI6NDQKCTFkODQ5YmMyLWNjYzItNDBmZS05ZmYyLWQ5OGEzNzM1NzU2MwkxZGY0NTMwZC1lZGRlLTQ2OGUtODQ5Ny05M2I3MmY5NzQ2ZGQJZDE0ZDJkNzEtZmM5MC00NDExLThjOGUtYTY5ZWQ0NzA5YWQ1CWE5MWFkNThmLTRlMzgtNGE4NS1hZjM4LWRiNmU0YjE5YTBkMAkzCXJlcHMJcmVndWxhcgkyMDIwLTA2LTAyIDEzOjAyOjQ0CTIwMjAtMDYtMDIgMTM6MDI6NDQKCTFkODQ5YmMyLWNjYzItNDBmZS05ZmYyLWQ5OGEzNzM1NzU2Mwk4OGJhYzA4NS04NmQ4LTRmOGUtOWYwNi02YjVkZDM2YjI2OGYJY2Y1OTBmZTUtYjRlNS00M2VjLWJiMDctOGRhZThkNTYzODQ3CWE5MWFkNThmLTRlMzgtNGE4NS1hZjM4LWRiNmU0YjE5YTBkMAk0CXJlcHMJcmVndWxhcgkyMDIwLTA2LTAyIDEzOjAyOjQ0CTIwMjAtMDYtMDIgMTM6MDI6NDQKCTFkODQ5YmMyLWNjYzItNDBmZS05ZmYyLWQ5OGEzNzM1NzU2MwlmOTZmYWFjYS0zMjAzLTQ1NzgtOWFlYS03ZjEwZDBhZTNkOGMJYjU1Y2UwNTUtNzg3Ni00ZTFjLWJmMDYtNjZlYmJiZDc2YWUwCWE5MWFkNThmLTRlMzgtNGE4NS1hZjM4LWRiNmU0YjE5YTBkMAkwCXJlcHMJcmVndWxhcgkyMDIwLTA2LTAyIDEzOjAyOjQ0CTIwMjAtMDYtMDIgMTM6MDI6NDQKCTFkODQ5YmMyLWNjYzItNDBmZS05ZmYyLWQ5OGEzNzM1NzU2Mwk4MDYzN2I3Zi03NDNiLTRkNDktYTc5Yy0zYmJjZjBhNDljYmEJOTViNDQ1MTgtNzg4YS00ODMzLWIzZjYtNWUzZDgzMWIyN2I1CWE5MWFkNThmLTRlMzgtNGE4NS1hZjM4LWRiNmU0YjE5YTBkMAk2CXJlcHMJcmVndWxhcgkyMDIwLTA2LTAyIDEzOjAyOjQ0CTIwMjAtMDYtMDIgMTM6MDI6NDQ=</text>
+      <register name="5" type="2">
+        <text encoding="base64">JzE5NDE4NjU2LTdiOWYtNDA3Yy1hZWQ0LWRiZjk2MTlkMjlmZicsJzQ2ZThhNjU0LTY4MzAtNGIzNS1hZGM3LWM0ZGI5NDRiYjNkNicsJzU5NWU0M2UyLWQ2MTYtNDc2My05MTQyLWYwMWI4OGE3MzZiMCcsJzVjZWY4OWZmLWQzODMtNDU2Ni05MDFiLTlkYzRkN2VhMzdkMScsJzc0YzZlOWVhLTc0OGMtNGYwYS1iZjQ2LWFmNzNkYThmZDU0MScsJzlmNjIzZjgxLTVkZWEtNDA3ZC1iNjdmLTg1NWE0MmZlYTYyMycsJ2FiMjhkNGI2LThhNGMtNDRhZi1iN2YxLWU5NjY5YjIxZjQ1MicsCg==</text>
       </register>
       <register name="6" type="2">
-        <text>WIP: refactor(app): format code with eslint, fix typescript errors</text>
+        <text encoding="base64">U0VMRUNUCiAgICB1c2VySWQKRlJPTQogICAgdXNlcl9zdWJzY3JpcHRpb24KR1JPVVAgQlkgbGF0ZXN0UmVjZWlwdCwgcHJvZHVjdElkCkhBVklORyBDT1VOVChsYXRlc3RSZWNlaXB0KSA+IDE7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkaWZmJywgZGlmZik7Cg==</text>
+      <register name="7" type="8">
+        <text encoding="base64">CTFkODQ5YmMyLWNjYzItNDBmZS05ZmYyLWQ5OGEzNzM1NzU2MwkzMzJmNzY0ZS0xMjFiLTQ3YWEtOGM3Ny03MTdiNTkwMGY0OGYJNDZkNTI3ODYtOWYzNi00NDg1LTg1MmQtYTIyNTUzZDk3MjQwCWE5MWFkNThmLTRlMzgtNGE4NS1hZjM4LWRiNmU0YjE5YTBkMAkyCXJlcHMJcmVndWxhcgkyMDIwLTA2LTAyIDEzOjAyOjQ0CTIwMjAtMDYtMDIgMTM6MDI6NDQKCTFkODQ5YmMyLWNjYzItNDBmZS05ZmYyLWQ5OGEzNzM1NzU2MwlmZjNjYTFjYy00NmU5LTQ2M2QtYTI1Ny1kYzk1MGI5ZDQwNjQJZDBlNTI4ZDgtNTEyNC00MDY5LWEyMDYtZmQzNzU3NTg1ZjU5CWE5MWFkNThmLTRlMzgtNGE4NS1hZjM4LWRiNmU0YjE5YTBkMAkxCXJlcHMJcmVndWxhcgkyMDIwLTA2LTAyIDEzOjAyOjQ0CTIwMjAtMDYtMDIgMTM6MDI6NDQKCTFkODQ5YmMyLWNjYzItNDBmZS05ZmYyLWQ5OGEzNzM1NzU2MwkxMWFmNzY3Ni02OGI0LTQxNzUtYWUzZC0yM2Y3NjRiY2ZjNDAJNGNjZmU1YzEtMGI4Zi00MGYyLTlhZTgtNmNmNmQ4YTk4Yjk1CWE5MWFkNThmLTRlMzgtNGE4NS1hZjM4LWRiNmU0YjE5YTBkMAk1CXJlcHMJcmVndWxhcgkyMDIwLTA2LTAyIDEzOjAyOjQ0CTIwMjAtMDYtMDIgMTM6MDI6NDQKCTFkODQ5YmMyLWNjYzItNDBmZS05ZmYyLWQ5OGEzNzM1NzU2MwkxZGY0NTMwZC1lZGRlLTQ2OGUtODQ5Ny05M2I3MmY5NzQ2ZGQJZDE0ZDJkNzEtZmM5MC00NDExLThjOGUtYTY5ZWQ0NzA5YWQ1CWE5MWFkNThmLTRlMzgtNGE4NS1hZjM4LWRiNmU0YjE5YTBkMAkzCXJlcHMJcmVndWxhcgkyMDIwLTA2LTAyIDEzOjAyOjQ0CTIwMjAtMDYtMDIgMTM6MDI6NDQKCTFkODQ5YmMyLWNjYzItNDBmZS05ZmYyLWQ5OGEzNzM1NzU2Mwk4OGJhYzA4NS04NmQ4LTRmOGUtOWYwNi02YjVkZDM2YjI2OGYJY2Y1OTBmZTUtYjRlNS00M2VjLWJiMDctOGRhZThkNTYzODQ3CWE5MWFkNThmLTRlMzgtNGE4NS1hZjM4LWRiNmU0YjE5YTBkMAk0CXJlcHMJcmVndWxhcgkyMDIwLTA2LTAyIDEzOjAyOjQ0CTIwMjAtMDYtMDIgMTM6MDI6NDQKCTFkODQ5YmMyLWNjYzItNDBmZS05ZmYyLWQ5OGEzNzM1NzU2MwlmOTZmYWFjYS0zMjAzLTQ1NzgtOWFlYS03ZjEwZDBhZTNkOGMJYjU1Y2UwNTUtNzg3Ni00ZTFjLWJmMDYtNjZlYmJiZDc2YWUwCWE5MWFkNThmLTRlMzgtNGE4NS1hZjM4LWRiNmU0YjE5YTBkMAkwCXJlcHMJcmVndWxhcgkyMDIwLTA2LTAyIDEzOjAyOjQ0CTIwMjAtMDYtMDIgMTM6MDI6NDQKCTFkODQ5YmMyLWNjYzItNDBmZS05ZmYyLWQ5OGEzNzM1NzU2Mwk4MDYzN2I3Zi03NDNiLTRkNDktYTc5Yy0zYmJjZjBhNDljYmEJOTViNDQ1MTgtNzg4YS00ODMzLWIzZjYtNWUzZDgzMWIyN2I1CWE5MWFkNThmLTRlMzgtNGE4NS1hZjM4LWRiNmU0YjE5YTBkMAk2CXJlcHMJcmVndWxhcgkyMDIwLTA2LTAyIDEzOjAyOjQ0CTIwMjAtMDYtMDIgMTM6MDI6NDQ=</text>
       </register>
       <register name="8" type="2">
         <text>WIP: refactor(app): format code with eslint, fix typescript errors</text>
       </register>
       <register name="9" type="2">
-        <text>WIP: refactor(app): format code with eslint, fix typescript errors</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkaWZmJywgZGlmZik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

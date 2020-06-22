@@ -99,10 +99,12 @@
         <mark key="^" line="49" column="33" />
         <mark key="." line="49" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/getCollection.ts" timestamp="1592823849530">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="15" column="69" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/getCollection.ts" timestamp="1592830480269">
+        <mark key="'" line="95" column="29" />
+        <mark key="[" line="14" column="69" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="4" />
       </file>
       <file name="/Dummy.txt" timestamp="1592821629944">
         <mark key="'" line="0" column="0" />
@@ -136,7 +138,7 @@
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/.env" timestamp="1592818156112" />
-      <file name="/" timestamp="1592830451814">
+      <file name="/" timestamp="1592830633969">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1592821016632">
@@ -144,7 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="40" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
       <jump line="29" column="41" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
       <jump line="72" column="4" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
       <jump line="127" column="36" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" />
@@ -244,12 +245,13 @@
       <jump line="48" column="10" filename="$USER_HOME$/Development/api.meliorence.com/src/index.ts" />
       <jump line="74" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/index.ts" />
       <jump line="6" column="21" filename="$USER_HOME$/Development/api.meliorence.com/src/services/logger.ts" />
+      <jump line="96" column="29" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/getCollection.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ3RvYXNkdCBpbiBoYW5kbGVyJyk7Cg==</text>
+        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcigndG9hc2R0IGluIGhhbmRsZXInKTsK</text>
       </register>
       <register name="-" type="4">
         <text>inlineSourceMap</text>
@@ -261,31 +263,31 @@
         <text encoding="base64">ICAgIHJlcS5zZXJ2ZXIubG9nKFsnaW5mbycsICdPbmVTaWduYWwgc2VydmljZScsICdzY2hlZHVsZVVwZGF0aW5nUGxheWVycyddLCBtc2cpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ3RvYXNkdCBpbiBoYW5kbGVyJyk7Cg==</text>
+        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcigndG9hc2R0IGluIGhhbmRsZXInKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcignYW5vdGhlciB0b2FzdCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ3RvYXNkdCBpbiBoYW5kbGVyJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAic291cmNlTWFwIjogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcignYW5vdGhlciB0b2FzdCcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAic291cmNlTWFwIjogdHJ1ZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICAgIHVuZGVmaW5lZEZ1bmMoKTsKICAgIH0sIDUwMDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFNlbnRyeS5pbml0KQo=</text>
+        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICAgIHVuZGVmaW5lZEZ1bmMoKTsKICAgIH0sIDUwMDApOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFNlbnRyeS5pbml0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFNlbnRyeS4K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFNlbnRyeS5pbml0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIFNlbnRyeS4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

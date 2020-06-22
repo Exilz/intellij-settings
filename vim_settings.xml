@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>onRegistered</entry>
         <entry>onrergistered</entry>
         <entry>update</entry>
         <entry>lastTouchId</entry>
@@ -25,6 +24,7 @@
         <entry>TrialToa</entry>
         <entry>remainingTrial</entry>
         <entry>openPay</entry>
+        <entry>TrialToast</entry>
       </history-search>
       <history-cmd>
         <entry>gwip</entry>
@@ -55,33 +55,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/getCollection.ts" timestamp="1592833965702">
-        <mark key="'" line="95" column="29" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592833990696">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/bootstrap.ts" timestamp="1592823030020">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="32" column="24" />
-      </file>
       <file name="/dev.user" timestamp="1592834465989">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/webhook.ts" timestamp="1592822883703">
-        <mark key="[" line="63" column="43" />
-        <mark key="]" line="66" column="38" />
-        <mark key="^" line="66" column="38" />
-        <mark key="." line="66" column="37" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/services/logger.ts" timestamp="1592823673128">
         <mark key="'" line="7" column="21" />
@@ -90,27 +65,49 @@
         <mark key="^" line="21" column="57" />
         <mark key="." line="21" column="56" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" timestamp="1592835120898">
-        <mark key="'" line="415" column="46" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
-        <mark key="^" line="429" column="35" />
-        <mark key="." line="167" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/tsconfig.json" timestamp="1592823781870">
         <mark key="[" line="10" column="9" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/index.ts" timestamp="1592823371110">
         <mark key="[" line="0" column="20" />
       </file>
-      <file name="/" timestamp="1592833348445">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/services/sentry.ts" timestamp="1592824117738">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="4" column="47" />
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="47" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/index.ts" timestamp="1592834381454">
+        <mark key="'" line="72" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/getCollection.ts" timestamp="1592833965702">
+        <mark key="'" line="95" column="29" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592835160771">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/bootstrap.ts" timestamp="1592823030020">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="32" column="24" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" timestamp="1592835139595">
+        <mark key="'" line="422" column="27" />
+        <mark key="[" line="40" column="24" />
+        <mark key="]" line="40" column="49" />
+        <mark key="^" line="40" column="49" />
+        <mark key="." line="40" column="48" />
+      </file>
+      <file name="/" timestamp="1592833348445">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/utils/locales/enUS.ts" timestamp="1592832696538">
         <mark key="'" line="197" column="8" />
@@ -149,12 +146,14 @@
         <mark key="." line="27" column="32" />
         <mark key="^" line="27" column="33" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/index.ts" timestamp="1592834381454">
-        <mark key="'" line="72" column="0" />
+      <file name="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" timestamp="1592835830188">
+        <mark key="[" line="150" column="53" />
+        <mark key="]" line="151" column="52" />
+        <mark key="^" line="151" column="52" />
+        <mark key="." line="151" column="51" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="10" filename="$USER_HOME$/Development/api.meliorence.com/src/index.ts" />
       <jump line="74" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/index.ts" />
       <jump line="6" column="21" filename="$USER_HOME$/Development/api.meliorence.com/src/services/logger.ts" />
       <jump line="96" column="29" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/getCollection.ts" />
@@ -187,7 +186,6 @@
       <jump line="183" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="167" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="132" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="146" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="149" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="430" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="46" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/TrialToast.tsx" />
@@ -254,48 +252,50 @@
       <jump line="165" column="40" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="209" column="12" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="416" column="46" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="146" column="4" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="422" column="27" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAubG9nKCdzdWInLCBzdWJzY3JpcHRpb24pOwo=</text>
+        <text>WIP: refactor(apip): format code with eslint, fix typescript errors</text>
       </register>
       <register name="-" type="4">
         <text>console</text>
       </register>
       <register name="/" type="4">
-        <text>openPay</text>
+        <text>TrialToast</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7IHRoaXMucmVuZGVyUmVtYWluaW5nVHJpYWxCYW5uZXIoKSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAubG9nKCdzdWInLCBzdWJzY3JpcHRpb24pOwo=</text>
+        <text>WIP: refactor(apip): format code with eslint, fix typescript errors</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndHJpYWwnLCByZW1haW5pbmdUcmlhbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAubG9nKCdzdWInLCBzdWJzY3JpcHRpb24pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndHJpYWwnLCByZW1haW5pbmdUcmlhbCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcignVGVzdCB3ZWJob29rJyk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5zdGF0ZS5yZW1haW5pbmdUcmlhbCAmJiAhcHJldlN0YXRlLnJlbWFpbmluZ1RyaWFsICYmIHRoaXMuc3RhdGUucmVtYWluaW5nVHJpYWw/LndpZGdldCA9PT0gJ3RvYXN0JykgewogICAgICAgICAgICAvLyBPcGVuIHRvYXN0IHNob3dpbmcgdGhlIHJlbWFpbmluZyB0cmlhbCBkYXlzCiAgICAgICAgICAgIGNvbnN0IHsgZGF5cyB9ID0gdGhpcy5zdGF0ZS5yZW1haW5pbmdUcmlhbDsKICAgICAgICAgICAgdGhpcy5wcm9wcy5zY3JlZW5Qcm9wcz8udG9hc3RNYW5hZ2VyUmVmPy5jdXJyZW50Py5vcGVuVG9hc3QoewogICAgICAgICAgICAgICAgZHVyYXRpb246IDgwMDAsCiAgICAgICAgICAgICAgICBtZXNzYWdlOiBpMThuLnQoZGF5cyA+IDEgPyAncGF5bWVudC5yZW1haW5pbmdUcmlhbERheXNUb2FzdCcgOiAncGF5bWVudC5yZW1haW5pbmdUcmlhbERheXNUb2FzdEV4cGlyaW5nJywgeyBkYXlzIH0pLAogICAgICAgICAgICAgICAgdHlwZTogJ2luZm8nLAogICAgICAgICAgICAgICAgb25QcmVzczogdGhpcy5vcGVuUGF5d2FsbAogICAgICAgICAgICB9KTsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcignVGVzdCB3ZWJob29rJyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5zdGF0ZS5yZW1haW5pbmdUcmlhbCAmJiAhcHJldlN0YXRlLnJlbWFpbmluZ1RyaWFsICYmIHRoaXMuc3RhdGUucmVtYWluaW5nVHJpYWw/LndpZGdldCA9PT0gJ3RvYXN0JykgewogICAgICAgICAgICAvLyBPcGVuIHRvYXN0IHNob3dpbmcgdGhlIHJlbWFpbmluZyB0cmlhbCBkYXlzCiAgICAgICAgICAgIGNvbnN0IHsgZGF5cyB9ID0gdGhpcy5zdGF0ZS5yZW1haW5pbmdUcmlhbDsKICAgICAgICAgICAgdGhpcy5wcm9wcy5zY3JlZW5Qcm9wcz8udG9hc3RNYW5hZ2VyUmVmPy5jdXJyZW50Py5vcGVuVG9hc3QoewogICAgICAgICAgICAgICAgZHVyYXRpb246IDgwMDAsCiAgICAgICAgICAgICAgICBtZXNzYWdlOiBpMThuLnQoZGF5cyA+IDEgPyAncGF5bWVudC5yZW1haW5pbmdUcmlhbERheXNUb2FzdCcgOiAncGF5bWVudC5yZW1haW5pbmdUcmlhbERheXNUb2FzdEV4cGlyaW5nJywgeyBkYXlzIH0pLAogICAgICAgICAgICAgICAgdHlwZTogJ2luZm8nLAogICAgICAgICAgICAgICAgb25QcmVzczogdGhpcy5vcGVuUGF5d2FsbAogICAgICAgICAgICB9KTsKICAgICAgICB9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy50cmlhbEJhbm5lckNvbnRhaW5lcn0+CiAgICAgICAgICAgICAgICA8VGV4dD4KICAgICAgICAgICAgICAgICAgICB7IGkxOG4udChkYXlzID4gMSA/ICdwYXltZW50LnJlbWFpbmluZ1RyaWFsRGF5c0Jhbm5lcicgOiAncGF5bWVudC5yZW1haW5pbmdUcmlhbERheXNCYW5uZXJFeHBpcmluZycsIHsgZGF5cyB9KSB9CiAgICAgICAgICAgICAgICA8L1RleHQ+CiAgICAgICAgICAgICAgICA8VG91Y2hhYmxlT3BhY2l0eSBvblByZXNzPXt0aGlzLm9wZW5QYXl3YWxsfT4KICAgICAgICAgICAgICAgICAgICA8VGV4dD5TdWJzY3JpYmUgbm93ICE8L1RleHQ+CiAgICAgICAgICAgICAgICA8L1RvdWNoYWJsZU9wYWNpdHk+CiAgICAgICAgICAgIDwvVmlldz4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -304,9 +304,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>openPay</last-search>
+      <last-search>TrialToast</last-search>
       <last-offset />
-      <last-pattern>openPay</last-pattern>
+      <last-pattern>TrialToast</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

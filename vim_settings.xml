@@ -5,18 +5,9 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>handleDyn</entry>
-        <entry>lastTouch</entry>
-        <entry>constr</entry>
-        <entry>remote</entry>
-        <entry>remain</entry>
-        <entry>password</entry>
-        <entry>remai</entry>
-        <entry>openToast</entry>
         <entry>renderRem</entry>
         <entry>didUp</entry>
         <entry>didUpdate</entry>
-        <entry>TrialToa</entry>
         <entry>remainingTrial</entry>
         <entry>openPay</entry>
         <entry>TrialToast</entry>
@@ -25,6 +16,15 @@
         <entry encoding="base64">XDxwYXlsb2FkXD4=</entry>
         <entry>locale</entry>
         <entry encoding="base64">XDxzZXRMb2NhbGVcPg==</entry>
+        <entry>DEBUG</entry>
+        <entry encoding="base64">XDxzdHJpbmdcPg==</entry>
+        <entry>setLast</entry>
+        <entry>ref=</entry>
+        <entry>TrialToa</entry>
+        <entry>TrialToastRef</entry>
+        <entry>setState</entry>
+        <entry>const diff</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>gwip</entry>
@@ -55,37 +55,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/dev.user" timestamp="1592834465989">
+      <file name="/dev.user" timestamp="1592838807715">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/logger.ts" timestamp="1592823673128">
-        <mark key="'" line="7" column="21" />
-        <mark key="[" line="21" column="36" />
-        <mark key="]" line="21" column="57" />
-        <mark key="^" line="21" column="57" />
-        <mark key="." line="21" column="56" />
+      <file name="/setting [MySQL - @localhost]" timestamp="1592838822901">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/tsconfig.json" timestamp="1592823781870">
-        <mark key="[" line="10" column="9" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/index.ts" timestamp="1592823371110">
-        <mark key="[" line="0" column="20" />
+      <file name="/user_subscription [MySQL - @localhost]" timestamp="1592838815376">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/index.tsx" timestamp="1592837082867">
         <mark key="'" line="17" column="45" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/sentry.ts" timestamp="1592824117738">
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="4" column="47" />
-        <mark key="." line="4" column="46" />
-        <mark key="^" line="4" column="47" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1592836370420">
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1592843660471">
         <mark key="'" line="31" column="9" />
         <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="17" />
-        <mark key="^" line="12" column="18" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="19" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/index.ts" timestamp="1592834381454">
         <mark key="'" line="72" column="0" />
@@ -96,26 +83,27 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592835160771">
+      <file name="/Dummy.txt" timestamp="1592844230936">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" timestamp="1592835139595">
-        <mark key="'" line="422" column="27" />
-        <mark key="[" line="40" column="24" />
-        <mark key="]" line="40" column="49" />
-        <mark key="^" line="40" column="49" />
-        <mark key="." line="40" column="48" />
+      <file name="$USER_HOME$/Development/app.nuli/src/store/migrations.ts" timestamp="1592842456002">
+        <mark key="'" line="151" column="0" />
+        <mark key="[" line="145" column="19" />
+        <mark key="]" line="145" column="48" />
+        <mark key="^" line="145" column="48" />
+        <mark key="." line="145" column="47" />
+      </file>
+      <file name="/dev.setting" timestamp="1592838822916">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" timestamp="1592844245475">
+        <mark key="'" line="501" column="0" />
       </file>
       <file name="/" timestamp="1592833348445">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/locales/enUS.ts" timestamp="1592832696538">
-        <mark key="'" line="197" column="8" />
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="200" column="81" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/utils/locales/zhTW.ts" timestamp="1592832697524">
         <mark key="'" line="321" column="8" />
@@ -123,97 +111,44 @@
         <mark key="]" line="200" column="81" />
         <mark key="." line="197" column="0" />
       </file>
-      <file name="/user [MySQL - @localhost]" timestamp="1592834465873">
+      <file name="/user [MySQL - @localhost]" timestamp="1592838807700">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1592834466056">
+      <file name="/foo.bar" timestamp="1592838822930">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1592834219775">
+      <file name="/dev.user_subscription" timestamp="1592838815386">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1592838807799">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="4" column="34" />
         <mark key="^" line="4" column="34" />
         <mark key="." line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/TrialToast.tsx" timestamp="1592835016763">
-        <mark key="'" line="54" column="0" />
-        <mark key="i" line="34" column="29" />
-        <mark key="[" line="17" column="32" />
-        <mark key="]" line="17" column="36" />
-        <mark key="." line="17" column="35" />
-        <mark key="^" line="17" column="36" />
+      <file name="$USER_HOME$/Development/app.nuli/src/components/TrialToast.tsx" timestamp="1592844299099">
+        <mark key="'" line="84" column="0" />
+        <mark key="i" line="57" column="29" />
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="13" />
+        <mark key="." line="9" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1592836201093">
-        <mark key="[" line="26" column="30" />
-        <mark key="]" line="26" column="34" />
-        <mark key="." line="26" column="33" />
-        <mark key="^" line="26" column="34" />
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1592843682477">
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="33" />
+        <mark key="." line="27" column="32" />
+        <mark key="^" line="27" column="33" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" timestamp="1592837068307">
-        <mark key="'" line="122" column="4" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="^" line="156" column="59" />
-        <mark key="." line="149" column="0" />
+      <file name="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" timestamp="1592843138894">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="103" column="13" />
+        <mark key="]" line="103" column="36" />
+        <mark key="^" line="227" column="107" />
+        <mark key="." line="227" column="106" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="495" column="53" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="454" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="442" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="431" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="399" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="388" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="370" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="366" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="340" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="327" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="271" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="266" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="257" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="221" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="217" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="199" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="195" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="189" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="187" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="68" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="73" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="89" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="96" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="98" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="104" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="110" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="115" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="117" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="129" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="133" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="147" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="150" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="168" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="184" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="158" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="43" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/TrialToast.tsx" />
-      <jump line="212" column="12" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="237" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="247" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="256" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="261" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="317" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="330" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="356" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="360" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="378" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="389" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="395" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="403" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="444" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="432" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="421" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="425" column="13" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="424" column="29" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="423" column="16" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="413" column="47" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="409" column="25" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="406" column="13" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="405" column="16" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
@@ -221,14 +156,11 @@
       <jump line="209" column="12" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="416" column="46" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="146" column="4" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="422" column="27" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="169" column="20" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="175" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
-      <jump line="151" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="171" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="162" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="141" column="102" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
-      <jump line="144" column="50" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="160" column="22" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="12" column="17" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
       <jump line="32" column="13" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
@@ -239,8 +171,6 @@
       <jump line="159" column="76" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="206" column="49" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="34" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
-      <jump line="14" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
-      <jump line="22" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="45" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="51" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="81" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
@@ -251,55 +181,116 @@
       <jump line="189" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="180" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="174" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
-      <jump line="161" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="157" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="150" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="148" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="149" column="47" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="122" column="4" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="17" column="45" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="95" column="16" filename="$USER_HOME$/Development/app.nuli/src/store/migrations.ts" />
+      <jump line="141" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/migrations.ts" />
+      <jump line="142" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/migrations.ts" />
+      <jump line="69" column="9" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="98" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="112" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="103" column="101" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="144" column="36" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="287" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="229" column="32" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="291" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="193" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="184" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="178" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="165" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="161" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="153" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="151" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="143" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="114" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="99" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="82" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="52" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="46" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="22" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="14" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="12" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="14" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/TrialToast.tsx" />
+      <jump line="57" column="49" filename="$USER_HOME$/Development/app.nuli/src/components/TrialToast.tsx" />
+      <jump line="62" column="10" filename="$USER_HOME$/Development/app.nuli/src/components/TrialToast.tsx" />
+      <jump line="7" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
+      <jump line="75" column="64" filename="$USER_HOME$/Development/app.nuli/src/components/TrialToast.tsx" />
+      <jump line="425" column="23" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="73" column="54" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="74" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="431" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="490" column="42" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="79" column="51" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="211" column="4" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="212" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="238" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="248" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="257" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="262" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="318" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="331" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="357" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="361" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="379" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="390" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="396" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="404" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="422" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="436" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="448" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="496" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="503" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="16" column="4" filename="$USER_HOME$/Development/app.nuli/src/components/TrialToast.tsx" />
+      <jump line="36" column="13" filename="$USER_HOME$/Development/app.nuli/src/components/TrialToast.tsx" />
+      <jump line="39" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/TrialToast.tsx" />
+      <jump line="13" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/TrialToast.tsx" />
+      <jump line="84" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/TrialToast.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, { TrialToast as TrialToastComponent }</text>
       </register>
       <register name="-" type="4">
-        <text>payload</text>
+        <text>, { TrialToast as TrialToastComponent }</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRMb2NhbGVcPg==</text>
+        <text>console</text>
       </register>
       <register name="0" type="4">
-        <text>store.getState().userProfile.locale</text>
+        <text>moment.unix(lastTrialReminderDate),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2hvdWxkIGRpc3BsYXknLCB0aGlzLmlzUmVhZHlUb0Rpc3BsYXkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IHBheWxvYWQ6IGFueSA9IHt9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5zZXRTdGF0ZSh7IHJlbWFpbmluZ1RyaWFsOiB7IGRheXM6IHJlbWFpbmluZ1RyaWFsRGF5cywgd2lkZ2V0OiAnYmFubmVyJyB9IH0pOwogICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgcmVtYWluaW5nVHJpYWw6IHsgZGF5czogcmVtYWluaW5nVHJpYWxEYXlzLCB3aWRnZXQ6ICd0b2FzdCcgfSB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbW9tZW50KCkuZGlmZihtb21lbnQobGFzdFRyaWFsUmVtaW5kZXJEYXRlKSwgJ2hvdXJzJykgPj0gMjQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEFkZCBsb2NhbGUgdG8gdGhlIG9iamVjdCB0aGF0IHdpbGwgdXBkYXRlIHRoZSBzdG9yZQogICAgICAgICAgICAgICAgdXNlclByb2ZpbGUubG9jYWxlID0gc3RvcmUuZ2V0U3RhdGUoKS51c2VyUHJvZmlsZS5sb2NhbGU7CiAgICAgICAgICAgICAgICAvLyBBZGQgbG9jYWxlIHRvIHRoZSBvYmplY3QgdGhhdCB3aWxsIHVwZGF0ZSB0aGUgZGF0YWJhc2UKICAgICAgICAgICAgICAgIHBheWxvYWQubG9jYWxlID0gdXNlclByb2ZpbGUubG9jYWxlOwo=</text>
+        <text encoding="base64">ICAgICAgICBtb21lbnQoKS5kYXlPZlllYXIoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5zZXRTdGF0ZSh7IHJlbWFpbmluZ1RyaWFsOiB7IGRheXM6IHJlbWFpbmluZ1RyaWFsRGF5cywgd2lkZ2V0OiAnYmFubmVyJyB9IH0pOwogICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgcmVtYWluaW5nVHJpYWw6IHsgZGF5czogcmVtYWluaW5nVHJpYWxEYXlzLCB3aWRnZXQ6ICd0b2FzdCcgfSB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKE9iamVjdC5rZXlzKHBheWxvYWQpLmxlbmd0aCkgewogICAgICAgICAgICAgICAgYXdhaXQgZGVmYXVsdEluc3RhbmNlLnB1dChFTkRQT0lOVFMudXNlcnMgKyAnLycgKyB1c2VySUQsIHsgcGF5bG9hZCB9KTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVtYWluaW5nVHJpYWwnLCByZW1haW5pbmdUcmlhbCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEFkZCBsb2NhbGUgdG8gdGhlIG9iamVjdCB0aGF0IHdpbGwgdXBkYXRlIHRoZSBzdG9yZQogICAgICAgICAgICAgICAgdXNlclByb2ZpbGUubG9jYWxlID0gc3RvcmUuZ2V0U3RhdGUoKS51c2VyUHJvZmlsZS5sb2NhbGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2hvdWxkIGRpc3BhbHknLCB0aGlzLmlzUmVhZHlUb0Rpc3BsYXkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text>WIP: refactor(apip): format code with eslint, fix typescript errors</text>
+        <text encoding="base64">ICAgICAgICAubG9nKCdtb3VudCA/Pz8nKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAubG9nKCdzdWInLCBzdWJzY3JpcHRpb24pOwo=</text>
+        <text encoding="base64">ICAgICAgICAubG9nKCdtb3VudCA/Pz8nKTsKICAgICAgICB0aGlzLmRpc3BsYXkoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -308,9 +299,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzZXRMb2NhbGVcPg==</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRMb2NhbGVcPg==</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

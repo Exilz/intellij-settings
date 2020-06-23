@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>renderRem</entry>
-        <entry>didUp</entry>
-        <entry>didUpdate</entry>
         <entry>remainingTrial</entry>
         <entry>openPay</entry>
         <entry>TrialToast</entry>
@@ -25,6 +22,9 @@
         <entry>setState</entry>
         <entry>const diff</entry>
         <entry>console</entry>
+        <entry>percentag</entry>
+        <entry>Percentage</entry>
+        <entry encoding="base64">XDxwcm9ncmVzc2lvblBlcmNlbnRhZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>gwip</entry>
@@ -66,21 +66,27 @@
       <file name="/dev.week_progression" timestamp="1592899992992">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1592898938949">
-        <mark key="'" line="31" column="9" />
-        <mark key="[" line="17" column="41" />
-        <mark key="]" line="17" column="42" />
-        <mark key="." line="17" column="41" />
-        <mark key="^" line="17" column="42" />
-      </file>
       <file name="/week_progression [MySQL - @localhost]" timestamp="1592899992972">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1592917269225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dev.program_progression" timestamp="1592899187554">
+      <file name="$USER_HOME$/Development/app.nuli/ios/fastlane/Fastfile" timestamp="1592923782586">
+        <mark key="[" line="21" column="61" />
+        <mark key="]" line="21" column="68" />
+        <mark key="." line="21" column="67" />
+        <mark key="^" line="21" column="68" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592917963589">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/progression.ts" timestamp="1592921467494" />
+      <file name="$USER_HOME$/Development/app.nuli/src/views/WorkoutCompletion.tsx" timestamp="1592921448768">
+        <mark key="'" line="102" column="24" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/programProgression.ts" timestamp="1592899938568" />
       <file name="/dev.workout_history" timestamp="1592899823372">
@@ -93,6 +99,7 @@
         <mark key="^" line="77" column="48" />
         <mark key="." line="77" column="47" />
       </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" timestamp="1592921322653" />
       <file name="/workout_i18n [MySQL - @localhost]" timestamp="1592899856397">
         <mark key="[" line="0" column="0" />
       </file>
@@ -102,29 +109,14 @@
       <file name="/user [MySQL - @localhost]" timestamp="1592899258852">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/program_i18n [MySQL - @localhost]" timestamp="1592899206677">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/foo.bar" timestamp="1592899993008">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/workout_history [MySQL - @localhost]" timestamp="1592899823354">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/program_progression [MySQL - @localhost]" timestamp="1592899187532">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dev.program_i18n" timestamp="1592899206690">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="406" column="13" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="405" column="16" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="165" column="40" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="209" column="12" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="416" column="46" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="146" column="4" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="169" column="20" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="175" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="171" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
@@ -219,48 +211,54 @@
       <jump line="13" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/TrialToast.tsx" />
       <jump line="84" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/TrialToast.tsx" />
       <jump line="14" column="90" filename="$USER_HOME$/Development/app.nuli/src/utils/deeplink.ts" />
+      <jump line="398" column="16" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutCompletion.tsx" />
+      <jump line="414" column="61" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutCompletion.tsx" />
+      <jump line="419" column="34" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutCompletion.tsx" />
+      <jump line="52" column="4" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutCompletion.tsx" />
+      <jump line="81" column="12" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutCompletion.tsx" />
+      <jump line="102" column="24" filename="$USER_HOME$/Development/app.nuli/src/views/WorkoutCompletion.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>wip</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>wip</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text encoding="base64">XDxwcm9ncmVzc2lvblBlcmNlbnRhZ2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>moment.unix(lastTrialReminderDate),</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIG1hdGNoKHR5cGU6ICJkZXZlbG9wbWVudCIsIGFwcF9pZGVudGlmaWVyOiAiY29tLm51bGkuYXBwLndpcCIsIGdpdF9icmFuY2g6ICJudWxpIiwgZm9yY2VfZm9yX25ld19kZXZpY2VzOiB0cnVlKQo=</text>
       </register>
       <register name="1" type="2">
         <text>feat(TrialToast): display once a day</text>
       </register>
       <register name="2" type="2">
-        <text>WIP: refactor(appi): format code with eslint, fix typescript errors</text>
+        <text>feat(TrialToast): display once a day</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2hvdWxkIGRpc3BsYXknLCB0aGlzLmlzUmVhZHlUb0Rpc3BsYXkpOwo=</text>
+        <text>WIP: refactor(appi): format code with eslint, fix typescript errors</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5zZXRTdGF0ZSh7IHJlbWFpbmluZ1RyaWFsOiB7IGRheXM6IHJlbWFpbmluZ1RyaWFsRGF5cywgd2lkZ2V0OiAnYmFubmVyJyB9IH0pOwogICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgcmVtYWluaW5nVHJpYWw6IHsgZGF5czogcmVtYWluaW5nVHJpYWxEYXlzLCB3aWRnZXQ6ICd0b2FzdCcgfSB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2hvdWxkIGRpc3BsYXknLCB0aGlzLmlzUmVhZHlUb0Rpc3BsYXkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbW9tZW50KCkuZGlmZihtb21lbnQobGFzdFRyaWFsUmVtaW5kZXJEYXRlKSwgJ2hvdXJzJykgPj0gMjQ7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtb21lbnQoKS5kYXlPZlllYXIoKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5zZXRTdGF0ZSh7IHJlbWFpbmluZ1RyaWFsOiB7IGRheXM6IHJlbWFpbmluZ1RyaWFsRGF5cywgd2lkZ2V0OiAnYmFubmVyJyB9IH0pOwogICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgcmVtYWluaW5nVHJpYWw6IHsgZGF5czogcmVtYWluaW5nVHJpYWxEYXlzLCB3aWRnZXQ6ICd0b2FzdCcgfSB9KTsK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbW9tZW50KCkuZGlmZihtb21lbnQobGFzdFRyaWFsUmVtaW5kZXJEYXRlKSwgJ2hvdXJzJykgPj0gMjQ7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtb21lbnQoKS5kYXlPZlllYXIoKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVtYWluaW5nVHJpYWwnLCByZW1haW5pbmdUcmlhbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5zZXRTdGF0ZSh7IHJlbWFpbmluZ1RyaWFsOiB7IGRheXM6IHJlbWFpbmluZ1RyaWFsRGF5cywgd2lkZ2V0OiAnYmFubmVyJyB9IH0pOwogICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgcmVtYWluaW5nVHJpYWw6IHsgZGF5czogcmVtYWluaW5nVHJpYWxEYXlzLCB3aWRnZXQ6ICd0b2FzdCcgfSB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2hvdWxkIGRpc3BhbHknLCB0aGlzLmlzUmVhZHlUb0Rpc3BsYXkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVtYWluaW5nVHJpYWwnLCByZW1haW5pbmdUcmlhbCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -269,9 +267,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>console</last-search>
+      <last-search encoding="base64">XDxwcm9ncmVzc2lvblBlcmNlbnRhZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9ncmVzc2lvblBlcmNlbnRhZ2VcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

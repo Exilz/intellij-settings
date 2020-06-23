@@ -62,10 +62,10 @@
       <file name="/setting [MySQL - @localhost]" timestamp="1592898889683">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/user_subscription [MySQL - @localhost]" timestamp="1592898889678">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/hooks/workoutHistory.ts" timestamp="1592899595150" />
+      <file name="/dev.week_progression" timestamp="1592899992992">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/hooks/workoutHistory.ts" timestamp="1592899534203" />
       <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1592898938949">
         <mark key="'" line="31" column="9" />
         <mark key="[" line="17" column="41" />
@@ -73,24 +73,27 @@
         <mark key="." line="17" column="41" />
         <mark key="^" line="17" column="42" />
       </file>
+      <file name="/week_progression [MySQL - @localhost]" timestamp="1592899992972">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/JavaScript Console" timestamp="1592899584627">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dev.program_progression" timestamp="1592899187554">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592844359096">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/dev.setting" timestamp="1592898889684">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/programProgression.ts" timestamp="1592899484778" />
-      <file name="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" timestamp="1592844366522">
-        <mark key="'" line="501" column="0" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/programProgression.ts" timestamp="1592899938568" />
+      <file name="/dev.workout_history" timestamp="1592899823372">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/workout_i18n [MySQL - @localhost]" timestamp="1592899856397">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dev.workout_i18n" timestamp="1592899856414">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/user [MySQL - @localhost]" timestamp="1592899258852">
         <mark key="[" line="0" column="0" />
@@ -98,25 +101,11 @@
       <file name="/program_i18n [MySQL - @localhost]" timestamp="1592899206677">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1592899258887">
+      <file name="/foo.bar" timestamp="1592899993008">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dev.user_subscription" timestamp="1592898889680">
+      <file name="/workout_history [MySQL - @localhost]" timestamp="1592899823354">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/TrialToast.tsx" timestamp="1592844299099">
-        <mark key="'" line="84" column="0" />
-        <mark key="i" line="57" column="29" />
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="13" />
-        <mark key="^" line="9" column="13" />
-        <mark key="." line="9" column="12" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1592843682477">
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="33" />
-        <mark key="." line="27" column="32" />
-        <mark key="^" line="27" column="33" />
       </file>
       <file name="/program_progression [MySQL - @localhost]" timestamp="1592899187532">
         <mark key="[" line="0" column="0" />
@@ -284,7 +273,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />

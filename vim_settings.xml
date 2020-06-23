@@ -59,7 +59,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/hooks/programProgression.ts" timestamp="1592899354839" />
-      <file name="/setting [MySQL - @localhost]" timestamp="1592898889683">
+      <file name="/console" timestamp="1592917269221">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/hooks/workoutHistory.ts" timestamp="1592899595150" />
@@ -76,18 +76,22 @@
       <file name="/week_progression [MySQL - @localhost]" timestamp="1592899992972">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1592899584627">
+      <file name="/JavaScript Console" timestamp="1592917269225">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dev.program_progression" timestamp="1592899187554">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dev.setting" timestamp="1592898889684">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/programProgression.ts" timestamp="1592899938568" />
       <file name="/dev.workout_history" timestamp="1592899823372">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/deeplink.ts" timestamp="1592917682070">
+        <mark key="'" line="14" column="90" />
+        <mark key="[" line="77" column="30" />
+        <mark key="]" line="77" column="48" />
+        <mark key="^" line="77" column="48" />
+        <mark key="." line="77" column="47" />
       </file>
       <file name="/workout_i18n [MySQL - @localhost]" timestamp="1592899856397">
         <mark key="[" line="0" column="0" />
@@ -115,7 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="409" column="25" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="406" column="13" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="405" column="16" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="165" column="40" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
@@ -215,15 +218,16 @@
       <jump line="39" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/TrialToast.tsx" />
       <jump line="13" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/TrialToast.tsx" />
       <jump line="84" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/TrialToast.tsx" />
+      <jump line="14" column="90" filename="$USER_HOME$/Development/app.nuli/src/utils/deeplink.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -273,7 +277,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />

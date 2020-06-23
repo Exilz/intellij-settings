@@ -55,12 +55,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/dev.user" timestamp="1592899258870">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/hooks/programProgression.ts" timestamp="1592899354839" />
       <file name="/console" timestamp="1592917269221">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/tsconfig.json" timestamp="1592924988910">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/hooks/workoutHistory.ts" timestamp="1592899595150" />
       <file name="/dev.week_progression" timestamp="1592899992992">
@@ -72,7 +74,7 @@
       <file name="/JavaScript Console" timestamp="1592917269225">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/ios/fastlane/Fastfile" timestamp="1592923782586">
+      <file name="$USER_HOME$/Development/app.nuli/ios/fastlane/Fastfile" timestamp="1592923835246">
         <mark key="[" line="21" column="61" />
         <mark key="]" line="21" column="68" />
         <mark key="." line="21" column="67" />
@@ -85,6 +87,7 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/utils/progression.ts" timestamp="1592921467494" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/onesignal.ts" timestamp="1592924823913" />
       <file name="$USER_HOME$/Development/app.nuli/src/views/WorkoutCompletion.tsx" timestamp="1592921448768">
         <mark key="'" line="102" column="24" />
       </file>
@@ -104,9 +107,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dev.workout_i18n" timestamp="1592899856414">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/user [MySQL - @localhost]" timestamp="1592899258852">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1592899993008">
@@ -221,8 +221,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>wip</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAiaW5saW5lU291cmNlcyI6IHRydWUsCg==</text>
       </register>
       <register name="-" type="4">
         <text>wip</text>
@@ -234,31 +234,31 @@
         <text encoding="base64">ICAgIG1hdGNoKHR5cGU6ICJkZXZlbG9wbWVudCIsIGFwcF9pZGVudGlmaWVyOiAiY29tLm51bGkuYXBwLndpcCIsIGdpdF9icmFuY2g6ICJudWxpIiwgZm9yY2VfZm9yX25ld19kZXZpY2VzOiB0cnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text>feat(TrialToast): display once a day</text>
+        <text encoding="base64">ICAgICAgICAiaW5saW5lU291cmNlcyI6IHRydWUsCg==</text>
       </register>
       <register name="2" type="2">
         <text>feat(TrialToast): display once a day</text>
       </register>
       <register name="3" type="2">
-        <text>WIP: refactor(appi): format code with eslint, fix typescript errors</text>
+        <text>feat(TrialToast): display once a day</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2hvdWxkIGRpc3BsYXknLCB0aGlzLmlzUmVhZHlUb0Rpc3BsYXkpOwo=</text>
+        <text>WIP: refactor(appi): format code with eslint, fix typescript errors</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5zZXRTdGF0ZSh7IHJlbWFpbmluZ1RyaWFsOiB7IGRheXM6IHJlbWFpbmluZ1RyaWFsRGF5cywgd2lkZ2V0OiAnYmFubmVyJyB9IH0pOwogICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgcmVtYWluaW5nVHJpYWw6IHsgZGF5czogcmVtYWluaW5nVHJpYWxEYXlzLCB3aWRnZXQ6ICd0b2FzdCcgfSB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2hvdWxkIGRpc3BsYXknLCB0aGlzLmlzUmVhZHlUb0Rpc3BsYXkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbW9tZW50KCkuZGlmZihtb21lbnQobGFzdFRyaWFsUmVtaW5kZXJEYXRlKSwgJ2hvdXJzJykgPj0gMjQ7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtb21lbnQoKS5kYXlPZlllYXIoKTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5zZXRTdGF0ZSh7IHJlbWFpbmluZ1RyaWFsOiB7IGRheXM6IHJlbWFpbmluZ1RyaWFsRGF5cywgd2lkZ2V0OiAnYmFubmVyJyB9IH0pOwogICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgcmVtYWluaW5nVHJpYWw6IHsgZGF5czogcmVtYWluaW5nVHJpYWxEYXlzLCB3aWRnZXQ6ICd0b2FzdCcgfSB9KTsK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbW9tZW50KCkuZGlmZihtb21lbnQobGFzdFRyaWFsUmVtaW5kZXJEYXRlKSwgJ2hvdXJzJykgPj0gMjQ7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBtb21lbnQoKS5kYXlPZlllYXIoKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVtYWluaW5nVHJpYWwnLCByZW1haW5pbmdUcmlhbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdGhpcy5zZXRTdGF0ZSh7IHJlbWFpbmluZ1RyaWFsOiB7IGRheXM6IHJlbWFpbmluZ1RyaWFsRGF5cywgd2lkZ2V0OiAnYmFubmVyJyB9IH0pOwogICAgICAgICAgICB0aGlzLnNldFN0YXRlKHsgcmVtYWluaW5nVHJpYWw6IHsgZGF5czogcmVtYWluaW5nVHJpYWxEYXlzLCB3aWRnZXQ6ICd0b2FzdCcgfSB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

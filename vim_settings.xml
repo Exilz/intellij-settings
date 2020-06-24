@@ -55,7 +55,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592985386194">
+      <file name="/Dummy.txt" timestamp="1592986979563">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -70,8 +70,21 @@
       <file name="$USER_HOME$/Development/app.nuli/src/views/WorkoutCompletion.tsx" timestamp="1592921448768">
         <mark key="'" line="102" column="24" />
       </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/queue/index.ts" timestamp="1592987202858">
+        <mark key="'" line="87" column="0" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="91" column="7" />
+        <mark key="." line="92" column="0" />
+      </file>
       <file name="/console" timestamp="1592917269221">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/webhook.ts" timestamp="1592986952616">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
+        <mark key="^" line="60" column="43" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/package.json" timestamp="1592984649903">
         <mark key="[" line="25" column="29" />
@@ -91,10 +104,13 @@
         <mark key="^" line="77" column="48" />
         <mark key="." line="77" column="47" />
       </file>
-      <file name="/workout_i18n [MySQL - @localhost]" timestamp="1592899856397">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/userSubscriptions/post.ts" timestamp="1592986159589">
+        <mark key="'" line="87" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="/dev.workout_i18n" timestamp="1592899856414">
+      <file name="/" timestamp="1592986232628">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/aws/sentry.sh" timestamp="1592985374842">
@@ -108,9 +124,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/foo.bar" timestamp="1592899993008">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/week_progression [MySQL - @localhost]" timestamp="1592899992972">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1592917269225">
@@ -130,15 +143,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="102" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
-      <jump line="160" column="22" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
-      <jump line="12" column="17" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="32" column="13" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="151" column="7" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="31" column="9" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="155" column="16" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
-      <jump line="158" column="28" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
-      <jump line="159" column="76" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="206" column="49" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="34" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="45" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
@@ -230,15 +234,24 @@
       <jump line="7" column="0" filename="$USER_HOME$/Development/api.meliorence.com/aws/sentry.sh" />
       <jump line="4" column="1" filename="$USER_HOME$/Development/api.meliorence.com/aws/sentry.sh" />
       <jump line="6" column="5" filename="$USER_HOME$/Development/api.meliorence.com/aws/sentry.sh" />
+      <jump line="88" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/userSubscriptions/post.ts" />
+      <jump line="88" column="12" filename="$USER_HOME$/Development/api.meliorence.com/src/services/queue/index.ts" />
+      <jump line="52" column="46" filename="$USER_HOME$/Development/api.meliorence.com/src/services/queue/index.ts" />
+      <jump line="64" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/queue/index.ts" />
+      <jump line="69" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/queue/index.ts" />
+      <jump line="74" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/queue/index.ts" />
+      <jump line="79" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/queue/index.ts" />
+      <jump line="81" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/queue/index.ts" />
+      <jump line="87" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/queue/index.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">I0RJUj0iJCggY2QgIiQoIGRpcm5hbWUgIiR7QkFTSF9TT1VSQ0VbMF19IiApIiA+L2Rldi9udWxsIDI+JjEgJiYgcHdkICkiCiMKI2NkICRESVIKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>-p $SENTRY_PROJECT $</text>
+        <text>new Error(`No handler set up for queue: ${queue}`)</text>
       </register>
       <register name="/" type="4">
         <text>DIR</text>
@@ -247,31 +260,31 @@
         <text encoding="base64">ICAgIG1hdGNoKHR5cGU6ICJkZXZlbG9wbWVudCIsIGFwcF9pZGVudGlmaWVyOiAiY29tLm51bGkuYXBwLndpcCIsIGdpdF9icmFuY2g6ICJudWxpIiwgZm9yY2VfZm9yX25ld19kZXZpY2VzOiB0cnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">I0RJUj0iJCggY2QgIiQoIGRpcm5hbWUgIiR7QkFTSF9TT1VSQ0VbMF19IiApIiA+L2Rldi9udWxsIDI+JjEgJiYgcHdkICkiCiMKI2NkICRESVIKCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmVjaG8gJFNFTlRSWV9PUkcKZWNobyAkU0VOVFJZX1BST0pFQ1QKZWNobyAkU0VOVFJZX1JFTEVBU0UKZWNobyAkU0VOVFJZX0RFUExPWV9FTlZJUk9OTUVOVAo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdDSEFOTkVMUycsIEpTT04uc3RyaW5naWZ5KENIQU5ORUxTKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IFNFTlRSWV9SRUxFQVNFPWRldgpleHBvcnQgU0VOVFJZX0RFUExPWV9FTlZJUk9OTUVOVD1zdGFnaW5nCgojIFRPRE8gOiByZSBlbmFibGUgb25jZSByZWxlYXNlIGlzIGFjdGl2ZQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnTWlzc2luZyBob29rJywgY2hhbm5lbCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyAkU0VOVFJZX09SRwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnQ29uc3RydWN0aW5nIGVtYmVkcyBmb3Igd2ViaG9vaycsIGNoYW5uZWwpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CkFXU19FQ1I9IiR7RUNSX1JFR0lTVFJZfVxcLyR7RUNSX1JFUE9TSVRPUll9OiR7SU1BR0VfVEFHfSIKQlVDS0VUX05BTUU9bWVsaW9yZW5jZS1iZWFuc3RhbGstdmVyc2lvbnMKQVBQX05BTUU9bnVsaS1hcGkKRU5WX05BTUU9bnVsaS0ke1NUQUdFfS1hcGkKCnNlZCAtaSAicy8lJUlNQUdFJSUvJHtBV1NfRUNSfS9nIiBEb2NrZXJydW4uYXdzLmpzb24KCnppcCBhcHAuemlwIC5lYmV4dGVuc2lvbnMvKiogRG9ja2VycnVuLmF3cy5qc29uCmF3cyBzMyBjcCAuL2FwcC56aXAgczM6Ly8ke0JVQ0tFVF9OQU1FfS8ke0FQUF9OQU1FfS0ke1RBR30uemlwCmF3cyBlbGFzdGljYmVhbnN0YWxrIGNyZWF0ZS1hcHBsaWNhdGlvbi12ZXJzaW9uIC0tYXBwbGljYXRpb24tbmFtZSAiJHtBUFBfTkFNRX0iIC0tdmVyc2lvbi1sYWJlbCAiJHtUQUd9IiAtLXNvdXJjZS1idW5kbGUgUzNCdWNrZXQ9IiR7QlVDS0VUX05BTUV9IixTM0tleT0iJHtBUFBfTkFNRX0tJHtUQUd9LnppcCIKCmF3cyBlbGFzdGljYmVhbnN0YWxrIHVwZGF0ZS1lbnZpcm9ubWVudCAtLWVudmlyb25tZW50LW5hbWUgIiR7RU5WX05BTUV9IiAtLXZlcnNpb24tbGFiZWwgIiR7VEFHfSIKCmVjaG8gIldhaXRpbmcgZm9yIGVudmlyb25tZW50IHRvIGJlIHVwZGF0ZWQgd2l0aCB0aGUgbmV3IGFwcCB2ZXJzaW9uLi4uIgpzbGVlcCAzMAoKd2hpbGUgdHJ1ZTsgZG8KICBzbGVlcCA1CgogIGF3cyBlbGFzdGljYmVhbnN0YWxrIGRlc2NyaWJlLWV2ZW50cyAtLWVudmlyb25tZW50LW5hbWUgIiR7RU5WX05BTUV9IiAtLW1heC1pdGVtcyAxID4gc3RhdHVzLnRtcAogIHNldmVyaXR5PSIkKGNhdCBzdGF0dXMudG1wIHwganEgLXIgIi5FdmVudHNbXSB8IC5TZXZlcml0eSIpIgogIG1lc3NhZ2U9IiQoY2F0IHN0YXR1cy50bXAgfCBqcSAtciAiLkV2ZW50c1tdIHwgLk1lc3NhZ2UiKSIKICBpZiBbICIkc2V2ZXJpdHkiICE9ICJJTkZPIiBdOyB0aGVuCiAgICBlY2hvICJVbmV4cGVjdGVkIGRlcGxveW1lbnQgZXZlbnQgc2V2ZXJpdHkgOiAkc2V2ZXJpdHkiCiAgICBleGl0IDEKICBlbHNlCiAgICBpZiBbICIkbWVzc2FnZSIgPT0gIkVudmlyb25tZW50IHVwZGF0ZSBjb21wbGV0ZWQgc3VjY2Vzc2Z1bGx5LiIgXTsgdGhlbgogICAgICBlY2hvICJEZXBsb3ltZW50IHN1Y2Nlc3NmdWwiCiAgICAgIGV4aXQgMAogICAgZmkKICBmaQpkb25lCgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnRW1iZWRzIHdpdGhvdXQgZmllbGRzJywgZW1iZWRzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiaW5saW5lU291cmNlcyI6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhgRmlyaW5nIGVtYmVkcyBvbiB3ZWJob29rICR7Y2hhbm5lbH1gLCBKU09OLnN0cmluZ2lmeShlbWJlZHMpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text>feat(TrialToast): display once a day</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJ09LPz8nKTsKICAgICAgICAgICAgfSkKICAgICAgICAgICAgLmNhdGNoKGVyciA9PiB7CiAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygnZXJyPz8nLCBlcnIpOwogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text>feat(TrialToast): display once a day</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>WIP: refactor(appi): format code with eslint, fix typescript errors</text>
+        <text encoding="base64">aW1wb3J0IHsgbG9nT25XZWJob29rLCBXZWJob29rQ2hhbm5lbHMsIExvZ0xldmVsIH0gZnJvbSAnLi4vLi4vc2VydmljZXMvd2ViaG9vayc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

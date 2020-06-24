@@ -61,21 +61,21 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/bootstrap.ts" timestamp="1592925065231">
-        <mark key="[" line="29" column="42" />
-        <mark key="]" line="31" column="38" />
-        <mark key="^" line="31" column="38" />
-        <mark key="." line="31" column="37" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/bootstrap.ts" timestamp="1592988080515">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="33" column="80" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/views/WorkoutCompletion.tsx" timestamp="1592921448768">
         <mark key="'" line="102" column="24" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/queue/index.ts" timestamp="1592987202858">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/queue/index.ts" timestamp="1592987884847">
         <mark key="'" line="87" column="0" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="91" column="7" />
-        <mark key="." line="92" column="0" />
+        <mark key="[" line="89" column="3" />
+        <mark key="]" line="89" column="4" />
+        <mark key="^" line="89" column="4" />
+        <mark key="." line="89" column="3" />
       </file>
       <file name="/console" timestamp="1592917269221">
         <mark key="[" line="0" column="0" />
@@ -248,10 +248,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>new Error(`No handler set up for queue: ${queue}`)</text>
+        <text>acivity</text>
       </register>
       <register name="/" type="4">
         <text>DIR</text>
@@ -260,31 +260,31 @@
         <text encoding="base64">ICAgIG1hdGNoKHR5cGU6ICJkZXZlbG9wbWVudCIsIGFwcF9pZGVudGlmaWVyOiAiY29tLm51bGkuYXBwLndpcCIsIGdpdF9icmFuY2g6ICJudWxpIiwgZm9yY2VfZm9yX25ld19kZXZpY2VzOiB0cnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdDSEFOTkVMUycsIEpTT04uc3RyaW5naWZ5KENIQU5ORUxTKSk7Cg==</text>
+        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcignQm9vc3RyYXAgZXJyb3InKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnTWlzc2luZyBob29rJywgY2hhbm5lbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgIHNjb3BlLnNldFRhZygncXVldWUnLCAndHJ1ZScpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnQ29uc3RydWN0aW5nIGVtYmVkcyBmb3Igd2ViaG9vaycsIGNoYW5uZWwpOwo=</text>
+        <text encoding="base64">ICAgIFNlbnRyeS53aXRoU2NvcGUoKHNjb3BlKSA9PiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnRW1iZWRzIHdpdGhvdXQgZmllbGRzJywgZW1iZWRzKTsK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhgRmlyaW5nIGVtYmVkcyBvbiB3ZWJob29rICR7Y2hhbm5lbH1gLCBKU09OLnN0cmluZ2lmeShlbWJlZHMpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgICAgICAgICAgLy8gY29uc29sZS5sb2coJ09LPz8nKTsKICAgICAgICAgICAgfSkKICAgICAgICAgICAgLmNhdGNoKGVyciA9PiB7CiAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZygnZXJyPz8nLCBlcnIpOwogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdDSEFOTkVMUycsIEpTT04uc3RyaW5naWZ5KENIQU5ORUxTKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnTWlzc2luZyBob29rJywgY2hhbm5lbCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9nT25XZWJob29rLCBXZWJob29rQ2hhbm5lbHMsIExvZ0xldmVsIH0gZnJvbSAnLi4vLi4vc2VydmljZXMvd2ViaG9vayc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZygnQ29uc3RydWN0aW5nIGVtYmVkcyBmb3Igd2ViaG9vaycsIGNoYW5uZWwpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

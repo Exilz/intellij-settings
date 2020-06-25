@@ -55,22 +55,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/crons/index.ts" timestamp="1592999498837">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="18" column="72" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/services/logger.ts" timestamp="1593009346340">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="47" column="70" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/unit/services/onesignal.test.ts" timestamp="1593016532570">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/unit/services/onesignal.test.ts" timestamp="1593073988996">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Development/nuli.infrastructure/conf/production.json" timestamp="1593009737994">
         <mark key="[" line="24" column="30" />
@@ -102,24 +97,30 @@
       <file name="$USER_HOME$/Development/app.nuli/src/components/FadeInImage.tsx" timestamp="1593010810280">
         <mark key="'" line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/nuli.infrastructure/conf/staging.json" timestamp="1593009726564">
+      <file name="$USER_HOME$/Development/nuli.infrastructure/conf/staging.json" timestamp="1593074521880">
         <mark key="[" line="23" column="30" />
         <mark key="]" line="24" column="26" />
         <mark key="^" line="24" column="26" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593013850014">
+      <file name="$USER_HOME$/Development/nuli.infrastructure/database.tf" timestamp="1593070928536">
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="28" column="37" />
+        <mark key="^" line="28" column="37" />
+        <mark key="." line="28" column="36" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593074172043">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/bootstrap.ts" timestamp="1593009768599">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/bootstrap.ts" timestamp="1593074169317">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="29" column="29" />
-        <mark key="." line="29" column="28" />
-        <mark key="^" line="29" column="29" />
+        <mark key="[" line="27" column="42" />
+        <mark key="]" line="28" column="4" />
+        <mark key="." line="28" column="3" />
+        <mark key="^" line="28" column="4" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/services/managers/WorkoutListManager.ts" timestamp="1593008637185">
         <mark key="[" line="9" column="60" />
@@ -162,7 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="161" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="153" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="151" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
@@ -262,15 +262,16 @@
       <jump line="31" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/bootstrap.ts" />
       <jump line="46" column="24" filename="$USER_HOME$/Development/api.meliorence.com/.env" />
       <jump line="52" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/FadeInImage.tsx" />
+      <jump line="60" column="0" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/unit/services/onesignal.test.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQVBQQ09ORklHJywgZ2V0QXBwQ29uZmlnKCkpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>getAppConfig</text>
       </register>
       <register name="/" type="4">
         <text>DIR</text>
@@ -279,31 +280,31 @@
         <text encoding="base64">RU5WX05BTUU9ZGV2ZWxvcG1lbnQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQVBQQ09ORklHJywgZ2V0QXBwQ29uZmlnKCkpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmZXRjaGluZyBhcHAgY29uZmlnJyk7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZXR0aW5nJywgc2V0dGluZyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByb2Nlc3MuZW52KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhcHBDT25maWcnLCBhcHBDb25maWcpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtnZXRBcHBDb25maWd9IGZyb20gJy4uLy4uLy4uL3NyYy91dGlscy9hcHBDb25maWcnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ1dlYmhvb2tzIGFyZSBub3Qgc2V0dXAgaW4gYXBwIGNvbmZpZ3VyYXRpb24nKTsK</text>
+        <text encoding="base64">CmNvbnN0IHVzZXJVbnJlZ2lzdGVyZWRUb09uZVNpZ25hbCA9IHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Upgrade production RDS from t3.small to t3.mediumdd ENV</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UkVNT1ZFIFVTRUxFU1MgQ0xPVURGUk9OVF9FTkRQT0lOVCBWQVIgRlJPTSBMQU1CREEKaW1wb3J0IHt9IGZyb20gJy4uLy4uLy4uL3NyYy91dGlscy9hcHBDb25maWcnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">RU5WX05BTUU9ZGV2ZWxvcG1lbnQK</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJy4uLy4uLy4uL3NyYy91dGlscy9hcHBDb25maWcnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RU5WX05BTUU9ZGV2ZWxvcG1lbnQK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQVBQQ09ORklHJywgZ2V0QXBwQ29uZmlnKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -150,12 +150,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" timestamp="1593163807584">
+      <file name="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" timestamp="1593164610417">
         <mark key="'" line="24" column="40" />
-        <mark key="[" line="8" column="45" />
-        <mark key="]" line="10" column="34" />
-        <mark key="." line="10" column="33" />
-        <mark key="^" line="10" column="34" />
+        <mark key="[" line="65" column="135" />
+        <mark key="]" line="65" column="134" />
+        <mark key="." line="65" column="133" />
+        <mark key="^" line="65" column="134" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/utils/appConfig.ts" timestamp="1593016526560">
         <mark key="[" line="70" column="0" />
@@ -269,43 +269,51 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICAgYXdhaXQgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>sdfljksddfslk</text>
+        <text encoding="base64">c3NoLmV4ZWNDb21tYW5kKGBteXNxbGR1bXAgLS1zaW5nbGUtdHJhbnNhY3Rpb24gLS1uby1kYXRhIC11ICR7dXNlcn0gLXAgLWggJHtob3N0fSAtLXBvcnQgJHtwb3J0fSAke2RhdGFiYXNlfSA+IHN0cnVjdHVyZS5zcWxgKTs=</text>
       </register>
       <register name="/" type="4">
         <text>DIR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgY29uc3QgaW5zdGFsbE15U1FMID0gYXdhaXQgc3NoLmV4ZWNDb21tYW5kKCdzdWRvIHl1bSBpbnN0YWxsIC15IG15c3FsJyk7Cg==</text>
+        <text encoding="base64">ICAgYXdhaXQgc3NoLmV4ZWNDb21tYW5kKCdjZCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICAgYXdhaXQgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgY29uc29sZS5sb2coJ2luc3RhbGwgPycsIGluc3RhbGxNeVNRTCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgLy8gY29uc3QgaW5zdGFsbE15U1FMID0gYXdhaXQgc3NoLmV4ZWNDb21tYW5kKCdzdWRvIHl1bSBpbnN0YWxsIC15IG15c3FsJyk7Cg==</text>
+      <register name="3" type="8">
+        <text>await
+await
+await
+await
+await</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvaz8nKTsK</text>
+        <text encoding="base64">ICAgYXdhaXQgc3NoLmV4ZWNDb21tYW5kKCdzdWRvIHl1bSBpbnN0YWxsIC15IG15c3FsJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgYXdhaXQgc3NoLmV4ZWNDb21tYW5kKCdjZCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hvc3QnLCBob3N0KTsK</text>
+        <text encoding="base64">ICAgYXdhaXQgc3NoLmV4ZWNDb21tYW5kKCdta2RpciBkdW1wJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc3NoQ29uZmlnKTsK</text>
+        <text encoding="base64">ICAgYXdhaXQgc3NoLmV4ZWNDb21tYW5kKCdjZCBkdW1wJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgYXdhaXQgc3NoLmV4ZWNDb21tYW5kKCdwd2QnKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coeyBob3N0TmFtZSwgaWRlbnRpdHlGaWxlLCB1c2VyIH0pOwo=</text>
+      <register name="9" type="8">
+        <text>await s
+await s
+await s
+await s
+await s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

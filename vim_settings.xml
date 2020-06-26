@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>openPay</entry>
-        <entry>TrialToast</entry>
         <entry encoding="base64">XDxkZWZhdWx0SW5zdGFuY2VcPg==</entry>
         <entry>default</entry>
         <entry encoding="base64">XDxwYXlsb2FkXD4=</entry>
@@ -25,6 +23,8 @@
         <entry>Percentage</entry>
         <entry encoding="base64">XDxwcm9ncmVzc2lvblBlcmNlbnRhZ2VcPg==</entry>
         <entry>DIR</entry>
+        <entry>replace</entry>
+        <entry encoding="base64">XDxkYXRhYmFzZVBhc3N3b3JkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>gwip</entry>
@@ -72,11 +72,17 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/tools.meliorence.com/db-dumper/package.json" timestamp="1593163099452">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="11" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Development/tools.meliorence.com/db-dumper/README.md" timestamp="1593171273946">
+        <mark key="[" line="28" column="178" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="32" column="189" />
+        <mark key="^" line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/tools.meliorence.com/db-dumper/package.json" timestamp="1593170902921">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+        <mark key="." line="9" column="18" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/components/FadeInImage.tsx" timestamp="1593010810280">
         <mark key="'" line="52" column="0" />
@@ -94,11 +100,11 @@
         <mark key="." line="28" column="3" />
         <mark key="^" line="28" column="4" />
       </file>
-      <file name="$USER_HOME$/Development/tools.meliorence.com/db-dumper/settings.json" timestamp="1593163778164">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="29" />
-        <mark key="^" line="6" column="29" />
-        <mark key="." line="6" column="28" />
+      <file name="$USER_HOME$/Development/tools.meliorence.com/db-dumper/settings.json" timestamp="1593171064855">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="23" />
+        <mark key="." line="9" column="22" />
+        <mark key="^" line="9" column="23" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/services/webhook.ts" timestamp="1593015280116">
         <mark key="'" line="75" column="0" />
@@ -121,17 +127,18 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/utils.ts" timestamp="1593167629179">
-        <mark key="[" line="24" column="88" />
-        <mark key="]" line="24" column="87" />
-        <mark key="^" line="24" column="87" />
-        <mark key="." line="24" column="86" />
+      <file name="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/utils.ts" timestamp="1593170295010">
+        <mark key="'" line="37" column="58" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="32" column="65" />
+        <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/sentry.ts" timestamp="1593009871532">
-        <mark key="[" line="6" column="79" />
-        <mark key="]" line="6" column="92" />
-        <mark key="^" line="6" column="92" />
-        <mark key="." line="6" column="91" />
+      <file name="$USER_HOME$/Development/tools.meliorence.com/README.md" timestamp="1593170362935">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="22" />
       </file>
       <file name="$USER_HOME$/Development/nuli.infrastructure/database.tf" timestamp="1593070928536">
         <mark key="[" line="28" column="37" />
@@ -139,23 +146,18 @@
         <mark key="^" line="28" column="37" />
         <mark key="." line="28" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593074172043">
+      <file name="/Dummy.txt" timestamp="1593171404602">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/.env.test" timestamp="1593009837187">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" timestamp="1593168191446">
-        <mark key="'" line="91" column="30" />
-        <mark key="[" line="93" column="34" />
-        <mark key="]" line="94" column="35" />
-        <mark key="." line="94" column="34" />
-        <mark key="^" line="94" column="35" />
+      <file name="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" timestamp="1593171252580">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="95" column="53" />
+        <mark key="]" line="96" column="39" />
+        <mark key="." line="96" column="38" />
+        <mark key="^" line="96" column="39" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/utils/appConfig.ts" timestamp="1593016526560">
         <mark key="[" line="70" column="0" />
@@ -164,17 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
-      <jump line="22" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
-      <jump line="14" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
-      <jump line="12" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
-      <jump line="14" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/TrialToast.tsx" />
-      <jump line="57" column="49" filename="$USER_HOME$/Development/app.nuli/src/components/TrialToast.tsx" />
-      <jump line="62" column="10" filename="$USER_HOME$/Development/app.nuli/src/components/TrialToast.tsx" />
-      <jump line="7" column="0" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
-      <jump line="75" column="64" filename="$USER_HOME$/Development/app.nuli/src/components/TrialToast.tsx" />
-      <jump line="425" column="23" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
-      <jump line="73" column="54" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="74" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="431" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="490" column="42" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
@@ -264,48 +255,61 @@
       <jump line="69" column="6" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
       <jump line="20" column="1" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
       <jump line="91" column="30" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
+      <jump line="29" column="0" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/utils.ts" />
+      <jump line="1" column="38" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/utils.ts" />
+      <jump line="37" column="58" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/utils.ts" />
+      <jump line="42" column="67" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
+      <jump line="7" column="83" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
+      <jump line="52" column="26" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
+      <jump line="43" column="12" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
+      <jump line="53" column="46" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
+      <jump line="60" column="0" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
+      <jump line="67" column="0" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
+      <jump line="82" column="0" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>sshUser</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy8gVE9ETyA6IGRlbGV0ZSBkdW1wcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>sshUser</text>
+        <text>meliorence</text>
       </register>
       <register name="/" type="4">
-        <text>DIR</text>
+        <text encoding="base64">XDxkYXRhYmFzZVBhc3N3b3JkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBgLS1pZ25vcmUtdGFibGUgJHtJR05PUkVEX1RBQkxFUy5tYXAoKHRhYmxlKSA9PiBgJHtkYk5hbWV9LiR7dGFibGV9YCkuam9pbignICcpfWA7Cg==</text>
+        <text encoding="base64">ICAgICJudWxpLXN0YWdpbmciOiB7CiAgICAgICJ1c2VyIjogIm1lbGlvcmVuY2UiLAogICAgICAiaG9zdCI6ICJudWxpLXN0YWdpbmcuY2o0c3VydXF2NHAyLmFwLWVhc3QtMS5yZHMuYW1hem9uYXdzLmNvbSIsCiAgICAgICJwb3J0IjogIjMzMDYiLAogICAgICAiZGF0YWJhc2UiOiAibWVsaW9yZW5jZSIKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgZnMubWtkaXJTeW5jKCcnKQo=</text>
+        <text encoding="base64">ICAgICAgLy8gVE9ETyA6IGRlbGV0ZSBkdW1wcwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgY29uc29sZS5sb2coYE1ZU1FMX1BXRD0ke1BXRH0gbXlzcWxkdW1wIC0tc2luZ2xlLXRyYW5zYWN0aW9uIC11ICR7dXNlcn0gLWggJHtob3N0fSAtLXBvcnQgJHtwb3J0fSAke2RhdGFiYXNlfSAke2J1aWxkSWdub3JlVGFibGVzQXJnKGRhdGFiYXNlKX0gPiAuL2R1bXAvY29udGVudC5zcWxgKTsKICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBgLS1pZ25vcmUtdGFibGUgJHtJR05PUkVEX1RBQkxFUy5qb2luKCcgJyl9YDsK</text>
+      <register name="3" type="4">
+        <text>Résultats de recherche
+  Résultat Web avec des liens annexes
+  V</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGJ1aWxkSWdub3JlVGFibGVzQXJnKGRhdGFiYXNlKSk7Cg==</text>
+        <text encoding="base64">Ci8vIDEwMCAtPiB0b3RhbAovLyB4IC0+IHRvdGFsX3RyYW5zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gcnVuRHVtcHMgKHNzaDogTm9kZVNTSCwgeyB1c2VyLCBob3N0LCBkYXRhYmFzZSwgcG9ydCB9OiBIb3N0U2V0dGluZ3MpOiBQcm9taXNlPHZvaWQ+IHsKICAgY29uc29sZS5sb2coJ0R1bXBpbmcgZGF0YWJhc2Ugc3RydWN0dXJlLi4uJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gZXhlY3V0ZUR1bXBzIChzc2g6IE5vZGVTU0gsIHsgIH0pCg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IHByb21wdCBmb3IgcGFzd29yZAogICBjb25zdCBQV0QgPSAnOXkzWUM4WXlaT0p4JzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gZXhlY3V0ZUR1bXBzIChzc2g6IE5vZGVTU0gsIHsgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgcHJpdmF0ZUtleTogcmVwbGFjZVRpbGRlSW5QYXRoKGlkZW50aXR5RmlsZSksCiAgICAgIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgdHJ5S2V5Ym9hcmQ6IHRydWUsCiAgICAgICAgIG9uS2V5Ym9hcmRJbnRlcmFjdGl2ZTogKG5hbWUsIGluc3RydWN0aW9ucywgaW5zdHJ1Y3Rpb25zTGFuZywgcHJvbXB0cywgZmluaXNoKSA9PiB7CiAgICAgICAgICAgICBjb25zb2xlLmxvZygnS0VZQk9BUkQnLCBhcmd1bWVudHMpOwogICAgICAgICAgICAvLyBpZiAocHJvbXB0cy5sZW5ndGggPiAwICYmIHByb21wdHNbMF0ucHJvbXB0LnRvTG93ZXJDYXNlKCkuaW5jbHVkZXMoJ3Bhc3N3b3JkJykpIHsKICAgICAgICAgICAgLy8gICAgZmluaXNoKFtwYXNzd29yZF0pCiAgICAgICAgICAgIC8vIH0KICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgLy8gYXdhaXQgc3NoLmdldEZpbGUoYCR7ZGVzdGluYXRpb259L2NvbnRlbnQuc3FsYCwgYC9ob21lLyR7c3NoVXNlcn0vZHVtcC9jb250ZW50LnNxbGAsIG51bGwsIHsgc3RlcDogKHRvdGFsX3RyYW5zZmVycmVkLCBjaHVuaywgdG90YWwpID0+IHsKICAgLy8gICAgY29uc29sZS5sb2coeyB0b3RhbCwgdHJhbnNmZXJlZDogdG90YWxfdHJhbnNmZXJyZWQsIGNodW5rIH0pOwogICAvLyAgICB9IH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -314,9 +318,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>DIR</last-search>
+      <last-search encoding="base64">XDxkYXRhYmFzZVBhc3N3b3JkXD4=</last-search>
       <last-offset />
-      <last-pattern>DIR</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRhYmFzZVBhc3N3b3JkXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

@@ -125,6 +125,13 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/tools.meliorence.com/.gitignore" timestamp="1593172605935">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="14" />
+      </file>
       <file name="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/utils.ts" timestamp="1593170295010">
         <mark key="'" line="37" column="58" />
         <mark key="[" line="49" column="0" />
@@ -144,18 +151,18 @@
         <mark key="^" line="28" column="37" />
         <mark key="." line="28" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593172380507">
+      <file name="/Dummy.txt" timestamp="1593172622385">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" timestamp="1593171252580">
+      <file name="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" timestamp="1593175981919">
         <mark key="'" line="82" column="0" />
-        <mark key="[" line="95" column="53" />
-        <mark key="]" line="96" column="39" />
-        <mark key="." line="96" column="38" />
-        <mark key="^" line="96" column="39" />
+        <mark key="[" line="37" column="11" />
+        <mark key="]" line="37" column="17" />
+        <mark key="." line="37" column="16" />
+        <mark key="^" line="37" column="17" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/utils/appConfig.ts" timestamp="1593016526560">
         <mark key="[" line="70" column="0" />
@@ -164,7 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="431" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="490" column="42" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="79" column="51" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
@@ -264,6 +270,7 @@
       <jump line="60" column="0" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
       <jump line="67" column="0" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
       <jump line="82" column="0" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
+      <jump line="57" column="0" filename="$USER_HOME$/Development/tools.meliorence.com/.gitignore" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">

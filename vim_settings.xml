@@ -55,6 +55,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/prod settings.json" timestamp="1593089641262" />
       <file name="$USER_HOME$/Development/api.meliorence.com/src/services/logger.ts" timestamp="1593009346340">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -73,7 +74,6 @@
         <mark key="." line="24" column="30" />
         <mark key="^" line="24" column="31" />
       </file>
-      <file name="/package.json" timestamp="1592999790494" />
       <file name="$USER_HOME$/Development/api.meliorence.com/src/utils/errors/HapiRequestEventError.ts" timestamp="1593008585045">
         <mark key="[" line="5" column="10" />
         <mark key="]" line="5" column="13" />

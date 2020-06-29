@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWZhdWx0SW5zdGFuY2VcPg==</entry>
         <entry>default</entry>
         <entry encoding="base64">XDxwYXlsb2FkXD4=</entry>
         <entry>locale</entry>
@@ -25,6 +24,7 @@
         <entry>DIR</entry>
         <entry>replace</entry>
         <entry encoding="base64">XDxkYXRhYmFzZVBhc3N3b3JkXD4=</entry>
+        <entry>password</entry>
       </history-search>
       <history-cmd>
         <entry>gwip</entry>
@@ -72,6 +72,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/app.nuli/package.json" timestamp="1593181147311" />
       <file name="$USER_HOME$/Development/tools.meliorence.com/db-dumper/README.md" timestamp="1593172573061">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="65" column="0" />
@@ -83,6 +84,9 @@
         <mark key="]" line="9" column="19" />
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="18" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/005-genflow-users.js" timestamp="1593179613953">
+        <mark key="'" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Development/nuli.infrastructure/conf/staging.json" timestamp="1593074521880">
         <mark key="[" line="23" column="30" />
@@ -103,13 +107,6 @@
         <mark key="." line="9" column="22" />
         <mark key="^" line="9" column="23" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/webhook.ts" timestamp="1593015280116">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="32" column="37" />
-        <mark key="]" line="33" column="37" />
-        <mark key="." line="33" column="36" />
-        <mark key="^" line="33" column="37" />
-      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/package.json" timestamp="1593163149842">
         <mark key="[" line="52" column="31" />
         <mark key="]" line="53" column="33" />
@@ -117,9 +114,6 @@
         <mark key="." line="53" column="32" />
       </file>
       <file name="$USER_HOME$/Development/tools.meliorence.com/tools.meliorence.com/src/index.ts" timestamp="1593172410080" />
-      <file name="/" timestamp="1593010811535">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/tsconfig.json" timestamp="1593163122332">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -171,7 +165,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="431" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="490" column="42" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="79" column="51" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="211" column="4" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
@@ -271,6 +264,7 @@
       <jump line="67" column="0" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
       <jump line="82" column="0" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
       <jump line="57" column="0" filename="$USER_HOME$/Development/tools.meliorence.com/.gitignore" />
+      <jump line="4" column="0" filename="$USER_HOME$/Development/api.meliorence.com/migrations/005-genflow-users.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -282,7 +276,7 @@
         <text>meliorence</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhYmFzZVBhc3N3b3JkXD4=</text>
+        <text>password</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJudWxpLXN0YWdpbmciOiB7CiAgICAgICJ1c2VyIjogIm1lbGlvcmVuY2UiLAogICAgICAiaG9zdCI6ICJudWxpLXN0YWdpbmcuY2o0c3VydXF2NHAyLmFwLWVhc3QtMS5yZHMuYW1hem9uYXdzLmNvbSIsCiAgICAgICJwb3J0IjogIjMzMDYiLAogICAgICAiZGF0YWJhc2UiOiAibWVsaW9yZW5jZSIKICAgIH0K</text>
@@ -323,9 +317,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkYXRhYmFzZVBhc3N3b3JkXD4=</last-search>
+      <last-search>password</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhYmFzZVBhc3N3b3JkXD4=</last-pattern>
+      <last-pattern>password</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

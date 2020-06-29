@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>DEBUG</entry>
         <entry encoding="base64">XDxzdHJpbmdcPg==</entry>
         <entry>setLast</entry>
         <entry>ref=</entry>
@@ -25,6 +24,7 @@
         <entry>MAIL</entry>
         <entry>CANCEL</entry>
         <entry>runUpd</entry>
+        <entry>PRIVATE</entry>
       </history-search>
       <history-cmd>
         <entry>gwip</entry>
@@ -65,22 +65,34 @@
         <mark key="." line="95" column="26" />
         <mark key="^" line="95" column="27" />
       </file>
+      <file name="$USER_HOME$/Development/app.nuli/env.staging.ts" timestamp="1593440279867">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="64" />
+      </file>
       <file name="/setting [MySQL - @localhost]" timestamp="1593435117127">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/.env.ci" timestamp="1593424450746">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1593440288186">
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="22" />
+        <mark key="^" line="16" column="22" />
+        <mark key="." line="16" column="22" />
       </file>
       <file name="/dummy.sql" timestamp="1593435117128">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/nuli.infrastructure/conf/staging.json" timestamp="1593435223320">
+      <file name="$USER_HOME$/Development/nuli.infrastructure/conf/staging.json" timestamp="1593439600386">
+        <mark key="'" line="38" column="31" />
         <mark key="[" line="40" column="27" />
         <mark key="]" line="40" column="62" />
         <mark key="^" line="40" column="27" />
         <mark key="." line="40" column="26" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593438078186">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/onesignal.ts" timestamp="1593437765011">
         <mark key="[" line="52" column="0" />
@@ -89,17 +101,6 @@
       </file>
       <file name="/dev.setting" timestamp="1593435117128">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/.env.test" timestamp="1593424436677">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/.env" timestamp="1593424423474">
-        <mark key="'" line="5" column="20" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/setting staging.json" timestamp="1593435930143">
         <mark key="'" line="0" column="0" />
@@ -131,18 +132,18 @@
       <file name="/foo.bar" timestamp="1593425177769">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/utils/appConfig.ts" timestamp="1593423633527">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="88" column="6" />
-        <mark key="." line="87" column="9" />
-        <mark key="^" line="87" column="10" />
-      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1593437733038">
         <mark key="'" line="42" column="17" />
         <mark key="[" line="64" column="21" />
         <mark key="]" line="64" column="21" />
         <mark key="." line="64" column="24" />
         <mark key="^" line="56" column="25" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1593440300460">
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="33" />
+        <mark key="." line="26" column="32" />
+        <mark key="^" line="26" column="33" />
       </file>
       <file name="/mandrill.ts" timestamp="1593425145373">
         <mark key="[" line="5" column="49" />
@@ -155,7 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/webhook.ts" />
       <jump line="90" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/webhook.ts" />
       <jump line="120" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/webhook.ts" />
       <jump line="36" column="34" filename="$USER_HOME$/Development/api.meliorence.com/src/services/webhook.ts" />
@@ -255,48 +255,49 @@
       <jump line="56" column="25" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
       <jump line="26" column="3" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/helpers/setupMocks.ts" />
       <jump line="42" column="17" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
+      <jump line="38" column="31" filename="$USER_HOME$/Development/nuli.infrastructure/conf/staging.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc/PycsIHNlcnZpY2VzKTsK</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>runUpd</text>
+        <text>PRIVATE</text>
       </register>
       <register name="0" type="4">
-        <text>../../src/utils/appConfig</text>
+        <text>'https://api.staging.nuli.app/api/v1/';</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc/PycsIHNlcnZpY2VzKTsK</text>
+        <text encoding="base64">bGV0IGJhc2VVUkw6IHN0cmluZyA9IEFQSV9ET01BSU47Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IGJhc2VVUkw6IHN0cmluZyA9ICdodHRwOi8vMTkyLjE2OC4wLjE0OjgwMDAvYXBpL3YxLyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ1NFRUQnLCBzZXR0aW5nU2VlZGVyKTsK</text>
+        <text>hore(</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtnZXRBcHBDb25maWd9IGZyb20gJy4uLy4uL3NyYy91dGlscy9hcHBDb25maWcnOwo=</text>
+        <text encoding="base64">dGVzdChzZXR1cCk6IA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>WIP feat(app): sentry integrationj</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Z2V0QXBwQ29uZmlnKCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc/PycsIHNlcnZpY2VzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ1NFRUQnLCBzZXR0aW5nU2VlZGVyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtnZXRBcHBDb25maWd9IGZyb20gJy4uLy4uL3NyYy91dGlscy9hcHBDb25maWcnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -305,9 +306,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>runUpd</last-search>
+      <last-search>PRIVATE</last-search>
       <last-offset />
-      <last-pattern>runUpd</last-pattern>
+      <last-pattern>PRIVATE</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

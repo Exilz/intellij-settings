@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhYmFzZVBhc3N3b3JkXD4=</entry>
         <entry>password</entry>
         <entry>DOMAIN</entry>
         <entry>MAIL</entry>
@@ -25,6 +24,7 @@
         <entry>codepush</entry>
         <entry encoding="base64">XDxWaWV3XD4=</entry>
         <entry>iap</entry>
+        <entry>this.context</entry>
       </history-search>
       <history-cmd>
         <entry>gwip</entry>
@@ -81,21 +81,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" timestamp="1593517808485">
+      <file name="$USER_HOME$/Development/app.nuli/src/components/Workout/WorkoutExerciseTable.tsx" timestamp="1593527981701" />
+      <file name="$USER_HOME$/Development/app.nuli/src/views/Recipes.tsx" timestamp="1593529100635">
+        <mark key="[" line="201" column="90" />
+        <mark key="]" line="201" column="90" />
+        <mark key="." line="201" column="90" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" timestamp="1593529128998">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="59" />
-        <mark key="." line="6" column="58" />
-        <mark key="^" line="6" column="59" />
-      </file>
-      <file name="/user [MySQL - @localhost]" timestamp="1593517875584">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/locales/zhTW.ts" timestamp="1593512511628">
-        <mark key="'" line="200" column="40" />
-        <mark key="[" line="361" column="0" />
-        <mark key="]" line="362" column="72" />
-        <mark key="." line="361" column="0" />
+        <mark key="[" line="322" column="0" />
+        <mark key="]" line="322" column="0" />
+        <mark key="." line="322" column="0" />
+        <mark key="^" line="322" column="75" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1593519362807">
         <mark key="[" line="26" column="29" />
@@ -115,9 +112,6 @@
       <file name="/progress_picture [MySQL - @localhost]" timestamp="1593519062973">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dev.user" timestamp="1593517875584">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/console" timestamp="1593526430654">
         <mark key="[" line="0" column="0" />
       </file>
@@ -125,7 +119,7 @@
       <file name="/dummy.sql" timestamp="1593517875584">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593512910657">
+      <file name="/Dummy.txt" timestamp="1593526995705">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -134,13 +128,13 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/252e5c1f-189a-4e5c-86d1-2566f707d91f/console.sql" timestamp="1593521007733">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/locales/enUS.ts" timestamp="1593512502401">
-        <mark key="'" line="330" column="21" />
-        <mark key="[" line="361" column="0" />
-        <mark key="]" line="362" column="72" />
-      </file>
       <file name="/foo.bar" timestamp="1593519062997">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/views/Blog.tsx" timestamp="1593529163794">
+        <mark key="[" line="156" column="76" />
+        <mark key="]" line="156" column="76" />
+        <mark key="." line="156" column="76" />
       </file>
     </filemarks>
     <jumps>
@@ -249,43 +243,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>iap</text>
+        <text>this.context</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5mbHVlbmNlcklkRmlyc3Q6ICdJbmZsdWVuY2VyIElkIChmaXJzdCknLAogICAgICAgICAgICBpbmZsdWVuY2VySWRMYXN0OiAnSW5mbHVlbmNlciBJZCAobGFzdCknLAogICAgICAgICAgICBpbmZsdWVuY2VySWRMYXN0TG9jYWw6ICdJbmZsdWVuY2VyIElkIChsYXN0LCBsb2NhbGx5IHN0b3JlZCknLAogICAgICAgICAgICBpbmZsdWVuY2VyTGlua0ZpcnN0OiAnSW5mbHVlbmNlciBMaW5rIChsYXVuY2gpJywKICAgICAgICAgICAgaW5mbHVlbmNlckxpbmtMYXN0OiAnSW5mbHVlbmNlciBMaW5rIChwcm9maWxlKScsCiAgICAgICAgICAgIGluZmx1ZW5jZXJMaW5rTGFzdExvY2FsOiAnSW5mbHVlbmNlciBMaW5rIChsb2NhbGx5IHN0b3JlZCknLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBob3Jpem9udGFsU2Nyb2xsVmlldyA9IGdldCh0aGlzLmhvcml6b250YWxTY3JvbGxWaWV3UmVmLCAnY3VycmVudC5fY29tcG9uZW50Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>-b737-4eac-95f7-83d60b8980dd</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBob3Jpem9udGFsU2Nyb2xsVmlldyA9IGdldCh0aGlzLmhvcml6b250YWxTY3JvbGxWaWV3UmVmLCAnY3VycmVudC5fY29tcG9uZW50Jyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text>feat(TrialToast): display once a day</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZmxhdExpc3QgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text>feat(TrialToast): display once a day</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBob3Jpem9udGFsU2Nyb2xsVmlldyA9IGdldCh0aGlzLmhvcml6b250YWxTY3JvbGxWaWV3UmVmLCAnY3VycmVudC5fY29tcG9uZW50Jyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvcHM/JywgdGhpcy5wcm9wcyk7Cg==</text>
+        <text>-b737-4eac-95f7-83d60b8980dd</text>
       </register>
       <register name="5" type="2">
         <text>feat(TrialToast): display once a day</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5mbHVlbmNlcklkRmlyc3Q6ICdJbmZsdWVuY2VyIElkIChmaXJzdCknLAogICAgICAgICAgICBpbmZsdWVuY2VySWRsYXN0OiAnSW5mbHVlbmNlciBJZCAobGFzdCknLAogICAgICAgICAgICBpbmZsdWVuY2VyTGlua0ZpcnN0OiAnSW5mbHVlbmNlciBMaW5rIChsYXVuY2gpJywKICAgICAgICAgICAgaW5mbHVlbmNlckxpbmtMYXN0OiAnSW5mbHVlbmNlciBMaW5rIChwcm9maWxlKScsCg==</text>
+        <text>feat(TrialToast): display once a day</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvcHM/JywgdGhpcy5wcm9wcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmV0Y2hQcm9maWxlKCkK</text>
+        <text>feat(TrialToast): display once a day</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5mbHVlbmNlcklkRmlyc3Q6ICdJbmZsdWVuY2VyIElkIChmaXJzdCknLAogICAgICAgICAgICBpbmZsdWVuY2VySWRsYXN0OiAnSW5mbHVlbmNlciBJZCAobGFzdCknLAogICAgICAgICAgICBpbmZsdWVuY2VyTGlua0ZpcnN0OiAnSW5mbHVlbmNlciBMaW5rIChsYXVuY2gpJywKICAgICAgICAgICAgaW5mbHVlbmNlckxpbmtMYXN0OiAnSW5mbHVlbmNlciBMaW5rIChwcm9maWxlKScsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -294,9 +288,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>iap</last-search>
+      <last-search>this.context</last-search>
       <last-offset />
-      <last-pattern>iap</last-pattern>
+      <last-pattern>this.context</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

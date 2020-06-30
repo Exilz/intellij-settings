@@ -72,11 +72,11 @@
         <mark key="." line="61" column="29" />
         <mark key="^" line="61" column="30" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1593512634408">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1593519268440">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="0" />
         <mark key="i" line="0" column="3" />
-        <mark key="[" line="0" column="33" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -102,18 +102,11 @@
         <mark key="]" line="362" column="72" />
         <mark key="." line="361" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1593445619418">
-        <mark key="'" line="64" column="24" />
-        <mark key="[" line="7" column="53" />
-        <mark key="]" line="7" column="53" />
-        <mark key="." line="7" column="53" />
-        <mark key="^" line="56" column="25" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1593518482550">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="33" />
-        <mark key="." line="26" column="32" />
-        <mark key="^" line="26" column="33" />
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1593519362807">
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="34" />
+        <mark key="." line="26" column="33" />
+        <mark key="^" line="26" column="34" />
       </file>
       <file name="/dev.progress_picture" timestamp="1593519062987">
         <mark key="[" line="0" column="0" />
@@ -124,28 +117,24 @@
       <file name="/dev.user" timestamp="1593517875584">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" timestamp="1593509436099">
-        <mark key="'" line="93" column="0" />
-        <mark key="[" line="102" column="12" />
-        <mark key="]" line="102" column="23" />
-        <mark key="^" line="102" column="23" />
-        <mark key="." line="102" column="22" />
-      </file>
-      <file name="/dummy.sql" timestamp="1593517875584">
+      <file name="/console" timestamp="1593519137694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/nuli.infrastructure/database.tf" timestamp="1593457619631">
-        <mark key="'" line="2" column="17" />
-        <mark key="[" line="22" column="32" />
-        <mark key="]" line="22" column="36" />
-        <mark key="^" line="22" column="36" />
-        <mark key="." line="22" column="35" />
+      <file name="$USER_HOME$/Development/app.nuli/src/components/Training/WeeklyChallenge.tsx" timestamp="1593520785152" />
+      <file name="/dummy.sql" timestamp="1593517875584">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1593512910657">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/252e5c1f-189a-4e5c-86d1-2566f707d91f/console.sql" timestamp="1593519261670">
+        <mark key="[" line="0" column="77" />
+        <mark key="]" line="0" column="98" />
+        <mark key="." line="0" column="97" />
+        <mark key="^" line="0" column="98" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/utils/locales/enUS.ts" timestamp="1593512502401">
         <mark key="'" line="330" column="21" />
@@ -262,10 +251,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>iap</text>
@@ -274,31 +263,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaW5mbHVlbmNlcklkRmlyc3Q6ICdJbmZsdWVuY2VyIElkIChmaXJzdCknLAogICAgICAgICAgICBpbmZsdWVuY2VySWRMYXN0OiAnSW5mbHVlbmNlciBJZCAobGFzdCknLAogICAgICAgICAgICBpbmZsdWVuY2VySWRMYXN0TG9jYWw6ICdJbmZsdWVuY2VyIElkIChsYXN0LCBsb2NhbGx5IHN0b3JlZCknLAogICAgICAgICAgICBpbmZsdWVuY2VyTGlua0ZpcnN0OiAnSW5mbHVlbmNlciBMaW5rIChsYXVuY2gpJywKICAgICAgICAgICAgaW5mbHVlbmNlckxpbmtMYXN0OiAnSW5mbHVlbmNlciBMaW5rIChwcm9maWxlKScsCiAgICAgICAgICAgIGluZmx1ZW5jZXJMaW5rTGFzdExvY2FsOiAnSW5mbHVlbmNlciBMaW5rIChsb2NhbGx5IHN0b3JlZCknLAo=</text>
       </register>
       <register name="1" type="2">
-        <text>feat(TrialToast): display once a day</text>
+        <text>-b737-4eac-95f7-83d60b8980dd</text>
       </register>
       <register name="2" type="2">
         <text>feat(TrialToast): display once a day</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvcHM/JywgdGhpcy5wcm9wcyk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text>feat(TrialToast): display once a day</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvcHM/JywgdGhpcy5wcm9wcyk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5mbHVlbmNlcklkRmlyc3Q6ICdJbmZsdWVuY2VyIElkIChmaXJzdCknLAogICAgICAgICAgICBpbmZsdWVuY2VySWRsYXN0OiAnSW5mbHVlbmNlciBJZCAobGFzdCknLAogICAgICAgICAgICBpbmZsdWVuY2VyTGlua0ZpcnN0OiAnSW5mbHVlbmNlciBMaW5rIChsYXVuY2gpJywKICAgICAgICAgICAgaW5mbHVlbmNlckxpbmtMYXN0OiAnSW5mbHVlbmNlciBMaW5rIChwcm9maWxlKScsCg==</text>
+        <text>feat(TrialToast): display once a day</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5mbHVlbmNlcklkRmlyc3Q6ICdJbmZsdWVuY2VyIElkIChmaXJzdCknLAogICAgICAgICAgICBpbmZsdWVuY2VySWRsYXN0OiAnSW5mbHVlbmNlciBJZCAobGFzdCknLAogICAgICAgICAgICBpbmZsdWVuY2VyTGlua0ZpcnN0OiAnSW5mbHVlbmNlciBMaW5rIChsYXVuY2gpJywKICAgICAgICAgICAgaW5mbHVlbmNlckxpbmtMYXN0OiAnSW5mbHVlbmNlciBMaW5rIChwcm9maWxlKScsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZmV0Y2hQcm9maWxlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAsCg==</text>
+        <text encoding="base64">ZmV0Y2hQcm9maWxlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

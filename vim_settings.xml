@@ -61,15 +61,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" timestamp="1593517804379">
-        <mark key="'" line="1700" column="0" />
+      <file name="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" timestamp="1593525894561">
+        <mark key="'" line="1699" column="0" />
+        <mark key="." line="35" column="41" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/package.json" timestamp="1593518451728">
+      <file name="$USER_HOME$/Development/app.nuli/package.json" timestamp="1593525848527">
         <mark key="'" line="83" column="38" />
         <mark key="[" line="61" column="29" />
         <mark key="l" line="61" column="18" />
         <mark key="]" line="61" column="30" />
-        <mark key="." line="61" column="29" />
+        <mark key="." line="26" column="728" />
         <mark key="^" line="61" column="30" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1593519268440">
@@ -79,12 +80,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1593511195157">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="18" />
-        <mark key="^" line="12" column="18" />
-        <mark key="." line="12" column="17" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" timestamp="1593517808485">
         <mark key="'" line="6" column="0" />
@@ -111,13 +106,19 @@
       <file name="/dev.progress_picture" timestamp="1593519062987">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/db.ts" timestamp="1593525472632">
+        <mark key="[" line="54" column="17" />
+        <mark key="]" line="54" column="21" />
+        <mark key="." line="54" column="20" />
+        <mark key="^" line="54" column="21" />
+      </file>
       <file name="/progress_picture [MySQL - @localhost]" timestamp="1593519062973">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dev.user" timestamp="1593517875584">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console" timestamp="1593519137694">
+      <file name="/console" timestamp="1593526430654">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/components/Training/WeeklyChallenge.tsx" timestamp="1593520785152" />
@@ -130,11 +131,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/252e5c1f-189a-4e5c-86d1-2566f707d91f/console.sql" timestamp="1593519261670">
-        <mark key="[" line="0" column="77" />
-        <mark key="]" line="0" column="98" />
-        <mark key="." line="0" column="97" />
-        <mark key="^" line="0" column="98" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/252e5c1f-189a-4e5c-86d1-2566f707d91f/console.sql" timestamp="1593521007733">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/utils/locales/enUS.ts" timestamp="1593512502401">
         <mark key="'" line="330" column="21" />
@@ -251,10 +249,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>iap</text>

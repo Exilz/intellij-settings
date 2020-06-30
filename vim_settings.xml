@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Percentage</entry>
-        <entry encoding="base64">XDxwcm9ncmVzc2lvblBlcmNlbnRhZ2VcPg==</entry>
-        <entry>DIR</entry>
-        <entry>replace</entry>
         <entry encoding="base64">XDxkYXRhYmFzZVBhc3N3b3JkXD4=</entry>
         <entry>password</entry>
         <entry>DOMAIN</entry>
@@ -25,6 +21,10 @@
         <entry>IProps</entry>
         <entry>debug</entry>
         <entry>fetchProf</entry>
+        <entry>console.</entry>
+        <entry>codepush</entry>
+        <entry encoding="base64">XDxWaWV3XD4=</entry>
+        <entry>iap</entry>
       </history-search>
       <history-cmd>
         <entry>gwip</entry>
@@ -61,17 +61,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" timestamp="1593512826088">
-        <mark key="'" line="1402" column="51" />
-        <mark key="[" line="84" column="7" />
-        <mark key="]" line="84" column="64" />
-        <mark key="^" line="84" column="64" />
-        <mark key="." line="84" column="63" />
+      <file name="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" timestamp="1593517804379">
+        <mark key="'" line="1700" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/package.json" timestamp="1593506455873" />
-      <file name="$USER_HOME$/Development/app.nuli/env.staging.ts" timestamp="1593440279867">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="64" />
+      <file name="$USER_HOME$/Development/app.nuli/package.json" timestamp="1593518451728">
+        <mark key="'" line="83" column="38" />
+        <mark key="[" line="61" column="29" />
+        <mark key="l" line="61" column="18" />
+        <mark key="]" line="61" column="30" />
+        <mark key="." line="61" column="29" />
+        <mark key="^" line="61" column="30" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1593512634408">
         <mark key="a" line="0" column="0" />
@@ -87,35 +86,20 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" timestamp="1593512752881">
-        <mark key="'" line="58" column="4" />
+      <file name="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" timestamp="1593517808485">
+        <mark key="'" line="6" column="0" />
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="59" />
         <mark key="." line="6" column="58" />
         <mark key="^" line="6" column="59" />
       </file>
-      <file name="$USER_HOME$/Development/nuli.infrastructure/conf/staging.json" timestamp="1593439600386">
-        <mark key="'" line="38" column="31" />
-        <mark key="[" line="40" column="27" />
-        <mark key="]" line="40" column="62" />
-        <mark key="^" line="40" column="27" />
-        <mark key="." line="40" column="26" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/bootstrap.ts" timestamp="1593445169257">
-        <mark key="'" line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/onesignal.ts" timestamp="1593437765011">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
-      <file name="/user [MySQL - @localhost]" timestamp="1593511037686">
+      <file name="/user [MySQL - @localhost]" timestamp="1593517875584">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/utils/locales/zhTW.ts" timestamp="1593512511628">
         <mark key="'" line="200" column="40" />
         <mark key="[" line="361" column="0" />
-        <mark key="]" line="366" column="72" />
+        <mark key="]" line="362" column="72" />
         <mark key="." line="361" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1593445619418">
@@ -125,13 +109,19 @@
         <mark key="." line="7" column="53" />
         <mark key="^" line="56" column="25" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1593440300460">
-        <mark key="[" line="26" column="29" />
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1593518482550">
+        <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="33" />
         <mark key="." line="26" column="32" />
         <mark key="^" line="26" column="33" />
       </file>
-      <file name="/dev.user" timestamp="1593511037746">
+      <file name="/dev.progress_picture" timestamp="1593519062987">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/progress_picture [MySQL - @localhost]" timestamp="1593519062973">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dev.user" timestamp="1593517875584">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" timestamp="1593509436099">
@@ -141,6 +131,9 @@
         <mark key="^" line="102" column="23" />
         <mark key="." line="102" column="22" />
       </file>
+      <file name="/dummy.sql" timestamp="1593517875584">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/nuli.infrastructure/database.tf" timestamp="1593457619631">
         <mark key="'" line="2" column="17" />
         <mark key="[" line="22" column="32" />
@@ -148,66 +141,22 @@
         <mark key="^" line="22" column="36" />
         <mark key="." line="22" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593512805349">
+      <file name="/Dummy.txt" timestamp="1593512910657">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/setting staging.json" timestamp="1593445186801">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="91" column="19" />
-        <mark key="]" line="91" column="67" />
-        <mark key="." line="91" column="66" />
-        <mark key="^" line="91" column="67" />
-      </file>
       <file name="$USER_HOME$/Development/app.nuli/src/utils/locales/enUS.ts" timestamp="1593512502401">
         <mark key="'" line="330" column="21" />
         <mark key="[" line="361" column="0" />
-        <mark key="]" line="366" column="72" />
-        <mark key="^" line="363" column="25" />
-        <mark key="." line="363" column="24" />
+        <mark key="]" line="362" column="72" />
       </file>
-      <file name="/foo.bar" timestamp="1593511037762">
+      <file name="/foo.bar" timestamp="1593519062997">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/utils.ts" />
-      <jump line="1" column="38" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/utils.ts" />
-      <jump line="37" column="58" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/utils.ts" />
-      <jump line="42" column="67" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
-      <jump line="7" column="83" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
-      <jump line="52" column="26" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
-      <jump line="43" column="12" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
-      <jump line="53" column="46" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
-      <jump line="60" column="0" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
-      <jump line="67" column="0" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
-      <jump line="82" column="0" filename="$USER_HOME$/Development/tools.meliorence.com/db-dumper/src/index.ts" />
-      <jump line="57" column="0" filename="$USER_HOME$/Development/tools.meliorence.com/.gitignore" />
-      <jump line="4" column="0" filename="$USER_HOME$/Development/api.meliorence.com/migrations/005-genflow-users.js" />
-      <jump line="20" column="80" filename="$USER_HOME$/Development/api.meliorence.com/migrations/005-genflow-users.js" />
-      <jump line="35" column="2" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
-      <jump line="53" column="15" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
-      <jump line="98" column="29" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/mailchimp.ts" />
-      <jump line="12" column="16" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/mailchimp.ts" />
-      <jump line="40" column="11" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/mailchimp.ts" />
-      <jump line="19" column="26" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/mailchimp.ts" />
-      <jump line="25" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/mailchimp.ts" />
-      <jump line="33" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/mailchimp.ts" />
-      <jump line="38" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/mailchimp.ts" />
-      <jump line="47" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/mailchimp.ts" />
-      <jump line="51" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/mailchimp.ts" />
-      <jump line="62" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/mailchimp.ts" />
-      <jump line="103" column="33" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/mailchimp.ts" />
-      <jump line="109" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/mailchimp.ts" />
-      <jump line="101" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/mailchimp.ts" />
-      <jump line="64" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/mailchimp.ts" />
-      <jump line="73" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/mailchimp.ts" />
-      <jump line="80" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/mailchimp.ts" />
       <jump line="87" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/mailchimp.ts" />
       <jump line="106" column="24" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/mailchimp.ts" />
       <jump line="48" column="4" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/onesignal.ts" />
@@ -264,7 +213,6 @@
       <jump line="67" column="37" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
       <jump line="108" column="43" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
       <jump line="1692" column="38" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
       <jump line="126" column="10" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
       <jump line="330" column="21" filename="$USER_HOME$/Development/app.nuli/src/utils/locales/enUS.ts" />
       <jump line="200" column="40" filename="$USER_HOME$/Development/app.nuli/src/utils/locales/zhTW.ts" />
@@ -273,18 +221,54 @@
       <jump line="9" column="39" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
       <jump line="58" column="4" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
       <jump line="1402" column="51" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="33" column="46" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="257" column="12" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="277" column="12" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="311" column="12" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="328" column="12" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="345" column="12" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="378" column="12" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="395" column="12" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="524" column="15" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="546" column="15" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="1358" column="39" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="1706" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="1694" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="1669" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="1470" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="1262" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="1460" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="1319" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="1430" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="1353" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="1356" column="16" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="136" column="4" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="1408" column="93" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="1377" column="13" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="1384" column="17" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="1390" column="34" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="1392" column="35" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="1395" column="25" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="1404" column="29" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="1423" column="30" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="1425" column="26" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="1705" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
+      <jump line="144" column="25" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
+      <jump line="824" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
+      <jump line="83" column="38" filename="$USER_HOME$/Development/app.nuli/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>feat(TrialToast): display once a day</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>fetchProf</text>
+        <text>iap</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW5mbHVlbmNlcklkRmlyc3Q6ICdJbmZsdWVuY2VyIElkIChmaXJzdCknLAogICAgICAgICAgICBpbmZsdWVuY2VySWRMYXN0OiAnSW5mbHVlbmNlciBJZCAobGFzdCknLAogICAgICAgICAgICBpbmZsdWVuY2VySWRMYXN0TG9jYWw6ICdJbmZsdWVuY2VyIElkIChsYXN0LCBsb2NhbGx5IHN0b3JlZCknLAogICAgICAgICAgICBpbmZsdWVuY2VyTGlua0ZpcnN0OiAnSW5mbHVlbmNlciBMaW5rIChsYXVuY2gpJywKICAgICAgICAgICAgaW5mbHVlbmNlckxpbmtMYXN0OiAnSW5mbHVlbmNlciBMaW5rIChwcm9maWxlKScsCiAgICAgICAgICAgIGluZmx1ZW5jZXJMaW5rTGFzdExvY2FsOiAnSW5mbHVlbmNlciBMaW5rIChsb2NhbGx5IHN0b3JlZCknLAo=</text>
@@ -293,28 +277,28 @@
         <text>feat(TrialToast): display once a day</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5mbHVlbmNlcklkRmlyc3Q6ICdJbmZsdWVuY2VyIElkIChmaXJzdCknLAogICAgICAgICAgICBpbmZsdWVuY2VySWRsYXN0OiAnSW5mbHVlbmNlciBJZCAobGFzdCknLAogICAgICAgICAgICBpbmZsdWVuY2VyTGlua0ZpcnN0OiAnSW5mbHVlbmNlciBMaW5rIChsYXVuY2gpJywKICAgICAgICAgICAgaW5mbHVlbmNlckxpbmtMYXN0OiAnSW5mbHVlbmNlciBMaW5rIChwcm9maWxlKScsCg==</text>
+        <text>feat(TrialToast): display once a day</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvcHM/JywgdGhpcy5wcm9wcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZmV0Y2hQcm9maWxlKCkK</text>
+        <text>feat(TrialToast): display once a day</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5mbHVlbmNlcklkRmlyc3Q6ICdJbmZsdWVuY2VyIElkIChmaXJzdCknLAogICAgICAgICAgICBpbmZsdWVuY2VySWRsYXN0OiAnSW5mbHVlbmNlciBJZCAobGFzdCknLAogICAgICAgICAgICBpbmZsdWVuY2VyTGlua0ZpcnN0OiAnSW5mbHVlbmNlciBMaW5rIChsYXVuY2gpJywKICAgICAgICAgICAgaW5mbHVlbmNlckxpbmtMYXN0OiAnSW5mbHVlbmNlciBMaW5rIChwcm9maWxlKScsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGV0IGJhc2VVUkw6IHN0cmluZyA9IEFQSV9ET01BSU47Cg==</text>
+        <text encoding="base64">ZmV0Y2hQcm9maWxlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bGV0IGJhc2VVUkw6IHN0cmluZyA9ICdodHRwOi8vMTkyLjE2OC4wLjE0OjgwMDAvYXBpL3YxLyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAsCg==</text>
       </register>
       <register name="9" type="2">
-        <text>hore(</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -323,9 +307,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>fetchProf</last-search>
+      <last-search>iap</last-search>
       <last-offset />
-      <last-pattern>fetchProf</last-pattern>
+      <last-pattern>iap</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

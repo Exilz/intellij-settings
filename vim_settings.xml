@@ -5,12 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>password</entry>
-        <entry>DOMAIN</entry>
-        <entry>MAIL</entry>
-        <entry>CANCEL</entry>
-        <entry>runUpd</entry>
-        <entry>PRIVATE</entry>
         <entry>cannot</entry>
         <entry>allow</entry>
         <entry>didMount</entry>
@@ -25,6 +19,12 @@
         <entry encoding="base64">XDxWaWV3XD4=</entry>
         <entry>iap</entry>
         <entry>this.context</entry>
+        <entry>clean</entry>
+        <entry>jsc-android</entry>
+        <entry>jsc</entry>
+        <entry>hermes</entry>
+        <entry>packaging</entry>
+        <entry>ins</entry>
       </history-search>
       <history-cmd>
         <entry>gwip</entry>
@@ -65,7 +65,7 @@
         <mark key="'" line="1699" column="0" />
         <mark key="." line="35" column="41" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/package.json" timestamp="1593525848527">
+      <file name="$USER_HOME$/Development/app.nuli/package.json" timestamp="1593531665316">
         <mark key="'" line="83" column="38" />
         <mark key="[" line="61" column="29" />
         <mark key="l" line="61" column="18" />
@@ -73,19 +73,18 @@
         <mark key="." line="26" column="728" />
         <mark key="^" line="61" column="30" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1593519268440">
-        <mark key="a" line="0" column="0" />
-        <mark key="'" line="0" column="0" />
-        <mark key="i" line="0" column="3" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/app.nuli/src/components/Workout/WorkoutExerciseTable.tsx" timestamp="1593527981701" />
       <file name="$USER_HOME$/Development/app.nuli/src/views/Recipes.tsx" timestamp="1593529100635">
         <mark key="[" line="201" column="90" />
         <mark key="]" line="201" column="90" />
         <mark key="." line="201" column="90" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/android/app/build.gradle" timestamp="1593612519091">
+        <mark key="'" line="281" column="12" />
+        <mark key="[" line="86" column="18" />
+        <mark key="]" line="86" column="22" />
+        <mark key="." line="86" column="21" />
+        <mark key="^" line="86" column="22" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" timestamp="1593529128998">
         <mark key="'" line="6" column="0" />
@@ -94,14 +93,10 @@
         <mark key="." line="322" column="0" />
         <mark key="^" line="322" column="75" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1593519362807">
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="26" column="34" />
-        <mark key="." line="26" column="33" />
-        <mark key="^" line="26" column="34" />
-      </file>
-      <file name="/dev.progress_picture" timestamp="1593519062987">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/article.ts" timestamp="1593629734583" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/index.ts" timestamp="1593629719292" />
+      <file name="$USER_HOME$/Development/app.nuli/scripts/build-android.sh" timestamp="1593531670151">
+        <mark key="'" line="84" column="8" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/services/db.ts" timestamp="1593525472632">
         <mark key="[" line="54" column="17" />
@@ -109,17 +104,30 @@
         <mark key="." line="54" column="20" />
         <mark key="^" line="54" column="21" />
       </file>
-      <file name="/progress_picture [MySQL - @localhost]" timestamp="1593519062973">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/console" timestamp="1593526430654">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/Training/WeeklyChallenge.tsx" timestamp="1593520785152" />
-      <file name="/dummy.sql" timestamp="1593517875584">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Development/nuli.infrastructure/conf/production.json" timestamp="1593635265374">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="7" column="34" />
+        <mark key="^" line="7" column="34" />
+        <mark key="." line="7" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593526995705">
+      <file name="$USER_HOME$/Development/app.nuli/src/views/Login.tsx" timestamp="1593533251066">
+        <mark key="[" line="452" column="8" />
+        <mark key="]" line="452" column="61" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/android/build.gradle" timestamp="1593612392328">
+        <mark key="'" line="13" column="17" />
+      </file>
+      <file name="$USER_HOME$/Development/nuli.infrastructure/database.tf" timestamp="1593635280494">
+        <mark key="'" line="50" column="38" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="43" column="34" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593529645242">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -128,8 +136,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/252e5c1f-189a-4e5c-86d1-2566f707d91f/console.sql" timestamp="1593521007733">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1593519062997">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Development/app.nuli/src/components/Payment.tsx" timestamp="1593529196092">
+        <mark key="[" line="276" column="0" />
+        <mark key="]" line="276" column="0" />
+        <mark key="^" line="276" column="15" />
+        <mark key="." line="276" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/views/Blog.tsx" timestamp="1593529163794">
         <mark key="[" line="156" column="76" />
@@ -138,19 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/mailchimp.ts" />
-      <jump line="106" column="24" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/mailchimp.ts" />
-      <jump line="48" column="4" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/onesignal.ts" />
-      <jump line="61" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/onesignal.ts" />
-      <jump line="55" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/onesignal.ts" />
-      <jump line="42" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/onesignal.ts" />
-      <jump line="15" column="20" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/onesignal.ts" />
-      <jump line="17" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/onesignal.ts" />
-      <jump line="23" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/onesignal.ts" />
-      <jump line="126" column="29" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/onesignal.ts" />
-      <jump line="16" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/onesignal.ts" />
-      <jump line="125" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/onesignal.ts" />
-      <jump line="117" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/onesignal.ts" />
       <jump line="90" column="31" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/onesignal.ts" />
       <jump line="147" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/onesignal.ts" />
       <jump line="164" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/onesignal.ts" />
@@ -175,7 +173,6 @@
       <jump line="38" column="31" filename="$USER_HOME$/Development/nuli.infrastructure/conf/staging.json" />
       <jump line="64" column="24" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
       <jump line="28" column="38" filename="$USER_HOME$/Development/nuli.infrastructure/database.tf" />
-      <jump line="22" column="2" filename="$USER_HOME$/Development/nuli.infrastructure/database.tf" />
       <jump line="2" column="17" filename="$USER_HOME$/Development/nuli.infrastructure/database.tf" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
       <jump line="14" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
@@ -238,48 +235,62 @@
       <jump line="144" column="25" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
       <jump line="824" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
       <jump line="83" column="38" filename="$USER_HOME$/Development/app.nuli/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/app.nuli/scripts/build-android.sh" />
+      <jump line="84" column="8" filename="$USER_HOME$/Development/app.nuli/scripts/build-android.sh" />
+      <jump line="86" column="48" filename="$USER_HOME$/Development/app.nuli/android/app/build.gradle" />
+      <jump line="13" column="17" filename="$USER_HOME$/Development/app.nuli/android/build.gradle" />
+      <jump line="120" column="8" filename="$USER_HOME$/Development/app.nuli/android/app/build.gradle" />
+      <jump line="282" column="48" filename="$USER_HOME$/Development/app.nuli/android/app/build.gradle" />
+      <jump line="283" column="50" filename="$USER_HOME$/Development/app.nuli/android/app/build.gradle" />
+      <jump line="281" column="12" filename="$USER_HOME$/Development/app.nuli/android/app/build.gradle" />
+      <jump line="22" column="35" filename="$USER_HOME$/Development/nuli.infrastructure/database.tf" />
+      <jump line="50" column="37" filename="$USER_HOME$/Development/nuli.infrastructure/database.tf" />
+      <jump line="21" column="17" filename="$USER_HOME$/Development/nuli.infrastructure/database.tf" />
+      <jump line="29" column="40" filename="$USER_HOME$/Development/nuli.infrastructure/database.tf" />
+      <jump line="44" column="19" filename="$USER_HOME$/Development/nuli.infrastructure/database.tf" />
+      <jump line="47" column="38" filename="$USER_HOME$/Development/nuli.infrastructure/database.tf" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcmVmZXJyZWRfbWFpbnRlbmFuY2Vfd2luZG93ID0gIjE5OjMwLTIwOjAwIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>this.context</text>
+        <text>ins</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBob3Jpem9udGFsU2Nyb2xsVmlldyA9IGdldCh0aGlzLmhvcml6b250YWxTY3JvbGxWaWV3UmVmLCAnY3VycmVudC5fY29tcG9uZW50Jyk7Cg==</text>
+      <register name="0" type="4">
+        <text>get(this.parallaxRef, 'current.scrollViewRef.current')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBob3Jpem9udGFsU2Nyb2xsVmlldyA9IGdldCh0aGlzLmhvcml6b250YWxTY3JvbGxWaWV3UmVmLCAnY3VycmVudC5fY29tcG9uZW50Jyk7Cg==</text>
+        <text encoding="base64">ICBwcmVmZXJyZWRfbWFpbnRlbmFuY2Vfd2luZG93ID0gIjE5OjMwLTIwOjAwIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZmxhdExpc3QgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXJlZikgeyByZXR1cm47IH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBob3Jpem9udGFsU2Nyb2xsVmlldyA9IGdldCh0aGlzLmhvcml6b250YWxTY3JvbGxWaWV3UmVmLCAnY3VycmVudC5fY29tcG9uZW50Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZWYgPSBnZXQodGhpcy5zY3JvbGxWaWV3UmVmLCAnY3VycmVudC5fY29tcG9uZW50Jyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>-b737-4eac-95f7-83d60b8980dd</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBob3Jpem9udGFsU2Nyb2xsVmlldyA9IGdldCh0aGlzLmhvcml6b250YWxTY3JvbGxWaWV3UmVmLCAnY3VycmVudC5fY29tcG9uZW50Jyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>feat(TrialToast): display once a day</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZmxhdExpc3QgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text>feat(TrialToast): display once a day</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBob3Jpem9udGFsU2Nyb2xsVmlldyA9IGdldCh0aGlzLmhvcml6b250YWxTY3JvbGxWaWV3UmVmLCAnY3VycmVudC5fY29tcG9uZW50Jyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvcHM/JywgdGhpcy5wcm9wcyk7Cg==</text>
+        <text>-b737-4eac-95f7-83d60b8980dd</text>
       </register>
       <register name="8" type="2">
         <text>feat(TrialToast): display once a day</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5mbHVlbmNlcklkRmlyc3Q6ICdJbmZsdWVuY2VyIElkIChmaXJzdCknLAogICAgICAgICAgICBpbmZsdWVuY2VySWRsYXN0OiAnSW5mbHVlbmNlciBJZCAobGFzdCknLAogICAgICAgICAgICBpbmZsdWVuY2VyTGlua0ZpcnN0OiAnSW5mbHVlbmNlciBMaW5rIChsYXVuY2gpJywKICAgICAgICAgICAgaW5mbHVlbmNlckxpbmtMYXN0OiAnSW5mbHVlbmNlciBMaW5rIChwcm9maWxlKScsCg==</text>
+        <text>feat(TrialToast): display once a day</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -288,9 +299,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>this.context</last-search>
+      <last-search>ins</last-search>
       <last-offset />
-      <last-pattern>this.context</last-pattern>
+      <last-pattern>ins</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

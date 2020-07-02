@@ -62,10 +62,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/app.nuli/env.staging.ts" timestamp="1593691265982">
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="3" column="62" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1593695939284">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="0" />
@@ -73,13 +69,6 @@
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1593691268091">
-        <mark key="'" line="83" column="20" />
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="17" column="59" />
-        <mark key="^" line="17" column="23" />
-        <mark key="." line="17" column="23" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/migrations/014-stretching-category.js" timestamp="1593695951017">
         <mark key="[" line="23" column="140" />
@@ -96,6 +85,9 @@
       <file name="/dev.workout_i18n" timestamp="1593695707831">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/workout_categories [MySQL - @localhost]" timestamp="1593701252231">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/dev.workout_category" timestamp="1593693828591">
         <mark key="[" line="0" column="0" />
       </file>
@@ -109,19 +101,19 @@
         <mark key="^" line="198" column="42" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/014-warmup-stretching.js" timestamp="1593693285953">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="3" column="41" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="/SequelizeMeta [MySQL - @localhost]" timestamp="1593697271191">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/workout_category [MySQL - @localhost]" timestamp="1593693828574">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1593695850752">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/252e5c1f-189a-4e5c-86d1-2566f707d91f/console.sql" timestamp="1593701527354">
+        <mark key="[" line="1" column="69" />
+        <mark key="]" line="1" column="107" />
+        <mark key="." line="1" column="106" />
+        <mark key="^" line="1" column="107" />
+      </file>
+      <file name="/foo.bar" timestamp="1593701252261">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dev.workout_category_i18n" timestamp="1593697271192">
@@ -140,7 +132,10 @@
       <file name="/dummy.sql" timestamp="1593697271192">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593682249705">
+      <file name="/dev.workout_categories" timestamp="1593701252247">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593701669821">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -254,10 +249,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3dvcmtvdXRDYXRlZ29yaWVzJywgd29ya291dENhdGVnb3JpZXMpOwo=</text>
+        <text>UPDATE workou</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -266,31 +261,31 @@
         <text encoding="base64">ICBjb25zdCBbYXN5bmNPcHRpb25zLCBzZXRBc3luY09wdGlvbnNdID0gdXNlU3RhdGU8SU9wdGlvbltdPihudWxsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3dvcmtvdXRDYXRlZ29yaWVzJywgd29ya291dENhdGVnb3JpZXMpOwo=</text>
+        <text>UPDATE workou</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3ZhbCcsIHZhbHVlcy5jYXRlZ29yaWVzKTsK</text>
+        <text encoding="base64">U0VMRUNUIENPVU5UKCopIEZST00gd29ya291dDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IF9jbG9uZSBmcm9tICdsb2Rhc2guY2xvbmUnOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCBuZXdPcHRpb25zID0gYXN5bmNPcHRpb25zIHx8IG9wdGlvbnM7CiAgICBpZiAoIW5ld09wdGlvbnMpIHsKICAgICAgcmV0dXJuOwogICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">U0VMRUNUIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">IyBTRUxFQ1QgY291bnQoKikgQVMgYGNvdW50YCBGUk9NIGBzZXRfaGlzdG9yeWAgQVMgYHNldEhpc3RvcnlgIFdIRVJFIGBzZXRIaXN0b3J5YC5gdXNlcklkYCA9ICdjMzYyOWZlMS00M2UxLTQ2MTYtYjg3Yy01NWZkNDQ1MmQyNDInOwpTSE9XIElOREVYIEZST00gc2V0X2hpc3Rvcnk7ClNFTEVDVCBDT1VOVCgqKSBhcyBgY291bnRgIEZST00gYHNldF9oaXN0b3J5YCBBUyBgc2V0SGlzdG9yeWA7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text>feat(ItemSelect): deduplicate already fed valuesx</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmV0Y2hlZE9wdGlvbnMgPSBmZXRjaGVkT3B0aW9ucy5maWx0ZXIoKG9wdGlvbiApID0+IHsKICAgICAgICAgICAgICByZXR1cm4gdmFsdWUuZmlsdGVyKCh2YWwpID0+IHZhbC5pZCA9PT0gb3B0aW9uLmlkKSkubGVuZ3RoID09PSAwCiAgICAgICAgICAgIH0pOwo=</text>
+        <text>refactor(worxkoutLists): update wording to make it clearer</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3dvcmtvdXRDYXRlZ29yaWVzJywgd29ya291dENhdGVnb3JpZXMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNhdGVnb3JpZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3ZhbCcsIHZhbHVlcy5jYXRlZ29yaWVzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

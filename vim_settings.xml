@@ -61,25 +61,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1593679950127">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="18" />
-        <mark key="^" line="12" column="18" />
-        <mark key="." line="12" column="17" />
+      <file name="$USER_HOME$/Development/app.nuli/env.staging.ts" timestamp="1593691265982">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="62" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/progressPicture.ts" timestamp="1593680262216" />
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1593691268091">
+        <mark key="'" line="83" column="20" />
+        <mark key="[" line="17" column="23" />
+        <mark key="]" line="17" column="59" />
+        <mark key="^" line="17" column="23" />
+        <mark key="." line="17" column="23" />
+      </file>
       <file name="/dev.set_history" timestamp="1593681795925">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dev.workout_history" timestamp="1593680898770">
+      <file name="/workout_category_i18n [MySQL - @localhost]" timestamp="1593693342109">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/collage.ts" timestamp="1593680243423" />
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/IOSSubscriptionManager.ts" timestamp="1593680835796">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="/dev.SequelizeMeta" timestamp="1593693325199">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dev.workout_category_i18n" timestamp="1593693342121">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/exercise_history [MySQL - @localhost]" timestamp="1593681823740">
         <mark key="[" line="0" column="0" />
@@ -100,11 +103,20 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="115" column="29" />
       </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/014-warmup-stretching.js" timestamp="1593693285953">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="3" column="41" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/setHistories/get.ts" timestamp="1593681323330">
         <mark key="[" line="16" column="29" />
         <mark key="]" line="17" column="39" />
         <mark key="." line="17" column="38" />
         <mark key="^" line="17" column="39" />
+      </file>
+      <file name="/SequelizeMeta [MySQL - @localhost]" timestamp="1593693325173">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/getCollection.ts" timestamp="1593681671521">
         <mark key="[" line="56" column="49" />
@@ -112,11 +124,11 @@
         <mark key="^" line="56" column="49" />
         <mark key="." line="56" column="48" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/252e5c1f-189a-4e5c-86d1-2566f707d91f/console.sql" timestamp="1593681150450">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="62" />
-        <mark key="." line="0" column="133" />
-        <mark key="^" line="2" column="62" />
+      <file name="/Dummy.txt" timestamp="1593682249705">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/workoutHistories/get.ts" timestamp="1593681381737">
         <mark key="[" line="36" column="38" />
@@ -124,14 +136,7 @@
         <mark key="^" line="37" column="39" />
         <mark key="." line="37" column="38" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/AndroidSubscriptionManager.ts" timestamp="1593680839697">
-        <mark key="'" line="58" column="69" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="70" column="18" />
-      </file>
-      <file name="/foo.bar" timestamp="1593681823768">
+      <file name="/foo.bar" timestamp="1593693342131">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/setHistory.ts" timestamp="1593682107191">
@@ -141,9 +146,6 @@
         <mark key="^" line="92" column="15" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/workout_history [MySQL - @localhost]" timestamp="1593680898754">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/index.ts" timestamp="1593681252180">
         <mark key="[" line="29" column="67" />
         <mark key="]" line="30" column="39" />
@@ -152,7 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
       <jump line="33" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
       <jump line="39" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
       <jump line="43" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
@@ -252,48 +253,49 @@
       <jump line="72" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/IOSSubscriptionManager.ts" />
       <jump line="12" column="6" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/workoutHistory.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/workoutHistory.ts" />
+      <jump line="82" column="20" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFNldEhpc3RvcnkgZnJvbSAnLi4vbW9kZWxzL3NldEhpc3RvcnknOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGF3YWl0IHF1ZXJ5SW50ZXJmYWNlLnNlcXVlbGl6ZS5xdWVyeShgSU5TRVJUIElOVE8gd29ya291dF9saXN0IChpZCwgc2x1ZywgY3VycmVudFdvcmtvdXRJZCwgd29ya291dENhdGVnb3J5SWQsIGNyZWF0ZWRBdCwgdXBkYXRlZEF0KSBWQUxVRVMgKCcxMGE4MDBkOS00YTZlLTQ3YTEtYjVmNC01M2ZjNTgzMDYzNDQnLCAnd2FybXVwJywgbnVsbCwgJzM2NjRjNmRhLTczMzMtNDkxYS05MmUxLWNhZjZkOWMzMzYyNScsICcyMDIwLTA2LTE1IDE0OjU0OjA4JywgJzIwMjAtMDYtMTUgMTQ6NTQ6MDgnKTtgKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>ProgressPicture</text>
+        <text encoding="base64">YWxyZWFkeUluc2VydGVkLmxlbmd0aCAmJiBh</text>
       </register>
       <register name="/" type="4">
         <text>logOn</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzeW5jIGNvdW50KHJlcTogUmVxdWVzdCk6IFByb21pc2U8bnVtYmVyPiB7CiAgICAgICAgcmV0dXJuIFNldEhpc3RvcnkuY291bnQoewogICAgICAgICAgICAuLi50aGlzLmdldEZpbmRBbGxPcHRpb25zKHJlcSwgeyBsaW1pdDogdW5kZWZpbmVkLCBvZmZzZXQ6IHVuZGVmaW5lZCB9KSwKICAgICAgICAgICAgd2hlcmU6IHsgdXNlcklkOiBnZXRVc2VySWRGcm9tUmVxKHJlcSkgfQogICAgICAgIH0pOwogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>https://api.staging.nuli.app/api/v1/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFNldEhpc3RvcnkgZnJvbSAnLi4vbW9kZWxzL3NldEhpc3RvcnknOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGF3YWl0IHF1ZXJ5SW50ZXJmYWNlLnNlcXVlbGl6ZS5xdWVyeShgSU5TRVJUIElOVE8gd29ya291dF9saXN0IChpZCwgc2x1ZywgY3VycmVudFdvcmtvdXRJZCwgd29ya291dENhdGVnb3J5SWQsIGNyZWF0ZWRBdCwgdXBkYXRlZEF0KSBWQUxVRVMgKCcxMGE4MDBkOS00YTZlLTQ3YTEtYjVmNC01M2ZjNTgzMDYzNDQnLCAnd2FybXVwJywgbnVsbCwgJzM2NjRjNmRhLTczMzMtNDkxYS05MmUxLWNhZjZkOWMzMzYyNScsICcyMDIwLTA2LTE1IDE0OjU0OjA4JywgJzIwMjAtMDYtMTUgMTQ6NTQ6MDgnKTtgKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICBmcm9tICcuLi9tb2RlbHMvcHJvZ3Jlc3NQaWN0dXJlJzsK</text>
+        <text encoding="base64">ICAgICAgICAgIGF3YWl0IHF1ZXJ5SW50ZXJmYWNlLnNlcXVlbGl6ZS5xdWVyeShgSU5TRVJUIElOVE8gd29ya291dF9jYXRlZ29yeV9pMThuIChpZCwgc291cmNlSWQsIGxvY2FsZSwgdGl0bGUpIFZBTFVFUyAoJ2VkZjQ4ZmYxLWFjZDAtMTFlYS1hNDQ2LTAyNDJhYzEyMDAwNCcsICczNjY0YzZkYS03MzMzLTQ5MWEtOTJlMS1jYWY2ZDljMzM2MjUnLCAnZW4tVVMnLCAnV2FybSB1cCcpO2ApOwogICAgICAgICAgYXdhaXQgcXVlcnlJbnRlcmZhY2Uuc2VxdWVsaXplLnF1ZXJ5KGBJTlNFUlQgSU5UTyB3b3Jrb3V0X2NhdGVnb3J5X2kxOG4gKGlkLCBzb3VyY2VJZCwgbG9jYWxlLCB0aXRsZSkgVkFMVUVTICgnZWRmNDkwOWQtYWNkMC0xMWVhLWE0NDYtMDI0MmFjMTIwMDA0JywgJzM2NjRjNmRhLTczMzMtNDkxYS05MmUxLWNhZjZkOWMzMzYyNScsICd6aC1UVycsICcoVFcpIFdhcm0gdXAnKTtgKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGF3YWl0IHF1ZXJ5SW50ZXJmYWNlLnNlcXVlbGl6ZS5xdWVyeShgSU5TRVJUIElOVE8gd29ya291dF9jYXRlZ29yeSAoaWQsIHNsdWcsIGNvbG9yLCB0YXJnZXRlZEFyZWEsIGNyZWF0ZWRBdCwgdXBkYXRlZEF0KSBWQUxVRVMgKCczNjY0YzZkYS03MzMzLTQ5MWEtOTJlMS1jYWY2ZDljMzM2MjUnLCAnd2FybXVwJywgJyMxZjNiNzYnLCAwLCAnMjAyMC0wNi0xNSAxNDo1NDowOCcsICcyMDIwLTA2LTE1IDE0OjU0OjA4Jyk7YCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNhYmwK</text>
+        <text encoding="base64">ICAgICAgICAgIGF3YWl0IHF1ZXJ5SW50ZXJmYWNlLnNlcXVlbGl6ZS5xdWVyeShgSU5TRVJUIElOVE8gd29ya291dF9jYXRlZ29yeSAoaWQsIHNsdWcsIGNvbG9yLCB0YXJnZXRlZEFyZWEsIGNyZWF0ZWRBdCwgdXBkYXRlZEF0KSBWQUxVRVMgKCczNjY0YzZkYS03MzMzLTQ5MWEtOTJlMS1jYWY2ZDljMzM2MjUnLCAnd2FybXVwJywgJyMxZjNiNzYnLCAwLCAnMjAyMC0wNi0xNSAxNDo1NDowOCcsICcyMDIwLTA2LTE1IDE0OjU0OjA4Jyk7YCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGFscmVhZHlJbnNlcnRlZFswXS5sZW5ndGggPT09IDIpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTG9nTGV2ZWwsIGxvZ09uV2ViaG9vaywgV2ViaG9va0NoYW5uZWxzIH0gZnJvbSAnLi4vLi4vd2ViaG9vayc7Cg==</text>
+        <text>feat(subscriptionsx): log msg on webhook when receiving sub cancellation</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTG9nTGV2ZWwsIGxvZ09uV2ViaG9vaywgV2ViaG9va0NoYW5uZWxzIH0gZnJvbSAnLi4vLi4vd2ViaG9vayc7Cg==</text>
+        <text>feat(subscriptions): lxog msg on webhook when receiving sub cancellation</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgbG9nT25XZWJob29rKAogICAgICAgICAgICAgICAgV2ViaG9va0NoYW5uZWxzLkNST05zQ2hhbm5lbCwKICAgICAgICAgICAgICAgIExvZ0xldmVsLmluZm8sCiAgICAgICAgICAgICAgICAnUmVjZWl2ZWQgQ0FOQ0VMIG5vdGlmaWNhdGlvbiBmcm9tIGFwcGxlXCdzIHNlcnZlci10by1zZXJ2ZXIgbm90aWZpY2F0aW9ucycsCiAgICAgICAgICAgICAgICB7IHB1cmNoYXNlRGF0YTogcHVyY2hhc2VEYXRhLnRvU3RyaW5nKCkgfQogICAgICAgICAgICApOwo=</text>
+        <text>feat(subscriptions): log msg on webhook when receiving sub cancellation</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

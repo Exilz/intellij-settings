@@ -104,9 +104,6 @@
       <file name="/SequelizeMeta [MySQL - @localhost]" timestamp="1593697271191">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/workout_category [MySQL - @localhost]" timestamp="1593693828574">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/252e5c1f-189a-4e5c-86d1-2566f707d91f/console.sql" timestamp="1593701527354">
         <mark key="[" line="1" column="69" />
         <mark key="]" line="1" column="107" />
@@ -128,6 +125,12 @@
         <mark key="]" line="230" column="34" />
         <mark key="." line="230" column="33" />
         <mark key="^" line="230" column="34" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/db.ts" timestamp="1593702300809">
+        <mark key="[" line="54" column="17" />
+        <mark key="]" line="54" column="21" />
+        <mark key="." line="54" column="20" />
+        <mark key="^" line="54" column="21" />
       </file>
       <file name="/dummy.sql" timestamp="1593697271192">
         <mark key="[" line="0" column="0" />
@@ -248,11 +251,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>UPDATE workou</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>console</text>

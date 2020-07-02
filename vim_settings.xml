@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>DidMount</entry>
         <entry>state.infl</entry>
         <entry>Iprops</entry>
         <entry>IProps</entry>
@@ -25,6 +24,7 @@
         <entry>type</entry>
         <entry>split</entry>
         <entry>slug</entry>
+        <entry>logOn</entry>
       </history-search>
       <history-cmd>
         <entry>gwip</entry>
@@ -64,13 +64,6 @@
       <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/workout.ts" timestamp="1593679317930">
         <mark key="'" line="185" column="43" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/android/app/build.gradle" timestamp="1593612519091">
-        <mark key="'" line="281" column="12" />
-        <mark key="[" line="86" column="18" />
-        <mark key="]" line="86" column="22" />
-        <mark key="." line="86" column="21" />
-        <mark key="^" line="86" column="22" />
-      </file>
       <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1593679950127">
         <mark key="[" line="12" column="14" />
         <mark key="]" line="12" column="18" />
@@ -78,6 +71,12 @@
         <mark key="." line="12" column="17" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/progressPicture.ts" timestamp="1593680262216" />
+      <file name="/dev.set_history" timestamp="1593680530173">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dev.workout_history" timestamp="1593680898770">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/collage.ts" timestamp="1593680243423" />
       <file name="$USER_HOME$/Development/app.nuli/src/components/Training/Recovery.tsx" timestamp="1593678560248">
         <mark key="[" line="105" column="25" />
@@ -85,60 +84,63 @@
         <mark key="^" line="105" column="26" />
         <mark key="." line="105" column="25" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/article.ts" timestamp="1593629734583" />
-      <file name="/workout_categories [MySQL - @localhost]" timestamp="1593677573065">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/IOSSubscriptionManager.ts" timestamp="1593680835796">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/index.ts" timestamp="1593629719292" />
       <file name="$USER_HOME$/Development/app.nuli/src/utils/endpoints.ts" timestamp="1593679363387">
         <mark key="'" line="23" column="27" />
       </file>
       <file name="/workout [MySQL - @localhost]" timestamp="1593678770072">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/nuli.infrastructure/conf/production.json" timestamp="1593635265374">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="7" column="34" />
-        <mark key="^" line="7" column="34" />
-        <mark key="." line="7" column="33" />
+      <file name="/set_history [MySQL - @localhost]" timestamp="1593680530159">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/views/Login.tsx" timestamp="1593533251066">
-        <mark key="[" line="452" column="8" />
-        <mark key="]" line="452" column="61" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/android/build.gradle" timestamp="1593612392328">
-        <mark key="'" line="13" column="17" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/workoutHistory.ts" timestamp="1593680891864">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="116" column="15" />
+        <mark key="]" line="116" column="29" />
+        <mark key="." line="116" column="28" />
+        <mark key="^" line="116" column="29" />
       </file>
       <file name="/dev.workout_categories" timestamp="1593677573099">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/nuli.infrastructure/database.tf" timestamp="1593635280494">
-        <mark key="'" line="50" column="38" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="43" column="34" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/getCollection.ts" timestamp="1593680203636" />
       <file name="/dev.workout" timestamp="1593678770087">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1593678770097">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/252e5c1f-189a-4e5c-86d1-2566f707d91f/console.sql" timestamp="1593680741218">
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="1" column="62" />
+        <mark key="." line="1" column="61" />
+        <mark key="^" line="1" column="62" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/AndroidSubscriptionManager.ts" timestamp="1593680839697">
+        <mark key="'" line="58" column="69" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="70" column="18" />
+      </file>
+      <file name="/foo.bar" timestamp="1593680898781">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/setHistory.ts" timestamp="1593680282165">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="92" column="48" />
-        <mark key="]" line="93" column="51" />
-        <mark key="^" line="93" column="51" />
-        <mark key="." line="93" column="50" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/setHistory.ts" timestamp="1593680878020">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="97" column="5" />
+        <mark key="^" line="93" column="15" />
+        <mark key="." line="97" column="0" />
+      </file>
+      <file name="/workout_history [MySQL - @localhost]" timestamp="1593680898754">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
-      <jump line="14" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
-      <jump line="17" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
-      <jump line="21" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
       <jump line="25" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
       <jump line="33" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
       <jump line="39" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/dynamicLink.ts" />
@@ -235,48 +237,52 @@
       <jump line="29" column="28" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/workout.ts" />
       <jump line="185" column="43" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/workout.ts" />
       <jump line="23" column="27" filename="$USER_HOME$/Development/app.nuli/src/utils/endpoints.ts" />
+      <jump line="59" column="69" filename="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/AndroidSubscriptionManager.ts" />
+      <jump line="72" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/services/managers/subscriptions/IOSSubscriptionManager.ts" />
+      <jump line="12" column="6" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/workoutHistory.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/workoutHistory.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>, status: 'processed'</text>
+        <text>SetHistory</text>
       </register>
       <register name="-" type="4">
-        <text>, status: 'processed'</text>
+        <text>SetHistory</text>
       </register>
       <register name="/" type="4">
-        <text>slug</text>
+        <text>logOn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bGV0IGJhc2VVUkw6IHN0cmluZyA9IEFQSV9ET01BSU47Cg==</text>
+        <text encoding="base64">ICAgIGFzeW5jIGNvdW50KHJlcTogUmVxdWVzdCk6IFByb21pc2U8bnVtYmVyPiB7CiAgICAgICAgcmV0dXJuIFNldEhpc3RvcnkuY291bnQoewogICAgICAgICAgICAuLi50aGlzLmdldEZpbmRBbGxPcHRpb25zKHJlcSwgeyBsaW1pdDogdW5kZWZpbmVkLCBvZmZzZXQ6IHVuZGVmaW5lZCB9KSwKICAgICAgICAgICAgd2hlcmU6IHsgdXNlcklkOiBnZXRVc2VySWRGcm9tUmVxKHJlcSkgfQogICAgICAgIH0pOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcmVmZXJyZWRfbWFpbnRlbmFuY2Vfd2luZG93ID0gIjE5OjMwLTIwOjAwIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXJlZikgeyByZXR1cm47IH0K</text>
+        <text encoding="base64">aW1wb3J0IHsgTG9nTGV2ZWwsIGxvZ09uV2ViaG9vaywgV2ViaG9va0NoYW5uZWxzIH0gZnJvbSAnLi4vLi4vd2ViaG9vayc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZWYgPSBnZXQodGhpcy5zY3JvbGxWaWV3UmVmLCAnY3VycmVudC5fY29tcG9uZW50Jyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgTG9nTGV2ZWwsIGxvZ09uV2ViaG9vaywgV2ViaG9va0NoYW5uZWxzIH0gZnJvbSAnLi4vLi4vd2ViaG9vayc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBob3Jpem9udGFsU2Nyb2xsVmlldyA9IGdldCh0aGlzLmhvcml6b250YWxTY3JvbGxWaWV3UmVmLCAnY3VycmVudC5fY29tcG9uZW50Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgbG9nT25XZWJob29rKAogICAgICAgICAgICAgICAgV2ViaG9va0NoYW5uZWxzLkNST05zQ2hhbm5lbCwKICAgICAgICAgICAgICAgIExvZ0xldmVsLmluZm8sCiAgICAgICAgICAgICAgICAnUmVjZWl2ZWQgQ0FOQ0VMIG5vdGlmaWNhdGlvbiBmcm9tIGFwcGxlXCdzIHNlcnZlci10by1zZXJ2ZXIgbm90aWZpY2F0aW9ucycsCiAgICAgICAgICAgICAgICB7IHB1cmNoYXNlRGF0YTogcHVyY2hhc2VEYXRhLnRvU3RyaW5nKCkgfQogICAgICAgICAgICApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZmxhdExpc3QgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgbG9nT25XZWJob29rKAogICAgICAgICAgICAgICAgV2ViaG9va0NoYW5uZWxzLkNST05zQ2hhbm5lbCwKICAgICAgICAgICAgICAgIExvZ0xldmVsLmluZm8sCiAgICAgICAgICAgICAgICAnUmVjZWl2ZWQgU1VCU0NSSVBUSU9OX0NBTkNFTEVEIG5vdGlmaWNhdGlvbiBmcm9tIGdvb2dsZVwncyByZWFsLXRpbWUgZXZlbnRzJywKICAgICAgICAgICAgICAgIHsgZXZlbnQ6IGV2ZW50LnRvU3RyaW5nKCkgfQogICAgICAgICAgICApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBob3Jpem9udGFsU2Nyb2xsVmlldyA9IGdldCh0aGlzLmhvcml6b250YWxTY3JvbGxWaWV3UmVmLCAnY3VycmVudC5fY29tcG9uZW50Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY291bnQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text>-b737-4eac-95f7-83d60b8980dd</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLnRpbWVFbmQoJ2NvdW50aW5nJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>feat(TrialToast): display once a day</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLnRpbWUoJ2NvdW50aW5nJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>feat(TrialToast): display once a day</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQ291bnRpbmcgd2l0aCBjdXN0b20gbWV0aG9kJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -285,9 +291,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>slug</last-search>
+      <last-search>logOn</last-search>
       <last-offset />
-      <last-pattern>slug</last-pattern>
+      <last-pattern>logOn</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

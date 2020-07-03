@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxWaWV3XD4=</entry>
         <entry>iap</entry>
         <entry>this.context</entry>
         <entry>clean</entry>
@@ -25,6 +24,7 @@
         <entry>console</entry>
         <entry>log</entry>
         <entry>base</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -62,34 +62,37 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1593768195142">
-        <mark key="a" line="0" column="0" />
-        <mark key="'" line="0" column="0" />
-        <mark key="i" line="0" column="3" />
-        <mark key="[" line="79" column="3" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/unit/services/mailchimp.test.ts" timestamp="1593779993972">
+        <mark key="[" line="22" column="64" />
+        <mark key="]" line="23" column="57" />
+        <mark key="^" line="23" column="57" />
+        <mark key="." line="23" column="56" />
       </file>
-      <file name="/user [MySQL - @localhost]" timestamp="1593767695878">
+      <file name="/test.user" timestamp="1593781028142">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/mailchimp.ts" timestamp="1593766512185">
-        <mark key="'" line="106" column="24" />
-        <mark key="[" line="109" column="67" />
-        <mark key="]" line="110" column="34" />
-        <mark key="." line="110" column="33" />
-        <mark key="^" line="110" column="34" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/articles/get.test.ts" timestamp="1593781153554">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="18" column="37" />
+        <mark key="^" line="18" column="37" />
+        <mark key="." line="18" column="36" />
       </file>
-      <file name="/dev.user" timestamp="1593767695902">
+      <file name="/user [MySQL - @localhost]" timestamp="1593781028107">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/tsconfig.json" timestamp="1593777961917">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="33" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/tsconfig.json" timestamp="1593781388103">
+        <mark key="[" line="12" column="38" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="38" />
+        <mark key="^" line="11" column="47" />
       </file>
-      <file name="/foo.bar" timestamp="1593767704828">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/index.ts" timestamp="1593781443396">
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="5" column="61" />
+        <mark key="^" line="5" column="61" />
+        <mark key="." line="5" column="60" />
+      </file>
+      <file name="/foo.bar" timestamp="1593781028156">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/prod settings.json" timestamp="1593768489774">
@@ -101,34 +104,32 @@
       <file name="/fragment.js" timestamp="1593768307955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/user_subscription [MySQL - @localhost]" timestamp="1593765443012">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/package.json" timestamp="1593781208134">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="20" />
+        <mark key="^" line="19" column="20" />
+        <mark key="." line="19" column="19" />
       </file>
-      <file name="/dev.user_notifications" timestamp="1593767704820">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dev.setting" timestamp="1593765857486">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/article.ts" timestamp="1593777794035">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/article.ts" timestamp="1593780510736">
         <mark key="'" line="74" column="20" />
-        <mark key="[" line="12" column="38" />
-        <mark key="]" line="12" column="38" />
-        <mark key="^" line="12" column="38" />
-        <mark key="." line="12" column="37" />
+        <mark key="[" line="3" column="56" />
+        <mark key="]" line="3" column="56" />
+        <mark key="^" line="3" column="56" />
+        <mark key="." line="3" column="55" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/workoutList.ts" timestamp="1593777238222">
         <mark key="'" line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/015-shopee-users.js" timestamp="1593765617788">
-        <mark key="'" line="138" column="0" />
-        <mark key="[" line="72" column="32" />
-        <mark key="]" line="72" column="44" />
-        <mark key="^" line="72" column="44" />
-        <mark key="." line="72" column="43" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/dotenv.ts" timestamp="1593779278558">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="32" />
+        <mark key="^" line="0" column="33" />
       </file>
-      <file name="/setting [MySQL - @localhost]" timestamp="1593765857473">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/index.ts" timestamp="1593780109851">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1593768228830">
         <mark key="[" line="0" column="0" />
@@ -142,18 +143,23 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/dev.user_subscription" timestamp="1593765443025">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/jest.config.js" timestamp="1593780591076">
+        <mark key="[" line="38" column="6" />
+        <mark key="]" line="38" column="7" />
+        <mark key="^" line="38" column="7" />
+        <mark key="." line="38" column="6" />
       </file>
-      <file name="/user_notifications [MySQL - @localhost]" timestamp="1593767704811">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/nodemon.json" timestamp="1593779893478">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="15" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/.github/workflows/main.yml" timestamp="1593780151521">
+        <mark key="'" line="21" column="18" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="46" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
-      <jump line="257" column="12" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
-      <jump line="277" column="12" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
-      <jump line="311" column="12" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
       <jump line="328" column="12" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
       <jump line="345" column="12" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
       <jump line="378" column="12" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
@@ -250,48 +256,52 @@
       <jump line="137" column="0" filename="$USER_HOME$/Development/api.meliorence.com/migrations/015-shopee-users.js" />
       <jump line="123" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/workoutList.ts" />
       <jump line="74" column="20" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/article.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/.github/workflows/main.yml" />
+      <jump line="5" column="2" filename="$USER_HOME$/Development/api.meliorence.com/.github/workflows/main.yml" />
+      <jump line="6" column="32" filename="$USER_HOME$/Development/api.meliorence.com/.github/workflows/main.yml" />
+      <jump line="21" column="18" filename="$USER_HOME$/Development/api.meliorence.com/.github/workflows/main.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAibW9kdWxlIjogImNvbW1vbmpzIiwK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>Coucou</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>base</text>
+        <text>test</text>
       </register>
-      <register name="0" type="4">
-        <text>registeredUsersReq[0].</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIkAvY29udHJvbGxlcnMvKiI6IFsic3JjL2NvbnRyb2xsZXJzLyoiXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAibW9kdWxlIjogImNvbW1vbmpzIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IEFydGljbGVDYXRlZ29yeSwgeyBBcnRpY2xlQ2F0ZWdvcnlJMThOIH0gZnJvbSAnLi4vbW9kZWxzL2FydGljbGVDYXRlZ29yeSc7Cg==</text>
+        <text encoding="base64">aWYgKHByb2Nlc3MuZW52Lk5PREVfRU5WID09PSAnZGV2ZWxvcG1lbnQnKSB7CiAgICByZXF1aXJlKCdzb3VyY2UtbWFwLXN1cHBvcnQnKS5pbnN0YWxsKCk7Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZmVhdChtaWdyYXRpb25zKTogYWRkIHdhcm11cCAmIHN0cmV0Y2hpbmcgd29ya291dHM=</text>
+        <text encoding="base64">Y29uc29sZS5sb2cobmV3IERhdGUoKS50b0lTT1N0cmluZygpLCBgUnVubmluZyBwcm9jZXNzIHdpdGggUElEIDogJHtwcm9jZXNzLnBpZH0uLi5gKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3JlZ2lzdGVyZWRVc2Vyc1JlcVswXScsIHJlZ2lzdGVyZWRVc2Vyc1JlcVswXSk7Cg==</text>
+        <text encoding="base64">Ly8gcmVxdWlyZSgnLi9kb3RlbnYnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICJ3YXRjaDpzZXJ2ZXIiOiAibm9kZW1vbiAtciBzb3VyY2UtbWFwLXN1cHBvcnQvcmVnaXN0ZXIgLS1pbnNwZWN0PTkyMjMgXCIuL2Rpc3QvaW5kZXguanNcIiAtLWNvbmZpZyBub2RlbW9uLmpzb24iCg==</text>
       </register>
       <register name="7" type="2">
-        <text>UPDATE workou</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUIENPVU5UKCopIEZST00gd29ya291dDsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2NvdWNvdSBNQUFBSicsIEFydGljbGVDYXRlZ29yeSk7Cgp0aHJvdyBuZXcgRXJyb3IoJ2NvdWNvdSBsb2wnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICJpZ25vcmUiOiBbInNyYy8qKi8qLnNwZWMudHMiXSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -300,15 +310,15 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>base</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>base</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />

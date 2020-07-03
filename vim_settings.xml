@@ -62,25 +62,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1593765859622">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1593768195142">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="0" />
         <mark key="i" line="0" column="3" />
-        <mark key="[" line="0" column="3" />
+        <mark key="[" line="79" column="3" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/005-genflow-users.js" timestamp="1593764779234">
-        <mark key="'" line="20" column="80" />
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="8952" />
-        <mark key="." line="7" column="8951" />
-        <mark key="^" line="7" column="8952" />
       </file>
       <file name="/dev.SequelizeMeta" timestamp="1593765121964">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/user [MySQL - @localhost]" timestamp="1593765363946">
+      <file name="/user [MySQL - @localhost]" timestamp="1593767695878">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/mailchimp.ts" timestamp="1593766512185">
@@ -90,32 +83,32 @@
         <mark key="." line="110" column="33" />
         <mark key="^" line="110" column="34" />
       </file>
-      <file name="/dev.user" timestamp="1593765363959">
+      <file name="/dev.user" timestamp="1593767695902">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/SequelizeMeta [MySQL - @localhost]" timestamp="1593765121945">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/252e5c1f-189a-4e5c-86d1-2566f707d91f/console.sql" timestamp="1593701527354">
-        <mark key="[" line="1" column="69" />
-        <mark key="]" line="1" column="107" />
-        <mark key="." line="1" column="106" />
-        <mark key="^" line="1" column="107" />
+      <file name="/foo.bar" timestamp="1593767704828">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1593765857497">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/prod settings.json" timestamp="1593768489774">
+        <mark key="[" line="88" column="5" />
+        <mark key="]" line="95" column="27" />
+        <mark key="." line="95" column="26" />
+        <mark key="^" line="95" column="27" />
+      </file>
+      <file name="/fragment.js" timestamp="1593768307955">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/user_subscription [MySQL - @localhost]" timestamp="1593765443012">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dev.setting" timestamp="1593765857486">
+      <file name="/dev.user_notifications" timestamp="1593767704820">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1593762418487">
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="26" column="34" />
-        <mark key="." line="26" column="33" />
-        <mark key="^" line="26" column="34" />
+      <file name="/dev.setting" timestamp="1593765857486">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/migrations/015-shopee-users.js" timestamp="1593765617788">
         <mark key="'" line="138" column="0" />
@@ -134,22 +127,22 @@
       <file name="/setting [MySQL - @localhost]" timestamp="1593765857473">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1593766070506">
+      <file name="/JavaScript Console" timestamp="1593768228830">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1593765378611">
-        <mark key="[" line="0" column="1" />
-      </file>
-      <file name="/dev.workout_categories" timestamp="1593701252247">
+      <file name="/dummy.sql" timestamp="1593768331609">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593701669821">
+      <file name="/Dummy.txt" timestamp="1593768510313">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="/dev.user_subscription" timestamp="1593765443025">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/user_notifications [MySQL - @localhost]" timestamp="1593767704811">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>

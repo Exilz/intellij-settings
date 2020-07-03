@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>console.</entry>
         <entry>codepush</entry>
         <entry encoding="base64">XDxWaWV3XD4=</entry>
         <entry>iap</entry>
@@ -25,9 +24,9 @@
         <entry>workoutCategories</entry>
         <entry>clone</entry>
         <entry>console</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
-        <entry>marks</entry>
         <entry>q</entry>
         <entry>.,.+32</entry>
         <entry>32</entry>
@@ -46,6 +45,7 @@
         <entry>1400</entry>
         <entry>225</entry>
         <entry>221</entry>
+        <entry>903</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -62,7 +62,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1593695939284">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1593765859622">
         <mark key="a" line="0" column="0" />
         <mark key="'" line="0" column="0" />
         <mark key="i" line="0" column="3" />
@@ -70,38 +70,30 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/014-stretching-category.js" timestamp="1593695951017">
-        <mark key="[" line="23" column="140" />
-        <mark key="]" line="25" column="183" />
-        <mark key="^" line="25" column="183" />
-        <mark key="." line="25" column="182" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/005-genflow-users.js" timestamp="1593764779234">
+        <mark key="'" line="20" column="80" />
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="8952" />
+        <mark key="." line="7" column="8951" />
+        <mark key="^" line="7" column="8952" />
       </file>
-      <file name="/workout_category_i18n [MySQL - @localhost]" timestamp="1593697271192">
+      <file name="/dev.SequelizeMeta" timestamp="1593765121964">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dev.SequelizeMeta" timestamp="1593697271191">
+      <file name="/user [MySQL - @localhost]" timestamp="1593765363946">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dev.workout_i18n" timestamp="1593695707831">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/notifications/mailchimp.ts" timestamp="1593766512185">
+        <mark key="'" line="106" column="24" />
+        <mark key="[" line="109" column="67" />
+        <mark key="]" line="110" column="34" />
+        <mark key="." line="110" column="33" />
+        <mark key="^" line="110" column="34" />
+      </file>
+      <file name="/dev.user" timestamp="1593765363959">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/workout_categories [MySQL - @localhost]" timestamp="1593701252231">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dev.workout_category" timestamp="1593693828591">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/console" timestamp="1593697271187">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/admin.meliorence.com/components/workouts/WorkoutGeneralForm.tsx" timestamp="1593700178325">
-        <mark key="'" line="209" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="198" column="42" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="/SequelizeMeta [MySQL - @localhost]" timestamp="1593697271191">
+      <file name="/SequelizeMeta [MySQL - @localhost]" timestamp="1593765121945">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/252e5c1f-189a-4e5c-86d1-2566f707d91f/console.sql" timestamp="1593701527354">
@@ -110,30 +102,43 @@
         <mark key="." line="1" column="106" />
         <mark key="^" line="1" column="107" />
       </file>
-      <file name="/foo.bar" timestamp="1593701252261">
+      <file name="/foo.bar" timestamp="1593765857497">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dev.workout_category_i18n" timestamp="1593697271192">
+      <file name="/user_subscription [MySQL - @localhost]" timestamp="1593765443012">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/workout_i18n [MySQL - @localhost]" timestamp="1593695707818">
+      <file name="/dev.setting" timestamp="1593765857486">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/admin.meliorence.com/components/shared/ItemSelect.tsx" timestamp="1593700113024">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="230" column="24" />
-        <mark key="]" line="230" column="34" />
-        <mark key="." line="230" column="33" />
-        <mark key="^" line="230" column="34" />
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1593762418487">
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="34" />
+        <mark key="." line="26" column="33" />
+        <mark key="^" line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/db.ts" timestamp="1593702300809">
+      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/015-shopee-users.js" timestamp="1593765617788">
+        <mark key="'" line="138" column="0" />
+        <mark key="[" line="72" column="32" />
+        <mark key="]" line="72" column="44" />
+        <mark key="^" line="72" column="44" />
+        <mark key="." line="72" column="43" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/db.ts" timestamp="1593765038650">
+        <mark key="'" line="31" column="55" />
         <mark key="[" line="54" column="17" />
-        <mark key="]" line="54" column="21" />
-        <mark key="." line="54" column="20" />
-        <mark key="^" line="54" column="21" />
+        <mark key="]" line="54" column="22" />
+        <mark key="." line="54" column="21" />
+        <mark key="^" line="54" column="22" />
       </file>
-      <file name="/dummy.sql" timestamp="1593697271192">
+      <file name="/setting [MySQL - @localhost]" timestamp="1593765857473">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1593766070506">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1593765378611">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="/dev.workout_categories" timestamp="1593701252247">
         <mark key="[" line="0" column="0" />
@@ -144,11 +149,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/admin.meliorence.com/node_modules/@types/react-select/src/components/index.d.ts" timestamp="1593698935206" />
+      <file name="/dev.user_subscription" timestamp="1593765443025">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="14" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
-      <jump line="9" column="39" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
       <jump line="58" column="4" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
       <jump line="1402" column="51" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
       <jump line="33" column="46" filename="$USER_HOME$/Development/app.nuli/src/views/Settings.tsx" />
@@ -247,48 +252,50 @@
       <jump line="1" column="0" filename="$USER_HOME$/Development/admin.meliorence.com/components/shared/ItemSelect.tsx" />
       <jump line="204" column="36" filename="$USER_HOME$/Development/admin.meliorence.com/components/workouts/WorkoutGeneralForm.tsx" />
       <jump line="210" column="0" filename="$USER_HOME$/Development/admin.meliorence.com/components/workouts/WorkoutGeneralForm.tsx" />
+      <jump line="31" column="55" filename="$USER_HOME$/Development/api.meliorence.com/src/services/db.ts" />
+      <jump line="137" column="0" filename="$USER_HOME$/Development/api.meliorence.com/migrations/015-shopee-users.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3JlZ2lzdGVyZWRVc2Vyc1JlcVswXScsIHJlZ2lzdGVyZWRVc2Vyc1JlcVswXSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>log</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBbYXN5bmNPcHRpb25zLCBzZXRBc3luY09wdGlvbnNdID0gdXNlU3RhdGU8SU9wdGlvbltdPihudWxsKTsK</text>
+      <register name="0" type="4">
+        <text>registeredUsersReq[0].</text>
       </register>
       <register name="1" type="2">
-        <text>UPDATE workou</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3JlZ2lzdGVyZWRVc2Vyc1JlcVswXScsIHJlZ2lzdGVyZWRVc2Vyc1JlcVswXSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VMRUNUIENPVU5UKCopIEZST00gd29ya291dDsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">U0VMRUNUIAo=</text>
+        <text>UPDATE workou</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBTRUxFQ1QgY291bnQoKikgQVMgYGNvdW50YCBGUk9NIGBzZXRfaGlzdG9yeWAgQVMgYHNldEhpc3RvcnlgIFdIRVJFIGBzZXRIaXN0b3J5YC5gdXNlcklkYCA9ICdjMzYyOWZlMS00M2UxLTQ2MTYtYjg3Yy01NWZkNDQ1MmQyNDInOwpTSE9XIElOREVYIEZST00gc2V0X2hpc3Rvcnk7ClNFTEVDVCBDT1VOVCgqKSBhcyBgY291bnRgIEZST00gYHNldF9oaXN0b3J5YCBBUyBgc2V0SGlzdG9yeWA7Cg==</text>
+        <text encoding="base64">U0VMRUNUIENPVU5UKCopIEZST00gd29ya291dDsK</text>
       </register>
       <register name="6" type="2">
-        <text>feat(ItemSelect): deduplicate already fed valuesx</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text>refactor(worxkoutLists): update wording to make it clearer</text>
+        <text encoding="base64">U0VMRUNUIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3dvcmtvdXRDYXRlZ29yaWVzJywgd29ya291dENhdGVnb3JpZXMpOwo=</text>
+        <text encoding="base64">IyBTRUxFQ1QgY291bnQoKikgQVMgYGNvdW50YCBGUk9NIGBzZXRfaGlzdG9yeWAgQVMgYHNldEhpc3RvcnlgIFdIRVJFIGBzZXRIaXN0b3J5YC5gdXNlcklkYCA9ICdjMzYyOWZlMS00M2UxLTQ2MTYtYjg3Yy01NWZkNDQ1MmQyNDInOwpTSE9XIElOREVYIEZST00gc2V0X2hpc3Rvcnk7ClNFTEVDVCBDT1VOVCgqKSBhcyBgY291bnRgIEZST00gYHNldF9oaXN0b3J5YCBBUyBgc2V0SGlzdG9yeWA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3ZhbCcsIHZhbHVlcy5jYXRlZ29yaWVzKTsK</text>
+        <text>feat(ItemSelect): deduplicate already fed valuesx</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -297,9 +304,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>console</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

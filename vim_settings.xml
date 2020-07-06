@@ -79,11 +79,11 @@
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/package.json" timestamp="1594023699302">
+      <file name="$USER_HOME$/Development/api.meliorence.com/package.json" timestamp="1594024816745">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
+        <mark key="[" line="108" column="22" />
+        <mark key="]" line="108" column="22" />
+        <mark key="." line="108" column="22" />
         <mark key="^" line="118" column="22" />
       </file>
       <file name="/test.user" timestamp="1593882205756">
@@ -141,7 +141,7 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593881983468">
+      <file name="/Dummy.txt" timestamp="1594023724889">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -265,11 +265,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJAcm9vdCI6ICIuIiwK</text>
+      <register name="&quot;" type="4">
+        <text>dist/</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;s</text>
+        <text>dist/</text>
       </register>
       <register name="/" type="4">
         <text>expec</text>
@@ -278,31 +278,31 @@
         <text encoding="base64">ICAgICAgICAicGF0aHMiOiB7CiAgICAgICAgICAgICJAL2NvbnRyb2xsZXJzLyoiOiBbInNyYy9jb250cm9sbGVycy8qIl0sCiAgICAgICAgICAgICJAL2NvcmUvKiI6IFsic3JjL2NvcmUvKiJdLAogICAgICAgICAgICAiQC9lbWl0dGVycy8qIjogWyJzcmMvZW1pdHRlcnMvKiJdLAogICAgICAgICAgICAiQC9lcnJvcnMvKiI6IFsic3JjL2Vycm9ycy8qIl0sCiAgICAgICAgICAgICJAL2hvb2tzLyoiOiBbInNyYy9ob29rcy8qIl0sCiAgICAgICAgICAgICJAL21vZGVscyoiOiBbInNyYy9tb2RlbHMqIl0sCiAgICAgICAgICAgICJAL3JlcG9zaXRvcmllcyoiOiBbInNyYy9yZXBvc2l0b3JpZXMqIl0sCiAgICAgICAgICAgICJAL3NjaGVtYXMqIjogWyJzcmMvc2NoZW1hcyoiXSwKICAgICAgICAgICAgIkAvc2VydmljZXMqIjogWyJzcmMvc2VydmljZXMqIl0sCiAgICAgICAgICAgICJAL3RlbXBsYXRlcyoiOiBbInNyYy90ZW1wbGF0ZXMqIl0sCiAgICAgICAgICAgICJAL3V0aWxzKiI6IFsic3JjL3V0aWxzKiJdCiAgICAgICAgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJAcm9vdCI6ICIuIiwK</text>
+        <text encoding="base64">Zml4KGFwcCk6IHVwZGF0ZSBqZXN0IG1vY2tzIHBhdGhzICYgcHJldmVudCByZXF1aXJlIGN5Y2xl</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJAcm9vdCI6ICIuIiwK</text>
       </register>
       <register name="3" type="2">
-        <text>refactor(app): rework file architecture</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text>refactor(app): rework file architecture</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0Jhc2VSZXBvJywgQmFzZVJlcG8pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcmVxdWVzdFBhc3N3b3JkUmVzZXQgfSBmcm9tICdAL2NvcmUvdXNlcnMnOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ0Jhc2VSZXBvJywgQmFzZVJlcG8pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwppbXBvcnQgeyBnZW5SYW5kb21Ub2tlbiwgaGFzaFBhc3N3b3JkIH0gZnJvbSAnQC9jb3JlL2F1dGgnOwppbXBvcnQgeyBnZXRFbWl0dGVyIH0gZnJvbSAnQC9lbWl0dGVycy9pbmRleCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgcmVxdWVzdFBhc3N3b3JkUmVzZXQgfSBmcm9tICdAL2NvcmUvdXNlcnMnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwppbXBvcnQgeyBnZW5SYW5kb21Ub2tlbiwgaGFzaFBhc3N3b3JkIH0gZnJvbSAnQC9jb3JlL2F1dGgnOwppbXBvcnQgeyBnZXRFbWl0dGVyIH0gZnJvbSAnQC9lbWl0dGVycy9pbmRleCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFVzZXIgZnJvbSAnQC9tb2RlbHMvdXNlcic7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

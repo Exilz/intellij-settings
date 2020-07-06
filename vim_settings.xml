@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>initi</entry>
         <entry>getWorkoutCategories</entry>
         <entry>workoutCategories</entry>
         <entry>clone</entry>
@@ -25,6 +24,7 @@
         <entry>mock</entry>
         <entry>Boom</entry>
         <entry>expec</entry>
+        <entry encoding="base64">XDwkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+32</entry>
@@ -62,21 +62,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/deeplink/get.ts" timestamp="1594027190721">
-        <mark key="[" line="8" column="32" />
-        <mark key="]" line="9" column="32" />
-        <mark key="^" line="9" column="32" />
-        <mark key="." line="9" column="31" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/deeplink/get.ts" timestamp="1594047579177">
+        <mark key="[" line="15" column="67" />
+        <mark key="]" line="15" column="77" />
+        <mark key="." line="15" column="76" />
+        <mark key="^" line="15" column="77" />
       </file>
       <file name="/user_subscription [MySQL - @localhost]" timestamp="1593882231472">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/package.json" timestamp="1594024816745">
+      <file name="$USER_HOME$/Development/api.meliorence.com/package.json" timestamp="1594047660485">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="108" column="22" />
-        <mark key="]" line="108" column="22" />
-        <mark key="." line="108" column="22" />
-        <mark key="^" line="118" column="22" />
+        <mark key="[" line="24" column="141" />
+        <mark key="]" line="24" column="156" />
+        <mark key="." line="24" column="155" />
+        <mark key="^" line="24" column="156" />
       </file>
       <file name="/test.user" timestamp="1593882205756">
         <mark key="[" line="0" column="0" />
@@ -84,19 +84,17 @@
       <file name="/user [MySQL - @localhost]" timestamp="1593882212610">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/users/UserManager.ts" timestamp="1593881761155">
-        <mark key="'" line="42" column="1" />
-      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/exercise.ts" timestamp="1593881813201">
         <mark key="'" line="10" column="13" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/resetPassword.ts" timestamp="1593881749828">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/auth/jwt.ts" timestamp="1594028369796">
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="9" column="35" />
+        <mark key="." line="9" column="34" />
+        <mark key="^" line="9" column="35" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/put.ts" timestamp="1593881779642">
         <mark key="'" line="58" column="35" />
@@ -115,6 +113,7 @@
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="21" />
       </file>
+      <file name="/package.json" timestamp="1594027998745" />
       <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/index.ts" timestamp="1594027214214">
         <mark key="[" line="38" column="10" />
         <mark key="]" line="39" column="13" />
@@ -123,6 +122,9 @@
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/users/post.test.ts" timestamp="1593882254453">
         <mark key="'" line="65" column="4" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1594045155276">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/index.ts" timestamp="1594023109765">
         <mark key="'" line="47" column="31" />
@@ -149,15 +151,8 @@
       <file name="/dev.user_subscription" timestamp="1593882231492">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/users/index.ts" timestamp="1593881733345">
-        <mark key="'" line="40" column="18" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/setHistory.ts" />
       <jump line="65" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/setHistory.ts" />
       <jump line="79" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/setHistory.ts" />
       <jump line="82" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/setHistory.ts" />
@@ -257,48 +252,49 @@
       <jump line="25" column="3" filename="$USER_HOME$/Development/api.meliorence.com/package.json" />
       <jump line="2" column="0" filename="$USER_HOME$/Development/api.meliorence.com/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/package.json" />
+      <jump line="12" column="38" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/deeplink/get.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgOiBTZXJ2ZXJSb3V0ZSA9IHsK</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>rootRoute</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>expec</text>
+        <text encoding="base64">XDwkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgOiBTZXJ2ZXJSb3V0ZSA9IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGludGVudCA9IGBpbnRlbnQ6Ly8ke3BhdGh9I0ludGVudDtzY2hlbWU9bnVsaTtwYWNrYWdlPWNvbS5udWxpLmFwcDtTLmJyb3dzZXJfZmFsbGJhY2tfdXJsPWh0dHBzOi8vbnVsaS5hcHA7ZW5kYDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBoLnJlZGlyZWN0KGBudWxpOi8vcGljdHVyZXNgKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgaGVhbHRoQ2hlY2tSb3V0ZTogU2VydmVyUm91dGUgPSB7IG1ldGhvZDogJ0dFVCcsCiAgICBwYXRoOiAnL2hlYWx0aCcsCiAgICBvcHRpb25zOiB7CiAgICAgICAgYXV0aDogZmFsc2UKICAgIH0sCiAgICBoYW5kbGVyOiBhc3luYyAocmVxLCBoKSA9PiB7CiAgICAgICAgcmV0dXJuIGgucmVzcG9uc2UoKS5jb2RlKDIwMCk7CiAgICB9Cn07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdpbnRlbnQnLCBpbnRlbnQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Zml4KGFwcCk6IHVwZGF0ZSBqZXN0IG1vY2tzIHBhdGhzICYgcHJldmVudCByZXF1aXJlIGN5Y2xl</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGludGVudCA9IGBpbnRlbnQ6Ly9waWN0dXJlcyNJbnRlbnQ7c2NoZW1lPW51bGk7cGFja2FnZT1jb20ubnVsaS5hcHA7Uy5icm93c2VyX2ZhbGxiYWNrX3VybD1odHRwczovL251bGkuYXBwO2VuZGA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJAcm9vdCI6ICIuIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdxJywgcSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHsgcSB9ID0gcmVxLnF1ZXJ5OwogICAgICAgICAgICAgICAgLy8gbnVsaTovL2FydGljbGVzP3E9MTIzCg==</text>
       </register>
       <register name="6" type="2">
-        <text>refactor(app): rework file architecture</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGZvcm1hdHRlZFBhdGggPSBwYXRoLnJlcGxhY2UoJy0nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0Jhc2VSZXBvJywgQmFzZVJlcG8pOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBoLnJlc3BvbnNlKCkuY29kZSgyMDApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcmVxdWVzdFBhc3N3b3JkUmVzZXQgfSBmcm9tICdAL2NvcmUvdXNlcnMnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -307,9 +303,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>expec</last-search>
+      <last-search encoding="base64">XDwkXD4=</last-search>
       <last-offset />
-      <last-pattern>expec</last-pattern>
+      <last-pattern encoding="base64">XDwkXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

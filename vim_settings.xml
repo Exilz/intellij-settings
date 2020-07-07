@@ -5,15 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>clone</entry>
-        <entry>console</entry>
-        <entry>log</entry>
-        <entry>base</entry>
-        <entry>test</entry>
-        <entry>BOO</entry>
-        <entry>nodemon</entry>
-        <entry>IArticle</entry>
-        <entry>locale</entry>
         <entry>author</entry>
         <entry>getItem</entry>
         <entry>core</entry>
@@ -25,6 +16,15 @@
         <entry encoding="base64">XDwkXD4=</entry>
         <entry>video</entry>
         <entry>profiling</entry>
+        <entry>store</entry>
+        <entry>dispatch</entry>
+        <entry>during</entry>
+        <entry>setPurhcased</entry>
+        <entry>setPurchased</entry>
+        <entry>console</entry>
+        <entry>purhc</entry>
+        <entry>remaingn</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+32</entry>
@@ -71,6 +71,43 @@
         <mark key="^" line="15" column="77" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/ios/Podfile" timestamp="1594109794990" />
+      <file name="/" timestamp="1594049221545">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/store/middlewares/userInterface.ts" timestamp="1594114933733">
+        <mark key="[" line="8" column="93" />
+        <mark key="]" line="9" column="47" />
+        <mark key="." line="9" column="46" />
+        <mark key="^" line="9" column="47" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/node_modules/react-native-video/Video.js" timestamp="1594108228941" />
+      <file name="$USER_HOME$/Development/app.nuli/src/index.tsx" timestamp="1594115189895">
+        <mark key="'" line="33" column="6" />
+        <mark key="[" line="15" column="53" />
+        <mark key="]" line="15" column="55" />
+        <mark key="^" line="15" column="55" />
+        <mark key="." line="15" column="54" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/components/Payment.tsx" timestamp="1594107241267" />
+      <file name="$USER_HOME$/Development/app.nuli/src/store/index.ts" timestamp="1594114965648">
+        <mark key="'" line="20" column="73" />
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="28" column="32" />
+        <mark key="." line="28" column="31" />
+        <mark key="^" line="28" column="32" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/store/modules/userInterface.ts" timestamp="1594114270727">
+        <mark key="[" line="91" column="8" />
+        <mark key="]" line="91" column="29" />
+        <mark key="." line="89" column="120" />
+        <mark key="^" line="89" column="121" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/store/migrations.ts" timestamp="1594114278607">
+        <mark key="[" line="149" column="37" />
+        <mark key="]" line="149" column="45" />
+        <mark key="^" line="149" column="45" />
+        <mark key="." line="149" column="44" />
+      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/package.json" timestamp="1594047660485">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="24" column="141" />
@@ -78,41 +115,19 @@
         <mark key="." line="24" column="155" />
         <mark key="^" line="24" column="156" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" timestamp="1594112944168">
-        <mark key="[" line="168" column="41" />
-        <mark key="]" line="169" column="67" />
-        <mark key="^" line="169" column="67" />
-        <mark key="." line="169" column="66" />
+      <file name="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" timestamp="1594115282126">
+        <mark key="'" line="168" column="10" />
+        <mark key="[" line="417" column="0" />
+        <mark key="]" line="417" column="0" />
+        <mark key="^" line="170" column="80" />
+        <mark key="." line="417" column="0" />
       </file>
-      <file name="/" timestamp="1594049221545">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1594112856461">
-        <mark key="'" line="121" column="0" />
-        <mark key="[" line="122" column="17" />
-        <mark key="]" line="122" column="41" />
-        <mark key="." line="122" column="40" />
-        <mark key="^" line="122" column="41" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/node_modules/react-native-video/Video.js" timestamp="1594108228941" />
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/auth/jwt.ts" timestamp="1594028369796">
-        <mark key="[" line="8" column="40" />
-        <mark key="]" line="9" column="35" />
-        <mark key="." line="9" column="34" />
-        <mark key="^" line="9" column="35" />
-      </file>
-      <file name="/package.json" timestamp="1594027998745" />
-      <file name="$USER_HOME$/Development/app.nuli/src/index.tsx" timestamp="1594112886796">
-        <mark key="[" line="381" column="39" />
-        <mark key="]" line="382" column="71" />
-        <mark key="^" line="382" column="71" />
-        <mark key="." line="382" column="70" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/index.ts" timestamp="1594027214214">
-        <mark key="[" line="38" column="10" />
-        <mark key="]" line="39" column="13" />
-        <mark key="^" line="39" column="13" />
-        <mark key="." line="39" column="12" />
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1594115221380">
+        <mark key="'" line="101" column="32" />
+        <mark key="[" line="219" column="0" />
+        <mark key="]" line="219" column="0" />
+        <mark key="." line="219" column="0" />
+        <mark key="^" line="27" column="34" />
       </file>
       <file name="/JavaScript Console" timestamp="1594045155276">
         <mark key="[" line="0" column="0" />
@@ -127,59 +142,9 @@
         <mark key="^" line="924" column="40" />
         <mark key="." line="924" column="22" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/Payment.tsx" timestamp="1594107241267" />
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/getItem.ts" timestamp="1594027078529">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="2" column="26" />
-        <mark key="^" line="2" column="26" />
-        <mark key="." line="2" column="25" />
-      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/locales/enUS.ts" timestamp="1594114431346" />
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/models/article.ts" />
-      <jump line="81" column="4" filename="$USER_HOME$/Development/api.meliorence.com/src/models/article.ts" />
-      <jump line="105" column="4" filename="$USER_HOME$/Development/api.meliorence.com/src/models/article.ts" />
-      <jump line="80" column="42" filename="$USER_HOME$/Development/api.meliorence.com/src/models/article.ts" />
-      <jump line="135" column="5" filename="$USER_HOME$/Development/api.meliorence.com/src/models/workout.ts" />
-      <jump line="33" column="17" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/index.ts" />
-      <jump line="5" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/index.ts" />
-      <jump line="34" column="4" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/index.ts" />
-      <jump line="1" column="25" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/getCollection.ts" />
-      <jump line="32" column="27" filename="$USER_HOME$/Development/api.meliorence.com/src/services/payment/inAppPurchase.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/.gitignore" />
-      <jump line="10" column="13" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/exercise.ts" />
-      <jump line="2" column="87" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/unit/services/mailchimp.test.ts" />
-      <jump line="48" column="28" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/unit/services/mailchimp.test.ts" />
-      <jump line="50" column="29" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/unit/services/mailchimp.test.ts" />
-      <jump line="0" column="37" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/unit/services/mailchimp.test.ts" />
-      <jump line="3" column="9" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/unit/services/mailchimp.test.ts" />
-      <jump line="5" column="5" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/unit/services/mailchimp.test.ts" />
-      <jump line="9" column="15" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/unit/services/mailchimp.test.ts" />
-      <jump line="22" column="28" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/unit/services/mailchimp.test.ts" />
-      <jump line="44" column="21" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/index.ts" />
-      <jump line="12" column="41" filename="$USER_HOME$/Development/api.meliorence.com/src/core/users/index.ts" />
-      <jump line="41" column="1" filename="$USER_HOME$/Development/api.meliorence.com/src/core/users/UserManager.ts" />
-      <jump line="2" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/users/index.ts" />
-      <jump line="26" column="18" filename="$USER_HOME$/Development/api.meliorence.com/src/core/users/index.ts" />
-      <jump line="30" column="18" filename="$USER_HOME$/Development/api.meliorence.com/src/core/users/index.ts" />
-      <jump line="37" column="14" filename="$USER_HOME$/Development/api.meliorence.com/src/core/users/index.ts" />
-      <jump line="43" column="18" filename="$USER_HOME$/Development/api.meliorence.com/src/core/users/index.ts" />
-      <jump line="59" column="22" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/put.ts" />
-      <jump line="58" column="35" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/put.ts" />
-      <jump line="1" column="0" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/users/post.test.ts" />
-      <jump line="62" column="4" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/users/post.test.ts" />
-      <jump line="64" column="4" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/users/post.test.ts" />
-      <jump line="65" column="4" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/users/post.test.ts" />
-      <jump line="25" column="3" filename="$USER_HOME$/Development/api.meliorence.com/package.json" />
-      <jump line="2" column="0" filename="$USER_HOME$/Development/api.meliorence.com/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/package.json" />
-      <jump line="12" column="38" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/deeplink/get.ts" />
-      <jump line="130" column="21" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
-      <jump line="156" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
-      <jump line="160" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
-      <jump line="162" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
-      <jump line="166" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
-      <jump line="170" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
       <jump line="174" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
       <jump line="176" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
       <jump line="192" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
@@ -190,7 +155,6 @@
       <jump line="224" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
       <jump line="64" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
       <jump line="112" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="116" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
       <jump line="136" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
       <jump line="145" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
       <jump line="160" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
@@ -204,17 +168,8 @@
       <jump line="66" column="43" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
       <jump line="10" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="12" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="27" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
       <jump line="117" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
       <jump line="113" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="17" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="23" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="28" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="32" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="35" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="37" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="43" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
       <jump line="48" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
       <jump line="54" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
       <jump line="60" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
@@ -236,48 +191,105 @@
       <jump line="150" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
       <jump line="141" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
       <jump line="121" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="383" column="39" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="623" column="0" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="8" column="30" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="13" column="30" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="14" column="50" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="15" column="38" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="16" column="65" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="17" column="44" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="20" column="73" filename="$USER_HOME$/Development/app.nuli/src/store/index.ts" />
+      <jump line="76" column="39" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="284" column="18" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="285" column="18" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="290" column="18" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="302" column="14" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="116" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="171" column="66" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="506" column="34" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="50" column="35" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="54" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="66" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="68" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="70" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="75" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="91" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="98" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="100" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="106" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="112" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="117" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="119" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="131" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="135" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="149" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="152" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="33" column="6" filename="$USER_HOME$/Development/app.nuli/src/index.tsx" />
+      <jump line="38" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="43" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="37" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="35" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="32" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="28" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="23" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="12" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="17" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="27" column="33" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="74" column="32" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="82" column="32" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="89" column="36" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="94" column="32" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="101" column="32" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="435" column="37" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="41" column="58" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="168" column="10" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVtYWluaWduVHJpYWwnLCByZW1haW5pbmdUcmlhbCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>profiling</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIHNldFB1cmNoYXNlZER1cmluZ1Nlc3Npb24gKHB1cmNoYXNlZDogYm9vbGVhbik6IHZvaWQgewogICAgcHVyY2hhc2VkRHVyaW5nU2Vzc2lvbiA9IHB1cmNoYXNlZDsKfQo=</text>
+        <text encoding="base64">aW1wb3J0IGluZmx1ZW5jZXJzTWlkZGxld2FyZSBmcm9tICcuL21pZGRsZXdhcmVzL2luZmx1ZW5jZXJzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVtYWluaWduVHJpYWwnLCByZW1haW5pbmdUcmlhbCk7Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1vdW50ZWQgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3JlbWFpbmluZ1RyaWFsRGF5cycsIHJlbWFpbmluZ1RyaWFsRGF5cyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnVU5NT1VOVCBWSURFTycpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHVyaGNhc2VkJywgdGhpcy5wcm9wcy5wdXJjaGFzZWREdXJpbmdTZXNzaW9uKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBoLnJlZGlyZWN0KGBudWxpOi8vcGljdHVyZXNgKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aW1lbGVmdCcsIHRpbWVMZWZ0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdpbnRlbnQnLCBpbnRlbnQpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkaWZmJywgZGlmZik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGludGVudCA9IGBpbnRlbnQ6Ly9waWN0dXJlcyNJbnRlbnQ7c2NoZW1lPW51bGk7cGFja2FnZT1jb20ubnVsaS5hcHA7Uy5icm93c2VyX2ZhbGxiYWNrX3VybD1odHRwczovL251bGkuYXBwO2VuZGA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBJZiB0aGUgbG9jYWxlIGlzIGNoYW5naW5nIGluIHRoZSBzdG9yZSB3ZSBhbHNvIHVwZGF0ZSBpdCBpbiBJMThuIGFuZCBpbiBtb21lbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdxJywgcSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IE9uZVNpZ25hbE1hbmFnZXIgZnJvbSAnLi4vLi4vdXRpbHMvb25lU2lnbmFsJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHsgcSB9ID0gcmVxLnF1ZXJ5OwogICAgICAgICAgICAgICAgLy8gbnVsaTovL2FydGljbGVzP3E9MTIzCg==</text>
+        <text encoding="base64">aW1wb3J0IEkxOG4sIHsgY2FsbFNhZmVMb2NhbGUgfSBmcm9tICcuLi8uLi91dGlscy9pMThuJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGZvcm1hdHRlZFBhdGggPSBwYXRoLnJlcGxhY2UoJy0nKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYWN0aW9uLnR5cGUgPT09IENPTlNUQU5UUy5TRVRfTE9DQUxFKSB7CiAgICAgICAgICAgIEkxOG4ubG9jYWxlID0gYWN0aW9uLnBheWxvYWQ7CiAgICAgICAgICAgIGNhbGxTYWZlTG9jYWxlKGFjdGlvbi5wYXlsb2FkKTsKICAgICAgICB9CiAgICAgICAgaWYgKGFjdGlvbi50eXBlID09PSBDT05TVEFOVFMuU0VUX1BST0ZJTEUpIHsKICAgICAgICAgICAgSTE4bi5sb2NhbGUgPSBhY3Rpb24ucGF5bG9hZC5sb2NhbGU7CiAgICAgICAgICAgIGNhbGxTYWZlTG9jYWxlKGFjdGlvbi5wYXlsb2FkLmxvY2FsZSk7CiAgICAgICAgfQogICAgICAgIGlmIChhY3Rpb24udHlwZSA9PT0gQ09OU1RBTlRTLlNFVF9QUk9GSUxFKSB7CiAgICAgICAgICAgIGlmIChhY3Rpb24/LnBheWxvYWQ/LmlkICYmICBhY3Rpb24/LnBheWxvYWQ/LmlkICE9PSBnZXRTdGF0ZSgpLnVzZXJQcm9maWxlLmlkKSB7CiAgICAgICAgICAgICAgICAvLyBMb2dpbiBmb3IgdGhlIGZpcnN0IHRpbWUgb3Igc3dpdGNoaW5nIHVzZXIKICAgICAgICAgICAgICAgIGNvbnN0IG5vdGlmaWNhdGlvbnNDYXRlZ29yaWVzVG9FbmFibGUgPSBhd2FpdCBPbmVTaWduYWxNYW5hZ2VyLmdldE5vdGlmaWNhdGlvbnNDYXRlZ29yaWVzVG9FbmFibGVGcm9tUmVtb3RlKCk7CiAgICAgICAgICAgICAgICBpZiAoT2JqZWN0LmtleXMobm90aWZpY2F0aW9uc0NhdGVnb3JpZXNUb0VuYWJsZSkubGVuZ3RoKSB7CiAgICAgICAgICAgICAgICAgICAgZGlzcGF0Y2goc2V0Tm90aWZpY2F0aW9uUHJlZmVyZW5jZXMobm90aWZpY2F0aW9uc0NhdGVnb3JpZXNUb0VuYWJsZSkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -286,9 +298,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>profiling</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>profiling</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

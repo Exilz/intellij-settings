@@ -64,16 +64,8 @@
     <filemarks>
       <file name="$USER_HOME$/Development/app.nuli/src/components/Paywall.tsx" timestamp="1594107202295" />
       <file name="$USER_HOME$/Development/app.nuli/package.json" timestamp="1594110264823" />
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/deeplink/get.ts" timestamp="1594047579177">
-        <mark key="[" line="15" column="67" />
-        <mark key="]" line="15" column="77" />
-        <mark key="." line="15" column="76" />
-        <mark key="^" line="15" column="77" />
-      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/views/Workout.tsx" timestamp="1594123883200" />
       <file name="$USER_HOME$/Development/app.nuli/ios/Podfile" timestamp="1594109794990" />
-      <file name="/" timestamp="1594049221545">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/app.nuli/src/store/middlewares/userInterface.ts" timestamp="1594114933733">
         <mark key="[" line="8" column="93" />
         <mark key="]" line="9" column="47" />
@@ -81,7 +73,7 @@
         <mark key="^" line="9" column="47" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/node_modules/react-native-video/Video.js" timestamp="1594108228941" />
-      <file name="$USER_HOME$/Development/app.nuli/src/index.tsx" timestamp="1594115189895">
+      <file name="$USER_HOME$/Development/app.nuli/src/index.tsx" timestamp="1594123818818">
         <mark key="'" line="33" column="6" />
         <mark key="[" line="15" column="53" />
         <mark key="]" line="15" column="55" />
@@ -89,6 +81,10 @@
         <mark key="." line="15" column="54" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/components/Payment.tsx" timestamp="1594107241267" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" timestamp="1594121623340">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/app.nuli/src/store/index.ts" timestamp="1594114965648">
         <mark key="'" line="20" column="73" />
         <mark key="[" line="27" column="31" />
@@ -96,7 +92,7 @@
         <mark key="." line="28" column="31" />
         <mark key="^" line="28" column="32" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/store/modules/userInterface.ts" timestamp="1594114270727">
+      <file name="$USER_HOME$/Development/app.nuli/src/store/modules/userInterface.ts" timestamp="1594115347185">
         <mark key="[" line="91" column="8" />
         <mark key="]" line="91" column="29" />
         <mark key="." line="89" column="120" />
@@ -107,13 +103,6 @@
         <mark key="]" line="149" column="45" />
         <mark key="^" line="149" column="45" />
         <mark key="." line="149" column="44" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/package.json" timestamp="1594047660485">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="24" column="141" />
-        <mark key="]" line="24" column="156" />
-        <mark key="." line="24" column="155" />
-        <mark key="^" line="24" column="156" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" timestamp="1594115282126">
         <mark key="'" line="168" column="10" />
@@ -129,8 +118,11 @@
         <mark key="." line="219" column="0" />
         <mark key="^" line="27" column="34" />
       </file>
-      <file name="/JavaScript Console" timestamp="1594045155276">
+      <file name="/Dummy.txt" timestamp="1594115518762">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/node_modules/react-native-video/dom/RCTVideo.js" timestamp="1594108316272">
         <mark key="[" line="51" column="32" />
@@ -145,7 +137,6 @@
       <file name="$USER_HOME$/Development/app.nuli/src/utils/locales/enUS.ts" timestamp="1594114431346" />
     </filemarks>
     <jumps>
-      <jump line="174" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
       <jump line="176" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
       <jump line="192" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
       <jump line="196" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
@@ -245,12 +236,13 @@
       <jump line="435" column="37" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="41" column="58" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
       <jump line="168" column="10" filename="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVtYWluaWduVHJpYWwnLCByZW1haW5pbmdUcmlhbCk7Cg==</text>
+        <text>feat(Training)i: do not display trial toast/banner after a successful purchase</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -262,34 +254,34 @@
         <text encoding="base64">aW1wb3J0IGluZmx1ZW5jZXJzTWlkZGxld2FyZSBmcm9tICcuL21pZGRsZXdhcmVzL2luZmx1ZW5jZXJzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVtYWluaWduVHJpYWwnLCByZW1haW5pbmdUcmlhbCk7Cg==</text>
+        <text>feat(Training)i: do not display trial toast/banner after a successful purchase</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3JlbWFpbmluZ1RyaWFsRGF5cycsIHJlbWFpbmluZ1RyaWFsRGF5cyk7Cg==</text>
+        <text>feat(userInterfaice): add purchasedDuringSession in redux module</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHVyaGNhc2VkJywgdGhpcy5wcm9wcy5wdXJjaGFzZWREdXJpbmdTZXNzaW9uKTsK</text>
+        <text>fix(misc): prevent scroll methods from crashing w/ 0.62</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aW1lbGVmdCcsIHRpbWVMZWZ0KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVtYWluaWduVHJpYWwnLCByZW1haW5pbmdUcmlhbCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkaWZmJywgZGlmZik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3JlbWFpbmluZ1RyaWFsRGF5cycsIHJlbWFpbmluZ1RyaWFsRGF5cyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBJZiB0aGUgbG9jYWxlIGlzIGNoYW5naW5nIGluIHRoZSBzdG9yZSB3ZSBhbHNvIHVwZGF0ZSBpdCBpbiBJMThuIGFuZCBpbiBtb21lbnQK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHVyaGNhc2VkJywgdGhpcy5wcm9wcy5wdXJjaGFzZWREdXJpbmdTZXNzaW9uKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IE9uZVNpZ25hbE1hbmFnZXIgZnJvbSAnLi4vLi4vdXRpbHMvb25lU2lnbmFsJzsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aW1lbGVmdCcsIHRpbWVMZWZ0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IEkxOG4sIHsgY2FsbFNhZmVMb2NhbGUgfSBmcm9tICcuLi8uLi91dGlscy9pMThuJzsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkaWZmJywgZGlmZik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYWN0aW9uLnR5cGUgPT09IENPTlNUQU5UUy5TRVRfTE9DQUxFKSB7CiAgICAgICAgICAgIEkxOG4ubG9jYWxlID0gYWN0aW9uLnBheWxvYWQ7CiAgICAgICAgICAgIGNhbGxTYWZlTG9jYWxlKGFjdGlvbi5wYXlsb2FkKTsKICAgICAgICB9CiAgICAgICAgaWYgKGFjdGlvbi50eXBlID09PSBDT05TVEFOVFMuU0VUX1BST0ZJTEUpIHsKICAgICAgICAgICAgSTE4bi5sb2NhbGUgPSBhY3Rpb24ucGF5bG9hZC5sb2NhbGU7CiAgICAgICAgICAgIGNhbGxTYWZlTG9jYWxlKGFjdGlvbi5wYXlsb2FkLmxvY2FsZSk7CiAgICAgICAgfQogICAgICAgIGlmIChhY3Rpb24udHlwZSA9PT0gQ09OU1RBTlRTLlNFVF9QUk9GSUxFKSB7CiAgICAgICAgICAgIGlmIChhY3Rpb24/LnBheWxvYWQ/LmlkICYmICBhY3Rpb24/LnBheWxvYWQ/LmlkICE9PSBnZXRTdGF0ZSgpLnVzZXJQcm9maWxlLmlkKSB7CiAgICAgICAgICAgICAgICAvLyBMb2dpbiBmb3IgdGhlIGZpcnN0IHRpbWUgb3Igc3dpdGNoaW5nIHVzZXIKICAgICAgICAgICAgICAgIGNvbnN0IG5vdGlmaWNhdGlvbnNDYXRlZ29yaWVzVG9FbmFibGUgPSBhd2FpdCBPbmVTaWduYWxNYW5hZ2VyLmdldE5vdGlmaWNhdGlvbnNDYXRlZ29yaWVzVG9FbmFibGVGcm9tUmVtb3RlKCk7CiAgICAgICAgICAgICAgICBpZiAoT2JqZWN0LmtleXMobm90aWZpY2F0aW9uc0NhdGVnb3JpZXNUb0VuYWJsZSkubGVuZ3RoKSB7CiAgICAgICAgICAgICAgICAgICAgZGlzcGF0Y2goc2V0Tm90aWZpY2F0aW9uUHJlZmVyZW5jZXMobm90aWZpY2F0aW9uc0NhdGVnb3JpZXNUb0VuYWJsZSkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBJZiB0aGUgbG9jYWxlIGlzIGNoYW5naW5nIGluIHRoZSBzdG9yZSB3ZSBhbHNvIHVwZGF0ZSBpdCBpbiBJMThuIGFuZCBpbiBtb21lbnQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

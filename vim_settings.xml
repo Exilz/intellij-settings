@@ -62,17 +62,27 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/Paywall.tsx" timestamp="1594107202295" />
-      <file name="$USER_HOME$/Development/app.nuli/package.json" timestamp="1594110264823" />
       <file name="$USER_HOME$/Development/app.nuli/src/views/Workout.tsx" timestamp="1594123883200" />
-      <file name="$USER_HOME$/Development/app.nuli/ios/Podfile" timestamp="1594109794990" />
+      <file name="$USER_HOME$/Development/nuli.infrastructure/conf/staging.json" timestamp="1594128903019">
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="9" column="41" />
+        <mark key="^" line="9" column="41" />
+        <mark key="." line="9" column="40" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" timestamp="1594124462229" />
       <file name="$USER_HOME$/Development/app.nuli/src/store/middlewares/userInterface.ts" timestamp="1594114933733">
         <mark key="[" line="8" column="93" />
         <mark key="]" line="9" column="47" />
         <mark key="." line="9" column="46" />
         <mark key="^" line="9" column="47" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/node_modules/react-native-video/Video.js" timestamp="1594108228941" />
+      <file name="/user [MySQL - @localhost]" timestamp="1594126962229">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dev.user" timestamp="1594126962257">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/nuli.infrastructure/conf/production.json" timestamp="1594128701388" />
       <file name="$USER_HOME$/Development/app.nuli/src/index.tsx" timestamp="1594123818818">
         <mark key="'" line="33" column="6" />
         <mark key="[" line="15" column="53" />
@@ -80,7 +90,9 @@
         <mark key="^" line="15" column="55" />
         <mark key="." line="15" column="54" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/Payment.tsx" timestamp="1594107241267" />
+      <file name="/foo.bar" timestamp="1594127043850">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" timestamp="1594121623340">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -92,17 +104,17 @@
         <mark key="." line="28" column="31" />
         <mark key="^" line="28" column="32" />
       </file>
+      <file name="/user_subscription [MySQL - @localhost]" timestamp="1594127043822">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/app.nuli/src/store/modules/userInterface.ts" timestamp="1594115347185">
         <mark key="[" line="91" column="8" />
         <mark key="]" line="91" column="29" />
         <mark key="." line="89" column="120" />
         <mark key="^" line="89" column="121" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/store/migrations.ts" timestamp="1594114278607">
-        <mark key="[" line="149" column="37" />
-        <mark key="]" line="149" column="45" />
-        <mark key="^" line="149" column="45" />
-        <mark key="." line="149" column="44" />
+      <file name="/dev.user_notifications" timestamp="1594127038546">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" timestamp="1594115282126">
         <mark key="'" line="168" column="10" />
@@ -124,17 +136,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/node_modules/react-native-video/dom/RCTVideo.js" timestamp="1594108316272">
-        <mark key="[" line="51" column="32" />
+      <file name="/dev.user_subscription" timestamp="1594127043837">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" timestamp="1594109107981">
-        <mark key="'" line="224" column="0" />
-        <mark key="[" line="924" column="22" />
-        <mark key="]" line="924" column="22" />
-        <mark key="^" line="924" column="40" />
-        <mark key="." line="924" column="22" />
+      <file name="/user_notifications [MySQL - @localhost]" timestamp="1594127038532">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/locales/enUS.ts" timestamp="1594114431346" />
     </filemarks>
     <jumps>
       <jump line="176" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
@@ -241,11 +248,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>feat(Training)i: do not display trial toast/banner after a successful purchase</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>

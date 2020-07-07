@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>getWorkoutCategories</entry>
         <entry>workoutCategories</entry>
         <entry>clone</entry>
         <entry>console</entry>
@@ -25,6 +24,7 @@
         <entry>Boom</entry>
         <entry>expec</entry>
         <entry encoding="base64">XDwkXD4=</entry>
+        <entry>video</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+32</entry>
@@ -62,15 +62,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Development/app.nuli/src/components/Paywall.tsx" timestamp="1594107202295" />
+      <file name="$USER_HOME$/Development/app.nuli/package.json" timestamp="1594108603181" />
       <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/deeplink/get.ts" timestamp="1594047579177">
         <mark key="[" line="15" column="67" />
         <mark key="]" line="15" column="77" />
         <mark key="." line="15" column="76" />
         <mark key="^" line="15" column="77" />
       </file>
-      <file name="/user_subscription [MySQL - @localhost]" timestamp="1593882231472">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Development/app.nuli/ios/Podfile" timestamp="1594107436607" />
       <file name="$USER_HOME$/Development/api.meliorence.com/package.json" timestamp="1594047660485">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="24" column="141" />
@@ -78,33 +78,15 @@
         <mark key="." line="24" column="155" />
         <mark key="^" line="24" column="156" />
       </file>
-      <file name="/test.user" timestamp="1593882205756">
+      <file name="/" timestamp="1594049221545">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/user [MySQL - @localhost]" timestamp="1593882212610">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/exercise.ts" timestamp="1593881813201">
-        <mark key="'" line="10" column="13" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
+      <file name="$USER_HOME$/Development/app.nuli/node_modules/react-native-video/Video.js" timestamp="1594108228941" />
       <file name="$USER_HOME$/Development/api.meliorence.com/src/core/auth/jwt.ts" timestamp="1594028369796">
         <mark key="[" line="8" column="40" />
         <mark key="]" line="9" column="35" />
         <mark key="." line="9" column="34" />
         <mark key="^" line="9" column="35" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/put.ts" timestamp="1593881779642">
-        <mark key="'" line="58" column="35" />
-        <mark key="[" line="4" column="59" />
-        <mark key="]" line="4" column="59" />
-        <mark key="^" line="4" column="105" />
-        <mark key="." line="4" column="59" />
-      </file>
-      <file name="/dev.user" timestamp="1593882212632">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/tsconfig.json" timestamp="1594023022150">
         <mark key="'" line="34" column="12" />
@@ -114,14 +96,12 @@
         <mark key="^" line="7" column="21" />
       </file>
       <file name="/package.json" timestamp="1594027998745" />
+      <file name="$USER_HOME$/Development/app.nuli/src/index.tsx" timestamp="1594107238837" />
       <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/index.ts" timestamp="1594027214214">
         <mark key="[" line="38" column="10" />
         <mark key="]" line="39" column="13" />
         <mark key="^" line="39" column="13" />
         <mark key="." line="39" column="12" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/users/post.test.ts" timestamp="1593882254453">
-        <mark key="'" line="65" column="4" />
       </file>
       <file name="/JavaScript Console" timestamp="1594045155276">
         <mark key="[" line="0" column="0" />
@@ -139,34 +119,25 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/app.nuli/node_modules/react-native-video/dom/RCTVideo.js" timestamp="1594108316272">
+        <mark key="[" line="51" column="32" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" timestamp="1594109107981">
+        <mark key="'" line="224" column="0" />
+        <mark key="[" line="924" column="22" />
+        <mark key="]" line="924" column="22" />
+        <mark key="^" line="924" column="40" />
+        <mark key="." line="924" column="22" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/components/Payment.tsx" timestamp="1594107241267" />
       <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/getItem.ts" timestamp="1594027078529">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="26" />
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="25" />
       </file>
-      <file name="/foo.bar" timestamp="1593882231511">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dev.user_subscription" timestamp="1593882231492">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/setHistory.ts" />
-      <jump line="79" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/setHistory.ts" />
-      <jump line="82" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/setHistory.ts" />
-      <jump line="91" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/setHistory.ts" />
-      <jump line="92" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/setHistory.ts" />
-      <jump line="200" column="35" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/workout.ts" />
-      <jump line="201" column="34" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/workout.ts" />
-      <jump line="212" column="66" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/workout.ts" />
-      <jump line="248" column="46" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/workout.ts" />
-      <jump line="23" column="27" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/workout.ts" />
-      <jump line="24" column="36" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/workout.ts" />
-      <jump line="25" column="23" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/workout.ts" />
-      <jump line="26" column="24" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/workout.ts" />
-      <jump line="27" column="31" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/workout.ts" />
       <jump line="28" column="28" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/workout.ts" />
       <jump line="29" column="28" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/workout.ts" />
       <jump line="185" column="43" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/workout.ts" />
@@ -253,48 +224,62 @@
       <jump line="2" column="0" filename="$USER_HOME$/Development/api.meliorence.com/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/package.json" />
       <jump line="12" column="38" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/deeplink/get.ts" />
+      <jump line="130" column="21" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
+      <jump line="156" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
+      <jump line="160" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
+      <jump line="162" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
+      <jump line="166" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
+      <jump line="170" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
+      <jump line="174" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
+      <jump line="176" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
+      <jump line="192" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
+      <jump line="196" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
+      <jump line="208" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
+      <jump line="215" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
+      <jump line="220" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
+      <jump line="224" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/VideoPlayer.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwkXD4=</text>
+        <text>video</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGludGVudCA9IGBpbnRlbnQ6Ly8ke3BhdGh9I0ludGVudDtzY2hlbWU9bnVsaTtwYWNrYWdlPWNvbS5udWxpLmFwcDtTLmJyb3dzZXJfZmFsbGJhY2tfdXJsPWh0dHBzOi8vbnVsaS5hcHA7ZW5kYDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBoLnJlZGlyZWN0KGBudWxpOi8vcGljdHVyZXNgKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1vdW50ZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdpbnRlbnQnLCBpbnRlbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnVU5NT1VOVCBWSURFTycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGludGVudCA9IGBpbnRlbnQ6Ly9waWN0dXJlcyNJbnRlbnQ7c2NoZW1lPW51bGk7cGFja2FnZT1jb20ubnVsaS5hcHA7Uy5icm93c2VyX2ZhbGxiYWNrX3VybD1odHRwczovL251bGkuYXBwO2VuZGA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBoLnJlZGlyZWN0KGBudWxpOi8vcGljdHVyZXNgKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdxJywgcSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdpbnRlbnQnLCBpbnRlbnQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHsgcSB9ID0gcmVxLnF1ZXJ5OwogICAgICAgICAgICAgICAgLy8gbnVsaTovL2FydGljbGVzP3E9MTIzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGludGVudCA9IGBpbnRlbnQ6Ly9waWN0dXJlcyNJbnRlbnQ7c2NoZW1lPW51bGk7cGFja2FnZT1jb20ubnVsaS5hcHA7Uy5icm93c2VyX2ZhbGxiYWNrX3VybD1odHRwczovL251bGkuYXBwO2VuZGA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGZvcm1hdHRlZFBhdGggPSBwYXRoLnJlcGxhY2UoJy0nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdxJywgcSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IHsgcSB9ID0gcmVxLnF1ZXJ5OwogICAgICAgICAgICAgICAgLy8gbnVsaTovL2FydGljbGVzP3E9MTIzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBoLnJlc3BvbnNlKCkuY29kZSgyMDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGZvcm1hdHRlZFBhdGggPSBwYXRoLnJlcGxhY2UoJy0nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -303,9 +288,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDwkXD4=</last-search>
+      <last-search>video</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwkXD4=</last-pattern>
+      <last-pattern>video</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

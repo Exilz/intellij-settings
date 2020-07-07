@@ -63,19 +63,13 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Development/app.nuli/src/views/Workout.tsx" timestamp="1594123883200" />
-      <file name="$USER_HOME$/Development/nuli.infrastructure/conf/staging.json" timestamp="1594128903019">
-        <mark key="[" line="9" column="36" />
-        <mark key="]" line="9" column="41" />
-        <mark key="^" line="9" column="41" />
-        <mark key="." line="9" column="40" />
+      <file name="$USER_HOME$/Development/nuli.infrastructure/conf/staging.json" timestamp="1594130616798">
+        <mark key="[" line="11" column="82" />
+        <mark key="]" line="11" column="81" />
+        <mark key="^" line="11" column="81" />
+        <mark key="." line="11" column="80" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" timestamp="1594124462229" />
-      <file name="$USER_HOME$/Development/app.nuli/src/store/middlewares/userInterface.ts" timestamp="1594114933733">
-        <mark key="[" line="8" column="93" />
-        <mark key="]" line="9" column="47" />
-        <mark key="." line="9" column="46" />
-        <mark key="^" line="9" column="47" />
-      </file>
       <file name="/user [MySQL - @localhost]" timestamp="1594126962229">
         <mark key="[" line="0" column="0" />
       </file>
@@ -90,19 +84,19 @@
         <mark key="^" line="15" column="55" />
         <mark key="." line="15" column="54" />
       </file>
+      <file name="$USER_HOME$/Development/nuli.infrastructure/database.tf" timestamp="1594130601553">
+        <mark key="[" line="42" column="21" />
+        <mark key="]" line="42" column="33" />
+        <mark key="^" line="42" column="33" />
+        <mark key="." line="42" column="32" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/.env" timestamp="1594130240014" />
       <file name="/foo.bar" timestamp="1594127043850">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" timestamp="1594121623340">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/store/index.ts" timestamp="1594114965648">
-        <mark key="'" line="20" column="73" />
-        <mark key="[" line="27" column="31" />
-        <mark key="]" line="28" column="32" />
-        <mark key="." line="28" column="31" />
-        <mark key="^" line="28" column="32" />
       </file>
       <file name="/user_subscription [MySQL - @localhost]" timestamp="1594127043822">
         <mark key="[" line="0" column="0" />
@@ -248,47 +242,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJtb25pdG9yaW5nX3JvbGVfYXJuICI6ICJyZHMtbW9uaXRvcmluZy1yb2xlIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>console.log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGluZmx1ZW5jZXJzTWlkZGxld2FyZSBmcm9tICcuL21pZGRsZXdhcmVzL2luZmx1ZW5jZXJzJzsK</text>
+        <text encoding="base64">ICAgICJtb25pdG9yaW5nX3JvbGVfYXJuICI6ICJyZHMtbW9uaXRvcmluZy1yb2xlIgo=</text>
       </register>
       <register name="1" type="2">
-        <text>feat(Training)i: do not display trial toast/banner after a successful purchase</text>
+        <text encoding="base64">ICAgICJtb25pdG9yaW5nX3JvbGVfYXJuICI6ICJyZHMtbW9uaXRvcmluZy1yb2xlIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>feat(userInterfaice): add purchasedDuringSession in redux module</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text>fix(misc): prevent scroll methods from crashing w/ 0.62</text>
+        <text>feat(Training)i: do not display trial toast/banner after a successful purchase</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVtYWluaWduVHJpYWwnLCByZW1haW5pbmdUcmlhbCk7Cg==</text>
+        <text>feat(userInterfaice): add purchasedDuringSession in redux module</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3JlbWFpbmluZ1RyaWFsRGF5cycsIHJlbWFpbmluZ1RyaWFsRGF5cyk7Cg==</text>
+        <text>fix(misc): prevent scroll methods from crashing w/ 0.62</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHVyaGNhc2VkJywgdGhpcy5wcm9wcy5wdXJjaGFzZWREdXJpbmdTZXNzaW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVtYWluaWduVHJpYWwnLCByZW1haW5pbmdUcmlhbCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aW1lbGVmdCcsIHRpbWVMZWZ0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3JlbWFpbmluZ1RyaWFsRGF5cycsIHJlbWFpbmluZ1RyaWFsRGF5cyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkaWZmJywgZGlmZik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHVyaGNhc2VkJywgdGhpcy5wcm9wcy5wdXJjaGFzZWREdXJpbmdTZXNzaW9uKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBJZiB0aGUgbG9jYWxlIGlzIGNoYW5naW5nIGluIHRoZSBzdG9yZSB3ZSBhbHNvIHVwZGF0ZSBpdCBpbiBJMThuIGFuZCBpbiBtb21lbnQK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0aW1lbGVmdCcsIHRpbWVMZWZ0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

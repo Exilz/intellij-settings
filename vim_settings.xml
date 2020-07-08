@@ -66,6 +66,12 @@
       <file name="$USER_HOME$/Development/app.nuli/src/components/Workout/WorkoutExerciseTable.tsx" timestamp="1594197376214">
         <mark key="'" line="270" column="21" />
       </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1594201574094">
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="17" />
+        <mark key="^" line="12" column="18" />
+      </file>
       <file name="$USER_HOME$/Development/app.nuli/src/utils/i18n.ts" timestamp="1594137314205" />
       <file name="$USER_HOME$/Development/nuli.infrastructure/conf/staging.json" timestamp="1594130616798">
         <mark key="[" line="11" column="82" />
@@ -81,21 +87,20 @@
         <mark key="." line="160" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" timestamp="1594136009145" />
-      <file name="$USER_HOME$/Development/app.nuli/node_modules/i18n-js/app/assets/javascripts/i18n.js" timestamp="1594200558106">
-        <mark key="'" line="665" column="0" />
-        <mark key="[" line="400" column="50" />
-        <mark key="]" line="402" column="40" />
-        <mark key="^" line="402" column="40" />
-        <mark key="." line="402" column="39" />
+      <file name="$USER_HOME$/Development/app.nuli/node_modules/i18n-js/app/assets/javascripts/i18n.js" timestamp="1594201343556">
+        <mark key="'" line="667" column="0" />
+        <mark key="[" line="401" column="0" />
+        <mark key="]" line="403" column="26" />
+        <mark key="." line="403" column="25" />
+        <mark key="^" line="403" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/Popups/PostRegistration.tsx" timestamp="1594199339112">
+      <file name="$USER_HOME$/Development/app.nuli/src/components/Popups/PostRegistration.tsx" timestamp="1594201329805">
         <mark key="'" line="44" column="30" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="^" line="30" column="36" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/nuli.infrastructure/conf/production.json" timestamp="1594128701388" />
       <file name="$USER_HOME$/Development/app.nuli/src/views/Login.tsx" timestamp="1594197116850">
         <mark key="'" line="238" column="32" />
         <mark key="[" line="231" column="31" />
@@ -242,10 +247,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>lookUp</text>
@@ -254,22 +259,22 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLnNjcmVlblByb3BzPy5wb3B1cE1hbmFnZXJSZWY/LmN1cnJlbnQ/LnJlcXVlc3RQb3B1cCh7CiAgICAgICAgICAgIGJhY2tncm91bmRDb2xvcnM6IFsnd2hpdGUnXSwKICAgICAgICAgICAgYmFja2dyb3VuZFR5cGU6ICdjb2xvcicsCiAgICAgICAgICAgIGJvcmRlclJhZGl1czogMzYsCiAgICAgICAgICAgIGNsb3NlQnV0dG9uQmFja2dyb3VuZENvbG9yOiBjb2xvcnMucGluaywKICAgICAgICAgICAgQ29udGVudENvbXBvbmVudDogUG9zdFJlZ2lzdHJhdGlvbiwKICAgICAgICAgICAgZGlzcGxheUNsb3NlQnV0dG9uOiBmYWxzZSwKICAgICAgICAgICAgaGVpZ2h0OiBQT1NUX1JFR0lTVFJBVElPTl9QT1BVUF9IRUlHSFQsCiAgICAgICAgICAgIHNjcm9sbFZpZXc6IHRydWUsCiAgICAgICAgICAgIHdpZHRoOiBQT1NUX1JFR0lTVFJBVElPTl9QT1BVUF9XSURUSAogICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHsgZnVsbFNjb3BlLCBsb2NhbGVzIH0pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>fix(Login): properly focus next field with side button</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFNtYXJ0bG9vayBmcm9tICdzbWFydGxvb2stcmVhY3QtbmF0aXZlLXdyYXBwZXInOwo=</text>
+        <text>fix(Login): properly focus next field with side button</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgc3RhcnRTbWFydGxvb2tSZWNvcmRPbkZpcnN0QXBwTGF1bmNoIH0gZnJvbSAnLi91dGlscy9zbWFydGxvb2snOwo=</text>
+        <text encoding="base64">aW1wb3J0IFNtYXJ0bG9vayBmcm9tICdzbWFydGxvb2stcmVhY3QtbmF0aXZlLXdyYXBwZXInOwo=</text>
       </register>
       <register name="5" type="2">
-        <text>feat(Training): do not display trial toast/banner after a successful purchase</text>
+        <text encoding="base64">aW1wb3J0IHsgc3RhcnRTbWFydGxvb2tSZWNvcmRPbkZpcnN0QXBwTGF1bmNoIH0gZnJvbSAnLi91dGlscy9zbWFydGxvb2snOwo=</text>
       </register>
       <register name="6" type="2">
         <text>feat(Training): do not display trial toast/banner after a successful purchase</text>
@@ -278,10 +283,10 @@
         <text>feat(Training): do not display trial toast/banner after a successful purchase</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLik7Cg==</text>
+        <text>feat(Training): do not display trial toast/banner after a successful purchase</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdtaXNzaW5nJykK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -62,7 +62,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/app.nuli/package.json" timestamp="1594194861174" />
+      <file name="$USER_HOME$/Development/app.nuli/package.json" timestamp="1594216919529" />
       <file name="$USER_HOME$/Development/app.nuli/src/components/Workout/WorkoutExerciseTable.tsx" timestamp="1594197376214">
         <mark key="'" line="270" column="21" />
       </file>

@@ -68,11 +68,11 @@
         <mark key="]" line="0" column="61" />
         <mark key="." line="0" column="61" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/package.json" timestamp="1594643756505">
-        <mark key="[" line="19" column="48" />
-        <mark key="]" line="19" column="82" />
-        <mark key="^" line="19" column="82" />
-        <mark key="." line="19" column="81" />
+      <file name="$USER_HOME$/Development/app.nuli/package.json" timestamp="1594644448247">
+        <mark key="[" line="19" column="74" />
+        <mark key="]" line="19" column="78" />
+        <mark key="^" line="19" column="78" />
+        <mark key="." line="19" column="77" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" timestamp="1594136793440">
         <mark key="'" line="64" column="4" />
@@ -143,12 +143,14 @@
       <file name="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" timestamp="1594198384427">
         <mark key="'" line="808" column="45" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/ios/fastlane/Fastfile" timestamp="1594643766552">
+      <file name="$USER_HOME$/Development/app.nuli/ios/fastlane/Fastfile" timestamp="1594644766219">
         <mark key="'" line="21" column="4" />
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="15" column="19" />
-        <mark key="^" line="15" column="19" />
-        <mark key="." line="15" column="18" />
+        <mark key="[" line="31" column="144" />
+        <mark key="]" line="31" column="179" />
+        <mark key="m" line="15" column="10" />
+        <mark key="^" line="31" column="179" />
+        <mark key="." line="31" column="178" />
+        <mark key="o" line="15" column="10" />
       </file>
       <file name="$USER_HOME$/Development/nuli.infrastructure/conf/staging.json" timestamp="1594215749045">
         <mark key="[" line="39" column="27" />
@@ -270,10 +272,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>bundle exec fastlane boostrap</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXRjaFw+</text>

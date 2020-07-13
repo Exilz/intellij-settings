@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxQb3N0UmVnaXN0cmF0aW9uXD4=</entry>
         <entry>first</entry>
         <entry>rehydrate</entry>
         <entry>Rehydrate</entry>
@@ -25,6 +24,7 @@
         <entry>translationFound</entry>
         <entry>i18n</entry>
         <entry encoding="base64">XDxtYXRjaFw+</entry>
+        <entry encoding="base64">XDxHT09HTEVfUFJJVkFURV9LRVlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>32</entry>
@@ -62,33 +62,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594203525200">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="61" />
-        <mark key="." line="0" column="61" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/package.json" timestamp="1594644448247">
+      <file name="$USER_HOME$/Development/app.nuli/package.json" timestamp="1594645601423">
         <mark key="[" line="19" column="74" />
         <mark key="]" line="19" column="78" />
         <mark key="^" line="19" column="78" />
         <mark key="." line="19" column="77" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/views/Training.tsx" timestamp="1594136793440">
-        <mark key="'" line="64" column="4" />
-        <mark key="[" line="171" column="75" />
-        <mark key="]" line="171" column="57" />
-        <mark key="^" line="171" column="57" />
-        <mark key="." line="171" column="56" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1594647883834">
+        <mark key="[" line="0" column="180" />
+        <mark key="]" line="0" column="180" />
+        <mark key="." line="0" column="180" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/Workout/WorkoutExerciseTable.tsx" timestamp="1594197376214">
-        <mark key="'" line="270" column="21" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/node_modules/i18n-js/app/assets/javascripts/i18n.js" timestamp="1594202793218">
-        <mark key="'" line="1014" column="13" />
-        <mark key="[" line="404" column="0" />
-        <mark key="]" line="404" column="0" />
-        <mark key="." line="404" column="0" />
+      <file name="/setting [MySQL - @localhost]" timestamp="1594647860093">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/index.tsx" timestamp="1594202669684">
         <mark key="'" line="69" column="0" />
@@ -97,51 +83,18 @@
         <mark key="^" line="76" column="10" />
         <mark key="." line="76" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1594632586505">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/views/Login.tsx" timestamp="1594197116850">
-        <mark key="'" line="238" column="32" />
-        <mark key="[" line="231" column="31" />
-        <mark key="]" line="231" column="55" />
-        <mark key="." line="231" column="54" />
-        <mark key="^" line="231" column="55" />
-      </file>
       <file name="$USER_HOME$/Development/app.nuli/android/app/build.gradle" timestamp="1594630196179">
         <mark key="'" line="252" column="0" />
         <mark key="[" line="288" column="0" />
         <mark key="]" line="288" column="0" />
         <mark key="." line="288" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1594201574094">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="17" />
-        <mark key="^" line="12" column="18" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/i18n.ts" timestamp="1594202627487">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="^" line="71" column="4" />
-        <mark key="." line="82" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1594136856680">
-        <mark key="'" line="101" column="32" />
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="33" />
-        <mark key="." line="27" column="32" />
-        <mark key="^" line="27" column="33" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/store/middlewares/userProfile.ts" timestamp="1594203437609">
-        <mark key="[" line="15" column="80" />
-        <mark key="]" line="15" column="95" />
-        <mark key="." line="15" column="94" />
-        <mark key="^" line="15" column="95" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" timestamp="1594198384427">
-        <mark key="'" line="808" column="45" />
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1594647445930">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="55" />
+        <mark key="." line="16" column="54" />
+        <mark key="^" line="16" column="55" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/ios/fastlane/Fastfile" timestamp="1594645485623">
         <mark key="'" line="21" column="4" />
@@ -156,59 +109,76 @@
         <mark key="^" line="39" column="32" />
         <mark key="." line="39" column="31" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/Popups/PostRegistration.tsx" timestamp="1594201329805">
-        <mark key="'" line="44" column="30" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="30" column="36" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/settings/appConfig.ts" timestamp="1594646685839">
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="37" column="33" />
+        <mark key="^" line="37" column="33" />
+        <mark key="." line="37" column="32" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594645592596">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/dev.setting" timestamp="1594647860262">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/.env" timestamp="1594647533013">
+        <mark key="[" line="38" column="17" />
+        <mark key="]" line="38" column="22" />
+        <mark key="^" line="38" column="22" />
+        <mark key="." line="38" column="21" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/node_modules/i18n-js/app/assets/javascripts/i18n.js" timestamp="1594202793218">
+        <mark key="'" line="1014" column="13" />
+        <mark key="[" line="404" column="0" />
+        <mark key="]" line="404" column="0" />
+        <mark key="." line="404" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1594632586505">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/bootstrap.ts" timestamp="1594647234355">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="40" />
+        <mark key="^" line="14" column="40" />
+        <mark key="." line="14" column="39" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" timestamp="1594647384114">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="17" column="63" />
+        <mark key="^" line="17" column="63" />
+        <mark key="." line="17" column="62" />
+      </file>
+      <file name="/foo.bar" timestamp="1594647860328">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1594646663059">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="15" column="33" />
+        <mark key="^" line="15" column="33" />
+        <mark key="." line="15" column="32" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1594647516212">
+        <mark key="'" line="101" column="32" />
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="33" />
+        <mark key="." line="27" column="32" />
+        <mark key="^" line="27" column="33" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/store/middlewares/userProfile.ts" timestamp="1594203437609">
+        <mark key="[" line="15" column="80" />
+        <mark key="]" line="15" column="95" />
+        <mark key="." line="15" column="94" />
+        <mark key="^" line="15" column="95" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="288" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
-      <jump line="266" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
-      <jump line="255" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
-      <jump line="244" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
-      <jump line="234" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
-      <jump line="212" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
-      <jump line="208" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
-      <jump line="204" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
-      <jump line="197" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
-      <jump line="106" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
-      <jump line="119" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
-      <jump line="182" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
-      <jump line="175" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
-      <jump line="172" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
-      <jump line="168" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
-      <jump line="160" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
-      <jump line="153" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
-      <jump line="164" column="51" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
-      <jump line="20" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/PostRegistration.tsx" />
-      <jump line="3" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/PostRegistration.tsx" />
-      <jump line="8" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/PostRegistration.tsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/PostRegistration.tsx" />
-      <jump line="1" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/PostRegistration.tsx" />
-      <jump line="68" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/PostRegistration.tsx" />
-      <jump line="75" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/PostRegistration.tsx" />
-      <jump line="74" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/PostRegistration.tsx" />
-      <jump line="44" column="30" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/PostRegistration.tsx" />
-      <jump line="609" column="31" filename="$USER_HOME$/Development/app.nuli/src/views/Registration.tsx" />
-      <jump line="386" column="0" filename="$USER_HOME$/Development/app.nuli/node_modules/i18n-js/app/assets/javascripts/i18n.js" />
-      <jump line="392" column="0" filename="$USER_HOME$/Development/app.nuli/node_modules/i18n-js/app/assets/javascripts/i18n.js" />
-      <jump line="417" column="0" filename="$USER_HOME$/Development/app.nuli/node_modules/i18n-js/app/assets/javascripts/i18n.js" />
-      <jump line="412" column="0" filename="$USER_HOME$/Development/app.nuli/node_modules/i18n-js/app/assets/javascripts/i18n.js" />
-      <jump line="406" column="0" filename="$USER_HOME$/Development/app.nuli/node_modules/i18n-js/app/assets/javascripts/i18n.js" />
-      <jump line="401" column="0" filename="$USER_HOME$/Development/app.nuli/node_modules/i18n-js/app/assets/javascripts/i18n.js" />
-      <jump line="399" column="0" filename="$USER_HOME$/Development/app.nuli/node_modules/i18n-js/app/assets/javascripts/i18n.js" />
-      <jump line="613" column="24" filename="$USER_HOME$/Development/app.nuli/node_modules/i18n-js/app/assets/javascripts/i18n.js" />
-      <jump line="616" column="0" filename="$USER_HOME$/Development/app.nuli/node_modules/i18n-js/app/assets/javascripts/i18n.js" />
-      <jump line="619" column="0" filename="$USER_HOME$/Development/app.nuli/node_modules/i18n-js/app/assets/javascripts/i18n.js" />
-      <jump line="625" column="0" filename="$USER_HOME$/Development/app.nuli/node_modules/i18n-js/app/assets/javascripts/i18n.js" />
-      <jump line="633" column="0" filename="$USER_HOME$/Development/app.nuli/node_modules/i18n-js/app/assets/javascripts/i18n.js" />
-      <jump line="637" column="0" filename="$USER_HOME$/Development/app.nuli/node_modules/i18n-js/app/assets/javascripts/i18n.js" />
-      <jump line="641" column="0" filename="$USER_HOME$/Development/app.nuli/node_modules/i18n-js/app/assets/javascripts/i18n.js" />
-      <jump line="649" column="0" filename="$USER_HOME$/Development/app.nuli/node_modules/i18n-js/app/assets/javascripts/i18n.js" />
-      <jump line="653" column="0" filename="$USER_HOME$/Development/app.nuli/node_modules/i18n-js/app/assets/javascripts/i18n.js" />
       <jump line="656" column="0" filename="$USER_HOME$/Development/app.nuli/node_modules/i18n-js/app/assets/javascripts/i18n.js" />
       <jump line="663" column="0" filename="$USER_HOME$/Development/app.nuli/node_modules/i18n-js/app/assets/javascripts/i18n.js" />
       <jump line="234" column="20" filename="$USER_HOME$/Development/app.nuli/node_modules/i18n-js/app/assets/javascripts/i18n.js" />
@@ -265,51 +235,95 @@
       <jump line="258" column="0" filename="$USER_HOME$/Development/app.nuli/android/app/build.gradle" />
       <jump line="252" column="0" filename="$USER_HOME$/Development/app.nuli/android/app/build.gradle" />
       <jump line="20" column="4" filename="$USER_HOME$/Development/app.nuli/ios/fastlane/Fastfile" />
+      <jump line="9" column="24" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
+      <jump line="65" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
+      <jump line="64" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
+      <jump line="56" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
+      <jump line="54" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
+      <jump line="48" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
+      <jump line="37" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
+      <jump line="7" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
+      <jump line="4" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
+      <jump line="43" column="20" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
+      <jump line="50" column="70" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
+      <jump line="8" column="6" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
+      <jump line="18" column="7" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
+      <jump line="90" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
+      <jump line="81" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
+      <jump line="12" column="4" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
+      <jump line="11" column="36" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
+      <jump line="13" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
+      <jump line="24" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
+      <jump line="75" column="27" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
+      <jump line="147" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
+      <jump line="143" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
+      <jump line="139" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
+      <jump line="135" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
+      <jump line="95" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
+      <jump line="82" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
+      <jump line="79" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
+      <jump line="72" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
+      <jump line="59" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
+      <jump line="42" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
+      <jump line="38" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
+      <jump line="34" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
+      <jump line="30" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
+      <jump line="25" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
+      <jump line="19" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
+      <jump line="16" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
+      <jump line="11" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
+      <jump line="13" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>ENV['READONLY'] == 'true'</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>ENV['READONLY'] == 'true'</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXRjaFw+</text>
+        <text encoding="base64">XDxHT09HTEVfUFJJVkFURV9LRVlcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>ENV['READONLY'] == 'true'</text>
+      <register name="0" type="2">
+        <text encoding="base64">bGV0IGJhc2VVUkw6IHN0cmluZyA9IEFQSV9ET01BSU47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnQoRU5WWyJSRUFET05MWSJdKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2QgYXBwLW51bGktY2xvbmUKZ2l0IHJlZmxvZyBleHBpcmUgLS1leHBpcmU9bm93IC0tYWxsICYmIGdpdCBnYyAtLXBydW5lPW5vdyAtLWFnZ3Jlc3NpdmUKZ2l0IHJlbW90ZSBhZGQgdGVzdCBnaXRAZ2l0aHViLmNvbTptZWxpb3JlbmNlL2FwcC5udWxpLnNhZmUudGVzdC5naXQKZ2l0IHB1c2ggb3JpZ2luIHRlc3QKZ2l0IHB1c2ggdGVzdApjZCAuLgo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgaWFwOwo=</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">OTIxOCAgCjkyMTkgIAo5MjIwICAKOTIyMSAgCjkyMjIgIAo5MjIzICAKOTIyNCAgCjkyMjUgIAo5MjI2ICAKOTIyNyAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNvbnN0IHsgaW5BcHBQdXJjaGFzZSB9ID0gZ2V0QXBwQ29uZmlnKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGllIDogdGhpcyB3b24ndCBldmVyIGJlIHRydWUgdXBvbiByZWdpc3RyYXRpb24K</text>
+        <text encoding="base64">bGV0IGlhcDsK</text>
       </register>
       <register name="6" type="2">
-        <text>fix(Login): properly focus next field with side button</text>
+        <text encoding="base64">CmNvbnN0IGFuZHJvaWRHb29nbGVBcGkgPSBnb29nbGUuYW5kcm9pZHB1Ymxpc2hlcih7IHZlcnNpb246ICd2MycgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS4K</text>
+        <text encoding="base64">Y29uc3QgR09PR0xFX1BSSVZBVEVfS0VZID0KICAgICctLS0tLUJFR0lOIFBSSVZBVEUgS0VZLS0tLS1cbicgKwogICAgJ01JSUV1Z0lCQURBTkJna3Foa2lHOXcwQkFRRUZBQVNDQktRd2dnU2dBZ0VBQW9JQkFRQ2ZndWIrNUZYdHdHeXNcbicgKwogICAgJ3hQODl3TFFtSTRmaDBZakQ3aTJPUVdVcFZocmxiaXlsaXlFODUvb0JDbjRUTzNubUF6c3lzWm01MmpHR0NLaGlcbicgKwogICAgJ2VQRnlKUXRWY2NqVlZ2ZkQvSlJkK0VPYWYvNDE2ZjRWbWhSWXVPM1dyMFhsc0tmdkNOMnVJb1EzU1dMcmhwaUFcbicgKwogICAgJ1NXMkk3T2xJdithY0ViUEdZR0Zqd2dMN0J6MWF0bDZkWEpvbHJHN1RFUldkZzJwKzR5ZENuNGY2NlZjYXlHUFlcbicgKwogICAgJyszN3hoY0o4YnMvZmx1ek8rNk5jaHpKQ2hMbk1EY1ZzZlJid1U3Sm5pTytOWTFQRFV0RjRuaXpUWVRRQmRMUnZcbicgKwogICAgJzRtVTJraTBKV3RtZndjSEVXa0hsam0rMUZXSUJsYUlvanYxZFN1NGVEcWk5YU9pQmhzRmRyQUdYVGtTcStWTlNcbicgKwogICAgJ2NmelV1OUZyQWdNQkFBRUNnZ0VBRkFVb2UrNXBzSXo1dHRlRTE1blRvb1BNSHJZZlRjUWJtS0t4a1RZYTZ4ZmdcbicgKwogICAgJ1o2aW1NOUJEeXhTbmpUOW1SYzI3Qk5wUW1vaDl0YjVwYis2UkUwdjk5NnZ2MG9MM1Z2UmhKTWd2cC9rUGpYSEFcbicgKwogICAgJ2I3S21naG8zMDcyczdxNjA3U1gyT05CaE90VXRvclVDZC90L1VYTzJ0ZWhNQitPYTVqZWJrWnM4cDRnWmxjUmlcbicgKwogICAgJ01oYkd2TXNwakVWbFlGMjE4NnQveGd1ZUJieEtVdVVwTktvRk1GeUsvL0FDK1ByVnBpaU54Q0RNaStJRE51QUdcbicgKwogICAgJ0hJZEdKZzc3ajFFRC9Ha2pIODFUSXFBTWR0UzF4Q05jOFgyaFprYURrZEFxTzUrMS9VV25lN1lFejc0dFJVekFcbicgKwogICAgJzFwQ093SXVkV2tpelJBSTd0N3hVOWZrUGpOa0s0ZzVWSk1wRXdSajNGUUtCZ1FETVUvcXQ2bE5rdXVVUVU2MDRcbicgKwogICAgJ3hCdFUvMTdmWExVYzdBUGtJb3MwOWhHa1JLQTBOVU42UWZPaTg3cjRsU1hDSEdqOUFkUFFRd1hUcU0wZS9aK1lcbicgKwogICAgJ3VXTmg1d01jbjRzSjhFL2ZyRFc2Nm82WllOTW5PNG11THB1dnFYSitQWEZ2UDVVcTBaTi91VUJoOTR4S0xDVHRcbicgKwogICAgJ2xZMkp6NUhoSmZRRms5UkFsbkNtWUNiSUJRS0JnUURIMlljK2pKekVkWnFvU1JwRDdLLzNyN2Y3S1BoMFNIVzVcbicgKwogICAgJ1gzbUZmaGwrTTNzTDNQQUJuMDgrYm1uVFN4bGZ3NVlBQUEzTUJ3cmY3eGlWQnE1QlBlMXFMNlFsK2dGUUhvWEtcbicgKwogICAgJ20zb29EUjRkSGdMVkhZNkFOQ3VTRlZpQjRseFJvdHpmZjJZRGx2MUcyOXdZUFRmNXJZWXlaUkRwNXk0blp5ZVdcbicgKwogICAgJ2dSTzYySTZlcndLQmdDMmJRUVM0bk15SytyM2VMM2ZRTGRtVzluSWNtMEJOWGNENkJPQlpYQzZ5TXAvMGs0OGlcbicgKwogICAgJ1VXTTV5NjNZZklrTEZsUUNxR2gvelRrbElFT2VrSlRpTEZDWjQ1UHIrSGpMYnNpYUE1UW83cE5GalZ2Z2FpYTZcbicgKwogICAgJ3VIMUk4UWxFWmFGVEs5UlcydmxUUEEraDFXcG8yQVUvc0V2bVRNVllWMU0zWDlUYXYySWpiQVNSQW44Z3lZOW1cbicgKwogICAgJ3M2c0VrRWJQVlM3NTlkcm94K3RuU1ZGNXdtbU9BQnZ2eXNCajlBNDc1QU44UUthL2wxM0ZUSXpkS1RseXhvOThcbicgKwogICAgJzZhcmZFbHIyR0NKK2thcGh3VzhzeTlkclRaYWxwdHhqdGNNN0E3RnpSV1lib25PRGcvMEJVaUhUUXVUNXhlejJcbicgKwogICAgJ3FjN2owUzVLeThCak5oVE9MOGFXbVZiNUgvTmV2YzUrMlFpTkFvR0FhaXM3VGpCeHd5c1F3NjRQaWFOKzlFc3JcbicgKwogICAgJ2xJdkUzNUxIU0ttUlF2UjFXOHFubzhPODFYazVsYzMwVnp6ZFdoR013WGlHbzlWUFlFa1ZVYkdxL05hRk1Fd2dcbicgKwogICAgJ0xGZVJ0bTRvK2FTQkt0bnJOR2ZXWHMzU0RYa01QWkp1WHhCem5PMEloU1RIZU9yWnp1K3JPZHg3MkNBNXNkVFFcbicgKwogICAgJ0lsNFRtUjV3QlBWbE9LUDBveEU9XG4nICsKICAgICctLS0tLUVORCBQUklWQVRFIEtFWS0tLS0tJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>fix(Login): properly focus next field with side button</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -318,9 +332,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtYXRjaFw+</last-search>
+      <last-search encoding="base64">XDxHT09HTEVfUFJJVkFURV9LRVlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXRjaFw+</last-pattern>
+      <last-pattern encoding="base64">XDxHT09HTEVfUFJJVkFURV9LRVlcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

@@ -62,6 +62,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/models/userCredential.ts" timestamp="1594733786342">
+        <mark key="[" line="40" column="12" />
+        <mark key="]" line="40" column="16" />
+        <mark key="^" line="40" column="16" />
+        <mark key="." line="40" column="15" />
+      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/users/resetPassword.test.ts" timestamp="1594730829179">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="6" column="22" />
@@ -124,34 +130,24 @@
         <mark key="]" line="7" column="12" />
         <mark key="." line="7" column="12" />
       </file>
+      <file name="/Dummy.txt" timestamp="1594732570893">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/foo.bar" timestamp="1594731933306">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dev.user_credentials" timestamp="1594728861402">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/users/index.ts" timestamp="1594728542603">
-        <mark key="[" line="11" column="69" />
-        <mark key="]" line="11" column="73" />
-        <mark key="^" line="11" column="73" />
-        <mark key="." line="11" column="72" />
-      </file>
       <file name="/user_notifications [MySQL - @localhost]" timestamp="1594729623313">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/models/program.ts" timestamp="1594728630782">
-        <mark key="'" line="13" column="11" />
-        <mark key="[" line="27" column="12" />
-        <mark key="]" line="27" column="16" />
-        <mark key="." line="27" column="15" />
-        <mark key="^" line="27" column="16" />
-      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/user.ts" timestamp="1594732377982">
-        <mark key="'" line="112" column="28" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
-        <mark key="^" line="89" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -260,7 +256,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHVzZXIgZnJvbSAnQC9ob29rcy91c2VyJzsK</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4KICAgIHJlc2V0UGFzc3dvcmRSZXF1ZXN0RGF0ZTogc3RyaW5nOwo=</text>
       </register>
       <register name="-" type="4">
         <text>string</text>
@@ -269,37 +265,37 @@
         <text encoding="base64">XDx1c2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgcmVzZXRQYXNzd29yZFRva2VuIH0gPSBhd2FpdCBVc2VyQ3JlZGVudGlhbC5maW5kT25lKHsgd2hlcmU6IHsgdXNlcklkOiB1c2VyLmlkIH0gfSk7Cg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4KICAgIHJlc2V0UGFzc3dvcmRSZXF1ZXN0RGF0ZTogc3RyaW5nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHVzZXIgZnJvbSAnQC9ob29rcy91c2VyJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc2V0UGFzc3dvcmRSZXF1ZXN0RGF0ZSk7CiAgICBjb25zb2xlLmxvZyh0eXBlb2YgcmVzZXRQYXNzd29yZFJlcXVlc3REYXRlKTsK</text>
+        <text>chore(app): setup module resolution for compiled JS</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh0eXBlb2YgcmVzZXRQYXNzd29yZFRva2VuKS50b0JlKCdzdHJpbmcnKTsK</text>
+        <text>chore(app): setup module resolution for compiled JS</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHZhbGlkYXRlRW5kcG9pbnQoCiAgICAgICAgc2VydmVyLAogICAgICAgIHsKICAgICAgICAgICAgbWV0aG9kOiAnUE9TVCcsCiAgICAgICAgICAgIHVybDogJy9hcGkvdjEvdXNlcnMvcmVzZXRfcGFzc3dvcmQnLAogICAgICAgICAgICBwYXlsb2FkOiB7IGVtYWlsOiAndXNlcjFAdXNlci5pbycgfQogICAgICAgIH0sCiAgICAgICAgbnVsbCwKICAgICAgICAyMDQKICAgICk7Cg==</text>
+        <text>chore(app): setup module resolution for compiled JS</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldmVsOiBudW1iZXI7CiAgICBhdXRob3I6IElVc2VyOwo=</text>
+        <text>chore(app): setup module resolution for compiled JS</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFVzZXJDcmVkZW50aWFsIGZyb20gJ0AvbW9kZWxzL3VzZXJDcmVkZW50aWFsJzsK</text>
+        <text encoding="base64">aW1wb3J0IHVzZXIgZnJvbSAnQC9ob29rcy91c2VyJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc2V0UGFzc3dvcmRSZXF1ZXN0RGF0ZSk7CiAgICBjb25zb2xlLmxvZyh0eXBlb2YgcmVzZXRQYXNzd29yZFJlcXVlc3REYXRlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgLy8gbGV0IHRyYW5zYWN0aW9uOwogICAgICAgIC8vIHRyeSB7CiAgICAgICAgLy8gICAgIHRyYW5zYWN0aW9uID0gYXdhaXQgVXNlci5zZXF1ZWxpemUudHJhbnNhY3Rpb24oKTsKICAgICAgICAvLyAgICAgYXdhaXQgVXNlci51cGRhdGUoZGF0YSwgeyB3aGVyZTogeyBpZDogdXNlcklkIH0sIHRyYW5zYWN0aW9uIH0pOwogICAgICAgIC8vCiAgICAgICAgLy8gICAgIC8vIE1hbnVhbGx5IHVwZGF0ZSBhbGwgaW5oZXJpdGVkIHRhYmxlcyBzaW5jZSB1cGRhdGluZyB3aXRoIGFzc29jaWF0aW9ucwogICAgICAgIC8vICAgICAvLyBpc24ndCBzdXBwb3J0ZWQgYnkgc2VxdWVsaXplIHlldC4KICAgICAgICAvLyAgICAgYXdhaXQgVXNlck5vdGlmaWNhdGlvbi51cGRhdGUoZGF0YSwgeyB3aGVyZTogeyB1c2VySWQgfSwgdHJhbnNhY3Rpb24gfSk7CiAgICAgICAgLy8gICAgIGF3YWl0IFVzZXJDcmVkZW50aWFsLnVwZGF0ZShkYXRhLCB7IHdoZXJlOiB7IHVzZXJJZCB9LCB0cmFuc2FjdGlvbiB9KTsKICAgICAgICAvLwogICAgICAgIC8vICAgICBhd2FpdCB0cmFuc2FjdGlvbi5jb21taXQoKTsKICAgICAgICAvLyB9IGNhdGNoIChlcnIpIHsKICAgICAgICAvLyAgICAgYXdhaXQgdHJhbnNhY3Rpb24ucm9sbGJhY2soKTsKICAgICAgICAvLyAgICAgdGhyb3cgZXJyOwogICAgICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgIGV4cGVjdCh0eXBlb2YgcmVzZXRQYXNzd29yZFRva2VuKS50b0JlKCdzdHJpbmcnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHZhbGlkYXRlRW5kcG9pbnQoCiAgICAgICAgc2VydmVyLAogICAgICAgIHsKICAgICAgICAgICAgbWV0aG9kOiAnUE9TVCcsCiAgICAgICAgICAgIHVybDogJy9hcGkvdjEvdXNlcnMvcmVzZXRfcGFzc3dvcmQnLAogICAgICAgICAgICBwYXlsb2FkOiB7IGVtYWlsOiAndXNlcjFAdXNlci5pbycgfQogICAgICAgIH0sCiAgICAgICAgbnVsbCwKICAgICAgICAyMDQKICAgICk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

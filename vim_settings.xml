@@ -62,11 +62,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/settings/appConfig.ts" timestamp="1594650648149">
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="37" column="33" />
+        <mark key="^" line="37" column="33" />
+        <mark key="." line="37" column="32" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594656519181">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/prod settings.json" timestamp="1594650662471">
         <mark key="[" line="21" column="38" />
         <mark key="]" line="22" column="1778" />
         <mark key="^" line="22" column="1778" />
         <mark key="." line="22" column="1777" />
+      </file>
+      <file name="/dev.setting" timestamp="1594712205019">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/package.json" timestamp="1594645601423">
         <mark key="[" line="19" column="74" />
@@ -79,15 +93,21 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/.env" timestamp="1594647533013">
+        <mark key="[" line="38" column="17" />
+        <mark key="]" line="38" column="22" />
+        <mark key="^" line="38" column="22" />
+        <mark key="." line="38" column="21" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1594648926937">
         <mark key="[" line="0" column="71" />
         <mark key="]" line="0" column="71" />
         <mark key="." line="0" column="71" />
       </file>
-      <file name="/setting [MySQL - @localhost]" timestamp="1594649221455">
+      <file name="/setting [MySQL - @localhost]" timestamp="1594712205012">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/user_subscription [MySQL - @localhost]" timestamp="1594649221457">
+      <file name="/user_subscription [MySQL - @localhost]" timestamp="1594712205023">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1594649227359">
@@ -95,37 +115,6 @@
         <mark key="]" line="3" column="1778" />
         <mark key="^" line="3" column="1778" />
         <mark key="." line="3" column="1777" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1594647445930">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="55" />
-        <mark key="." line="16" column="54" />
-        <mark key="^" line="16" column="55" />
-      </file>
-      <file name="/dummy.sql" timestamp="1594649221457">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/settings/appConfig.ts" timestamp="1594650648149">
-        <mark key="[" line="36" column="26" />
-        <mark key="]" line="37" column="33" />
-        <mark key="^" line="37" column="33" />
-        <mark key="." line="37" column="32" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1594656400867">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/dev.setting" timestamp="1594649221456">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/.env" timestamp="1594647533013">
-        <mark key="[" line="38" column="17" />
-        <mark key="]" line="38" column="22" />
-        <mark key="^" line="38" column="22" />
-        <mark key="." line="38" column="21" />
       </file>
       <file name="/" timestamp="1594653692908">
         <mark key="[" line="0" column="0" />
@@ -143,11 +132,18 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="16" />
       </file>
-      <file name="/foo.bar" timestamp="1594648010920">
+      <file name="/foo.bar" timestamp="1594712205025">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dev.user_subscription" timestamp="1594649221457">
+      <file name="/dev.user_subscription" timestamp="1594712205024">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1594647445930">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="55" />
+        <mark key="." line="16" column="54" />
+        <mark key="^" line="16" column="55" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1594646663059">
         <mark key="'" line="1" column="0" />
@@ -162,6 +158,9 @@
         <mark key="]" line="27" column="33" />
         <mark key="." line="27" column="32" />
         <mark key="^" line="27" column="33" />
+      </file>
+      <file name="/dummy.sql" timestamp="1594649221457">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -270,7 +269,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbGlkYXRpb25SZXNwb25zZSk7Cg==</text>
+        <text>chore(app): setup module resolution for compiled JS</text>
       </register>
       <register name="-" type="4">
         <text>inAppPurchase?.googlePrivateKey</text>
@@ -282,34 +281,34 @@
         <text encoding="base64">Y29uc3QgaWFwVGVzdE1vZGUgPSBwcm9jZXNzLmVudi5JQVBfVEVTVF9NT0RFID09PSAndHJ1ZSc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbGlkYXRpb25SZXNwb25zZSk7Cg==</text>
+        <text>chore(app): setup module resolution for compiled JS</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text>chore(app): setup module resolution for compiled JS</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgaWFwOwo=</text>
+        <text>chore(app): setup module resolution for compiled JS</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbGlkYXRpb25SZXNwb25zZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmNvbnN0IHsgaW5BcHBQdXJjaGFzZSB9ID0gZ2V0QXBwQ29uZmlnKCk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGV0IGlhcDsK</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgaWFwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmNvbnN0IGFuZHJvaWRHb29nbGVBcGkgPSBnb29nbGUuYW5kcm9pZHB1Ymxpc2hlcih7IHZlcnNpb246ICd2MycgfSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CmNvbnN0IHsgaW5BcHBQdXJjaGFzZSB9ID0gZ2V0QXBwQ29uZmlnKCk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgR09PR0xFX1BSSVZBVEVfS0VZID0KICAgICctLS0tLUJFR0lOIFBSSVZBVEUgS0VZLS0tLS1cbicgKwogICAgJ01JSUV1Z0lCQURBTkJna3Foa2lHOXcwQkFRRUZBQVNDQktRd2dnU2dBZ0VBQW9JQkFRQ2ZndWIrNUZYdHdHeXNcbicgKwogICAgJ3hQODl3TFFtSTRmaDBZakQ3aTJPUVdVcFZocmxiaXlsaXlFODUvb0JDbjRUTzNubUF6c3lzWm01MmpHR0NLaGlcbicgKwogICAgJ2VQRnlKUXRWY2NqVlZ2ZkQvSlJkK0VPYWYvNDE2ZjRWbWhSWXVPM1dyMFhsc0tmdkNOMnVJb1EzU1dMcmhwaUFcbicgKwogICAgJ1NXMkk3T2xJdithY0ViUEdZR0Zqd2dMN0J6MWF0bDZkWEpvbHJHN1RFUldkZzJwKzR5ZENuNGY2NlZjYXlHUFlcbicgKwogICAgJyszN3hoY0o4YnMvZmx1ek8rNk5jaHpKQ2hMbk1EY1ZzZlJid1U3Sm5pTytOWTFQRFV0RjRuaXpUWVRRQmRMUnZcbicgKwogICAgJzRtVTJraTBKV3RtZndjSEVXa0hsam0rMUZXSUJsYUlvanYxZFN1NGVEcWk5YU9pQmhzRmRyQUdYVGtTcStWTlNcbicgKwogICAgJ2NmelV1OUZyQWdNQkFBRUNnZ0VBRkFVb2UrNXBzSXo1dHRlRTE1blRvb1BNSHJZZlRjUWJtS0t4a1RZYTZ4ZmdcbicgKwogICAgJ1o2aW1NOUJEeXhTbmpUOW1SYzI3Qk5wUW1vaDl0YjVwYis2UkUwdjk5NnZ2MG9MM1Z2UmhKTWd2cC9rUGpYSEFcbicgKwogICAgJ2I3S21naG8zMDcyczdxNjA3U1gyT05CaE90VXRvclVDZC90L1VYTzJ0ZWhNQitPYTVqZWJrWnM4cDRnWmxjUmlcbicgKwogICAgJ01oYkd2TXNwakVWbFlGMjE4NnQveGd1ZUJieEtVdVVwTktvRk1GeUsvL0FDK1ByVnBpaU54Q0RNaStJRE51QUdcbicgKwogICAgJ0hJZEdKZzc3ajFFRC9Ha2pIODFUSXFBTWR0UzF4Q05jOFgyaFprYURrZEFxTzUrMS9VV25lN1lFejc0dFJVekFcbicgKwogICAgJzFwQ093SXVkV2tpelJBSTd0N3hVOWZrUGpOa0s0ZzVWSk1wRXdSajNGUUtCZ1FETVUvcXQ2bE5rdXVVUVU2MDRcbicgKwogICAgJ3hCdFUvMTdmWExVYzdBUGtJb3MwOWhHa1JLQTBOVU42UWZPaTg3cjRsU1hDSEdqOUFkUFFRd1hUcU0wZS9aK1lcbicgKwogICAgJ3VXTmg1d01jbjRzSjhFL2ZyRFc2Nm82WllOTW5PNG11THB1dnFYSitQWEZ2UDVVcTBaTi91VUJoOTR4S0xDVHRcbicgKwogICAgJ2xZMkp6NUhoSmZRRms5UkFsbkNtWUNiSUJRS0JnUURIMlljK2pKekVkWnFvU1JwRDdLLzNyN2Y3S1BoMFNIVzVcbicgKwogICAgJ1gzbUZmaGwrTTNzTDNQQUJuMDgrYm1uVFN4bGZ3NVlBQUEzTUJ3cmY3eGlWQnE1QlBlMXFMNlFsK2dGUUhvWEtcbicgKwogICAgJ20zb29EUjRkSGdMVkhZNkFOQ3VTRlZpQjRseFJvdHpmZjJZRGx2MUcyOXdZUFRmNXJZWXlaUkRwNXk0blp5ZVdcbicgKwogICAgJ2dSTzYySTZlcndLQmdDMmJRUVM0bk15SytyM2VMM2ZRTGRtVzluSWNtMEJOWGNENkJPQlpYQzZ5TXAvMGs0OGlcbicgKwogICAgJ1VXTTV5NjNZZklrTEZsUUNxR2gvelRrbElFT2VrSlRpTEZDWjQ1UHIrSGpMYnNpYUE1UW83cE5GalZ2Z2FpYTZcbicgKwogICAgJ3VIMUk4UWxFWmFGVEs5UlcydmxUUEEraDFXcG8yQVUvc0V2bVRNVllWMU0zWDlUYXYySWpiQVNSQW44Z3lZOW1cbicgKwogICAgJ3M2c0VrRWJQVlM3NTlkcm94K3RuU1ZGNXdtbU9BQnZ2eXNCajlBNDc1QU44UUthL2wxM0ZUSXpkS1RseXhvOThcbicgKwogICAgJzZhcmZFbHIyR0NKK2thcGh3VzhzeTlkclRaYWxwdHhqdGNNN0E3RnpSV1lib25PRGcvMEJVaUhUUXVUNXhlejJcbicgKwogICAgJ3FjN2owUzVLeThCak5oVE9MOGFXbVZiNUgvTmV2YzUrMlFpTkFvR0FhaXM3VGpCeHd5c1F3NjRQaWFOKzlFc3JcbicgKwogICAgJ2xJdkUzNUxIU0ttUlF2UjFXOHFubzhPODFYazVsYzMwVnp6ZFdoR013WGlHbzlWUFlFa1ZVYkdxL05hRk1Fd2dcbicgKwogICAgJ0xGZVJ0bTRvK2FTQkt0bnJOR2ZXWHMzU0RYa01QWkp1WHhCem5PMEloU1RIZU9yWnp1K3JPZHg3MkNBNXNkVFFcbicgKwogICAgJ0lsNFRtUjV3QlBWbE9LUDBveEU9XG4nICsKICAgICctLS0tLUVORCBQUklWQVRFIEtFWS0tLS0tJzsK</text>
+        <text encoding="base64">bGV0IGlhcDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -85,7 +85,7 @@
       <file name="/dev.user" timestamp="1594713338690">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/016-user-credentials.js" timestamp="1594713383504">
+      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/016-user-credentials.js" timestamp="1594713992433">
         <mark key="[" line="70" column="18" />
         <mark key="]" line="70" column="18" />
         <mark key="." line="70" column="17" />
@@ -131,19 +131,18 @@
       <file name="/dev.user_subscription" timestamp="1594712205024">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1594647445930">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="55" />
-        <mark key="." line="16" column="54" />
-        <mark key="^" line="16" column="55" />
-      </file>
       <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1594647516212">
         <mark key="'" line="101" column="32" />
         <mark key="[" line="27" column="29" />
         <mark key="]" line="27" column="33" />
         <mark key="." line="27" column="32" />
         <mark key="^" line="27" column="33" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103600-users.js" timestamp="1594714079281">
+        <mark key="[" line="40" column="4" />
+        <mark key="]" line="41" column="31" />
+        <mark key="^" line="41" column="31" />
+        <mark key="." line="41" column="30" />
       </file>
       <file name="/dummy.sql" timestamp="1594713338691">
         <mark key="[" line="0" column="0" />
@@ -254,11 +253,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>oneSignalPlayerId</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICByZXR1cm4gewogICAgLi4uZmllbGRzLAogIH07Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>oneSignalPlayerId</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHT09HTEVfUFJJVkFURV9LRVlcPg==</text>
@@ -267,34 +266,34 @@
         <text encoding="base64">ICAgICAgcGluQ29kZTogcHJldlZhbHVlcGluQ29kZS4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gewogICAgLi4uZmllbGRzLAogIH07Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHR5cGU6IFNlcXVlbGl6ZS4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXN0Tm90aWZpY2F0aW9uczogewogICAgdHlwZTogU2VxdWVsaXplLkJPT0xFQU4sCiAgICBkZWZhdWx0VmFsdWU6IHRydWUsCiAgICBhbGxvd051bGw6IGZhbHNlCiAgfSwKICBvbmVTaWduYWxQbGF5ZXJJZDogewogICAgdHlwZTogU2VxdWVsaXplLlNUUklORywKICAgIGFsbG93TnVsbDogdHJ1ZQogIH0sCiAgbGFzdFJldGFyZ2V0RGF0ZTogewogICAgdHlwZTogU2VxdWVsaXplLkRBVEUsCiAgICBhbGxvd051bGw6IHRydWUKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>chore(app): setup module resolution for compiled JS</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>chore(app): setup module resolution for compiled JS</text>
+        <text encoding="base64">ICAgIHR5cGU6IFNlcXVlbGl6ZS4K</text>
       </register>
       <register name="7" type="2">
-        <text>chore(app): setup module resolution for compiled JS</text>
+        <text encoding="base64">ICByZXN0Tm90aWZpY2F0aW9uczogewogICAgdHlwZTogU2VxdWVsaXplLkJPT0xFQU4sCiAgICBkZWZhdWx0VmFsdWU6IHRydWUsCiAgICBhbGxvd051bGw6IGZhbHNlCiAgfSwKICBvbmVTaWduYWxQbGF5ZXJJZDogewogICAgdHlwZTogU2VxdWVsaXplLlNUUklORywKICAgIGFsbG93TnVsbDogdHJ1ZQogIH0sCiAgbGFzdFJldGFyZ2V0RGF0ZTogewogICAgdHlwZTogU2VxdWVsaXplLkRBVEUsCiAgICBhbGxvd051bGw6IHRydWUKICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbGlkYXRpb25SZXNwb25zZSk7Cg==</text>
+        <text>chore(app): setup module resolution for compiled JS</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text>chore(app): setup module resolution for compiled JS</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

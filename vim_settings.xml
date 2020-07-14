@@ -62,25 +62,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/settings/appConfig.ts" timestamp="1594650648149">
-        <mark key="[" line="36" column="26" />
-        <mark key="]" line="37" column="33" />
-        <mark key="^" line="37" column="33" />
-        <mark key="." line="37" column="32" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1594656519181">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/prod settings.json" timestamp="1594650662471">
         <mark key="[" line="21" column="38" />
         <mark key="]" line="22" column="1778" />
         <mark key="^" line="22" column="1778" />
         <mark key="." line="22" column="1777" />
-      </file>
-      <file name="/dev.setting" timestamp="1594712205019">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/dev.user" timestamp="1594713338690">
         <mark key="[" line="0" column="0" />
@@ -96,12 +82,6 @@
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/.env" timestamp="1594647533013">
-        <mark key="[" line="38" column="17" />
-        <mark key="]" line="38" column="22" />
-        <mark key="^" line="38" column="22" />
-        <mark key="." line="38" column="21" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1594648926937">
         <mark key="[" line="0" column="71" />
         <mark key="]" line="0" column="71" />
@@ -113,11 +93,40 @@
       <file name="/user_subscription [MySQL - @localhost]" timestamp="1594712205023">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/mailchimp.ts" timestamp="1594715569502">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="4" />
+        <mark key="^" line="26" column="6" />
+        <mark key="." line="26" column="4" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1594649227359">
         <mark key="[" line="3" column="25" />
         <mark key="]" line="3" column="1778" />
         <mark key="^" line="3" column="1778" />
         <mark key="." line="3" column="1777" />
+      </file>
+      <file name="/dummy.sql" timestamp="1594713338691">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/settings/appConfig.ts" timestamp="1594650648149">
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="37" column="33" />
+        <mark key="^" line="37" column="33" />
+        <mark key="." line="37" column="32" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594656519181">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/dev.setting" timestamp="1594712205019">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/.env" timestamp="1594647533013">
+        <mark key="[" line="38" column="17" />
+        <mark key="]" line="38" column="22" />
+        <mark key="^" line="38" column="22" />
+        <mark key="." line="38" column="21" />
       </file>
       <file name="/" timestamp="1594653692908">
         <mark key="[" line="0" column="0" />
@@ -131,21 +140,11 @@
       <file name="/dev.user_subscription" timestamp="1594712205024">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1594647516212">
-        <mark key="'" line="101" column="32" />
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="33" />
-        <mark key="." line="27" column="32" />
-        <mark key="^" line="27" column="33" />
-      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103600-users.js" timestamp="1594714079281">
         <mark key="[" line="40" column="4" />
         <mark key="]" line="41" column="31" />
         <mark key="^" line="41" column="31" />
         <mark key="." line="41" column="30" />
-      </file>
-      <file name="/dummy.sql" timestamp="1594713338691">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>

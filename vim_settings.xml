@@ -82,11 +82,14 @@
       <file name="/dev.setting" timestamp="1594712205019">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/package.json" timestamp="1594645601423">
-        <mark key="[" line="19" column="74" />
-        <mark key="]" line="19" column="78" />
-        <mark key="^" line="19" column="78" />
-        <mark key="." line="19" column="77" />
+      <file name="/dev.user" timestamp="1594713338690">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/016-user-credentials.js" timestamp="1594713383504">
+        <mark key="[" line="70" column="18" />
+        <mark key="]" line="70" column="18" />
+        <mark key="." line="70" column="17" />
+        <mark key="^" line="70" column="18" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/SubscriptionManager.ts" timestamp="1594650490650">
         <mark key="[" line="66" column="0" />
@@ -119,20 +122,10 @@
       <file name="/" timestamp="1594653692908">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/bootstrap.ts" timestamp="1594647234355">
-        <mark key="[" line="14" column="7" />
-        <mark key="]" line="14" column="40" />
-        <mark key="^" line="14" column="40" />
-        <mark key="." line="14" column="39" />
+      <file name="/user [MySQL - @localhost]" timestamp="1594713338690">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" timestamp="1594656409023">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="17" column="10" />
-        <mark key="]" line="17" column="17" />
-        <mark key="^" line="17" column="17" />
-        <mark key="." line="17" column="16" />
-      </file>
-      <file name="/foo.bar" timestamp="1594712205025">
+      <file name="/foo.bar" timestamp="1594712647594">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dev.user_subscription" timestamp="1594712205024">
@@ -145,13 +138,6 @@
         <mark key="." line="16" column="54" />
         <mark key="^" line="16" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1594646663059">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="15" column="33" />
-        <mark key="^" line="15" column="33" />
-        <mark key="." line="15" column="32" />
-      </file>
       <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1594647516212">
         <mark key="'" line="101" column="32" />
         <mark key="[" line="27" column="29" />
@@ -159,7 +145,7 @@
         <mark key="." line="27" column="32" />
         <mark key="^" line="27" column="33" />
       </file>
-      <file name="/dummy.sql" timestamp="1594649221457">
+      <file name="/dummy.sql" timestamp="1594713338691">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -268,47 +254,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>chore(app): setup module resolution for compiled JS</text>
+      <register name="&quot;" type="4">
+        <text>oneSignalPlayerId</text>
       </register>
       <register name="-" type="4">
-        <text>inAppPurchase?.googlePrivateKey</text>
+        <text>oneSignalPlayerId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHT09HTEVfUFJJVkFURV9LRVlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgaWFwVGVzdE1vZGUgPSBwcm9jZXNzLmVudi5JQVBfVEVTVF9NT0RFID09PSAndHJ1ZSc7Cg==</text>
+        <text encoding="base64">ICAgICAgcGluQ29kZTogcHJldlZhbHVlcGluQ29kZS4K</text>
       </register>
       <register name="1" type="2">
-        <text>chore(app): setup module resolution for compiled JS</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>chore(app): setup module resolution for compiled JS</text>
-      </register>
-      <register name="3" type="2">
-        <text>chore(app): setup module resolution for compiled JS</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbGlkYXRpb25SZXNwb25zZSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgaWFwOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHR5cGU6IFNlcXVlbGl6ZS4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICByZXN0Tm90aWZpY2F0aW9uczogewogICAgdHlwZTogU2VxdWVsaXplLkJPT0xFQU4sCiAgICBkZWZhdWx0VmFsdWU6IHRydWUsCiAgICBhbGxvd051bGw6IGZhbHNlCiAgfSwKICBvbmVTaWduYWxQbGF5ZXJJZDogewogICAgdHlwZTogU2VxdWVsaXplLlNUUklORywKICAgIGFsbG93TnVsbDogdHJ1ZQogIH0sCiAgbGFzdFJldGFyZ2V0RGF0ZTogewogICAgdHlwZTogU2VxdWVsaXplLkRBVEUsCiAgICBhbGxvd051bGw6IHRydWUKICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text>chore(app): setup module resolution for compiled JS</text>
+      </register>
+      <register name="6" type="2">
+        <text>chore(app): setup module resolution for compiled JS</text>
+      </register>
+      <register name="7" type="2">
+        <text>chore(app): setup module resolution for compiled JS</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNvbnN0IHsgaW5BcHBQdXJjaGFzZSB9ID0gZ2V0QXBwQ29uZmlnKCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHZhbGlkYXRpb25SZXNwb25zZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGV0IGlhcDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

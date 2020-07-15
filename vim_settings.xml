@@ -80,7 +80,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/templates/emails/nuli/reset_pincode/html.ejs" timestamp="1594822557283">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/templates/emails/nuli/reset_pincode/html.ejs" timestamp="1594825383949">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="296" column="0" />
         <mark key="]" line="296" column="0" />
@@ -106,7 +106,7 @@
         <mark key="^" line="29" column="10" />
         <mark key="." line="29" column="9" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/users/resetPinCode.test.ts" timestamp="1594824791130">
+      <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/users/resetPinCode.test.ts" timestamp="1594825353917">
         <mark key="'" line="80" column="35" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -124,17 +124,17 @@
       <file name="/user_credentials [MySQL - @localhost]" timestamp="1594824350374">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594823254652">
+      <file name="/Dummy.txt" timestamp="1594824853632">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/templates/emails/nuli/translations.ts" timestamp="1594822327042">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/templates/emails/nuli/translations.ts" timestamp="1594830540987">
         <mark key="'" line="63" column="1" />
-        <mark key="[" line="109" column="29" />
-        <mark key="]" line="115" column="26" />
-        <mark key="." line="115" column="25" />
-        <mark key="^" line="115" column="26" />
+        <mark key="[" line="116" column="22" />
+        <mark key="]" line="116" column="31" />
+        <mark key="." line="116" column="30" />
+        <mark key="^" line="116" column="31" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/core/auth/index.ts" timestamp="1594824281652">
         <mark key="'" line="31" column="49" />
@@ -142,6 +142,12 @@
         <mark key="]" line="31" column="50" />
         <mark key="^" line="31" column="50" />
         <mark key="." line="31" column="49" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1594825695940">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="8" />
       </file>
       <file name="/foo.bar" timestamp="1594824350415">
         <mark key="[" line="0" column="0" />
@@ -262,11 +268,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9nZ2VkSW5TY2hlbWEgfSBmcm9tICcuLi8uLi8uLi8uLi9zcmMvc2NoZW1hcy91c2VyJzsK</text>
+      <register name="&quot;" type="4">
+        <text>TBD : Forgot your pin code?</text>
       </register>
       <register name="-" type="4">
-        <text>pinode</text>
+        <text>TBD : Forgot your pin code?</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -275,34 +281,34 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzZXRQYXNzd29yZFdpdGhSZXNldFRva2VuKAogICAgICAgIGhhc2hlZFBhc3N3b3JkOiBzdHJpbmcsCiAgICAgICAgcmVzZXRQYXNzd29yZFRva2VuOiBzdHJpbmcKICAgICk6IFByb21pc2U8W251bWJlciwgVXNlckNyZWRlbnRpYWxbXV0+IHsKICAgICAgICByZXR1cm4gVXNlckNyZWRlbnRpYWwudXBkYXRlKAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBwYXNzd29yZDogaGFzaGVkUGFzc3dvcmQsCiAgICAgICAgICAgICAgICByZXNldFBhc3N3b3JkVG9rZW46IG51bGwsCiAgICAgICAgICAgICAgICByZXNldFBhc3N3b3JkUmVxdWVzdERhdGU6IG51bGwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgd2hlcmU6IHsgcmVzZXRQYXNzd29yZFRva2VuIH0KICAgICAgICAgICAgfQogICAgICAgICk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9nZ2VkSW5TY2hlbWEgfSBmcm9tICcuLi8uLi8uLi8uLi9zcmMvc2NoZW1hcy91c2VyJzsK</text>
+        <text>}</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgcGluQ29kZSB9Cg==</text>
+        <text encoding="base64">aGVhZGVySW1hZ2U6IGAke0NMT1VERlJPTlRfRU5EUE9JTlR9L2Fzc2V0cy9lbWFpbHMvaW1hZ2VzL3Jlc2V0LXBhc3N3b3JkLnBuZ2AsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHZhbGlkYXRlRW5kcG9pbnQoCiAgICAgICAgc2VydmVyLAogICAgICAgIHsgbWV0aG9kOiAnUE9TVCcsIHVybDogJy9hcGkvdjEvbG9naW4nLCBwYXlsb2FkOiB7IGVtYWlsOiAndXNlcjJAdXNlci5pbycsIHBpbkNvZGU6ICduZXdQYXNzd29yZDEyMycgfSB9LAogICAgICAgIGxvZ2dlZEluU2NoZW1hLAogICAgICAgIDIwMAogICAgKTsK</text>
+        <text encoding="base64">cmVzZXRQaW5Db2RlOiB7CmNvbnRlbnQ6IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBpbkNvZGVDb25maXJtYXRpb246ICduZXdQYXNzd29yZDEyMycsCg==</text>
+        <text encoding="base64">ZmVhdChyZXNldFBpbkNvZGUpOiBhZGQgL3VzZXJzL3BpbkNvZGUgUFVUIHJvdXRlICYgYXNzb2NpYXRlZCBtZXRob2RzL3NjaGVtYXM=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3N3b3JkOiBoYXNoZWRQYXNzd29yZCwK</text>
+        <text encoding="base64">aW1wb3J0IHsgbG9nZ2VkSW5TY2hlbWEgfSBmcm9tICcuLi8uLi8uLi8uLi9zcmMvc2NoZW1hcy91c2VyJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGhhc2hlZFBhc3N3b3JkID0gYXdhaXQgaGFzaFBhc3N3b3JkKHBhc3N3b3JkKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgcGluQ29kZSB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChwYXNzd29yZCAhPT0gcGFzc3dvcmRDb25maXJtYXRpb24pIHsKICAgICAgICB0aHJvdyBCb29tLmJhZERhdGEoJ1Bhc3N3b3JkcyBkbyBub3QgbWF0Y2gnKTsKICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkQ29uZmlybWF0aW9uOiBQQVNTV09SRF9WQUxJREFUSU9OLnJlcXVpcmVkKCksCg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHZhbGlkYXRlRW5kcG9pbnQoCiAgICAgICAgc2VydmVyLAogICAgICAgIHsgbWV0aG9kOiAnUE9TVCcsIHVybDogJy9hcGkvdjEvbG9naW4nLCBwYXlsb2FkOiB7IGVtYWlsOiAndXNlcjJAdXNlci5pbycsIHBpbkNvZGU6ICduZXdQYXNzd29yZDEyMycgfSB9LAogICAgICAgIGxvZ2dlZEluU2NoZW1hLAogICAgICAgIDIwMAogICAgKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

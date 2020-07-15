@@ -62,6 +62,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/schemas/user.ts" timestamp="1594824303322">
+        <mark key="[" line="122" column="33" />
+        <mark key="l" line="121" column="12" />
+        <mark key="]" line="122" column="70" />
+        <mark key="^" line="122" column="70" />
+        <mark key="." line="122" column="69" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/put.ts" timestamp="1594824224693">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="8" />
+        <mark key="^" line="86" column="14" />
+        <mark key="." line="86" column="8" />
+      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/emitters/mailerEmitter.ts" timestamp="1594823225245">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -74,11 +87,12 @@
         <mark key="." line="296" column="0" />
         <mark key="^" line="295" column="75" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/users/UsersManager.ts" timestamp="1594823234440">
-        <mark key="'" line="28" column="13" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/users/UsersManager.ts" timestamp="1594823851793">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="98" column="55" />
+        <mark key="]" line="98" column="70" />
+        <mark key="." line="98" column="69" />
+        <mark key="^" line="98" column="70" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/core/queue/mailer.ts" timestamp="1594822049112">
         <mark key="[" line="35" column="19" />
@@ -92,6 +106,13 @@
         <mark key="^" line="29" column="10" />
         <mark key="." line="29" column="9" />
       </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/users/resetPinCode.test.ts" timestamp="1594824791130">
+        <mark key="'" line="80" column="35" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="80" column="36" />
+      </file>
       <file name="$USER_HOME$/Development/app.nuli.external/.gitignore" timestamp="1594816868261">
         <mark key="[" line="28" column="1" />
         <mark key="]" line="29" column="10" />
@@ -99,17 +120,14 @@
         <mark key="." line="29" column="9" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/env.ts" timestamp="1594816589027" />
-      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/005-genflow-users.js" timestamp="1594804032506" />
-      <file name="/user_credentials [MySQL - @localhost]" timestamp="1594823221308">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/collages/post.ts" timestamp="1594824205744" />
+      <file name="/user_credentials [MySQL - @localhost]" timestamp="1594824350374">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594816993956">
+      <file name="/Dummy.txt" timestamp="1594823254652">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/admin.meliorence.com/pages/workouts/workoutCircuits.tsx" timestamp="1594798873861">
-        <mark key="'" line="64" column="35" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/templates/emails/nuli/translations.ts" timestamp="1594822327042">
         <mark key="'" line="63" column="1" />
@@ -118,25 +136,28 @@
         <mark key="." line="115" column="25" />
         <mark key="^" line="115" column="26" />
       </file>
-      <file name="$USER_HOME$/Development/admin.meliorence.com/components/circuits/CircuitDND.tsx" timestamp="1594799004273" />
-      <file name="/foo.bar" timestamp="1594823221310">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/auth/index.ts" timestamp="1594824281652">
+        <mark key="'" line="31" column="49" />
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="31" column="50" />
+        <mark key="^" line="31" column="50" />
+        <mark key="." line="31" column="49" />
+      </file>
+      <file name="/foo.bar" timestamp="1594824350415">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dev.user_credentials" timestamp="1594823221309">
+      <file name="/dev.user_credentials" timestamp="1594824350402">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/env.debug.ts" timestamp="1594816653632" />
-      <file name="$USER_HOME$/Development/admin.meliorence.com/components/workouts/WorkoutCircuitsDND.tsx" timestamp="1594803984719">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="30" column="79" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/user.ts" timestamp="1594823826016">
+        <mark key="[" line="203" column="25" />
+        <mark key="]" line="203" column="42" />
+        <mark key="." line="203" column="41" />
+        <mark key="^" line="203" column="42" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="297" column="0" filename="$USER_HOME$/Development/app.nuli/android/app/build.gradle" />
-      <jump line="295" column="0" filename="$USER_HOME$/Development/app.nuli/android/app/build.gradle" />
-      <jump line="288" column="0" filename="$USER_HOME$/Development/app.nuli/android/app/build.gradle" />
       <jump line="279" column="0" filename="$USER_HOME$/Development/app.nuli/android/app/build.gradle" />
       <jump line="276" column="0" filename="$USER_HOME$/Development/app.nuli/android/app/build.gradle" />
       <jump line="272" column="0" filename="$USER_HOME$/Development/app.nuli/android/app/build.gradle" />
@@ -234,51 +255,54 @@
       <jump line="64" column="35" filename="$USER_HOME$/Development/admin.meliorence.com/pages/workouts/workoutCircuits.tsx" />
       <jump line="63" column="1" filename="$USER_HOME$/Development/api.meliorence.com/src/templates/emails/nuli/translations.ts" />
       <jump line="28" column="13" filename="$USER_HOME$/Development/api.meliorence.com/src/core/users/UsersManager.ts" />
+      <jump line="69" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/users/UsersManager.ts" />
+      <jump line="31" column="49" filename="$USER_HOME$/Development/api.meliorence.com/src/core/auth/index.ts" />
+      <jump line="81" column="35" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/users/resetPinCode.test.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7IGxvY2FsZTogdXNlci5sb2NhbGUsIHJlc2V0UGluQ29kZVRva2VuIH0pOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgbG9nZ2VkSW5TY2hlbWEgfSBmcm9tICcuLi8uLi8uLi8uLi9zcmMvc2NoZW1hcy91c2VyJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>add new PUT route</text>
+        <text>pinode</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHRlbXBsYXRlOiAncmVzZXRfcGluY29kZScsIC4uLmFyZ3Mg</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzZXRQYXNzd29yZFdpdGhSZXNldFRva2VuKAogICAgICAgIGhhc2hlZFBhc3N3b3JkOiBzdHJpbmcsCiAgICAgICAgcmVzZXRQYXNzd29yZFRva2VuOiBzdHJpbmcKICAgICk6IFByb21pc2U8W251bWJlciwgVXNlckNyZWRlbnRpYWxbXV0+IHsKICAgICAgICByZXR1cm4gVXNlckNyZWRlbnRpYWwudXBkYXRlKAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBwYXNzd29yZDogaGFzaGVkUGFzc3dvcmQsCiAgICAgICAgICAgICAgICByZXNldFBhc3N3b3JkVG9rZW46IG51bGwsCiAgICAgICAgICAgICAgICByZXNldFBhc3N3b3JkUmVxdWVzdERhdGU6IG51bGwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgd2hlcmU6IHsgcmVzZXRQYXNzd29yZFRva2VuIH0KICAgICAgICAgICAgfQogICAgICAgICk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7IGxvY2FsZTogdXNlci5sb2NhbGUsIHJlc2V0UGluQ29kZVRva2VuIH0pOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgbG9nZ2VkSW5TY2hlbWEgfSBmcm9tICcuLi8uLi8uLi8uLi9zcmMvc2NoZW1hcy91c2VyJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7ICB0ZW1wbGF0ZTogJ3Jlc2V0X3BpbmNvZGUnLCAuLi5hcmdzaiAgfSkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgcGluQ29kZSB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCUgdGVzdFZhbHVlICU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>feat(resetPinCode): update models, add required methods</text>
+        <text encoding="base64">ICAgIGF3YWl0IHZhbGlkYXRlRW5kcG9pbnQoCiAgICAgICAgc2VydmVyLAogICAgICAgIHsgbWV0aG9kOiAnUE9TVCcsIHVybDogJy9hcGkvdjEvbG9naW4nLCBwYXlsb2FkOiB7IGVtYWlsOiAndXNlcjJAdXNlci5pbycsIHBpbkNvZGU6ICduZXdQYXNzd29yZDEyMycgfSB9LAogICAgICAgIGxvZ2dlZEluU2NoZW1hLAogICAgICAgIDIwMAogICAgKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dGVzdChyZXNldFBhc3N3b3JkKTogaW1wcm92ZSAmIGFkZCBzY2VuYXJpb3M=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBpbkNvZGVDb25maXJtYXRpb246ICduZXdQYXNzd29yZDEyMycsCg==</text>
       </register>
       <register name="6" type="2">
-        <text>feat(WorkoutGeneralForm): pre-fill full-body tag when creating a new workout</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3N3b3JkOiBoYXNoZWRQYXNzd29yZCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNpcmN1aXRJZDogZGF0YS5pZCwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGhhc2hlZFBhc3N3b3JkID0gYXdhaXQgaGFzaFBhc3N3b3JkKHBhc3N3b3JkKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PjwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgIGlmIChwYXNzd29yZCAhPT0gcGFzc3dvcmRDb25maXJtYXRpb24pIHsKICAgICAgICB0aHJvdyBCb29tLmJhZERhdGEoJ1Bhc3N3b3JkcyBkbyBub3QgbWF0Y2gnKTsKICAgIH0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9ImZvbnQtZmFtaWx5Oid3b3JrIHNhbnMnLCBhcmlhbCwgc2Fucy1zZXJpZjtmb250LXNpemU6MThweDtjb2xvcjojM0YzRTU1OyI+Cg==</text>
+        <text encoding="base64">ICAgIHBhc3N3b3JkQ29uZmlybWF0aW9uOiBQQVNTV09SRF9WQUxJREFUSU9OLnJlcXVpcmVkKCksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -68,11 +68,22 @@
         <mark key="^" line="108" column="34" />
         <mark key="." line="108" column="33" />
       </file>
+      <file name="/Dummy.txt" timestamp="1594732570893">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/models/userCredential.ts" timestamp="1594733786342">
         <mark key="[" line="40" column="12" />
         <mark key="]" line="40" column="16" />
         <mark key="^" line="40" column="16" />
         <mark key="." line="40" column="15" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/resetPassword.ts" timestamp="1594733885737">
+        <mark key="[" line="16" column="66" />
+        <mark key="]" line="16" column="77" />
+        <mark key="^" line="16" column="77" />
+        <mark key="." line="16" column="76" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/emitters/mailerEmitter.ts" timestamp="1594734664154">
         <mark key="[" line="30" column="31" />
@@ -86,27 +97,44 @@
         <mark key="]" line="301" column="56" />
         <mark key="." line="301" column="56" />
       </file>
+      <file name="/dev.user" timestamp="1594731933296">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/core/users/UsersManager.ts" timestamp="1594737605823">
         <mark key="[" line="36" column="8" />
         <mark key="]" line="36" column="64" />
         <mark key="^" line="36" column="64" />
         <mark key="." line="36" column="63" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/resetCredentials.ts" timestamp="1594734825416">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="55" column="29" />
-        <mark key="]" line="55" column="43" />
-        <mark key="." line="55" column="42" />
-        <mark key="^" line="55" column="43" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/templates/emails/nuli/translations.ts" timestamp="1594737712580">
+        <mark key="[" line="109" column="29" />
+        <mark key="]" line="115" column="26" />
+        <mark key="." line="115" column="25" />
+        <mark key="^" line="115" column="26" />
       </file>
-      <file name="/user_credentials [MySQL - @localhost]" timestamp="1594734974206">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/queue/mailer.ts" timestamp="1594737388617">
+        <mark key="[" line="35" column="19" />
+        <mark key="]" line="36" column="25" />
+        <mark key="." line="36" column="24" />
+        <mark key="^" line="36" column="25" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/core/auth/index.ts" timestamp="1594734462499">
         <mark key="[" line="32" column="4" />
         <mark key="]" line="33" column="17" />
         <mark key="^" line="33" column="17" />
         <mark key="." line="33" column="16" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/index.ts" timestamp="1594734931880">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="7" column="72" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1594797878153">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dev.user_credentials" timestamp="1594797878152">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1594736077247">
         <mark key="'" line="101" column="32" />
@@ -121,45 +149,16 @@
         <mark key="^" line="86" column="101" />
         <mark key="." line="86" column="100" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/resetPassword.ts" timestamp="1594733885737">
-        <mark key="[" line="16" column="66" />
-        <mark key="]" line="16" column="77" />
-        <mark key="^" line="16" column="77" />
-        <mark key="." line="16" column="76" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/resetCredentials.ts" timestamp="1594734825416">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="55" column="29" />
+        <mark key="]" line="55" column="43" />
+        <mark key="." line="55" column="42" />
+        <mark key="^" line="55" column="43" />
       </file>
-      <file name="/dev.user" timestamp="1594731933296">
+      <file name="/user_credentials [MySQL - @localhost]" timestamp="1594797878146">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/queue/mailer.ts" timestamp="1594737388617">
-        <mark key="[" line="35" column="19" />
-        <mark key="]" line="36" column="25" />
-        <mark key="." line="36" column="24" />
-        <mark key="^" line="36" column="25" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/index.ts" timestamp="1594734931880">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="7" column="72" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1594732570893">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/templates/emails/nuli/translations.ts" timestamp="1594737712580">
-        <mark key="[" line="109" column="29" />
-        <mark key="]" line="115" column="26" />
-        <mark key="." line="115" column="25" />
-        <mark key="^" line="115" column="26" />
-      </file>
-      <file name="/foo.bar" timestamp="1594734974231">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dev.user_credentials" timestamp="1594734974222">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/templates/emails/nuli/reset_password/html.ejs" timestamp="1594737618561" />
       <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/user.ts" timestamp="1594734536790">
         <mark key="[" line="211" column="16" />
         <mark key="]" line="211" column="39" />

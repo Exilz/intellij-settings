@@ -62,12 +62,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/schemas/user.ts" timestamp="1594734789252">
-        <mark key="[" line="108" column="14" />
-        <mark key="]" line="108" column="34" />
-        <mark key="^" line="108" column="34" />
-        <mark key="." line="108" column="33" />
-      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/templates/emails/nuli/reset_pincode/html.ejs" timestamp="1594738028234">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="301" column="0" />
@@ -105,6 +99,11 @@
       <file name="/user_credentials [MySQL - @localhost]" timestamp="1594797878146">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1594799040181">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/admin.meliorence.com/pages/workouts/workoutCircuits.tsx" timestamp="1594798873861">
         <mark key="'" line="64" column="35" />
       </file>
@@ -131,7 +130,7 @@
         <mark key="." line="27" column="32" />
         <mark key="^" line="27" column="33" />
       </file>
-      <file name="$USER_HOME$/Development/admin.meliorence.com/components/workouts/WorkoutCircuitsDND.tsx" timestamp="1594798868166">
+      <file name="$USER_HOME$/Development/admin.meliorence.com/components/workouts/WorkoutCircuitsDND.tsx" timestamp="1594803984719">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="^" line="30" column="79" />
@@ -244,7 +243,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNpcmN1aXRJZDogZGF0YS5pZCwK</text>
+        <text>feat(WorkoutGeneralForm): pre-fill full-body tag when creating a new workout</text>
       </register>
       <register name="-" type="4">
         <text>circuitId</text>
@@ -256,34 +255,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPSJmb250LWZhbWlseTond29yayBzYW5zJywgYXJpYWwsIHNhbnMtc2VyaWY7Zm9udC1zaXplOjE4cHg7Y29sb3I6IzNGM0U1NTsiPgogICAgICAgICAgICAgICAgICAgICAgICA8JT0gdC5yZXNldFBpbkNvZGUuY29udGVudC5tZXNzYWdlICU+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwPjwlIHJlc2V0UGluQ29kZVRva2VuICU+PC9wPgogICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PjwvdGQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNpcmN1aXRJZDogZGF0YS5pZCwK</text>
+        <text>feat(WorkoutGeneralForm): pre-fill full-body tag when creating a new workout</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PjwvdGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNpcmN1aXRJZDogZGF0YS5pZCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9ImZvbnQtZmFtaWx5Oid3b3JrIHNhbnMnLCBhcmlhbCwgc2Fucy1zZXJpZjtmb250LXNpemU6MThweDtjb2xvcjojM0YzRTU1OyI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PjwvdGQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBPbiBtb2JpbGUgPyBUYXAgdGhpcyBidXR0b24gdG8gb3BlbiB5b3VyIGFwcCBhbmQgcmVzZXQgeW91ciBwaW4gY29kZSBkaXJlY3RseSAhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9ImZvbnQtZmFtaWx5Oid3b3JrIHNhbnMnLCBhcmlhbCwgc2Fucy1zZXJpZjtmb250LXNpemU6MThweDtjb2xvcjojM0YzRTU1OyI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cD48JSByZXNldFBpbkNvZGVUb2tlbiAlPjwvcD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBPbiBtb2JpbGUgPyBUYXAgdGhpcyBidXR0b24gdG8gb3BlbiB5b3VyIGFwcCBhbmQgcmVzZXQgeW91ciBwaW4gY29kZSBkaXJlY3RseSAhCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8JT0gdC5yZXNldFBpbkNvZGUuY29udGVudC5tZXNzYWdlICU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cD48JSByZXNldFBpbkNvZGVUb2tlbiAlPjwvcD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxwPjwvcD4gIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8JT0gdC5yZXNldFBpbkNvZGUuY29udGVudC5tZXNzYWdlICU+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxwPjwvcD4gIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

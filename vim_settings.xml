@@ -5,12 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>lookup</entry>
-        <entry encoding="base64">XDxsb29rdXBcPg==</entry>
-        <entry>translationFound</entry>
-        <entry>i18n</entry>
-        <entry encoding="base64">XDxtYXRjaFw+</entry>
-        <entry encoding="base64">XDxHT09HTEVfUFJJVkFURV9LRVlcPg==</entry>
         <entry encoding="base64">XDxXcm9uZ0F1dGhlbnRpY2F0aW9uTWV0aG9kRXJyb3JcPg==</entry>
         <entry>IUser</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
@@ -25,6 +19,12 @@
         <entry>locale</entry>
         <entry>password</entry>
         <entry>pinCode</entry>
+        <entry encoding="base64">XDxvblByZXNzQ29uZmlybVw+</entry>
+        <entry>reset</entry>
+        <entry>value</entry>
+        <entry>debounce</entry>
+        <entry>TextIn</entry>
+        <entry>api</entry>
       </history-search>
       <history-cmd>
         <entry>32</entry>
@@ -62,14 +62,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/schemas/user.ts" timestamp="1594886341944">
-        <mark key="[" line="140" column="17" />
-        <mark key="]" line="140" column="34" />
-        <mark key="." line="140" column="33" />
-        <mark key="^" line="140" column="34" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/schemas/user.ts" timestamp="1594907502253">
+        <mark key="[" line="121" column="32" />
+        <mark key="]" line="124" column="19" />
+        <mark key="." line="124" column="18" />
+        <mark key="^" line="124" column="19" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/ses.ts" timestamp="1594885866889">
-        <mark key="'" line="23" column="47" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/put.ts" timestamp="1594907683695">
+        <mark key="[" line="103" column="32" />
+        <mark key="]" line="103" column="45" />
+        <mark key="^" line="103" column="45" />
+        <mark key="." line="103" column="44" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/ingredients/post.test.ts" timestamp="1594889031327">
         <mark key="[" line="42" column="61" />
@@ -77,26 +80,28 @@
         <mark key="." line="42" column="65" />
         <mark key="^" line="42" column="66" />
       </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/users/UsersManager.ts" timestamp="1594907670176">
+        <mark key="'" line="69" column="0" />
+        <mark key="[" line="96" column="47" />
+        <mark key="]" line="96" column="47" />
+        <mark key="." line="96" column="47" />
+        <mark key="^" line="88" column="39" />
+      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/core/queue/mailer.ts" timestamp="1594887918863">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="15" column="53" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" timestamp="1594905257467">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="89" column="21" />
-        <mark key="]" line="89" column="56" />
-        <mark key="^" line="89" column="56" />
-        <mark key="." line="89" column="55" />
+      <file name="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" timestamp="1594907266442">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="122" column="50" />
+        <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/models/i18n.ts" timestamp="1594887209766">
-        <mark key="[" line="6" column="51" />
-        <mark key="]" line="6" column="56" />
-        <mark key="^" line="6" column="56" />
-        <mark key="." line="6" column="55" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/views/PinCode.tsx" timestamp="1594904414743">
+      <file name="$USER_HOME$/Development/app.nuli/src/views/PinCode.tsx" timestamp="1594907425517">
+        <mark key="'" line="82" column="22" />
         <mark key="[" line="63" column="53" />
         <mark key="]" line="63" column="55" />
         <mark key="^" line="63" column="55" />
@@ -122,13 +127,22 @@
         <mark key="." line="38" column="16" />
         <mark key="^" line="38" column="17" />
       </file>
-      <file name="/user_credentials [MySQL - @localhost]" timestamp="1594885038193">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/resetCredentials.ts" timestamp="1594907144915">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1594889097098">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/pinCode.ts" timestamp="1594907298183">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="25" column="22" />
+        <mark key="]" line="25" column="22" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="25" column="22" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/unit/services/mailchimp.test.ts" timestamp="1594888979340">
         <mark key="[" line="42" column="111" />
@@ -137,28 +151,17 @@
         <mark key="." line="42" column="115" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/components/Training/MyProgram.tsx" timestamp="1594905162108" />
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1594830616723">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/locales/enUS.ts" timestamp="1594905559545">
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/locales/enUS.ts" timestamp="1594907053190">
         <mark key="'" line="454" column="22" />
-        <mark key="[" line="242" column="0" />
-        <mark key="]" line="242" column="42" />
-        <mark key="." line="246" column="41" />
-        <mark key="^" line="246" column="42" />
+        <mark key="[" line="245" column="12" />
+        <mark key="]" line="245" column="26" />
+        <mark key="." line="245" column="108" />
+        <mark key="^" line="245" column="109" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/locales/zhTW.ts" timestamp="1594905539849">
-        <mark key="[" line="248" column="0" />
-        <mark key="]" line="248" column="0" />
-        <mark key="." line="248" column="0" />
-      </file>
-      <file name="/foo.bar" timestamp="1594885038204">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/dev.user_credentials" timestamp="1594885038203">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/locales/zhTW.ts" timestamp="1594907042182">
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="111" />
+        <mark key="." line="245" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1594888451747">
         <mark key="[" line="7" column="53" />
@@ -166,62 +169,15 @@
         <mark key="." line="7" column="175" />
         <mark key="^" line="7" column="176" />
       </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/endpoints.ts" timestamp="1594906002237" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/user.ts" timestamp="1594907659944">
+        <mark key="[" line="195" column="23" />
+        <mark key="]" line="195" column="29" />
+        <mark key="." line="195" column="28" />
+        <mark key="^" line="195" column="29" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="24" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
-      <jump line="65" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
-      <jump line="64" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
-      <jump line="56" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
-      <jump line="54" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
-      <jump line="48" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
-      <jump line="37" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
-      <jump line="7" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
-      <jump line="4" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
-      <jump line="43" column="20" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
-      <jump line="50" column="70" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
-      <jump line="8" column="6" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
-      <jump line="18" column="7" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
-      <jump line="90" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
-      <jump line="81" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
-      <jump line="68" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
-      <jump line="74" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
-      <jump line="12" column="4" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
-      <jump line="11" column="36" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
-      <jump line="13" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
-      <jump line="24" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
-      <jump line="75" column="27" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="147" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="143" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="139" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="135" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="95" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="82" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="79" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="72" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="59" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="42" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="38" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="34" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="30" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="25" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="19" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="16" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="11" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="13" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="18" column="12" filename="$USER_HOME$/Development/api.meliorence.com/src/models/user.ts" />
-      <jump line="30" column="51" filename="$USER_HOME$/Development/api.meliorence.com/src/core/persistence/db.ts" />
-      <jump line="38" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/persistence/db.ts" />
-      <jump line="62" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/persistence/db.ts" />
-      <jump line="29" column="37" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/user.ts" />
-      <jump line="36" column="9" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/user.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/user.ts" />
-      <jump line="176" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/user.ts" />
-      <jump line="57" column="13" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/user.ts" />
-      <jump line="155" column="31" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/user.ts" />
       <jump line="177" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/user.ts" />
       <jump line="159" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/user.ts" />
       <jump line="147" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/user.ts" />
@@ -268,51 +224,105 @@
       <jump line="17" column="78" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
       <jump line="454" column="22" filename="$USER_HOME$/Development/app.nuli/src/utils/locales/enUS.ts" />
+      <jump line="48" column="12" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="116" column="38" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="17" column="3" filename="$USER_HOME$/Development/app.nuli/src/utils/pinCode.ts" />
+      <jump line="18" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/pinCode.ts" />
+      <jump line="3" column="57" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="12" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="14" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="19" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="30" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="34" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="36" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="43" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="32" column="17" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="121" column="28" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="45" column="24" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="40" column="12" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="89" column="62" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="98" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="141" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="61" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="72" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="74" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="80" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="87" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="103" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="2" column="33" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="13" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="15" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="20" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="31" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="35" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="37" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="44" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="62" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="73" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="75" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="81" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="85" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="147" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="142" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="99" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="90" column="43" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="145" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="119" column="49" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="146" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="102" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="91" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="88" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="84" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="78" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="76" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
+      <jump line="146" column="43" filename="$USER_HOME$/Development/app.nuli/src/views/PinCode.tsx" />
+      <jump line="9" column="26" filename="$USER_HOME$/Development/app.nuli/src/views/PinCode.tsx" />
+      <jump line="82" column="22" filename="$USER_HOME$/Development/app.nuli/src/views/PinCode.tsx" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICd0ZWFsJwo=</text>
+      <register name="&quot;" type="4">
+        <text>updatePinCode</text>
       </register>
       <register name="-" type="4">
-        <text>justifyContent</text>
+        <text>updatePinCode</text>
       </register>
       <register name="/" type="4">
-        <text>pinCode</text>
+        <text>api</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmb3Jnb3RQaW5Db2RlOiAnRm9yZ290IFBJTiBjb2RlPycsCg==</text>
+        <text encoding="base64">ZXhwb3J0IGFzeW5jIGZ1bmN0aW9uIHJlcXVlc3RSZXNldFBpbkNvZGVFbWFpbCAoZW1haWw6IHN0cmluZyk6IFByb21pc2U8dm9pZD4gewogICAgcmV0dXJuIGF1dGhJbnN0YW5jZS5wb3N0KAogICAgICAgIEVORFBPSU5UUy51c2VycyArICcvcmVzZXRfcGluY29kZScsCiAgICAgICAgeyBlbWFpbCB9CiAgICApOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICd0ZWFsJwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzZXRQaW5Db2RlV2l0aFJlc2V0VG9rZW4ocGluQ29kZTogc3RyaW5nLCByZXNldFBpbkNvZGVUb2tlbjogc3RyaW5nKTogUHJvbWlzZTxbbnVtYmVyLCBVc2VyQ3JlZGVudGlhbFtdXT4gewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5kUmVzZXRFbWFpbDogJ1NlbmQgZW1haWwnLAo=</text>
+        <text encoding="base64">ICAgIHBpbkNvZGU6IHN0cmluZzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXNldFBpbkNvZGU6ICdUQkQgOiB0YXAgdGhlIGZvbGxvd2luZyBidXR0b24gaW4gb3JkZXIgdG8gcmVjZWl2ZSBhIHJlc2V0IGVtYWlsIHRoZW4gZmlsbCB0aGUgZm9ybSBpbiBvcmRlciB0byByZW1vdmUgeW91ciBwaW4gY29kZS4gWW91IHdpbGwgdGhlbiBiZSBhYmxlIHRvIHNldCBhIG5ldyBQSU4gY29kZSBmcm9tIHRoZSBzZXR0aW5ncy4gVEJEJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gZmxleDogMSwK</text>
+        <text encoding="base64">ICAgIHBpbkNvZGU6IEpvaS5zdHJpbmcoKQogICAgICAgIC5sZW5ndGgoNCkKICAgICAgICAucmVxdWlyZWQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gYWxpZ25JdGVtczogJ2NlbnRlcicsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgdGhpcy5wcm9wcy5sb2dpbigKICAgICAgICAgICAgICAgIHsgZW1haWwsIHBhc3N3b3JkOiB0aGlzLnN0YXRlLnZhbHVlIH0sCiAgICAgICAgICAgICAgICBzY3JlZW5Qcm9wcy50b2FzdE1hbmFnZXJSZWYKICAgICAgICAgICAgKTsKCiAgICAgICAgICAgIC8vIERpc2FibGUgUGluIGNvZGUKICAgICAgICAgICAgYXdhaXQgYXBpLnB1dChFTkRQT0lOVFMudXNlcnMgKyAnLycgKyBpZCwgeyBwaW5Db2RlOiBudWxsIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcignaGV5IHRoZXJlJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXNldFBpbkNvZGU6ICfoq4vovLjlhaXmgqjnmoTnlKjmiLblr4bnorzku6XpgLLooYxQSU7norzoqLvpirfjgILkuKbkuJTmgqjlsIflj6/ku6Xoh7PoqK3lrprkuK3ph43oqK3mlrDnmoRQSU7norzjgIInLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIFRPRE86IGVycm9yIHRvYXN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kQ29sb3I6ICd0ZWFsJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -321,9 +331,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>pinCode</last-search>
+      <last-search>api</last-search>
       <last-offset />
-      <last-pattern>pinCode</last-pattern>
+      <last-pattern>api</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

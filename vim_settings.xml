@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>onRegistered</entry>
         <entry>DidMount</entry>
         <entry>lookUp</entry>
         <entry>lookup</entry>
@@ -25,6 +24,7 @@
         <entry>androi</entry>
         <entry>following</entry>
         <entry>console</entry>
+        <entry>locale</entry>
       </history-search>
       <history-cmd>
         <entry>32</entry>
@@ -62,12 +62,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/schemas/user.ts" timestamp="1594824303322">
-        <mark key="[" line="122" column="33" />
-        <mark key="l" line="121" column="12" />
-        <mark key="]" line="122" column="70" />
-        <mark key="^" line="122" column="70" />
-        <mark key="." line="122" column="69" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/schemas/user.ts" timestamp="1594886341944">
+        <mark key="[" line="140" column="17" />
+        <mark key="]" line="140" column="34" />
+        <mark key="." line="140" column="33" />
+        <mark key="^" line="140" column="34" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/ses.ts" timestamp="1594885866889">
+        <mark key="'" line="23" column="47" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/put.ts" timestamp="1594824224693">
         <mark key="[" line="86" column="0" />
@@ -94,17 +96,11 @@
         <mark key="." line="98" column="69" />
         <mark key="^" line="98" column="70" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/queue/mailer.ts" timestamp="1594822049112">
-        <mark key="[" line="35" column="19" />
-        <mark key="]" line="36" column="25" />
-        <mark key="." line="36" column="24" />
-        <mark key="^" line="36" column="25" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/.gitignore" timestamp="1594816807811">
-        <mark key="[" line="28" column="1" />
-        <mark key="]" line="29" column="10" />
-        <mark key="^" line="29" column="10" />
-        <mark key="." line="29" column="9" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/queue/mailer.ts" timestamp="1594887105632">
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="11" column="42" />
+        <mark key="." line="11" column="41" />
+        <mark key="^" line="11" column="42" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/users/resetPinCode.test.ts" timestamp="1594825353917">
         <mark key="'" line="80" column="35" />
@@ -119,23 +115,6 @@
         <mark key="^" line="29" column="10" />
         <mark key="." line="29" column="9" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/env.ts" timestamp="1594816589027" />
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/collages/post.ts" timestamp="1594824205744" />
-      <file name="/user_credentials [MySQL - @localhost]" timestamp="1594824350374">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1594824853632">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/templates/emails/nuli/translations.ts" timestamp="1594830540987">
-        <mark key="'" line="63" column="1" />
-        <mark key="[" line="116" column="22" />
-        <mark key="]" line="116" column="31" />
-        <mark key="." line="116" column="30" />
-        <mark key="^" line="116" column="31" />
-      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/core/auth/index.ts" timestamp="1594824281652">
         <mark key="'" line="31" column="49" />
         <mark key="[" line="31" column="23" />
@@ -143,19 +122,35 @@
         <mark key="^" line="31" column="50" />
         <mark key="." line="31" column="49" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1594825695940">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="7" />
-        <mark key="^" line="0" column="8" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/models/i18n.ts" timestamp="1594887209766">
+        <mark key="[" line="6" column="51" />
+        <mark key="]" line="6" column="56" />
+        <mark key="^" line="6" column="56" />
+        <mark key="." line="6" column="55" />
       </file>
-      <file name="/foo.bar" timestamp="1594824350415">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1594830616723">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1594885038204">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dev.user_credentials" timestamp="1594824350402">
+      <file name="/dev.user_credentials" timestamp="1594885038203">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/env.debug.ts" timestamp="1594816653632" />
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1594886698422">
+        <mark key="'" line="23" column="4" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1594887186944">
+        <mark key="[" line="7" column="53" />
+        <mark key="]" line="7" column="176" />
+        <mark key="." line="7" column="175" />
+        <mark key="^" line="7" column="176" />
+      </file>
+      <file name="/user_credentials [MySQL - @localhost]" timestamp="1594885038193">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/user.ts" timestamp="1594823826016">
         <mark key="[" line="203" column="25" />
         <mark key="]" line="203" column="42" />
@@ -164,8 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="279" column="0" filename="$USER_HOME$/Development/app.nuli/android/app/build.gradle" />
-      <jump line="276" column="0" filename="$USER_HOME$/Development/app.nuli/android/app/build.gradle" />
       <jump line="272" column="0" filename="$USER_HOME$/Development/app.nuli/android/app/build.gradle" />
       <jump line="262" column="0" filename="$USER_HOME$/Development/app.nuli/android/app/build.gradle" />
       <jump line="258" column="0" filename="$USER_HOME$/Development/app.nuli/android/app/build.gradle" />
@@ -264,51 +257,53 @@
       <jump line="69" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/users/UsersManager.ts" />
       <jump line="31" column="49" filename="$USER_HOME$/Development/api.meliorence.com/src/core/auth/index.ts" />
       <jump line="81" column="35" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/users/resetPinCode.test.ts" />
+      <jump line="23" column="47" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/ses.ts" />
+      <jump line="23" column="4" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>TBD : Forgot your pin code?</text>
+        <text>en-US</text>
       </register>
       <register name="-" type="4">
-        <text>TBD : Forgot your pin code?</text>
+        <text>en-US</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>locale</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzZXRQYXNzd29yZFdpdGhSZXNldFRva2VuKAogICAgICAgIGhhc2hlZFBhc3N3b3JkOiBzdHJpbmcsCiAgICAgICAgcmVzZXRQYXNzd29yZFRva2VuOiBzdHJpbmcKICAgICk6IFByb21pc2U8W251bWJlciwgVXNlckNyZWRlbnRpYWxbXV0+IHsKICAgICAgICByZXR1cm4gVXNlckNyZWRlbnRpYWwudXBkYXRlKAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBwYXNzd29yZDogaGFzaGVkUGFzc3dvcmQsCiAgICAgICAgICAgICAgICByZXNldFBhc3N3b3JkVG9rZW46IG51bGwsCiAgICAgICAgICAgICAgICByZXNldFBhc3N3b3JkUmVxdWVzdERhdGU6IG51bGwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgd2hlcmU6IHsgcmVzZXRQYXNzd29yZFRva2VuIH0KICAgICAgICAgICAgfQogICAgICAgICk7CiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>messageBody?.locals?.locale</text>
       </register>
       <register name="1" type="2">
-        <text>}</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aGVhZGVySW1hZ2U6IGAke0NMT1VERlJPTlRfRU5EUE9JTlR9L2Fzc2V0cy9lbWFpbHMvaW1hZ2VzL3Jlc2V0LXBhc3N3b3JkLnBuZ2AsCg==</text>
+        <text encoding="base64">ICAgIGlmICghbG9jYWxlKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxvY2FsZSA9IG1lc3NhZ2VCb2R5Py5sb2NhbHM/LmxvY2FsZSB8fCBGQUxMQkFDS19MT0NBTEU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVzZXRQaW5Db2RlOiB7CmNvbnRlbnQ6IHsK</text>
+        <text encoding="base64">QnV0dG9uIHRleHQ6ICdSRVNFVCBQSU4gQ09ERScsCk1lc3NhZ2U6ICdUeXBlIHRoZSBmb2xsb3dpbmcgY29kZSBpbiB5b3VyIGFwcCB0byByZXNldCBpdCAhJywKTWFpbiB0aXRsZTogJ0ZPUkdPVCBZT1VSIFBJTiBDT0RFPycsClVzYWdlIG9mIG1vYmlsZSBidXR0b24gOiAnT24gbW9iaWxlID8gVGFwIHRoaXMgYnV0dG9uIHRvIG9wZW4geW91ciBhcHAgYW5kIHJlc2V0IHlvdXIgcGluIGNvZGUgZGlyZWN0bHkgIScKTWFpbCBzdWJqZWN0OiAnRm9yZ290IHlvdXIgcGluIGNvZGU/JywKQ29udGVudCBUaXRsZTogJ0ZvcmdvdCBwaW4gY29kZScsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZmVhdChyZXNldFBpbkNvZGUpOiBhZGQgL3VzZXJzL3BpbkNvZGUgUFVUIHJvdXRlICYgYXNzb2NpYXRlZCBtZXRob2RzL3NjaGVtYXM=</text>
+        <text>tests(resetPinCode): add functional tests</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9nZ2VkSW5TY2hlbWEgfSBmcm9tICcuLi8uLi8uLi8uLi9zcmMvc2NoZW1hcy91c2VyJzsK</text>
+        <text>}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgcGluQ29kZSB9Cg==</text>
+        <text encoding="base64">aGVhZGVySW1hZ2U6IGAke0NMT1VERlJPTlRfRU5EUE9JTlR9L2Fzc2V0cy9lbWFpbHMvaW1hZ2VzL3Jlc2V0LXBhc3N3b3JkLnBuZ2AsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHZhbGlkYXRlRW5kcG9pbnQoCiAgICAgICAgc2VydmVyLAogICAgICAgIHsgbWV0aG9kOiAnUE9TVCcsIHVybDogJy9hcGkvdjEvbG9naW4nLCBwYXlsb2FkOiB7IGVtYWlsOiAndXNlcjJAdXNlci5pbycsIHBpbkNvZGU6ICduZXdQYXNzd29yZDEyMycgfSB9LAogICAgICAgIGxvZ2dlZEluU2NoZW1hLAogICAgICAgIDIwMAogICAgKTsK</text>
+        <text encoding="base64">cmVzZXRQaW5Db2RlOiB7CmNvbnRlbnQ6IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -317,9 +312,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>console</last-search>
+      <last-search>locale</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>locale</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

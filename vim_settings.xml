@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>DidMount</entry>
         <entry>lookUp</entry>
         <entry>lookup</entry>
         <entry encoding="base64">XDxsb29rdXBcPg==</entry>
@@ -25,6 +24,7 @@
         <entry>following</entry>
         <entry>console</entry>
         <entry>locale</entry>
+        <entry>password</entry>
       </history-search>
       <history-cmd>
         <entry>32</entry>
@@ -90,13 +90,6 @@
         <mark key="." line="296" column="0" />
         <mark key="^" line="295" column="75" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/users/UsersManager.ts" timestamp="1594823851793">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="98" column="55" />
-        <mark key="]" line="98" column="70" />
-        <mark key="." line="98" column="69" />
-        <mark key="^" line="98" column="70" />
-      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/core/queue/mailer.ts" timestamp="1594887918863">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -116,13 +109,24 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1594886698422">
-        <mark key="'" line="23" column="4" />
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1594903576550">
+        <mark key="'" line="24" column="4" />
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="52" />
+        <mark key="." line="16" column="51" />
+        <mark key="^" line="16" column="52" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/005-genflow-users.js" timestamp="1594902327177">
+        <mark key="'" line="43" column="31" />
+        <mark key="[" line="38" column="17" />
+        <mark key="]" line="38" column="17" />
+        <mark key="." line="38" column="16" />
+        <mark key="^" line="38" column="17" />
       </file>
       <file name="/user_credentials [MySQL - @localhost]" timestamp="1594885038193">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594888505913">
+      <file name="/Dummy.txt" timestamp="1594889097098">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -159,7 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="0" filename="$USER_HOME$/Development/app.nuli/android/app/build.gradle" />
       <jump line="262" column="0" filename="$USER_HOME$/Development/app.nuli/android/app/build.gradle" />
       <jump line="258" column="0" filename="$USER_HOME$/Development/app.nuli/android/app/build.gradle" />
       <jump line="252" column="0" filename="$USER_HOME$/Development/app.nuli/android/app/build.gradle" />
@@ -259,24 +262,25 @@
       <jump line="81" column="35" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/users/resetPinCode.test.ts" />
       <jump line="23" column="47" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/ses.ts" />
       <jump line="23" column="4" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
+      <jump line="43" column="31" filename="$USER_HOME$/Development/api.meliorence.com/migrations/005-genflow-users.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>en</text>
+        <text>API_DOMAIN</text>
       </register>
       <register name="-" type="4">
-        <text>en</text>
+        <text>API_DOMAIN</text>
       </register>
       <register name="/" type="4">
-        <text>locale</text>
+        <text>password</text>
       </register>
-      <register name="0" type="4">
-        <text>messageBody?.locals?.locale</text>
+      <register name="0" type="2">
+        <text encoding="base64">bGV0IGJhc2VVUkw6IHN0cmluZyA9IEFQSV9ET01BSU47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>chore(setting): update</text>
+        <text>fix(mailer): prevent crash when locale in header is non compliant</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -285,25 +289,25 @@
         <text>chore(setting): update</text>
       </register>
       <register name="3" type="2">
-        <text>refactor(i18n): fix typo in SUPPORTED_LOCALS</text>
+        <text>chore(setting): update</text>
       </register>
       <register name="4" type="2">
-        <text>chore(resetPinCode): update email translations</text>
+        <text>refactor(i18n): fix typo in SUPPORTED_LOCALS</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb2NhbGUnLCBsb2NhbGUpCiAgICBjb25zb2xlLmxvZygnc3VwcCcsIFNVUFBPUlRFRF9MT0NBTEVTKQogICAgY29uc29sZS5sb2coJ21zZycsIG1lc3NhZ2VCb2R5KTsK</text>
+        <text>chore(resetPinCode): update email translations</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge2RkfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb2NhbGUnLCBsb2NhbGUpCiAgICBjb25zb2xlLmxvZygnc3VwcCcsIFNVUFBPUlRFRF9MT0NBTEVTKQogICAgY29uc29sZS5sb2coJ21zZycsIG1lc3NhZ2VCb2R5KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyA6IHN0cmluZ2lmeSBtc2cgYm9keQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAge2RkfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyA6IHN0cmluZ2lmeSBtc2cgYm9keQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmICghbG9jYWxlKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -312,9 +316,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>locale</last-search>
+      <last-search>password</last-search>
       <last-offset />
-      <last-pattern>locale</last-pattern>
+      <last-pattern>password</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

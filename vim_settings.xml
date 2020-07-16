@@ -109,12 +109,18 @@
         <mark key="^" line="6" column="56" />
         <mark key="." line="6" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1594903576550">
+      <file name="$USER_HOME$/Development/app.nuli/src/views/PinCode.tsx" timestamp="1594903662452">
+        <mark key="[" line="63" column="53" />
+        <mark key="]" line="63" column="55" />
+        <mark key="^" line="63" column="55" />
+        <mark key="." line="63" column="54" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1594904300180">
         <mark key="'" line="24" column="4" />
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="52" />
-        <mark key="." line="16" column="51" />
-        <mark key="^" line="16" column="52" />
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="42" />
+        <mark key="." line="16" column="41" />
+        <mark key="^" line="16" column="42" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/migrations/005-genflow-users.js" timestamp="1594902327177">
         <mark key="'" line="43" column="31" />
@@ -268,10 +274,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>API_DOMAIN</text>
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>API_DOMAIN</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>password</text>

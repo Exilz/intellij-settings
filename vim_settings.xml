@@ -77,10 +77,11 @@
         <mark key="^" line="86" column="14" />
         <mark key="." line="86" column="8" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/emitters/mailerEmitter.ts" timestamp="1594823225245">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/ingredients/post.test.ts" timestamp="1594889031327">
+        <mark key="[" line="42" column="61" />
+        <mark key="]" line="42" column="66" />
+        <mark key="." line="42" column="65" />
+        <mark key="^" line="42" column="66" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/templates/emails/nuli/reset_pincode/html.ejs" timestamp="1594825383949">
         <mark key="'" line="0" column="0" />
@@ -96,11 +97,11 @@
         <mark key="." line="98" column="69" />
         <mark key="^" line="98" column="70" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/queue/mailer.ts" timestamp="1594887105632">
-        <mark key="[" line="10" column="33" />
-        <mark key="]" line="11" column="42" />
-        <mark key="." line="11" column="41" />
-        <mark key="^" line="11" column="42" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/queue/mailer.ts" timestamp="1594887918863">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="15" column="53" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/users/resetPinCode.test.ts" timestamp="1594825353917">
         <mark key="'" line="80" column="35" />
@@ -109,11 +110,28 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="80" column="36" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli.external/.gitignore" timestamp="1594816868261">
-        <mark key="[" line="28" column="1" />
-        <mark key="]" line="29" column="10" />
-        <mark key="^" line="29" column="10" />
-        <mark key="." line="29" column="9" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/models/i18n.ts" timestamp="1594887209766">
+        <mark key="[" line="6" column="51" />
+        <mark key="]" line="6" column="56" />
+        <mark key="^" line="6" column="56" />
+        <mark key="." line="6" column="55" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1594886698422">
+        <mark key="'" line="23" column="4" />
+      </file>
+      <file name="/user_credentials [MySQL - @localhost]" timestamp="1594885038193">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594888505913">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/unit/services/mailchimp.test.ts" timestamp="1594888979340">
+        <mark key="[" line="42" column="111" />
+        <mark key="]" line="42" column="116" />
+        <mark key="^" line="42" column="116" />
+        <mark key="." line="42" column="115" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/core/auth/index.ts" timestamp="1594824281652">
         <mark key="'" line="31" column="49" />
@@ -121,12 +139,6 @@
         <mark key="]" line="31" column="50" />
         <mark key="^" line="31" column="50" />
         <mark key="." line="31" column="49" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/models/i18n.ts" timestamp="1594887209766">
-        <mark key="[" line="6" column="51" />
-        <mark key="]" line="6" column="56" />
-        <mark key="^" line="6" column="56" />
-        <mark key="." line="6" column="55" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1594830616723">
         <mark key="[" line="0" column="0" />
@@ -139,23 +151,11 @@
       <file name="/dev.user_credentials" timestamp="1594885038203">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1594886698422">
-        <mark key="'" line="23" column="4" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1594887186944">
+      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1594888451747">
         <mark key="[" line="7" column="53" />
         <mark key="]" line="7" column="176" />
         <mark key="." line="7" column="175" />
         <mark key="^" line="7" column="176" />
-      </file>
-      <file name="/user_credentials [MySQL - @localhost]" timestamp="1594885038193">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/user.ts" timestamp="1594823826016">
-        <mark key="[" line="203" column="25" />
-        <mark key="]" line="203" column="42" />
-        <mark key="." line="203" column="41" />
-        <mark key="^" line="203" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -264,10 +264,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>en-US</text>
+        <text>en</text>
       </register>
       <register name="-" type="4">
-        <text>en-US</text>
+        <text>en</text>
       </register>
       <register name="/" type="4">
         <text>locale</text>
@@ -276,34 +276,34 @@
         <text>messageBody?.locals?.locale</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
+        <text>chore(setting): update</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICghbG9jYWxlKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
+        <text>chore(setting): update</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxvY2FsZSA9IG1lc3NhZ2VCb2R5Py5sb2NhbHM/LmxvY2FsZSB8fCBGQUxMQkFDS19MT0NBTEU7Cg==</text>
+        <text>refactor(i18n): fix typo in SUPPORTED_LOCALS</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QnV0dG9uIHRleHQ6ICdSRVNFVCBQSU4gQ09ERScsCk1lc3NhZ2U6ICdUeXBlIHRoZSBmb2xsb3dpbmcgY29kZSBpbiB5b3VyIGFwcCB0byByZXNldCBpdCAhJywKTWFpbiB0aXRsZTogJ0ZPUkdPVCBZT1VSIFBJTiBDT0RFPycsClVzYWdlIG9mIG1vYmlsZSBidXR0b24gOiAnT24gbW9iaWxlID8gVGFwIHRoaXMgYnV0dG9uIHRvIG9wZW4geW91ciBhcHAgYW5kIHJlc2V0IHlvdXIgcGluIGNvZGUgZGlyZWN0bHkgIScKTWFpbCBzdWJqZWN0OiAnRm9yZ290IHlvdXIgcGluIGNvZGU/JywKQ29udGVudCBUaXRsZTogJ0ZvcmdvdCBwaW4gY29kZScsCg==</text>
+        <text>chore(resetPinCode): update email translations</text>
       </register>
       <register name="5" type="2">
-        <text>tests(resetPinCode): add functional tests</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb2NhbGUnLCBsb2NhbGUpCiAgICBjb25zb2xlLmxvZygnc3VwcCcsIFNVUFBPUlRFRF9MT0NBTEVTKQogICAgY29uc29sZS5sb2coJ21zZycsIG1lc3NhZ2VCb2R5KTsK</text>
       </register>
       <register name="6" type="2">
-        <text>}</text>
+        <text encoding="base64">ICAgICAgICAgICAge2RkfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aGVhZGVySW1hZ2U6IGAke0NMT1VERlJPTlRfRU5EUE9JTlR9L2Fzc2V0cy9lbWFpbHMvaW1hZ2VzL3Jlc2V0LXBhc3N3b3JkLnBuZ2AsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyA6IHN0cmluZ2lmeSBtc2cgYm9keQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fSwK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVzZXRQaW5Db2RlOiB7CmNvbnRlbnQ6IHsK</text>
+        <text encoding="base64">ICAgIGlmICghbG9jYWxlKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

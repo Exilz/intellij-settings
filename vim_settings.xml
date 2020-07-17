@@ -83,12 +83,12 @@
         <mark key="^" line="57" column="30" />
         <mark key="." line="57" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" timestamp="1594976713472">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" timestamp="1594979792569">
         <mark key="'" line="45" column="11" />
-        <mark key="[" line="44" column="7" />
-        <mark key="]" line="44" column="14" />
-        <mark key="." line="44" column="13" />
-        <mark key="^" line="44" column="14" />
+        <mark key="[" line="37" column="87" />
+        <mark key="]" line="37" column="98" />
+        <mark key="." line="37" column="97" />
+        <mark key="^" line="37" column="98" />
       </file>
       <file name="$USER_HOME$/Development/admin.meliorence.com/pages/logout.tsx" timestamp="1594977733198" />
       <file name="$USER_HOME$/Development/admin.meliorence.com/store/api.ts" timestamp="1594977757688">
@@ -119,26 +119,22 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/.env" timestamp="1594976381605">
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="16" column="27" />
-      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/hooks/user.ts" timestamp="1594979022791">
         <mark key="[" line="27" column="30" />
         <mark key="]" line="27" column="53" />
         <mark key="." line="27" column="52" />
         <mark key="^" line="27" column="53" />
       </file>
-      <file name="$USER_HOME$/Development/admin.meliorence.com/next.config.js" timestamp="1594977702168">
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="25" column="57" />
-        <mark key="^" line="25" column="57" />
-        <mark key="." line="25" column="56" />
-      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/post/facebook.ts" timestamp="1594978955995">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="68" />
         <mark key="." line="48" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/bootstrap.ts" timestamp="1594979702989">
+        <mark key="[" line="36" column="27" />
+        <mark key="]" line="36" column="28" />
+        <mark key="^" line="36" column="28" />
+        <mark key="." line="36" column="27" />
       </file>
       <file name="/user [MySQL - @localhost]" timestamp="1594978849406">
         <mark key="[" line="0" column="0" />
@@ -272,10 +268,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>from templates folder</text>
+        <text>template</text>
       </register>
       <register name="-" type="4">
-        <text>from templates folder</text>
+        <text>template</text>
       </register>
       <register name="/" type="4">
         <text>Alert</text>

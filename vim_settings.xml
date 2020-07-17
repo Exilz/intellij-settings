@@ -130,11 +130,10 @@
         <mark key="]" line="48" column="68" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/bootstrap.ts" timestamp="1594979702989">
-        <mark key="[" line="36" column="27" />
-        <mark key="]" line="36" column="28" />
-        <mark key="^" line="36" column="28" />
-        <mark key="." line="36" column="27" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/bootstrap.ts" timestamp="1594981158130">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="/user [MySQL - @localhost]" timestamp="1594978849406">
         <mark key="[" line="0" column="0" />
@@ -267,8 +266,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>template</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IG1kcCA9IGF3YWl0IGhhc2hQYXNzd29yZCgnWW9raTAzMTYyMDIwJyk7CiAgICBjb25zb2xlLmxvZygnbWRwJywgbWRwKTsKCg==</text>
       </register>
       <register name="-" type="4">
         <text>template</text>
@@ -280,34 +279,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGxvY2FsZTogcmVxPy5oZWFkZXJzWyd4LWxvY2FsZSddIHx8IEZBTExCQUNLX0xPQ0FMRSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyA6IHNldCBsb2NhbGUgdXBvbiByZWdpc3RyYXRpb24gZGlyZWN0bHkgc28gaXQncyBhbHNvIGFjY2Vzc2libGUgaW4gYWZ0ZXJDcmVhdGUgaG9vawo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1kcCA9IGF3YWl0IGhhc2hQYXNzd29yZCgnWW9raTAzMTYyMDIwJyk7CiAgICBjb25zb2xlLmxvZygnbWRwJywgbWRwKTsKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>chore(nextConfig): add defaultLocale env var</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyA6IHNldCBsb2NhbGUgdXBvbiByZWdpc3RyYXRpb24gZGlyZWN0bHkgc28gaXQncyBhbHNvIGFjY2Vzc2libGUgaW4gYWZ0ZXJDcmVhdGUgaG9vawo=</text>
       </register>
       <register name="3" type="2">
-        <text>fix(WorkoutcircuitsDND): remove old &quot;circuitId&quot; property</text>
+        <text>chore(nextConfig): add defaultLocale env var</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text>fix(WorkoutcircuitsDND): remove old &quot;circuitId&quot; property</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgeyBwdWJsaWNSdW50aW1lQ29uZmlnIH0gPSBnZXRDb25maWcoKTsK</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVnaXN0cmF0aW9uLmVuYWJsZWQpCg==</text>
+        <text encoding="base64">Y29uc3QgeyBwdWJsaWNSdW50aW1lQ29uZmlnIH0gPSBnZXRDb25maWcoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVnaXN0cmF0aW9uLmVuYWJsZWQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZnJlZVRyaWFsIH0gPSBpbkFwcFB1cmNoYXNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZyb21OYW1lOiBzdHJpbmc7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgZnJlZVRyaWFsIH0gPSBpbkFwcFB1cmNoYXNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

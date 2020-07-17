@@ -78,15 +78,15 @@
         <mark key="." line="5" column="81" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/package.json" timestamp="1594992193494" />
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/mailchimp.ts" timestamp="1594993001463">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/mailchimp.ts" timestamp="1594995391509">
         <mark key="'" line="133" column="41" />
-        <mark key="[" line="130" column="90" />
-        <mark key="]" line="130" column="96" />
-        <mark key="." line="130" column="95" />
-        <mark key="^" line="130" column="96" />
+        <mark key="[" line="138" column="16" />
+        <mark key="]" line="138" column="18" />
+        <mark key="." line="138" column="17" />
+        <mark key="^" line="138" column="18" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" timestamp="1594992894985">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" timestamp="1594994941042">
+        <mark key="'" line="59" column="0" />
         <mark key="[" line="53" column="12" />
         <mark key="]" line="53" column="12" />
         <mark key="." line="53" column="11" />
@@ -95,7 +95,7 @@
       <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1594991109182">
         <mark key="'" line="11" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1594993094035">
+      <file name="/JavaScript Console" timestamp="1594995394492">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/post/google.ts" timestamp="1594987957309">
@@ -116,7 +116,7 @@
         <mark key="^" line="24" column="157" />
         <mark key="." line="24" column="156" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/hooks/user.ts" timestamp="1594993092512">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/hooks/user.ts" timestamp="1594995792214">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="25" column="12" />
         <mark key="]" line="25" column="12" />
@@ -159,12 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="11" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" />
-      <jump line="109" column="16" filename="$USER_HOME$/Development/api.meliorence.com/src/core/settings/appConfig.ts" />
-      <jump line="23" column="70" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
-      <jump line="84" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
-      <jump line="91" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
-      <jump line="100" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
       <jump line="52" column="23" filename="$USER_HOME$/Development/api.meliorence.com/src/core/settings/appConfig.ts" />
       <jump line="67" column="6" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
       <jump line="85" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
@@ -259,15 +253,21 @@
       <jump line="11" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
       <jump line="16" column="37" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" />
+      <jump line="20" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" />
+      <jump line="67" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" />
+      <jump line="17" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" />
+      <jump line="21" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" />
+      <jump line="37" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" />
+      <jump line="59" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXdhaXQg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Alert</text>
@@ -276,34 +276,34 @@
         <text encoding="base64">ZXhwb3J0IHR5cGUgT25lU2lnbmFsUmVjaXBpZW50ID0geyB1c2VySWQ6IHN0cmluZyB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlcyA9IGF3YWl0IHJlcS5qc29uKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdTVUInLCByZXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIC8vIFRPRE8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGZldGNoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IGZldGNoKGAke2RvbWFpbn0vYmF0Y2hlc2AsIHsgbWV0aG9kOiAnUE9TVCcsCg==</text>
+        <text encoding="base64">ICAgICAgIC8vIFRPRE8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIC8vIFRPRE8gOiBhd2FpdCBpbnNjcmlwdGlvbiBhdWRpZW5jZQo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IGZldGNoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodXNlci5zdWJzY3JpcHRpb25zKSB7CiAgICAgICAgICAgIG1lcmdlRmllbGRzWydTVUJTVEFUVVMnXSA9IAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGF3YWl0IGZldGNoKGAke2RvbWFpbn0vYmF0Y2hlc2AsIHsgbWV0aG9kOiAnUE9TVCcsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodXNlci5zdWJzY3JpcHRpb25zKSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgIC8vIFRPRE8gOiBhd2FpdCBpbnNjcmlwdGlvbiBhdWRpZW5jZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU1VCU1RBVFVTOiAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodXNlci5zdWJzY3JpcHRpb25zKSB7CiAgICAgICAgICAgIG1lcmdlRmllbGRzWydTVUJTVEFUVVMnXSA9IAogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

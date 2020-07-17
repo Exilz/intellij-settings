@@ -71,6 +71,12 @@
       <file name="/dev.user" timestamp="1594978849425">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/emitters/mailerEmitter.ts" timestamp="1594979214813">
+        <mark key="[" line="5" column="72" />
+        <mark key="]" line="5" column="82" />
+        <mark key="^" line="5" column="82" />
+        <mark key="." line="5" column="81" />
+      </file>
       <file name="$USER_HOME$/Development/nuli.infrastructure/conf/production.json" timestamp="1594977894095">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="32" />
@@ -101,12 +107,12 @@
         <mark key="]" line="58" column="32" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/settings/appConfig.ts" timestamp="1594976922971">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/settings/appConfig.ts" timestamp="1594979229759">
         <mark key="'" line="52" column="23" />
-        <mark key="[" line="84" column="44" />
-        <mark key="]" line="84" column="54" />
-        <mark key="^" line="84" column="54" />
-        <mark key="." line="84" column="53" />
+        <mark key="[" line="16" column="43" />
+        <mark key="]" line="16" column="39" />
+        <mark key="^" line="16" column="39" />
+        <mark key="." line="16" column="38" />
       </file>
       <file name="/Dummy.txt" timestamp="1594977840180">
         <mark key="[" line="0" column="11" />
@@ -117,11 +123,11 @@
         <mark key="[" line="16" column="15" />
         <mark key="]" line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/hooks/user.ts" timestamp="1594977138162">
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="27" column="37" />
-        <mark key="." line="27" column="36" />
-        <mark key="^" line="27" column="37" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/hooks/user.ts" timestamp="1594979022791">
+        <mark key="[" line="27" column="30" />
+        <mark key="]" line="27" column="53" />
+        <mark key="." line="27" column="52" />
+        <mark key="^" line="27" column="53" />
       </file>
       <file name="$USER_HOME$/Development/admin.meliorence.com/next.config.js" timestamp="1594977702168">
         <mark key="[" line="25" column="12" />
@@ -140,15 +146,12 @@
       <file name="/foo.bar" timestamp="1594978849440">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dev.user_credentials" timestamp="1594971019246">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1594976913426">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="67" column="6" />
-        <mark key="]" line="67" column="37" />
-        <mark key="^" line="67" column="44" />
-        <mark key="." line="67" column="43" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1594979103779">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="23" column="38" />
+        <mark key="]" line="23" column="37" />
+        <mark key="^" line="23" column="37" />
+        <mark key="." line="23" column="36" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/post/apple.ts" timestamp="1594978947728">
         <mark key="[" line="54" column="0" />
@@ -164,9 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
-      <jump line="107" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
-      <jump line="91" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
       <jump line="111" column="34" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
       <jump line="158" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
       <jump line="110" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/ForgotPinCode.tsx" />
@@ -264,15 +264,18 @@
       <jump line="91" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
       <jump line="100" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
       <jump line="52" column="23" filename="$USER_HOME$/Development/api.meliorence.com/src/core/settings/appConfig.ts" />
+      <jump line="67" column="6" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
+      <jump line="85" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyA6IHNldCBsb2NhbGUgdXBvbiByZWdpc3RyYXRpb24gZGlyZWN0bHkgc28gaXQncyBhbHNvIGFjY2Vzc2libGUgaW4gYWZ0ZXJDcmVhdGUgaG9vawo=</text>
+      <register name="&quot;" type="4">
+        <text>from templates folder</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>from templates folder</text>
       </register>
       <register name="/" type="4">
         <text>Alert</text>

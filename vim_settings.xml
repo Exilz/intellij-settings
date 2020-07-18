@@ -72,8 +72,11 @@
         <mark key="^" line="16" column="39" />
         <mark key="." line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/Development/test-liveedit/index.html" timestamp="1595072604233">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/Development/test-liveedit/index.html" timestamp="1595072796866">
+        <mark key="d" line="7" column="10" />
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="11" />
+        <mark key="." line="7" column="11" />
       </file>
       <file name="/Dummy.txt" timestamp="1594998324822">
         <mark key="[" line="0" column="0" />
@@ -108,6 +111,9 @@
         <mark key="." line="53" column="11" />
         <mark key="^" line="53" column="12" />
       </file>
+      <file name="/" timestamp="1595072782533">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/core/bootstrap.ts" timestamp="1594987691267">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -123,7 +129,7 @@
         <mark key="^" line="23" column="37" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1594996837897">
+      <file name="/JavaScript Console" timestamp="1595072778230">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/post/apple.ts" timestamp="1594987931355">
@@ -299,7 +305,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />

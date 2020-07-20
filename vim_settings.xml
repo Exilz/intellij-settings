@@ -89,11 +89,11 @@
         <mark key="." line="10" column="44" />
         <mark key="^" line="10" column="45" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/IOSSubscriptionManager.ts" timestamp="1595235402260">
-        <mark key="[" line="95" column="91" />
-        <mark key="]" line="96" column="28" />
-        <mark key="^" line="96" column="28" />
-        <mark key="." line="96" column="27" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/IOSSubscriptionManager.ts" timestamp="1595236479127">
+        <mark key="[" line="117" column="27" />
+        <mark key="]" line="117" column="28" />
+        <mark key="^" line="117" column="28" />
+        <mark key="." line="117" column="27" />
       </file>
       <file name="/JavaScript Console" timestamp="1595072778230">
         <mark key="[" line="0" column="0" />
@@ -256,10 +256,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>.splice(0, 100),</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>.splice(0, 100),</text>
       </register>
       <register name="/" type="4">
         <text>Alert</text>

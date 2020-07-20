@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>direcl</entry>
-        <entry>directl</entry>
         <entry>keyst</entry>
         <entry>androi</entry>
         <entry>following</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxpZFw+</entry>
         <entry>mapState</entry>
         <entry>Alert</entry>
+        <entry>oneis</entry>
+        <entry>onesi</entry>
       </history-search>
       <history-cmd>
         <entry>32</entry>
@@ -66,7 +66,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1595238021656" />
-      <file name="/setting [MySQL - @localhost]" timestamp="1595238041042">
+      <file name="/setting [MySQL - @localhost]" timestamp="1595250255898">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/user_subscription [MySQL - @localhost]" timestamp="1595233678373">
@@ -90,12 +90,7 @@
       <file name="/dummy.sql" timestamp="1595233690664">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/252e5c1f-189a-4e5c-86d1-2566f707d91f/console.sql" timestamp="1595232696319">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-      </file>
-      <file name="/dev.setting" timestamp="1595238041056">
+      <file name="/dev.setting" timestamp="1595250255910">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/package.json" timestamp="1595238484370">
@@ -105,7 +100,7 @@
         <mark key="^" line="24" column="156" />
         <mark key="." line="24" column="155" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/.env" timestamp="1595234681416" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/.env" timestamp="1595250251186" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer1.txt" timestamp="1595238125565">
         <mark key="[" line="1" column="2" />
         <mark key="]" line="1" column="2" />
@@ -129,15 +124,22 @@
       <file name="/dev.user_subscription" timestamp="1595233678386">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1595238041068">
+      <file name="/foo.bar" timestamp="1595250255920">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1595238138597">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1595250260566">
+        <mark key="'" line="15" column="4" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="^" line="23" column="37" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/onesignal.ts" timestamp="1595250430444">
+        <mark key="'" line="58" column="27" />
+        <mark key="[" line="58" column="28" />
+        <mark key="]" line="58" column="31" />
+        <mark key="^" line="58" column="31" />
+        <mark key="." line="58" column="30" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" timestamp="1595235374302">
         <mark key="[" line="102" column="51" />
@@ -147,14 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="6" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
-      <jump line="85" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
-      <jump line="58" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/post/apple.ts" />
-      <jump line="53" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/post/facebook.ts" />
-      <jump line="73" column="28" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/mailchimp.ts" />
-      <jump line="115" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/mailchimp.ts" />
-      <jump line="108" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/mailchimp.ts" />
       <jump line="101" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/mailchimp.ts" />
       <jump line="87" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/mailchimp.ts" />
       <jump line="79" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/mailchimp.ts" />
@@ -247,18 +241,26 @@
       <jump line="37" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" />
       <jump line="59" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" />
       <jump line="78" column="28" filename="$USER_HOME$/Development/api.meliorence.com/package.json" />
+      <jump line="15" column="4" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
+      <jump line="16" column="34" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/onesignal.ts" />
+      <jump line="17" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/onesignal.ts" />
+      <jump line="23" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/onesignal.ts" />
+      <jump line="42" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/onesignal.ts" />
+      <jump line="49" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/onesignal.ts" />
+      <jump line="55" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/onesignal.ts" />
+      <jump line="58" column="27" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/onesignal.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>sub</text>
+        <text>{};</text>
       </register>
       <register name="-" type="4">
-        <text>sub</text>
+        <text>{};</text>
       </register>
       <register name="/" type="4">
-        <text>Alert</text>
+        <text>onesi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgIC8vIHNlbmRNZXNzYWdlKAogICAgICAgLy8gICAgIFF1ZXVlcy5SZW5ld0lPU1N1YnNjcmlwdGlvbnMsCiAgICAgICAvLyAgICAgc3Vic2NyaXB0aW9uc0NodW5rLm1hcCgoc3ViKSA9PiAoeyByZWNlaXB0OiBzdWIubGF0ZXN0UmVjZWlwdCB9KSksCiAgICAgICAvLyAgICAge30sCiAgICAgICAvLyAgICAgeyBidWxrOiB0cnVlIH0KICAgICAgIC8vICk7Cg==</text>
@@ -300,9 +302,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Alert</last-search>
+      <last-search>onesi</last-search>
       <last-offset />
-      <last-pattern>Alert</last-pattern>
+      <last-pattern>onesi</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

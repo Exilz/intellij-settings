@@ -89,7 +89,7 @@
         <mark key="." line="10" column="44" />
         <mark key="^" line="10" column="45" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/IOSSubscriptionManager.ts" timestamp="1595234456938">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/IOSSubscriptionManager.ts" timestamp="1595235402260">
         <mark key="[" line="95" column="91" />
         <mark key="]" line="96" column="28" />
         <mark key="^" line="96" column="28" />
@@ -143,11 +143,11 @@
       <file name="/foo.bar" timestamp="1595233678398">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" timestamp="1595233938163">
-        <mark key="[" line="99" column="67" />
-        <mark key="]" line="99" column="97" />
-        <mark key="^" line="99" column="97" />
-        <mark key="." line="99" column="96" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" timestamp="1595235374302">
+        <mark key="[" line="102" column="51" />
+        <mark key="]" line="102" column="79" />
+        <mark key="^" line="102" column="79" />
+        <mark key="." line="102" column="78" />
       </file>
     </filemarks>
     <jumps>
@@ -256,10 +256,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>process.env.NODE_ENV !== 'production';</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>process.env.NODE_ENV !== 'production';</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>Alert</text>

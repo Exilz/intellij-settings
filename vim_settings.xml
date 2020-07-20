@@ -101,6 +101,9 @@
         <mark key="]" line="130" column="4" />
         <mark key="." line="130" column="4" />
       </file>
+      <file name="/user_subscription [MySQL - @localhost]" timestamp="1595231454218">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/post/facebook.ts" timestamp="1594987948521">
         <mark key="'" line="52" column="0" />
       </file>
@@ -118,6 +121,15 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" timestamp="1595231469124">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="6" column="26" />
+      </file>
+      <file name="/dev.user_subscription" timestamp="1595231454219">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1594991109182">
         <mark key="'" line="11" column="0" />
@@ -141,6 +153,9 @@
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1595231454220">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -248,17 +263,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmVhdChub3RpZmljYXRpb24pOiBoYW5kbGUgc2VzICYgbWFpbGNoaW1wLXdvcmtmbG93IHByb3ZpZGVycyBpbiBzZW5kTm90aWZpY2F0aW9uKCk=</text>
+      <register name="&quot;" type="4">
+        <text>process.env.IAP_TEST_MODE === 'true';</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3QgcmVxID0g</text>
+        <text>process.env.IAP_TEST_MODE === 'true';</text>
       </register>
       <register name="/" type="4">
         <text>Alert</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IHR5cGUgT25lU2lnbmFsUmVjaXBpZW50ID0geyB1c2VySWQ6IHN0cmluZyB9Cg==</text>
+        <text encoding="base64">Y29uc3QgaWFwVGVzdE1vZGUgPSBwcm9jZXNzLmVudi5JQVBfVEVTVF9NT0RFID09PSAndHJ1ZSc7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZmVhdChub3RpZmljYXRpb24pOiBoYW5kbGUgc2VzICYgbWFpbGNoaW1wLXdvcmtmbG93IHByb3ZpZGVycyBpbiBzZW5kTm90aWZpY2F0aW9uKCk=</text>
@@ -305,7 +320,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />

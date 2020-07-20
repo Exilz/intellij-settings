@@ -72,19 +72,19 @@
       <file name="/user_subscription [MySQL - @localhost]" timestamp="1595233678373">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/crons/renewIOSSubscriptions.ts" timestamp="1595233855494">
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="10" column="45" />
-        <mark key="." line="10" column="44" />
-        <mark key="^" line="10" column="45" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/crons/renewIOSSubscriptions.ts" timestamp="1595239947165">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="45" />
+        <mark key="." line="3" column="44" />
+        <mark key="^" line="3" column="45" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/IOSSubscriptionManager.ts" timestamp="1595239112862">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/IOSSubscriptionManager.ts" timestamp="1595239919408">
         <mark key="[" line="119" column="77" />
         <mark key="]" line="119" column="76" />
         <mark key="^" line="119" column="76" />
         <mark key="." line="119" column="75" />
       </file>
-      <file name="/JavaScript Console" timestamp="1595238986522">
+      <file name="/JavaScript Console" timestamp="1595240026763">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1595233690664">
@@ -120,11 +120,11 @@
         <mark key="." line="126" column="0" />
         <mark key="^" line="144" column="12" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/queue/handlers.ts" timestamp="1595237780651">
-        <mark key="[" line="21" column="45" />
-        <mark key="]" line="22" column="40" />
-        <mark key="." line="22" column="39" />
-        <mark key="^" line="22" column="40" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/queue/handlers.ts" timestamp="1595240271059">
+        <mark key="[" line="22" column="41" />
+        <mark key="]" line="22" column="53" />
+        <mark key="." line="22" column="52" />
+        <mark key="^" line="22" column="53" />
       </file>
       <file name="/dev.user_subscription" timestamp="1595233678386">
         <mark key="[" line="0" column="0" />
@@ -251,11 +251,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICB7fSwKICAgICAgICAgICB7IGJ1bGs6IHRydWUgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>sub</text>
       </register>
       <register name="-" type="4">
-        <text>25</text>
+        <text>sub</text>
       </register>
       <register name="/" type="4">
         <text>Alert</text>
@@ -264,34 +264,34 @@
         <text encoding="base64">ICAgICAgIC8vIHNlbmRNZXNzYWdlKAogICAgICAgLy8gICAgIFF1ZXVlcy5SZW5ld0lPU1N1YnNjcmlwdGlvbnMsCiAgICAgICAvLyAgICAgc3Vic2NyaXB0aW9uc0NodW5rLm1hcCgoc3ViKSA9PiAoeyByZWNlaXB0OiBzdWIubGF0ZXN0UmVjZWlwdCB9KSksCiAgICAgICAvLyAgICAge30sCiAgICAgICAvLyAgICAgeyBidWxrOiB0cnVlIH0KICAgICAgIC8vICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICB7fSwKICAgICAgICAgICB7IGJ1bGs6IHRydWUgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB7fSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1JlbmV3JywgaW5kZXgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7IGJ1bGs6IHRydWUgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICB7fSwKICAgICAgICAgICB7IGJ1bGs6IHRydWUgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtc2dzJywgbXNncyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7fSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb25zQ2h1bmsubWFwKChzdWIpID0+ICh7IHJlY2VpcHQ6IHN1Yi5sYXRlc3RSZWNlaXB0IH0pKSwK</text>
+        <text encoding="base64">ICAgICAgICB7IGJ1bGs6IHRydWUgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdtc2dzJywgbXNncyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdSZW5ldy4uLicpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdWJzY3JpcHRpb25zQ2h1bmsubWFwKChzdWIpID0+ICh7IHJlY2VpcHQ6IHN1Yi5sYXRlc3RSZWNlaXB0IH0pKSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdSZW5ldy4uLicpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>following</entry>
         <entry>console</entry>
         <entry>locale</entry>
         <entry>password</entry>
@@ -25,6 +24,7 @@
         <entry>onesi</entry>
         <entry>DELETE</entry>
         <entry>delete</entry>
+        <entry encoding="base64">XDxjb25zdW1lclw+</entry>
       </history-search>
       <history-cmd>
         <entry>32</entry>
@@ -62,6 +62,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1595266442060">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/progression.ts" timestamp="1595261110331">
+        <mark key="'" line="559" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/deleteItem.ts" timestamp="1595253973554">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="14" column="28" />
@@ -72,35 +80,22 @@
       <file name="/fragment.js" timestamp="1595264367392">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/workoutHistory.ts" timestamp="1595253847138" />
-      <file name="/user_subscription [MySQL - @localhost]" timestamp="1595262571606">
+      <file name="/dev.user" timestamp="1595317988686">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/weekProgression.ts" timestamp="1595252953095">
-        <mark key="'" line="12" column="6" />
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="12" column="6" />
-        <mark key="." line="12" column="6" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1595266622720">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="252e5c1f-189a-4e5c-86d1-2566f707d91f/schema/dev/table/workout_history.sql" timestamp="1595252785727" />
-      <file name="/dummy.sql" timestamp="1595265396488">
-        <mark key="[" line="0" column="46" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1595266442060">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/progression.ts" timestamp="1595261110331">
-        <mark key="'" line="559" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/252e5c1f-189a-4e5c-86d1-2566f707d91f/console.sql" timestamp="1595257387417">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/.env" timestamp="1595317612007">
+        <mark key="[" line="27" column="35" />
+        <mark key="]" line="27" column="45" />
+        <mark key="." line="27" column="44" />
+        <mark key="^" line="27" column="45" />
+      </file>
+      <file name="/user_subscription [MySQL - @localhost]" timestamp="1595317999750">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/core/bootstrap.ts" timestamp="1595262514342">
         <mark key="[" line="36" column="3" />
@@ -108,11 +103,20 @@
         <mark key="." line="36" column="57" />
         <mark key="^" line="36" column="58" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" timestamp="1595268804045">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" timestamp="1595316712220">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="26" />
         <mark key="." line="6" column="25" />
         <mark key="^" line="6" column="26" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/IOSSubscriptionManager.ts" timestamp="1595317454335">
+        <mark key="[" line="116" column="34" />
+        <mark key="]" line="116" column="36" />
+        <mark key="." line="116" column="35" />
+        <mark key="^" line="116" column="36" />
+      </file>
+      <file name="/user [MySQL - @localhost]" timestamp="1595317988666">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/utils/locales/enUS.ts" timestamp="1595254201860">
         <mark key="[" line="311" column="8" />
@@ -120,26 +124,28 @@
         <mark key="." line="311" column="7" />
         <mark key="^" line="311" column="8" />
       </file>
-      <file name="/dev.user_subscription" timestamp="1595262571622">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/queue/index.ts" timestamp="1595317920890">
+        <mark key="'" line="85" column="8" />
+        <mark key="[" line="159" column="21" />
+        <mark key="]" line="160" column="34" />
+        <mark key="^" line="160" column="34" />
+        <mark key="." line="160" column="33" />
+      </file>
+      <file name="/dev.user_subscription" timestamp="1595317999766">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1595262571633">
+      <file name="/foo.bar" timestamp="1595317999779">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/onesignal.ts" timestamp="1595250430444">
-        <mark key="'" line="58" column="27" />
-        <mark key="[" line="58" column="28" />
-        <mark key="]" line="58" column="31" />
-        <mark key="^" line="58" column="31" />
-        <mark key="." line="58" column="30" />
+      <file name="/JavaScript Console" timestamp="1595266622720">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/setHistory.ts" timestamp="1595253900485" />
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" timestamp="1595265797785">
-        <mark key="'" line="163" column="0" />
-        <mark key="[" line="159" column="75" />
-        <mark key="]" line="159" column="81" />
-        <mark key="." line="159" column="80" />
-        <mark key="^" line="159" column="81" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" timestamp="1595318063227">
+        <mark key="'" line="164" column="0" />
+        <mark key="[" line="109" column="42" />
+        <mark key="]" line="109" column="41" />
+        <mark key="." line="109" column="40" />
+        <mark key="^" line="109" column="41" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/user.ts" timestamp="1595266366139">
         <mark key="'" line="273" column="0" />
@@ -148,14 +154,11 @@
         <mark key="^" line="61" column="45" />
         <mark key="." line="62" column="77" />
       </file>
+      <file name="/dummy.sql" timestamp="1595268911707">
+        <mark key="[" line="0" column="46" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="8" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/TargetedTraining.tsx" />
-      <jump line="160" column="4" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/TargetedTraining.tsx" />
-      <jump line="137" column="4" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/TargetedTraining.tsx" />
-      <jump line="114" column="4" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/TargetedTraining.tsx" />
-      <jump line="108" column="4" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/TargetedTraining.tsx" />
-      <jump line="306" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/TargetedTraining.tsx" />
       <jump line="279" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/TargetedTraining.tsx" />
       <jump line="259" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/TargetedTraining.tsx" />
       <jump line="251" column="0" filename="$USER_HOME$/Development/app.nuli/src/components/Popups/TargetedTraining.tsx" />
@@ -250,21 +253,27 @@
       <jump line="177" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
       <jump line="175" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
       <jump line="162" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
+      <jump line="53" column="14" filename="$USER_HOME$/Development/api.meliorence.com/src/core/queue/index.ts" />
+      <jump line="60" column="72" filename="$USER_HOME$/Development/api.meliorence.com/src/core/queue/index.ts" />
+      <jump line="68" column="8" filename="$USER_HOME$/Development/api.meliorence.com/src/core/queue/index.ts" />
+      <jump line="73" column="8" filename="$USER_HOME$/Development/api.meliorence.com/src/core/queue/index.ts" />
+      <jump line="78" column="8" filename="$USER_HOME$/Development/api.meliorence.com/src/core/queue/index.ts" />
+      <jump line="83" column="8" filename="$USER_HOME$/Development/api.meliorence.com/src/core/queue/index.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHByb2Nlc3MuZW52LklBUF9URVNUX01PREUgPT09ICd0cnVlJzs=</text>
+        <text>process.env.NODE_ENV !== 'production';</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHByb2Nlc3MuZW52LklBUF9URVNUX01PREUgPT09ICd0cnVlJzs=</text>
+        <text>process.env.NODE_ENV !== 'production';</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text encoding="base64">XDxjb25zdW1lclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgaWFwVGVzdE1vZGUgPSBwcm9jZXNzLmVudi5JQVBfVEVTVF9NT0RFID09PSAndHJ1ZSc7Cg==</text>
+        <text encoding="base64">Y29uc3QgQllQQVNTX1FVRVVFID0gcHJvY2Vzcy5lbnYuTk9ERV9FTlYgIT09ICdwcm9kdWN0aW9uJzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cmVmYWN0b3IocXVldWUpOiBpT1MgcmVuZXdhbCAmIG9uZVNpZ25hbCBoYW5kbGVycyBub3cgd29yayB3LyBhcnJheXM=</text>
@@ -303,9 +312,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>delete</last-search>
+      <last-search encoding="base64">XDxjb25zdW1lclw+</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern encoding="base64">XDxjb25zdW1lclw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

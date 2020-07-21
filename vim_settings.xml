@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxvblByZXNzQ29uZmlybVw+</entry>
-        <entry>reset</entry>
         <entry>debounce</entry>
         <entry>TextIn</entry>
         <entry>api</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxyZW5ld1N1YnNjcmlwdGlvbkZyb21SZWNlaXB0XD4=</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
         <entry>consumer.s</entry>
+        <entry encoding="base64">XDxyZW5ld19hbmRyb2lkX3N1YnNjcmlwdGlvbnNcPg==</entry>
+        <entry>limit</entry>
       </history-search>
       <history-cmd>
         <entry>32</entry>
@@ -69,7 +69,6 @@
         <mark key="^" line="11" column="30" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/package.json" timestamp="1595334217170" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1595337450490" />
       <file name="/setting [MySQL - @localhost]" timestamp="1595337414246">
         <mark key="[" line="0" column="0" />
@@ -77,31 +76,40 @@
       <file name="/user_subscription [MySQL - @localhost]" timestamp="1595337995697">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/IOSSubscriptionManager.ts" timestamp="1595336017893">
-        <mark key="'" line="124" column="83" />
-        <mark key="[" line="127" column="87" />
-        <mark key="]" line="127" column="88" />
-        <mark key="^" line="127" column="88" />
-        <mark key="." line="127" column="87" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/crons/renewIOSSubscriptions.ts" timestamp="1595340392353">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="42" />
+        <mark key="." line="17" column="97" />
+        <mark key="^" line="17" column="98" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/IOSSubscriptionManager.ts" timestamp="1595341772226">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="123" column="6" />
+        <mark key="." line="122" column="92" />
+        <mark key="^" line="122" column="93" />
       </file>
       <file name="/dummy.sql" timestamp="1595338050250">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/crons/renewAndroidSubscriptions.ts" timestamp="1595336552292">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="16" column="54" />
-        <mark key="^" line="16" column="54" />
-        <mark key="." line="16" column="53" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/crons/renewAndroidSubscriptions.ts" timestamp="1595340394213">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="42" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/AndroidSubscriptionManager.ts" timestamp="1595338805236">
-        <mark key="'" line="140" column="0" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
-        <mark key="^" line="139" column="25" />
+      <file name="/Dummy.txt" timestamp="1595342073259">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/AndroidSubscriptionManager.ts" timestamp="1595341790565">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="132" column="41" />
+        <mark key="]" line="132" column="48" />
+        <mark key="." line="132" column="47" />
+        <mark key="^" line="132" column="48" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/utils/time.ts" timestamp="1595338759266">
         <mark key="[" line="8" column="1" />
@@ -112,36 +120,24 @@
       <file name="/dev.setting" timestamp="1595337414294">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/package.json" timestamp="1595324285213">
-        <mark key="[" line="24" column="142" />
-        <mark key="]" line="24" column="142" />
-        <mark key="." line="24" column="142" />
-      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/.env" timestamp="1595337149687">
         <mark key="[" line="3" column="18" />
         <mark key="]" line="1" column="13" />
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/bootstrap.ts" timestamp="1595334667284">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="15" column="4" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/queue/index.ts" timestamp="1595338419520">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/queue/index.ts" timestamp="1595342340612">
         <mark key="'" line="36" column="0" />
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="22" column="22" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
         <mark key="^" line="22" column="22" />
-        <mark key="." line="22" column="21" />
+        <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/queue/handlers.ts" timestamp="1595337896093">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="27" column="58" />
-        <mark key="]" line="27" column="71" />
-        <mark key="^" line="27" column="71" />
-        <mark key="." line="27" column="70" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/queue/handlers.ts" timestamp="1595342426734">
+        <mark key="[" line="31" column="17" />
+        <mark key="]" line="32" column="86" />
+        <mark key="^" line="32" column="86" />
+        <mark key="." line="32" column="85" />
       </file>
       <file name="/dev.user_subscription" timestamp="1595337995713">
         <mark key="[" line="0" column="0" />
@@ -155,56 +151,22 @@
         <mark key="." line="5" column="56" />
         <mark key="^" line="5" column="57" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" timestamp="1595338819683">
-        <mark key="'" line="39" column="19" />
-        <mark key="[" line="110" column="20" />
-        <mark key="]" line="110" column="22" />
-        <mark key="." line="110" column="21" />
-        <mark key="^" line="110" column="22" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" timestamp="1595341913448">
+        <mark key="'" line="123" column="0" />
+        <mark key="[" line="133" column="40" />
+        <mark key="]" line="133" column="40" />
+        <mark key="." line="133" column="39" />
+        <mark key="^" line="133" column="40" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" timestamp="1595340507299">
+        <mark key="'" line="132" column="0" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="6" />
+        <mark key="^" line="125" column="52" />
+        <mark key="." line="132" column="6" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/api.ts" />
-      <jump line="16" column="37" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" />
-      <jump line="20" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" />
-      <jump line="67" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" />
-      <jump line="17" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" />
-      <jump line="21" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" />
-      <jump line="37" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" />
-      <jump line="59" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" />
-      <jump line="78" column="28" filename="$USER_HOME$/Development/api.meliorence.com/package.json" />
-      <jump line="15" column="4" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
-      <jump line="16" column="34" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/onesignal.ts" />
-      <jump line="17" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/onesignal.ts" />
-      <jump line="23" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/onesignal.ts" />
-      <jump line="42" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/onesignal.ts" />
-      <jump line="49" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/onesignal.ts" />
-      <jump line="55" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/onesignal.ts" />
-      <jump line="58" column="27" filename="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/onesignal.ts" />
-      <jump line="12" column="6" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/weekProgression.ts" />
-      <jump line="18" column="8" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/deleteItem.ts" />
-      <jump line="14" column="38" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/deleteItem.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/deleteItem.ts" />
-      <jump line="3" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/deleteItem.ts" />
-      <jump line="9" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/deleteItem.ts" />
-      <jump line="23" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/deleteItem.ts" />
-      <jump line="537" column="8" filename="$USER_HOME$/Development/app.nuli/src/utils/progression.ts" />
-      <jump line="539" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/progression.ts" />
-      <jump line="559" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/progression.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
-      <jump line="1" column="35" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
-      <jump line="7" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
-      <jump line="23" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
-      <jump line="37" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
-      <jump line="43" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
-      <jump line="65" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
-      <jump line="71" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
-      <jump line="78" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
-      <jump line="98" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
-      <jump line="113" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
-      <jump line="119" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
-      <jump line="126" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
       <jump line="150" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
       <jump line="178" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
       <jump line="177" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
@@ -224,7 +186,6 @@
       <jump line="75" column="8" filename="$USER_HOME$/Development/api.meliorence.com/src/core/queue/index.ts" />
       <jump line="80" column="8" filename="$USER_HOME$/Development/api.meliorence.com/src/core/queue/index.ts" />
       <jump line="124" column="83" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/IOSSubscriptionManager.ts" />
-      <jump line="115" column="36" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
       <jump line="30" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/crons/renewAndroidSubscriptions.ts" />
       <jump line="23" column="22" filename="$USER_HOME$/Development/api.meliorence.com/src/services/queue/handlers.ts" />
       <jump line="7" column="75" filename="$USER_HOME$/Development/api.meliorence.com/src/services/queue/handlers.ts" />
@@ -264,51 +225,93 @@
       <jump line="109" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/AndroidSubscriptionManager.ts" />
       <jump line="114" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/AndroidSubscriptionManager.ts" />
       <jump line="140" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/AndroidSubscriptionManager.ts" />
+      <jump line="127" column="25" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/AndroidSubscriptionManager.ts" />
+      <jump line="18" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/AndroidSubscriptionManager.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/AndroidSubscriptionManager.ts" />
+      <jump line="98" column="17" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
+      <jump line="7" column="11" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
+      <jump line="8" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
+      <jump line="38" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
+      <jump line="44" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
+      <jump line="66" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
+      <jump line="72" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
+      <jump line="79" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
+      <jump line="99" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
+      <jump line="115" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
+      <jump line="39" column="0" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
+      <jump line="46" column="0" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
+      <jump line="51" column="0" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
+      <jump line="59" column="0" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
+      <jump line="64" column="0" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
+      <jump line="115" column="0" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
+      <jump line="118" column="0" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
+      <jump line="82" column="13" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
+      <jump line="128" column="0" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
+      <jump line="131" column="0" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
+      <jump line="70" column="16" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
+      <jump line="72" column="0" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
+      <jump line="77" column="0" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
+      <jump line="85" column="0" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
+      <jump line="90" column="0" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
+      <jump line="98" column="0" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
+      <jump line="103" column="0" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
+      <jump line="111" column="0" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
+      <jump line="116" column="0" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
+      <jump line="125" column="65" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
+      <jump line="129" column="0" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
+      <jump line="132" column="0" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
+      <jump line="24" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
+      <jump line="106" column="38" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
+      <jump line="141" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
+      <jump line="130" column="12" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
+      <jump line="127" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
+      <jump line="114" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
+      <jump line="120" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIEJyZWFrIGV4cGlyaW5nIHN1YnNjcmlwdGlvbnMgaW50byBjaHVua3Mgb2YgMTAgaW4gb3JkZXIgdG8gZGlzcGF0Y2ggdGhlbSBpbiBiYXRjaGVzIGludG8gcXVldWUKICAgIC8vIFRPRE86IGJyZWFraW5nIGludG8gY2h1bmtzIHNob3VsZCBiZSBoYW5kbGVkIGluIHNlbmRNZXNzYWdlKCkgZGlyZWN0bHkKICAgIC8vIF9jaHVuayhleHBpcmluZ1N1YnNjcmlwdGlvbnMsIDEwKS5mb3JFYWNoKChzdWJzY3JpcHRpb25zQ2h1bms6IFVzZXJTdWJzY3JpcHRpb25bXSkgPT4gewogICAgLy8gICAgc2VuZE1lc3NhZ2UoCiAgICAvLyAgICAgICAgUXVldWVzLlJlbmV3SU9TU3Vic2NyaXB0aW9ucywKICAgIC8vICAgICAgICBzdWJzY3JpcHRpb25zQ2h1bmsubWFwKChzdWIpID0+ICh7IHJlY2VpcHQ6IHN1Yi5sYXRlc3RSZWNlaXB0IH0pKQogICAgLy8gICAgKTsKICAgIC8vIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcihgJHtzdWJzY3JpcHRpb24ucGxhdGZvcm0gPyB9YCkK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Unknown or missing platform'</text>
       </register>
       <register name="/" type="4">
-        <text>consumer.s</text>
+        <text>limit</text>
       </register>
-      <register name="0" type="4">
-        <text>{ transactionId: purchaseData.origTxId, productId: purchaseData.productId }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJlcS5zZXJ2ZXIubG9nKAogICAgICAgIFsnaW5mbycsICdJT1NTdWJzY3JpcHRpb25NYW5hZ2VyJywgJ3JlbmV3RXhwaXJpbmdTdWJzY3JpcHRpb25zJ10sCiAgICAgICAgYCR7ZXhwaXJpbmdTdWJzY3JpcHRpb25zLmxlbmd0aH0gaU9TIHN1YnNjcmlwdGlvbnMgcmVuZXdhbHMgaGF2ZSBiZWVuIHNlbnQgaW50byBxdWV1ZWAKICAgICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIEJyZWFrIGV4cGlyaW5nIHN1YnNjcmlwdGlvbnMgaW50byBjaHVua3Mgb2YgMTAgaW4gb3JkZXIgdG8gZGlzcGF0Y2ggdGhlbSBpbiBiYXRjaGVzIGludG8gcXVldWUKICAgIC8vIFRPRE86IGJyZWFraW5nIGludG8gY2h1bmtzIHNob3VsZCBiZSBoYW5kbGVkIGluIHNlbmRNZXNzYWdlKCkgZGlyZWN0bHkKICAgIC8vIF9jaHVuayhleHBpcmluZ1N1YnNjcmlwdGlvbnMsIDEwKS5mb3JFYWNoKChzdWJzY3JpcHRpb25zQ2h1bms6IFVzZXJTdWJzY3JpcHRpb25bXSkgPT4gewogICAgLy8gICAgc2VuZE1lc3NhZ2UoCiAgICAvLyAgICAgICAgUXVldWVzLlJlbmV3SU9TU3Vic2NyaXB0aW9ucywKICAgIC8vICAgICAgICBzdWJzY3JpcHRpb25zQ2h1bmsubWFwKChzdWIpID0+ICh7IHJlY2VpcHQ6IHN1Yi5sYXRlc3RSZWNlaXB0IH0pKQogICAgLy8gICAgKTsKICAgIC8vIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcihgJHtzdWJzY3JpcHRpb24ucGxhdGZvcm0gPyB9YCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndXBkYXRpbmcnLHsgdHJhbnNhY3Rpb25JZDogcHVyY2hhc2VEYXRhLm9yaWdUeElkLCBwcm9kdWN0SWQ6IHB1cmNoYXNlRGF0YS5wcm9kdWN0SWQgfSk7Cg==</text>
+        <text encoding="base64">cmVmYWN0b3IocXVldWUpOiBpT1MgcmVuZXdhbCAmIG9uZVNpZ25hbCBoYW5kbGVycyBub3cgd29yayB3LyBhcnJheXM=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgY29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">cmVmYWN0b3IocXVldWUpOiBpT1MgcmVuZXdhbCAmIG9uZVNpZ25hbCBoYW5kbGVycyBub3cgd29yayB3LyBhcnJheXM=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZWNlaXB0JywgcmVjZWlwdCk7CiAgICBjb25zb2xlLmxvZygncGF5bG9hZCcsIHsKICAgICAgICBwYWNrYWdlTmFtZTogcmVjZWlwdC5wYWNrYWdlTmFtZSwKICAgICAgICBwcm9kdWN0SWQ6IHJlY2VpcHQucHJvZHVjdElkLAogICAgICAgIHB1cmNoYXNlVG9rZW46IHJlY2VpcHQucHVyY2hhc2VUb2tlbiwKICAgICAgICBzdWJzY3JpcHRpb246IHRydWUKICAgIH0pOwo=</text>
+        <text encoding="base64">Y29uc3QgQllQQVNTX1FVRVVFID0gZmFsc2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVmYWN0b3IocXVldWUpOiBpT1MgcmVuZXdhbCAmIG9uZVNpZ25hbCBoYW5kbGVycyBub3cgd29yayB3LyBhcnJheXM=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ1JlbmV3ZWQgIScpOwo=</text>
+        <text encoding="base64">cmVmYWN0b3IocXVldWUpOiBpT1MgcmVuZXdhbCAmIG9uZVNpZ25hbCBoYW5kbGVycyBub3cgd29yayB3LyBhcnJheXM=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVmYWN0b3IocXVldWUpOiBpT1MgcmVuZXdhbCAmIG9uZVNpZ25hbCBoYW5kbGVycyBub3cgd29yayB3LyBhcnJheXM=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGltaXQ6IDEwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICB0cmVhdGVkKys7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -317,9 +320,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>consumer.s</last-search>
+      <last-search>limit</last-search>
       <last-offset />
-      <last-pattern>consumer.s</last-pattern>
+      <last-pattern>limit</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

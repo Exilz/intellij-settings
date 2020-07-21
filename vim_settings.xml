@@ -147,12 +147,12 @@
         <mark key="." line="5" column="56" />
         <mark key="^" line="5" column="57" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1595345033561">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="33" />
-        <mark key="." line="27" column="32" />
-        <mark key="^" line="27" column="33" />
+      <file name="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" timestamp="1595346280107">
+        <mark key="'" line="182" column="0" />
+        <mark key="[" line="240" column="52" />
+        <mark key="]" line="240" column="52" />
+        <mark key="." line="240" column="52" />
+        <mark key="^" line="242" column="53" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" timestamp="1595341913448">
         <mark key="'" line="123" column="0" />
@@ -170,18 +170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="30" filename="$USER_HOME$/Development/api.meliorence.com/src/core/queue/index.ts" />
-      <jump line="55" column="14" filename="$USER_HOME$/Development/api.meliorence.com/src/core/queue/index.ts" />
-      <jump line="62" column="72" filename="$USER_HOME$/Development/api.meliorence.com/src/core/queue/index.ts" />
-      <jump line="70" column="8" filename="$USER_HOME$/Development/api.meliorence.com/src/core/queue/index.ts" />
-      <jump line="75" column="8" filename="$USER_HOME$/Development/api.meliorence.com/src/core/queue/index.ts" />
-      <jump line="80" column="8" filename="$USER_HOME$/Development/api.meliorence.com/src/core/queue/index.ts" />
-      <jump line="124" column="83" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/IOSSubscriptionManager.ts" />
-      <jump line="30" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/crons/renewAndroidSubscriptions.ts" />
-      <jump line="23" column="22" filename="$USER_HOME$/Development/api.meliorence.com/src/services/queue/handlers.ts" />
-      <jump line="7" column="75" filename="$USER_HOME$/Development/api.meliorence.com/src/services/queue/handlers.ts" />
-      <jump line="8" column="57" filename="$USER_HOME$/Development/api.meliorence.com/src/services/queue/handlers.ts" />
-      <jump line="116" column="61" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/AndroidSubscriptionManager.ts" />
       <jump line="2" column="46" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/crons/index.ts" />
       <jump line="90" column="39" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/AndroidSubscriptionManager.ts" />
       <jump line="98" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/AndroidSubscriptionManager.ts" />
@@ -259,26 +247,38 @@
       <jump line="114" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
       <jump line="120" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
       <jump line="66" column="23" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="65" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="60" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="54" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="48" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="43" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="37" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="35" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="32" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="28" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="23" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="51" column="67" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="10" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="12" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
       <jump line="17" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="23" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="28" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="32" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="35" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="37" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="43" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="48" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="54" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="60" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="65" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="112" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="116" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="136" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="145" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="160" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="171" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="175" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
+      <jump line="182" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>limit</text>

@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>api</entry>
         <entry>value</entry>
         <entry>inject</entry>
         <entry encoding="base64">XDx0b2tlblw+</entry>
@@ -25,6 +24,7 @@
         <entry>limit</entry>
         <entry>email</entry>
         <entry>@user</entry>
+        <entry>registra</entry>
       </history-search>
       <history-cmd>
         <entry>32</entry>
@@ -73,9 +73,6 @@
         <mark key="." line="3" column="26" />
         <mark key="^" line="3" column="27" />
       </file>
-      <file name="/setting [MySQL - @localhost]" timestamp="1595405858869">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/core/notifications/index.ts" timestamp="1595409210013">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -87,37 +84,13 @@
         <mark key="." line="16" column="58" />
         <mark key="^" line="16" column="59" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/users/post.test.ts" timestamp="1595408579129">
-        <mark key="'" line="15" column="64" />
-        <mark key="[" line="55" column="66" />
-        <mark key="]" line="55" column="80" />
-        <mark key="^" line="55" column="80" />
-        <mark key="." line="55" column="79" />
-      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/core/settings/appConfig.ts" timestamp="1595405363049">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595406259498">
+      <file name="/dev.setting" timestamp="1595409995581">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/dev.setting" timestamp="1595405858902">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/setting staging.json" timestamp="1595405596736">
-        <mark key="[" line="63" column="19" />
-        <mark key="]" line="63" column="24" />
-        <mark key="." line="63" column="23" />
-        <mark key="^" line="63" column="24" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/hooks/user.ts" timestamp="1595409050385">
-        <mark key="[" line="21" column="80" />
-        <mark key="]" line="22" column="4" />
-        <mark key="." line="22" column="3" />
-        <mark key="^" line="22" column="4" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/core/queue/index.ts" timestamp="1595408632266">
         <mark key="'" line="36" column="0" />
@@ -126,23 +99,14 @@
         <mark key="^" line="22" column="22" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/services/queue/handlers.ts" timestamp="1595342426734">
-        <mark key="[" line="31" column="17" />
-        <mark key="]" line="32" column="86" />
-        <mark key="^" line="32" column="86" />
-        <mark key="." line="32" column="85" />
-      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/helpers/setupMocks.ts" timestamp="1595409204279">
-        <mark key="'" line="30" column="0" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="14" column="55" />
       </file>
-      <file name="/foo.bar" timestamp="1595405858915">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1595405354858">
+      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1595409840302">
+        <mark key="'" line="82" column="0" />
         <mark key="[" line="64" column="26" />
         <mark key="]" line="64" column="25" />
         <mark key="." line="64" column="24" />
@@ -155,25 +119,51 @@
         <mark key="." line="240" column="52" />
         <mark key="^" line="242" column="53" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" timestamp="1595341913448">
-        <mark key="'" line="123" column="0" />
-        <mark key="[" line="133" column="40" />
-        <mark key="]" line="133" column="40" />
-        <mark key="." line="133" column="39" />
-        <mark key="^" line="133" column="40" />
+      <file name="/setting [MySQL - @localhost]" timestamp="1595409995558">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/__tests__/functional/controllers/users/post.test.ts" timestamp="1595408579129">
+        <mark key="'" line="15" column="64" />
+        <mark key="[" line="55" column="66" />
+        <mark key="]" line="55" column="80" />
+        <mark key="^" line="55" column="80" />
+        <mark key="." line="55" column="79" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1595410284053">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/setting staging.json" timestamp="1595405596736">
+        <mark key="[" line="63" column="19" />
+        <mark key="]" line="63" column="24" />
+        <mark key="." line="63" column="23" />
+        <mark key="^" line="63" column="24" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/017-appSetting-registration.js" timestamp="1595410265091">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="8" column="62" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/hooks/user.ts" timestamp="1595410567910">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="21" column="80" />
+        <mark key="]" line="22" column="4" />
+        <mark key="." line="22" column="3" />
+        <mark key="^" line="22" column="4" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/bootstrap.ts" timestamp="1595410617084">
+        <mark key="[" line="32" column="49" />
+        <mark key="]" line="32" column="50" />
+        <mark key="^" line="32" column="50" />
+        <mark key="." line="32" column="49" />
+      </file>
+      <file name="/foo.bar" timestamp="1595409995596">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="17" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
-      <jump line="7" column="11" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
-      <jump line="8" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
-      <jump line="38" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
-      <jump line="44" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
-      <jump line="66" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
-      <jump line="72" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
-      <jump line="79" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
-      <jump line="99" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
-      <jump line="115" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" />
       <jump line="39" column="0" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
       <jump line="46" column="0" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
       <jump line="51" column="0" filename="$USER_HOME$/Development/api.meliorence.com/aws/.ebextensions/01_cron.config" />
@@ -264,51 +254,61 @@
       <jump line="2" column="0" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/helpers/setupMocks.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/helpers/setupMocks.ts" />
       <jump line="32" column="0" filename="$USER_HOME$/Development/api.meliorence.com/__tests__/helpers/setupMocks.ts" />
+      <jump line="82" column="0" filename="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" />
+      <jump line="33" column="53" filename="$USER_HOME$/Development/api.meliorence.com/src/hooks/user.ts" />
+      <jump line="27" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/hooks/user.ts" />
+      <jump line="51" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/hooks/user.ts" />
+      <jump line="46" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/hooks/user.ts" />
+      <jump line="26" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/hooks/user.ts" />
+      <jump line="22" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/hooks/user.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/hooks/user.ts" />
+      <jump line="18" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/hooks/user.ts" />
+      <jump line="6" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/hooks/user.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdBcHBzZXR0aW5ncycsIGFwcFNldHRpbmdzWzBdKTsK</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>@user</text>
+        <text>registra</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">amVzdC5tb2NrKCcuLi8uLi9zcmMvZW1pdHRlcnMnLCAoKSA9PiAoewogICAgLi4uamVzdC5yZXF1aXJlQWN0dWFsKCcuLi8uLi9zcmMvZW1pdHRlcnMnKSwKICAgIF9fZXNNb2R1bGU6IHRydWUsCiAgICBnZXRFbWl0dGVyOiBqZXN0LmZuKCgpID0+IG5ldyBFdmVudEVtaXR0ZXIoKSkKfSkpOwo=</text>
+      <register name="0" type="4">
+        <text>appSettings[0][0].appConfig</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdBcHBzZXR0aW5ncycsIGFwcFNldHRpbmdzWzBdKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2ltcG9ydCcsIHF1ZXVlKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdhcHBDb25maWcnLCBhcHBDb25maWcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2FjdHVhbCcsamVzdC5yZXF1aXJlQWN0dWFsKCcuLi8uLi9zcmMvY29yZS9xdWV1ZScpKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCduZXdDb25maWcnLCBuZXdDb25maWcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtzZW5kTm90aWZpY2F0aW9ufSBmcm9tICcuLi8uLi9zcmMvY29yZS9ub3RpZmljYXRpb25zJzsK</text>
+        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcignZmFrZScpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VuZE5vdGlmaWNhdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgLi4uSlNPTi5wYXJzZShhcHBTZXR0aW5nc1swXVswXS5hcHBDb25maWcpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbWFya2V0aW5nOiB7CiAgICAgICAgcmVUYXJnZXRpbmc6IHsKICAgICAgICAgIGRlbGF5OiB7IGFtb3VudDogMTgwLCB1bml0OiAnZGF5cycgfSwKICAgICAgICAgIGRpZG50UmVuZXdBZnRlclRyaWFsOiB7CiAgICAgICAgICAgIGVuYWJsZWQ6IHRydWUsCiAgICAgICAgICAgIGRlbGF5OiB7IGFtb3VudDogMiwgdW5pdDogJ2RheXMnIH0KICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text>test(users): use random email during registration</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text>refactor(appSettings): remove mailChimp.updateAudienceOnUserRegistration</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEVNQUlMID0gJ25ld1VzZXJAdXNlci5pbyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -317,9 +317,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>@user</last-search>
+      <last-search>registra</last-search>
       <last-offset />
-      <last-pattern>@user</last-pattern>
+      <last-pattern>registra</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

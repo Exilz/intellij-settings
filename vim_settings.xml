@@ -68,6 +68,9 @@
         <mark key="." line="3" column="26" />
         <mark key="^" line="3" column="27" />
       </file>
+      <file name="/setting [MySQL - @localhost]" timestamp="1595405858869">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/crons/renewIOSSubscriptions.ts" timestamp="1595340392353">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="42" />
@@ -85,11 +88,6 @@
         <mark key="]" line="16" column="59" />
         <mark key="." line="16" column="58" />
         <mark key="^" line="16" column="59" />
-      </file>
-      <file name="/dummy.sql" timestamp="1595338050250">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/crons/renewAndroidSubscriptions.ts" timestamp="1595340394213">
         <mark key="'" line="31" column="0" />
@@ -120,7 +118,10 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="8" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/setting staging.json" timestamp="1595405411230">
+      <file name="/dev.setting" timestamp="1595405858902">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/setting staging.json" timestamp="1595405596736">
         <mark key="[" line="63" column="19" />
         <mark key="]" line="63" column="24" />
         <mark key="." line="63" column="23" />
@@ -145,10 +146,7 @@
         <mark key="^" line="32" column="86" />
         <mark key="." line="32" column="85" />
       </file>
-      <file name="/dev.user_subscription" timestamp="1595337995713">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/foo.bar" timestamp="1595337995732">
+      <file name="/foo.bar" timestamp="1595405858915">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1595405354858">

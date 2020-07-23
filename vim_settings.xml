@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>delete</entry>
-        <entry encoding="base64">XDxjb25zdW1lclw+</entry>
         <entry>consumer</entry>
         <entry encoding="base64">XDxyZW5ld1N1YnNjcmlwdGlvbkZyb21SZWNlaXB0XD4=</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
@@ -25,6 +23,8 @@
         <entry>Alert</entry>
         <entry>onPress</entry>
         <entry>pass</entry>
+        <entry>delete</entry>
+        <entry encoding="base64">XDxCb29tXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>32</entry>
@@ -62,98 +62,83 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/user_subscription [MySQL - @localhost]" timestamp="1595496166281">
+      <file name="$USER_HOME$/Development/app.nuli/src/views/WorkoutOverview.tsx" timestamp="1595514641019" />
+      <file name="/dev.workout_i18n" timestamp="1595513340667">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/api.ts" timestamp="1595499063117">
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="55" />
-        <mark key="." line="16" column="54" />
-        <mark key="^" line="16" column="55" />
-      </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/005-genflow-users.js" timestamp="1595510681068">
-        <mark key="'" line="16" column="5" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/components/ProgramSelection/ProgramThumbnail.tsx" timestamp="1595509952422">
-        <mark key="[" line="169" column="16" />
-        <mark key="]" line="170" column="35" />
-        <mark key="^" line="170" column="35" />
-        <mark key="." line="170" column="34" />
-      </file>
-      <file name="/user_credentials [MySQL - @localhost]" timestamp="1595498543898">
+      <file name="/dev.program_i18n" timestamp="1595513429675">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" timestamp="1595509834899">
-        <mark key="'" line="804" column="0" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="43" column="0" />
-      </file>
-      <file name="/user [MySQL - @localhost]" timestamp="1595496166280">
+      <file name="/dev.program_week" timestamp="1595513379919">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/program_progression [MySQL - @localhost]" timestamp="1595510300118">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/getCollection.ts" timestamp="1595515801698">
+        <mark key="'" line="91" column="26" />
+        <mark key="[" line="92" column="17" />
+        <mark key="]" line="93" column="16" />
+        <mark key="^" line="93" column="16" />
+        <mark key="." line="93" column="15" />
+      </file>
+      <file name="/dev.program_weeks" timestamp="1595513411342">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dev.user" timestamp="1595496166281">
+      <file name="/dev.program" timestamp="1595513421778">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console" timestamp="1595496166286">
+      <file name="/foo.bar" timestamp="1595513429686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.json" timestamp="1595496169006">
-        <mark key="'" line="95" column="55" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/user.ts" timestamp="1595516108623">
+        <mark key="'" line="72" column="10" />
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="21" />
+        <mark key="^" line="25" column="21" />
+        <mark key="." line="25" column="20" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/buffer3.txt" timestamp="1595509549509">
-        <mark key="e" line="4" column="146" />
-        <mark key="[" line="4" column="157" />
-        <mark key="]" line="4" column="169" />
-        <mark key="." line="4" column="168" />
-        <mark key="^" line="4" column="169" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1595496166285">
+      <file name="/program [MySQL - @localhost]" timestamp="1595513421765">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dev.program_progression" timestamp="1595510300134">
+      <file name="/dev.program_week_items" timestamp="1595513363737">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1595498535301">
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/Development/app.nuli/src/utils/progression.ts" timestamp="1595509995858">
-        <mark key="'" line="560" column="0" />
-        <mark key="[" line="52" column="21" />
-        <mark key="]" line="53" column="38" />
-        <mark key="^" line="53" column="38" />
-        <mark key="." line="53" column="37" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/252e5c1f-189a-4e5c-86d1-2566f707d91f/console.sql" timestamp="1595494308765">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/dev.user_subscription" timestamp="1595496166282">
+      <file name="/program_weeks [MySQL - @localhost]" timestamp="1595513411327">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1595510300145">
+      <file name="/workout_i18n [MySQL - @localhost]" timestamp="1595513340638">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dev.user_credentials" timestamp="1595498543914">
+      <file name="$USER_HOME$/Development/api.meliorence.com/seeders/20190810103780-setting.js" timestamp="1595514742447">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="60" column="26" />
+        <mark key="]" line="60" column="25" />
+        <mark key="." line="60" column="24" />
+        <mark key="^" line="60" column="25" />
+      </file>
+      <file name="/program_week [MySQL - @localhost]" timestamp="1595513379906">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/collages/index.ts" timestamp="1595515852557" />
+      <file name="/program_week_items [MySQL - @localhost]" timestamp="1595513363726">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/get.ts" timestamp="1595515990500">
+        <mark key="'" line="148" column="22" />
+        <mark key="[" line="46" column="9" />
+        <mark key="]" line="43" column="60" />
+        <mark key="^" line="43" column="60" />
+        <mark key="." line="43" column="59" />
+      </file>
+      <file name="/program_i18n [MySQL - @localhost]" timestamp="1595513429664">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/index.ts" timestamp="1595515573778">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="20" column="35" />
+        <mark key="." line="24" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="6" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
-      <jump line="48" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
-      <jump line="37" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
-      <jump line="7" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
-      <jump line="4" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
-      <jump line="102" column="31" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/IOSSubscriptionManager.ts" />
-      <jump line="81" column="39" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/IOSSubscriptionManager.ts" />
-      <jump line="107" column="24" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/AndroidSubscriptionManager.ts" />
       <jump line="109" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/AndroidSubscriptionManager.ts" />
       <jump line="114" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/AndroidSubscriptionManager.ts" />
       <jump line="134" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/AndroidSubscriptionManager.ts" />
@@ -246,51 +231,95 @@
       <jump line="807" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
       <jump line="804" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
       <jump line="16" column="5" filename="$USER_HOME$/Development/api.meliorence.com/migrations/005-genflow-users.js" />
+      <jump line="12" column="6" filename="$USER_HOME$/Development/api.meliorence.com/src/repositories/weekProgression.ts" />
+      <jump line="111" column="22" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/getCollection.ts" />
+      <jump line="0" column="7" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/getCollection.ts" />
+      <jump line="21" column="62" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/getCollection.ts" />
+      <jump line="91" column="26" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/base/getCollection.ts" />
+      <jump line="40" column="22" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/get.ts" />
+      <jump line="149" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/get.ts" />
+      <jump line="148" column="22" filename="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/get.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>firstName</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>firstName</text>
       </register>
       <register name="/" type="4">
-        <text>pass</text>
+        <text encoding="base64">XDxCb29tXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TVlTUUxfUFdEPVFBMFZWeHZHSEtxY1p5NU00RU5sIG15c3FsZHVtcCAtLXNpbmdsZS10cmFuc2FjdGlvbiAtdSByZWFkdXNlciAtaCBudWxpLXByb2R1Y3Rpb24uY2o0c3VydXF2NHAyLmFwLWVhc3QtMS5yZHMuYW1hem9uYXdzLmNvbSAtLXBvcnQgMzMwNiBzZXRfaGlzdG9yeSBwcm9ncmFtX3Byb2dyZXNzaW9uIC0td2hlcmUgInVzZXJJZD0nMDhkM2M2MDktMjJjYi00MDViLWEyZjktODA3YzMzNDc1NmZjJyIgPj4gcHJvZ3Jlc3Npb24uc3FsCg==</text>
+        <text encoding="base64">ICAgICAgICB7IGtleTogJ2ZpcnN0TmFtZScsIHR5cGU6ICdsaWtlJywgbW9kZWw6IFVzZXIgfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VMRUNUIHVzZXJJZCBGUk9NIHVzZXJfc3Vic2NyaXB0aW9uIElOTkVSIEpPSU4gdXNlciB1IG9uIHVzZXJfc3Vic2NyaXB0aW9uLnVzZXJJZCA9IHUuaWQgR1JPVVAgQlkgdXNlcklkOwoKU0VMRUNUIENPVU5UKCopIEZST00gdXNlcl9zdWJzY3JpcHRpb24gR1JPVVAgQlkgdXNlcklkOwo=</text>
+        <text encoding="base64">aW1wb3J0IENvbGxhZ2VSZXBvIGZyb20gJ0AvcmVwb3NpdG9yaWVzL2NvbGxhZ2UnOwppbXBvcnQgQ29sbGFnZSBmcm9tICdAL21vZGVscy9jb2xsYWdlJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>feat(migrations): add googlePrivateKey in inAppPurchase</text>
+        <text encoding="base64">W107IGltcG9ydCB7VFVzZXJSb2xlc30gZnJvbSAnQC9tb2RlbHMnICsKW107IGltcG9ydCB7VFVzZXJSb2xlc30gZnJvbSAnQC9tb2RlbHMnICsKW107IGltcG9ydCB7VFVzZXJSb2xlc30gZnJvbSAnQC9tb2RlbHMnICsKW107IGltcG9ydCB7VFVzZXJSb2xlc30gZnJvbSAnQC9tb2RlbHMnICsKW107IGltcG9ydCB7VFVzZXJSb2xlc30gZnJvbSAnQC9tb2RlbHMnICsKW107IGltcG9ydCB7VFVzZXJSb2xlc30gZnJvbSAnQC9tb2RlbHMnICsKW107IGltcG9ydCB7VFVzZXJSb2xlc30gZnJvbSAnQC9tb2RlbHMnICsKW107IGltcG9ydCB7VFVzZXJSb2xlc30gZnJvbSAnQC9tb2RlbHMnICsKW107IGltcG9ydCB7VFVzZXJSb2xlc30gZnJvbSAnQC9tb2RlbHMnICsKW107IGltcG9ydCB7VFVzZXJSb2xlc30gZnJvbSAnQC9tb2RlbHMnICsKW107IGltcG9ydCB7VFVzZXJSb2xlc30gZnJvbSAnQC9tb2RlbHMnICsKW107IGltcG9ydCB7VFVzZXJSb2xlc30gZnJvbSAnQC9tb2RlbHMnICsKW107IGltcG9ydCB7VFVzZXJSb2xlc30gZnJvbSAnQC9tb2RlbHMnICsKW107IGltcG9ydCB7VFVzZXJSb2xlc30gZnJvbSAnQC9tb2RlbHMnICsKW107IGltcG9ydCB7VFVzZXJSb2xlc30gZnJvbSAnQC9tb2RlbHMnICsKW107IGltcG9ydCB7VFVzZXJSb2xlc30gZnJvbSAnQC9tb2RlbHMvdXNlcic7ICAgICdhdXRob3JpemVkUm9sZXM/OiBUVXNlclJvbGVzL3VzZXInOyAgICAnYXV0aG9yaXplZFJvbGVzPzogVFVzZXJSb2xlcy91c2VyJzsgICAgJ2F1dGhvcml6ZWRSb2xlcz86IFRVc2VyUm9sZXMvdXNlcic7ICAgICdhdXRob3JpemVkUm9sZXM/OiBUVXNlclJvbGVzL3VzZXInOyAgICAnYXV0aG9yaXplZFJvbGVzPzogVFVzZXJSb2xlcy91c2VyJzsgICAgJ2F1dGhvcml6ZWRSb2xlcz86IFRVc2VyUm9sZXMvdXNlcic7ICAgICdhdXRob3JpemVkUm9sZXM/OiBUVXNlclJvbGVzL3VzZXInOyAgICAnYXV0aG9yaXplZFJvbGVzPzogVFVzZXJSb2xlcy91c2VyJzsgICAgJ2F1dGhvcml6ZWRSb2xlcz86IFRVc2VyUm9sZXMvdXNlcic7ICAgICdhdXRob3JpemVkUm9sZXM/OiBUVXNlclJvbGVzL3VzZXInOyAgICAnYXV0aG9yaXplZFJvbGVzPzogVFVzZXJSb2xlcy91c2VyJzsgICAgJ2F1dGhvcml6ZWRSb2xlcz86IFRVc2VyUm9sZXMvdXNlcic7ICAgICdhdXRob3JpemVkUm9sZXM/OiBUVXNlclJvbGVzL3VzZXInOyAgICAnYXV0aG9yaXplZFJvbGVzPzogVFVzZXJSb2xlcy91c2VyJzsgICAgJ2F1dGhvcml6ZWRSb2xlcz86IFRVc2VyUm9sZXMvdXNlcic7YXV0aG9yaXplZFJvbGVzPzogVFVzZXJSb2xlc3sK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7IHN0YXJ0OiBmb3JtYXREYXRlRm9yREIobW9tZW50KCkuc3VidHJhY3QoYmV0d2VlbkRheXMsICdkYXlzJykpLAogICAgICAgICAgICBlbmQ6IGZvcm1hdERhdGVGb3JEQihtb21lbnQoKS5hZGQoYmV0d2VlbkRheXMsICdkYXlzJykpCiAgICAgICAgfSk7Cg==</text>
+      <register name="3" type="8">
+        <text>);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);
+);</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVXNlclN1YnNjcmlwdGlvbi51cHNlcnQoCiAgICAgICAgICAgIGRhdGEsCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHdoZXJlOiB7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICApOwo=</text>
+      <register name="4" type="8">
+        <text>INSERT INTO dev.workout_history (workoutId) VALUES (
+INSERT INTO dev.workout_history (workoutId) VALUES (
+INSERT INTO dev.workout_history (workoutId) VALUES (
+INSERT INTO dev.workout_history (workoutId) VALUES (
+INSERT INTO dev.workout_history (workoutId) VALUES (
+INSERT INTO dev.workout_history (workoutId) VALUES (
+INSERT INTO dev.workout_history (workoutId) VALUES (
+INSERT INTO dev.workout_history (workoutId) VALUES (
+INSERT INTO dev.workout_history (workoutId) VALUES (
+INSERT INTO dev.workout_history (workoutId) VALUES (
+INSERT INTO dev.workout_history (workoutId) VALUES (
+INSERT INTO dev.workout_history (workoutId) VALUES (
+INSERT INTO dev.workout_history (workoutId) VALUES (
+INSERT INTO dev.workout_history (workoutId) VALUES (
+INSERT INTO dev.workout_history (workoutId) VALUES (
+INSERT INTO dev.workout_history (workoutId) VALUES (
+INSERT INTO dev.workout_history (workoutId) VALUES (
+INSERT INTO dev.workout_history (workoutId) VALUES (
+INSERT INTO dev.workout_history (workoutId) VALUES (</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">U0VMRUNUIHVzZXJJZCBGUk9NIHVzZXJfc3Vic2NyaXB0aW9uIElOTkVSIEpPSU4gdXNlciB1IG9uIHVzZXJfc3Vic2NyaXB0aW9uLnVzZXJJZCA9IHUuaWQgR1JPVVAgQlkgdXNlcklkOwoKU0VMRUNUIENPVU5UKCopIEZST00gdXNlcl9zdWJzY3JpcHRpb24gR1JPVVAgQlkgdXNlcklkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZXNwb25zZScsIHZhbGlkYXRpb25SZXNwb25zZSk7Cg==</text>
+        <text>feat(migrations): add googlePrivateKey in inAppPurchase</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNsZS5sb2coJycpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7IHN0YXJ0OiBmb3JtYXREYXRlRm9yREIobW9tZW50KCkuc3VidHJhY3QoYmV0d2VlbkRheXMsICdkYXlzJykpLAogICAgICAgICAgICBlbmQ6IGZvcm1hdERhdGVGb3JEQihtb21lbnQoKS5hZGQoYmV0d2VlbkRheXMsICdkYXlzJykpCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVXNlclN1YnNjcmlwdGlvbi51cHNlcnQoCiAgICAgICAgICAgIGRhdGEsCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHdoZXJlOiB7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICApOwo=</text>
       </register>
       <register name="9" type="2">
-        <text>test(tutorials): add getBySlug test</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -299,9 +328,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>pass</last-search>
+      <last-search encoding="base64">XDxCb29tXD4=</last-search>
       <last-offset />
-      <last-pattern>pass</last-pattern>
+      <last-pattern encoding="base64">XDxCb29tXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

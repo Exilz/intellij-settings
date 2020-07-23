@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxpZFw+</entry>
         <entry>mapState</entry>
         <entry>Alert</entry>
         <entry>oneis</entry>
@@ -25,6 +24,7 @@
         <entry>google</entry>
         <entry>getApp</entry>
         <entry encoding="base64">XDx1c2VyUHJvZmlsZVw+</entry>
+        <entry encoding="base64">XDx1cGRhdGVGcm9tUHVyY2hhc2VEYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>32</entry>
@@ -62,35 +62,29 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/fragment.js" timestamp="1595493593710">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/user_subscription [MySQL - @localhost]" timestamp="1595491534778">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/IOSSubscriptionManager.ts" timestamp="1595492588484">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="0" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/IOSSubscriptionManager.ts" timestamp="1595493755571">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="112" column="0" />
         <mark key="." line="97" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.json" timestamp="1595420905727">
-        <mark key="'" line="108" column="1" />
-      </file>
-      <file name="/dev.setting" timestamp="1595420896210">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="/user [MySQL - @localhost]" timestamp="1595491526312">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/core/queue/index.ts" timestamp="1595492367264">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="17" column="21" />
-        <mark key="]" line="17" column="27" />
-        <mark key="^" line="17" column="27" />
-        <mark key="." line="17" column="26" />
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="27" />
+        <mark key="^" line="16" column="27" />
+        <mark key="." line="16" column="26" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/services/queue/handlers.ts" timestamp="1595492490517">
         <mark key="[" line="22" column="51" />
-        <mark key="]" line="23" column="58" />
-        <mark key="^" line="23" column="58" />
-        <mark key="." line="23" column="57" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/index.ts" timestamp="1595434142978">
         <mark key="'" line="48" column="0" />
@@ -98,11 +92,11 @@
       <file name="/dev.user" timestamp="1595491526329">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1595492492305">
+      <file name="/JavaScript Console" timestamp="1595494073309">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1595491960338">
-        <mark key="[" line="0" column="8" />
+      <file name="/dummy.sql" timestamp="1595493569133">
+        <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
@@ -113,6 +107,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/AndroidSubscriptionManager.ts" timestamp="1595493782165">
+        <mark key="'" line="134" column="0" />
+        <mark key="[" line="124" column="43" />
+        <mark key="]" line="124" column="79" />
+        <mark key="." line="124" column="78" />
+        <mark key="^" line="124" column="79" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/controllers/users/get.ts" timestamp="1595434076032">
         <mark key="'" line="7" column="0" />
@@ -130,12 +131,12 @@
       <file name="/foo.bar" timestamp="1595491534804">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" timestamp="1595492764738">
+      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" timestamp="1595494036636">
         <mark key="'" line="123" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="8" />
-        <mark key="." line="49" column="8" />
-        <mark key="^" line="49" column="12" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+        <mark key="^" line="125" column="16" />
       </file>
       <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/user.ts" timestamp="1595433612966">
         <mark key="'" line="69" column="10" />
@@ -149,17 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="60" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="65" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="112" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="116" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="136" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="145" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="160" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="171" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="175" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
-      <jump line="182" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/payment.ts" />
       <jump line="17" column="21" filename="$USER_HOME$/Development/app.nuli/src/utils/oneSignal.ts" />
       <jump line="212" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/oneSignal.ts" />
       <jump line="193" column="0" filename="$USER_HOME$/Development/app.nuli/src/utils/oneSignal.ts" />
@@ -249,51 +239,62 @@
       <jump line="37" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
       <jump line="7" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
       <jump line="4" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
+      <jump line="102" column="31" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/IOSSubscriptionManager.ts" />
+      <jump line="81" column="39" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/IOSSubscriptionManager.ts" />
+      <jump line="107" column="24" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/AndroidSubscriptionManager.ts" />
+      <jump line="109" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/AndroidSubscriptionManager.ts" />
+      <jump line="114" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/AndroidSubscriptionManager.ts" />
+      <jump line="134" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/AndroidSubscriptionManager.ts" />
+      <jump line="87" column="67" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/IOSSubscriptionManager.ts" />
+      <jump line="93" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/IOSSubscriptionManager.ts" />
+      <jump line="97" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/IOSSubscriptionManager.ts" />
+      <jump line="104" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/IOSSubscriptionManager.ts" />
+      <jump line="126" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/subscriptions/IOSSubscriptionManager.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>this.formatSubscriptionFromPurchase(purchaseData)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7IHN0YXJ0OiBmb3JtYXREYXRlRm9yREIobW9tZW50KCkuc3VidHJhY3QoYmV0d2VlbkRheXMsICdkYXlzJykpLAogICAgICAgICAgICBlbmQ6IGZvcm1hdERhdGVGb3JEQihtb21lbnQoKS5hZGQoYmV0d2VlbkRheXMsICdkYXlzJykpCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>this.formatSubscriptionFromPurchase(purchaseData)</text>
+        <text>8c4e6c9c-4f11-4f0c-969d-c3498f8488a4</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VyUHJvZmlsZVw+</text>
+        <text encoding="base64">XDx1cGRhdGVGcm9tUHVyY2hhc2VEYXRhXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>this.formatSubscriptionFromPurchase(purchaseData)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHVzZXJJZHMgPSBleHBpcmluZ1N1YnNjcmlwdGlvbnMubWFwKChzdWIpID0+IHN1Yi51c2VySWQpOwogICAgY29uc29sZS5sb2coJ0lOIElUPycsIHVzZXJJZHMuaW5kZXhPZignOGM0ZTZjOWMtNGYxMS00ZjBjLTk2OWQtYzM0OThmODQ4OGE0JykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZXNwb25zZScsIHZhbGlkYXRpb25SZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh7IHN0YXJ0OiBmb3JtYXREYXRlRm9yREIobW9tZW50KCkuc3VidHJhY3QoYmV0d2VlbkRheXMsICdkYXlzJykpLAogICAgICAgICAgICBlbmQ6IGZvcm1hdERhdGVGb3JEQihtb21lbnQoKS5hZGQoYmV0d2VlbkRheXMsICdkYXlzJykpCiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNsZS5sb2coJycpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVXNlclN1YnNjcmlwdGlvbi51cHNlcnQoCiAgICAgICAgICAgIGRhdGEsCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHdoZXJlOiB7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text>test(tutorials): add getBySlug test</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZXNwb25zZScsIHZhbGlkYXRpb25SZXNwb25zZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbm90aWZpY2F0aW9uczogewogICAgICAgLi4uYXBwQ29uZmlnLm5vdGlmaWNhdGlvbnMsCiAgICAgICByZWdpc3RyYXRpb246IHsKICAgICAgICAgZW5hYmxlZDogZmFsc2UKICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnNsZS5sb2coJycpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z2V0QWNjZXNzVG9rZW5Gb3JBUEkoKQp2ZXJpZnlVc2VyVG9rZW4oKQoK</text>
+        <text>test(tutorials): add getBySlug test</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZlcmlmeUZhY2Vib29rQ3JlZGVudGlhbHM6IGplc3QuZm4oYXN5bmMgKCkgPT4gVXNlci5maW5kT25lKHsgd2hlcmU6IHsgZW1haWw6ICd1c2VyMUB1c2VyLmlvJyB9IH0pKQo=</text>
+        <text encoding="base64">ICAgICAgbm90aWZpY2F0aW9uczogewogICAgICAgLi4uYXBwQ29uZmlnLm5vdGlmaWNhdGlvbnMsCiAgICAgICByZWdpc3RyYXRpb246IHsKICAgICAgICAgZW5hYmxlZDogZmFsc2UKICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlQWNjZXNzVG9rZW4gfSBmcm9tICcuLi8uLi8uLi8uLi9zcmMvc2VydmljZXMvand0JzsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -302,9 +303,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx1c2VyUHJvZmlsZVw+</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVGcm9tUHVyY2hhc2VEYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VyUHJvZmlsZVw+</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVGcm9tUHVyY2hhc2VEYXRhXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

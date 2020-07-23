@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>DELETE</entry>
         <entry>delete</entry>
         <entry encoding="base64">XDxjb25zdW1lclw+</entry>
         <entry>consumer</entry>
@@ -25,6 +24,7 @@
         <entry>passw</entry>
         <entry>Alert</entry>
         <entry>onPress</entry>
+        <entry>pass</entry>
       </history-search>
       <history-cmd>
         <entry>32</entry>
@@ -71,8 +71,8 @@
         <mark key="." line="16" column="54" />
         <mark key="^" line="16" column="55" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/005-genflow-users.js" timestamp="1595498557165">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Development/api.meliorence.com/migrations/005-genflow-users.js" timestamp="1595510681068">
+        <mark key="'" line="16" column="5" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/components/ProgramSelection/ProgramThumbnail.tsx" timestamp="1595509952422">
         <mark key="[" line="169" column="16" />
@@ -91,6 +91,9 @@
         <mark key="^" line="43" column="0" />
       </file>
       <file name="/user [MySQL - @localhost]" timestamp="1595496166280">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/program_progression [MySQL - @localhost]" timestamp="1595510300118">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dev.user" timestamp="1595496166281">
@@ -112,15 +115,13 @@
       <file name="/JavaScript Console" timestamp="1595496166285">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/dev.program_progression" timestamp="1595510300134">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/dummy.sql" timestamp="1595498535301">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1595494115616">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Development/app.nuli/src/utils/progression.ts" timestamp="1595509995858">
         <mark key="'" line="560" column="0" />
@@ -137,22 +138,14 @@
       <file name="/dev.user_subscription" timestamp="1595496166282">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1595498543927">
+      <file name="/foo.bar" timestamp="1595510300145">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dev.user_credentials" timestamp="1595498543914">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Development/api.meliorence.com/src/repositories/userSubscription.ts" timestamp="1595494219324">
-        <mark key="'" line="123" column="0" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="125" column="16" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="16" filename="$USER_HOME$/Development/app.nuli/src/store/modules/userProfile.ts" />
       <jump line="52" column="6" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
       <jump line="48" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
       <jump line="37" column="0" filename="$USER_HOME$/Development/api.meliorence.com/src/core/payment/inAppPurchase.ts" />
@@ -252,6 +245,7 @@
       <jump line="820" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
       <jump line="807" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
       <jump line="804" column="0" filename="$USER_HOME$/Development/app.nuli/src/views/ProgramSelection.tsx" />
+      <jump line="16" column="5" filename="$USER_HOME$/Development/api.meliorence.com/migrations/005-genflow-users.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -263,7 +257,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>onPress</text>
+        <text>pass</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">TVlTUUxfUFdEPVFBMFZWeHZHSEtxY1p5NU00RU5sIG15c3FsZHVtcCAtLXNpbmdsZS10cmFuc2FjdGlvbiAtdSByZWFkdXNlciAtaCBudWxpLXByb2R1Y3Rpb24uY2o0c3VydXF2NHAyLmFwLWVhc3QtMS5yZHMuYW1hem9uYXdzLmNvbSAtLXBvcnQgMzMwNiBzZXRfaGlzdG9yeSBwcm9ncmFtX3Byb2dyZXNzaW9uIC0td2hlcmUgInVzZXJJZD0nMDhkM2M2MDktMjJjYi00MDViLWEyZjktODA3YzMzNDc1NmZjJyIgPj4gcHJvZ3Jlc3Npb24uc3FsCg==</text>
@@ -305,9 +299,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>onPress</last-search>
+      <last-search>pass</last-search>
       <last-offset />
-      <last-pattern>onPress</last-pattern>
+      <last-pattern>pass</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

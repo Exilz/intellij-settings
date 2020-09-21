@@ -1,15 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern=".prettierc" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="Podfile" type="Ruby" />
-      <mapping pattern="Fastfile" type="Ruby" />
-      <mapping pattern="Appfile" type="Ruby" />
-      <mapping pattern="Matchfile" type="Ruby" />
       <mapping pattern="01_cron.config" type="YAML" />
+      <mapping pattern="Appfile" type="Ruby" />
+      <mapping pattern="Fastfile" type="Ruby" />
+      <mapping pattern="Matchfile" type="Ruby" />
+      <mapping pattern="Podfile" type="Ruby" />
     </extensionMap>
   </component>
 </application>

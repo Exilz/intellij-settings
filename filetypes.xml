@@ -7,6 +7,7 @@
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern=".prettierc" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
+      <mapping ext="xcuserstate" type="PLAIN_TEXT" />
       <mapping pattern="01_cron.config" type="YAML" />
       <mapping pattern="Appfile" type="Ruby" />
       <mapping pattern="Fastfile" type="Ruby" />

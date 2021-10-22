@@ -12,6 +12,7 @@
       <mapping pattern=".buildpacks" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
       <mapping ext="xcuserstate" type="PLAIN_TEXT" />
       <mapping pattern="Appfile" type="Ruby" />
       <mapping pattern="Podfile" type="Ruby" />

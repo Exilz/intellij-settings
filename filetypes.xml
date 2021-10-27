@@ -14,15 +14,15 @@
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
       <mapping ext="xcuserstate" type="PLAIN_TEXT" />
-      <mapping pattern="Appfile" type="Ruby" />
-      <mapping pattern="Podfile" type="Ruby" />
-      <mapping pattern="Matchfile" type="Ruby" />
-      <mapping pattern="Fastfile" type="Ruby" />
       <mapping pattern="01_cron.config" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="gql" approved="true" type="Graql" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <mapping pattern="Appfile" type="Ruby" />
+      <mapping pattern="Fastfile" type="Ruby" />
+      <mapping pattern="Matchfile" type="Ruby" />
+      <mapping pattern="Podfile" type="Ruby" />
     </extensionMap>
   </component>
 </application>

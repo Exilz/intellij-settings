@@ -1,0 +1,13 @@
+<templateSet group="user">
+  <template name="rfc" value="import React, { FC } from 'react';&#10;&#10;interface Props {&#10;&#10;}&#10;&#10;const $VARIABLE_1$: FC&lt;Props&gt; = () =&gt; {&#10;    return (&#10;        &#10;    );&#10;};&#10;&#10;export default $VARIABLE_1$;&#10;" description="React typescript functional component" toReformat="false" toShortenFQNames="true">
+    <variable name="VARIABLE_1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="rnss" value="import { StyleSheet } from 'react-native';&#10;&#10;export default StyleSheet.create({&#10;    &#10;});" description="React native stylesheet" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

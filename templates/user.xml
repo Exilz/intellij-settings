@@ -10,7 +10,15 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="nesthandler" value="import { IQueryHandler, QueryHandler } from '@nestjs/cqrs';&#10;&#10;@QueryHandler($VARIABLE_1$)&#10;export class $VARIABLE_2$&#10;    implements IQueryHandler&lt;$VARIABLE_1$&gt;&#10;{&#10;    constructor() {}&#10;&#10;    async execute(command: $VARIABLE_1$): Promise&lt;$VARIABLE_3$&gt; {&#10;        &#10;    }&#10;}&#10;" description="Nest CQRS Handler" toReformat="false" toShortenFQNames="true">
+  <template name="nestqueryhandler" value="import { IQueryHandler, QueryHandler } from '@nestjs/cqrs';&#10;&#10;@QueryHandler($VARIABLE_1$)&#10;export class $VARIABLE_2$&#10;    implements IQueryHandler&lt;$VARIABLE_1$&gt;&#10;{&#10;    constructor() {}&#10;&#10;    async execute(command: $VARIABLE_1$): Promise&lt;$VARIABLE_3$&gt; {&#10;        &#10;    }&#10;}&#10;" description="Nest CQRS Handler" toReformat="false" toShortenFQNames="true">
+    <variable name="VARIABLE_1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VARIABLE_2" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VARIABLE_3" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="nestcommandhandler" value="import { IQueryHandler, CommandHandler } from '@nestjs/cqrs';&#10;&#10;@CommandHandler($VARIABLE_1$)&#10;export class $VARIABLE_2$&#10;    implements IQueryHandler&lt;$VARIABLE_1$&gt;&#10;{&#10;    constructor() {}&#10;&#10;    async execute(command: $VARIABLE_1$): Promise&lt;$VARIABLE_3$&gt; {&#10;        &#10;    }&#10;}&#10;" description="Nest CQRS Handler" toReformat="false" toShortenFQNames="true">
     <variable name="VARIABLE_1" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VARIABLE_2" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VARIABLE_3" expression="" defaultValue="" alwaysStopAt="true" />

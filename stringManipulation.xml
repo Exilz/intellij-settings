@@ -2,8 +2,17 @@
   <component name="StringManipulationState">
     <option name="lastAction">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.sort.SortAction" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.sort.tokens.SortTokensAction" />
       </UniversalActionModel>
+    </option>
+    <option name="sortTokensModel">
+      <SortTokensModel>
+        <option name="separators">
+          <list>
+            <option value=";" />
+          </list>
+        </option>
+      </SortTokensModel>
     </option>
     <option name="version" value="2" />
   </component>

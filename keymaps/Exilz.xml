@@ -53,6 +53,7 @@
   </action>
   <action id="EditorCreateRectangularSelectionOnMouseDrag">
     <mouse-shortcut keystroke="button2" />
+    <mouse-shortcut keystroke="shift alt button1" />
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="meta j" />

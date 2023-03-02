@@ -10,7 +10,6 @@
     <option name="SHOW_INSPECTION_WIDGET" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="SHOW_BREADCRUMBS" value="false" />
-    <option name="IS_BLOCK_CURSOR" value="true" />
   </component>
   <component name="LiveEditOptions" chromeUpdateJSOnChanges="true" nodeUpdateOnChanges="true" restartIfHotSwapFailed="true" updateFilesToCompile="true" />
   <component name="TodoConfiguration">
